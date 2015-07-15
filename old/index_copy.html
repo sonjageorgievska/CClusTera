@@ -1,0 +1,55 @@
+﻿<html>
+  <head>
+    <style>
+    #graph {
+      width: 500px;
+      height: 500px;
+      border: 1px solid grey;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="graph" onclick="ziggo()"></div>
+
+    <script src="dist/graphosaurus.min.js"></script>
+    <script>
+      var graph = G.graph()
+
+	  // Create a red node with cartesian coordinates x=0, y=0, z=0
+	  var redNode = G.node([0, 0, 0], {color: "red"});
+	  graph.addNode(redNode);
+	  
+	  // You can also use the addTo method to add to the graph
+	  var greenNode = G.node([1, 1, 1], {color: "green"}).addTo(graph);
+	  
+	  var edge = G.edge([redNode, greenNode], {color: "blue"});
+	  graph.addEdge(edge);  // or edge.addTo(graph)
+	  
+	  // Render the graph in the HTML element with id='graph'
+	  graph.renderIn("graph");
+	  	  
+	  function ziggo() {
+	  
+		  var graph = G.graph()
+	
+		  // Create a red node with cartesian coordinates x=0, y=0, z=0
+		  var redNode = G.node([0, 0, 0], {color: "red"});
+		  graph.addNode(redNode);
+		  
+		  // You can also use the addTo method to add to the graph
+		  var greenNode = G.node([1, 1, 1], {color: "green"}).addTo(graph);
+		  
+		  var edge = G.edge([redNode, greenNode], {color: "blue"});
+		  graph.addEdge(edge);  // or edge.addTo(graph)
+	  
+			var blueNode = G.node([2, 2, 2], {color: "blue"});
+			graph.addNode(blueNode);
+			
+			var blueedge = G.edge([redNode, blueNode], {color: "red"});
+			graph.addEdge(blueedge);  // or edge.addTo(graph)
+			
+			graph.renderIn("graph");
+	  }
+    </script>
+  </body>
+</html>

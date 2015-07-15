@@ -1,0 +1,107 @@
+﻿<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Graphosaurus demo: Eve Online Map</title>
+  <style>
+    #frame {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 0;
+    }
+
+    #label {
+      position: absolute;
+      top: 15;
+      left: 15;
+      z-index: 1;
+      color: white;
+      font-family: sans-serif;
+    }
+
+    #title {
+      position: absolute;
+      top: 15;
+      right: 15;
+      z-index: 1;
+      color: white;
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+<div id="frame"></div>
+
+<div id="label"></div>
+<div id="title">Eve Online Universe</div>
+
+<script src="dist/graphosaurus.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="examples/eve-universe/eve-data.js"></script>
+<script>
+var securityColor = function (security) {
+  var color;
+  security = Math.floor(security * 10 / 2);
+
+  switch (security) {
+    case -5: color = 0xf00000; break;
+    case -4: color = 0xd73000; break;
+    case -3: color = 0xf04800; break;
+    case -2: color = 0xf06000; break;
+    case -1: color = 0xd77700; break;
+    case -0: color = 0xefef00; break;
+    case  1: color = 0x8fef2f; break;
+    case  2: color = 0x00f000; break;
+    case  3: color = 0x00ef47; break;
+    case  4: color = 0x48f0c0; break;
+    case  5: color = 0x2fefef; break;
+    default: color = 0xffffff;
+  }
+
+  return color;
+};
+
+graph = G.graph({
+  bgColor: "black",
+  edgeWidth: 1.5,
+  nodeSize: 6,
+  hover: function (node) { $("#label").text("Solar system: " + node.name); },
+  click: function (node) {
+      $("#label").text("My system: " + node.name);
+      ziggo();
+  }
+});
+
+var redNode = G.node([0, 0, 0], { color: "red" });
+graph.addNode(redNode);
+// You can also use the addTo method to add to the graph 
+var greenNode = G.node([1, 0, 0], { color: "green" }).addTo(graph);
+var edge = G.edge([redNode, greenNode], { color: "white" });
+graph.addEdge(edge); // or edge.addTo(graph)
+
+
+graph.renderIn('frame');
+
+var i = 0;
+function ziggo() {
+    i++;
+    // Create a red node with cartesian coordinates x=0, y=0, z=0
+    var redNode = G.node([0 , i, 0], { color: "red" });
+    graph.addNode(redNode);
+
+    // You can also use the addTo method to add to the graph
+    var greenNode = G.node([1 , i, 0], { color: "green" }).addTo(graph);
+
+    var edge = G.edge([redNode, greenNode], { color: "blue" });
+    graph.addEdge(edge);  // or edge.addTo(graph)
+
+    
+    graph.renderIn('frame');
+}
+
+</script>
+</body>
+</html>
