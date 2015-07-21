@@ -107,5 +107,7 @@ module.exports = (function () {
         return this;
     };
 
+   
+
     return Node;
 }());

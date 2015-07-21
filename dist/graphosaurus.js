@@ -102,7 +102,7 @@ function Trackball( object, domElement ) {
 	this.domElement = ( domElement !== undefined ) ? domElement : document;
 
 	// API
-
+   
 	this.enabled = true;
 
 	this.screen = { left: 0, top: 0, width: 0, height: 0 };
@@ -112,7 +112,7 @@ function Trackball( object, domElement ) {
 	this.panSpeed = 0.3;
 
 	this.noRotate = false;
-	this.noZoom = false;
+	this.noZoom = true;
 	this.noPan = false;
 	this.noRoll = false;
 
@@ -242,7 +242,19 @@ function Trackball( object, domElement ) {
 
 			}
 
+
+		  
+            
+			pointsSet.computeBoundingSphere();
+			var sphere = pointsSet.boundingSphere;
+			
+			_this.target = sphere.center.clone();
+		 
+		   // _this.target = new THREE.Vector3();
+
 			_eye.copy( _this.object.position ).sub( _this.target );
+
+			
 
 			projection.copy( _this.object.up ).setLength( mouseOnBall.y );
 			projection.add( objectUp.copy( _this.object.up ).cross( _eye ).setLength( mouseOnBall.x ) );
@@ -255,7 +267,7 @@ function Trackball( object, domElement ) {
 
 	this.rotateCamera = (function(){
 
-		var axis = new THREE.Vector3(),
+	    var axis = new THREE.Vector3(),
 			quaternion = new THREE.Quaternion();
 
 
@@ -266,6 +278,8 @@ function Trackball( object, domElement ) {
 			if ( angle ) {
 
 				axis.crossVectors( _rotateStart, _rotateEnd ).normalize();
+
+				
 
 				angle *= _this.rotateSpeed;
 
@@ -281,7 +295,7 @@ function Trackball( object, domElement ) {
 					_rotateStart.copy( _rotateEnd );
 
 				} else {
-
+				    
 					quaternion.setFromAxisAngle( axis, angle * ( _this.dynamicDampingFactor - 1.0 ) );
 					_rotateStart.applyQuaternion( quaternion );
 
@@ -303,12 +317,16 @@ function Trackball( object, domElement ) {
 
 		} else {
 
-			factor = 1.0 + ( _zoomEnd.y - _zoomStart.y ) * _this.zoomSpeed;
-
+		    factor = 1.0 + (_zoomEnd.y - _zoomStart.y) * _this.zoomSpeed;
+          
 			if ( factor !== 1.0 && factor > 0.0 ) {
-
-				_eye.multiplyScalar( factor );
-
+			    
+			   
+			     
+			    _eye.multiplyScalar(factor);
+			   
+                
+			  
 				if ( _this.staticMoving ) {
 
 					_zoomStart.copy( _zoomEnd );
@@ -381,6 +399,9 @@ function Trackball( object, domElement ) {
 	};
 
 	this.update = function () {
+
+
+	   
 
 		_eye.subVectors( _this.object.position, _this.target );
 
@@ -521,7 +542,8 @@ function Trackball( object, domElement ) {
 
 		if ( _state === STATE.ROTATE && !_this.noRotate ) {
 
-			_this.getMouseProjectionOnBall( event.pageX, event.pageY, _rotateEnd );
+		    _this.getMouseProjectionOnBall(event.pageX, event.pageY, _rotateEnd);
+		    
 
 		} else if ( _state === STATE.ZOOM && !_this.noZoom ) {
 
@@ -550,30 +572,57 @@ function Trackball( object, domElement ) {
 
 	}
 
+
+    
 	function mousewheel( event ) {
 
+	   
+	  
 		if ( _this.enabled === false ) return;
 
 		event.preventDefault();
 		event.stopPropagation();
+		
+	
+		//var delta = 0;
 
-		var delta = 0;
+		//if ( event.wheelDelta ) { // WebKit / Opera / Explorer 9
 
-		if ( event.wheelDelta ) { // WebKit / Opera / Explorer 9
+		//	delta = event.wheelDelta / 40;
 
-			delta = event.wheelDelta / 40;
+		//} else if ( event.detail ) { // Firefox
 
-		} else if ( event.detail ) { // Firefox
+		//	delta = - event.detail / 3;
 
-			delta = - event.detail / 3;
+		//}
 
-		}
+        
+		//_zoomStart.y += delta * 0.01;
+		
+		var d = ((typeof event.wheelDelta != "undefined") ? (-event.wheelDelta) : event.detail);
+		d = -0.1 * ((d > 0) ? 1 : -1);
+		var factor = d;
+		mX = (event.clientX / window.innerWidth) * 2 - 1;
+		mY = -(event.clientY / window.innerHeight) * 2 + 1;
+		var vector = new THREE.Vector3(mX, mY, 1);
+		vector.unproject(_this.object);
+		vector.sub(_this.object.position);
+		_this.object.position.addVectors(_this.object.position, vector.setLength(factor));        
+		_this.target.addVectors(_this.target, vector.setLength(factor));
 
-		_zoomStart.y += delta * 0.01;
+
+
+
 		_this.dispatchEvent( startEvent );
-		_this.dispatchEvent( endEvent );
+	    _this.dispatchEvent( endEvent );
+
+       
 
 	}
+
+
+	
+
 
 	function touchstart( event ) {
 
@@ -68142,7 +68191,7 @@ THREE.CameraHelper = function ( camera ) {
 	THREE.Line.call( this, geometry, material, THREE.LinePieces );
 
 
-
+   
 	this.camera = camera;
 
 	this.matrix = camera.matrixWorld;
@@ -71164,6 +71213,11 @@ module.exports = (function () {
         }, false);
     };
 
+    Frame.prototype._getCamera = function () {
+        return this.camera;
+    };
+
+
     Frame.prototype._initRenderer = function (width, height, elem) {
         var renderer = new THREE.WebGLRenderer({
             antialias: this.graph._antialias,
@@ -71273,6 +71327,8 @@ module.exports = (function () {
         this.points.addAttribute('color', colors);
         this.points.addAttribute('id', ids);
 
+        pointsSet = this.points; 
+
 		this.scene.remove(this.pointCloud);
 
         this.pointCloud = new THREE.PointCloud(this.points, material);
@@ -71358,26 +71414,25 @@ module.exports = (function () {
                 var mouseX = (evt.clientX / window.innerWidth) * 2 - 1;
                 var mouseY = 1 - (evt.clientY / window.innerHeight) * 2;
 
+                
+
                 // Calculate mouse position
                 var mousePosition = new THREE.Vector3(mouseX, mouseY, 0.1);
                 var radiusPosition = mousePosition.clone();
                 mousePosition.unproject(self.camera);
 
                 // Calculate threshold
-                var clickRadiusPx = 1.5;  // 5px originally, changed by sonja
+                var clickRadiusPx = 2;  // 5px originally, changed by sonja
 
                 var radiusX = ((evt.clientX + clickRadiusPx) / window.innerWidth) * 2 - 1;
                 radiusPosition.setX(radiusX);
-
-                //next is added by sonja
-
-                var radiusY = 1 - ((evt.clientY + clickRadiusPx) / window.innerHeight) * 2;
-                radiusPosition.setY(radiusY);
-                //finished by sonja
+                             
 
                 radiusPosition.unproject(self.camera);
 
                 var clickRadius = radiusPosition.distanceTo(mousePosition);
+
+
                 var threshold = (
                     self.camera.far * clickRadius / self.camera.near);
 
@@ -71411,6 +71466,25 @@ module.exports = (function () {
             elem.addEventListener(
                 'mousedown', createMouseHandler(this.graph._mousedown), false);
         }
+
+
+        function createWheelHandler(evt) {
+            
+
+            var d = ((typeof evt.wheelDelta != "undefined") ? (-evt.wheelDelta) : evt.detail);
+            d = -0.1 * ((d > 0) ? 1 : -1);
+            var factor = d;
+            mX = (event.clientX / window.innerWidth) * 2 - 1;
+            mY = -(event.clientY / window.innerHeight) * 2 + 1;
+            var vector = new THREE.Vector3(mX, mY, 1);
+            vector.unproject(self.camera);
+            vector.sub(self.camera.position);
+            self.camera.position.addVectors(self.camera.position, vector.setLength(factor));
+            self.controls.target.addVectors(self.controls.target, vector.setLength(factor));       
+        }       
+        
+        //elem.addEventListener('mousewheel', createWheelHandler, false);
+
     };
 
     Frame.prototype._updateCameraBounds = (function () {
@@ -71529,52 +71603,93 @@ module.exports = (function () {
     };
     
 
-    Graph.prototype.removeLastNode = function () {
+    //Graph.prototype.removeLastNode = function () {
 
-        var mynodes = this.getNodes();
-        var nodeslength = mynodes.length;
-        var nodetoremove = mynodes[nodeslength - 1];
-        var id = nodetoremove.getId();
-        this._nodeIds[id] = undefined;
-        this._nodes.splice(nodeslength - 1, 1);
+    //    var mynodes = this.getNodes();
+    //    var nodeslength = mynodes.length;
+    //    var nodetoremove = mynodes[nodeslength - 1];
+    //    var id = nodetoremove.getId();
+    //    this._nodeIds[id] = undefined;
+    //    this._nodes.splice(nodeslength - 1, 1);
 
-        return this;
-    };
+    //    return this;
+    //};
 
-    Graph.prototype.removeLastEdge = function () {
+    //Graph.prototype.removeNode = function (node) {//to repair !! *****
+
+    //    var mynodes = this.getNodes();
+    //        var nodeslength = mynodes.length;
+    //        var nodetoremove = mynodes[nodeslength - 1];
+    //        var id = nodetoremove.getId();
+    //        this._nodeIds[id] = undefined;
+            
+    //    this._nodes.splice(index, 1);
+
+    //    return this;
+    //};
+
+
+    //Graph.prototype.removeLastEdge = function () {
+
+    //    var myEdges = this.getEdges();
+    //    var edgeslength = myEdges.length;
+    //    var edgetoremove = myEdges[edgeslength - 1];
+    //    var id = edgetoremove.getId();
+    //    this._edgeIds[id] = undefined;
+    //    this._edges.splice(edgeslength - 1, 1);
+    //    return this;
+    //};
+
+    Graph.prototype.removeSubTree = function (node) {
 
         var myEdges = this.getEdges();
-        var edgeslength = myEdges.length;
-        var edgetoremove = myEdges[edgeslength - 1];
-        var id = edgetoremove.getId();
-        this._edgeIds[id] = undefined;
-        this._edges.splice(edgeslength - 1, 1);
-        return this;
+        var leng = myEdges.length;
+        for ( var i=0; i< leng; i++ )
+        {
+            var edge = myEdges[i];
+                
+            var edgeNodes = edge.getNodes(); 
+            if (edgeNodes[0].getId() == node.getId())
+            {
+                graph.removeEdge(i);
+                graph.removeSubTree(edgeNodes[1]);
+            }
+            
+        }
+        graph.removeNode(nodeIndex);
+        
     };
 
-    Graph.prototype.removeAllNodes = function () {
-
-        var mynodes = this.getNodes();
-        var nodeslength = mynodes.length;
-        while (nodeslength > 0) {
-            this.removeLastNode();
-            var mynodes = this.getNodes();
-            var nodeslength = mynodes.length;
-        }
-
+    Graph.prototype.removeEdge = function (edgeIndex)
+    {    
+        
+        this._edges.splice(edgeIndex, 1);
+        return this;
     }
 
-    Graph.prototype.removeAllEdges = function () {
+    //Graph.prototype.removeAllNodes = function () {
 
-        var myedges = this.getEdges();
-        var edgeslength = myedges.length;
-        while (edgeslength > 0) {
-            this.removeLastEdge();
-            var myedges = this.getEdges();
-            var edgeslength = myedges.length;
-        }
+    //    var mynodes = this.getNodes();
+    //    var nodeslength = mynodes.length;
+    //    while (nodeslength > 0) {
+    //        this.removeLastNode();
+    //        var mynodes = this.getNodes();
+    //        var nodeslength = mynodes.length;
+    //    }
 
-    }
+    //}
+
+    //Graph.prototype.removeAllEdges = function () {
+
+    //    var myedges = this.getEdges();
+    //    var edgeslength = myedges.length;
+    //    while (edgeslength > 0) {
+    //        this.removeLastEdge();
+    //        var myedges = this.getEdges();
+    //        var edgeslength = myedges.length;
+    //    }
+
+    //}
 
     //Graph.prototype.removeLastNode = function () {
 
@@ -71733,6 +71848,9 @@ module.exports = (function () {
         var id = properties.id !== undefined ? properties.id : null;
         this._id = id;
 
+        var isItOpen = properties.isItOpen !== undefined ? properties.color : false;
+        this._isItOpen = isItOpen;
+
         return this;
     };
 
@@ -71806,7 +71924,16 @@ module.exports = (function () {
         return this;
     };
 
+    Node.prototype.setOpen = function (isOpen) {
+        this._isItOpen = isOpen;
+        return this;
+    };
+
+    Node.prototype.getOpen = function () {        
+        return this._isItOpen;
+    };
+
     return Node;
 }());
 
-},{"three":4}]},{},[5,6,7,8,9]);
+},{"three":4}]},{},[5,6,7,8,9])

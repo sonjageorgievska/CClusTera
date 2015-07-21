@@ -45,59 +45,37 @@
       <script src="examples/eve-universe/eve-data.js"></script>
     <script charset="4">
     
-    	var securityColor = function (security) {
-    	    var color;
-    	    security = Math.floor(security * 10 / 2);
-
-    	    switch (security) {
-    	        case -5: color = 0xf00000; break;
-    	        case -4: color = 0xd73000; break;
-    	        case -3: color = 0xf04800; break;
-    	        case -2: color = 0xf06000; break;
-    	        case -1: color = 0xd77700; break;
-    	        case -0: color = 0xefef00; break;
-    	        case 1: color = 0x8fef2f; break;
-    	        case 2: color = 0x00f000; break;
-    	        case 3: color = 0x00ef47; break;
-    	        case 4: color = 0x48f0c0; break;
-    	        case 5: color = 0x2fefef; break;
-    	        default: color = 0xffffff;
-    	    }
-
-    	    return color;
-    	};
-
     	var level = 0;
-    	var count = 0; 
+    	var count = 0;//counts the number of clicks
+    	var pointsSet; 
+
     	var graph = G.graph({
     	    nodeImage: "examples/eve-universe/disc.png",
     	    nodeImageTransparent: true,
     	    antialias: true,
-    	    //bgColor: 0x014A56,
-    	    bgColor: 0x004E51,
-    	    edgeWidth: 1.5,
-    	    nodeSize: 16,
+    	    bgColor: 'black',
+    	    //bgColor: 0x004E51,
+    	    edgeWidth: 1,
+    	    nodeSize: 10,
     	    hover: function (node) {
     	        //console.log("Hover");
     	        // $("#label").text("Node label: " + node.name);
     	    },
     	    mousedown: function (node) {
     	        level++;
-    	        $("#label").text("level: " + level);
+    	       // $("#label").text("level: " + level);
 			
     	        CreateNewGraph(node)   	        
                 redrawSameScene();	  		
   		}
       });
-
+      var oldgraph;
       CreateInitialGraph();
       var renderFrame = graph.renderIn("frame");
 
       function CreateInitialGraph()
-      {
-          graph.removeAllEdges();
-          graph.removeAllNodes();
-
+      {          
+          
           var maxColorIndex = 0;
           for (var i = 0; i < eve.points.length; i++) {
               var system = eve.points[i];
@@ -151,24 +129,38 @@
 
           count++;
           var coords = oldnode.getPos();
-          oldnode.setColor("green");
-          
-          var radius = 0.1/count;
-          for (i = 0; i < 200; i++) {
+          if (!oldnode.getOpen()) {
+              oldnode.setOpen(true);
+              oldnode.setColor("red");
 
-              var x = (Math.random() - 0.5) * radius;
-              var y = (Math.random() - 0.5) * radius;
-              var z = (Math.random() - 0.5) * radius;
-              var newcoords = [coords[0] + x, coords[1] - y, coords[2] + z];
-              var node1 = G.node(newcoords, {
-                  id: 50000000 + count,
-                  color: "red",
-              });
-              node1.name = node1.getId;
 
-              node1.addTo(graph);
+              var radius = 0.05;///count;
+              for (i = 0; i < 500; i++) {
+
+                  var x = (Math.random() - 0.5) * radius;
+                  var y = (Math.random() - 0.5) * radius;
+                  var z = (Math.random() - 0.5) * radius;
+                  var newcoords = [coords[0] + x, coords[1] + y, coords[2] + z];
+                  var node1 = G.node(newcoords, {
+                      id: 50000000 + count,
+                      color: "rgb(" + count * 100 % 256 + "," + count * 20 % 256 + "," + count * 50 % 256 + ")",
+                  });
+                  node1.name = node1.getId;
+
+                  node1.addTo(graph);
+
+                  //G.edge([oldnode.getId(), node1.getId()], {
+                  //    color: "yellow",
+                  //}).addTo(graph);
+
+              }
           }
+          else 
+          {
+              
+              //graph.removeSubTree(oldnode);
 
+          }
 
           
       }
