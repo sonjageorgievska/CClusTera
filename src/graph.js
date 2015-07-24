@@ -57,7 +57,7 @@ module.exports = (function () {
         this._click = properties.click || undefined;
 
         return this;
-    };
+    }; 
 
     Graph.prototype.addNode = function (node) {
         var id = node.getId();

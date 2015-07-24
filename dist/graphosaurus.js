@@ -96,7 +96,7 @@ module.exports = Trackball;
 
 function Trackball( object, domElement ) {
 	var _this = this;
-	var STATE = { NONE: -1, ROTATE: 0, ZOOM: 1, PAN: 2, TOUCH_ROTATE: 3, TOUCH_ZOOM: 4, TOUCH_PAN: 5 };
+	var STATE = { NONE: -1, ROTATE: 2, ZOOM: 1, PAN: 0, TOUCH_ROTATE: 3, TOUCH_ZOOM: 4, TOUCH_PAN: 5 };
 
 	this.object = object;
 	this.domElement = ( domElement !== undefined ) ? domElement : document;
@@ -113,7 +113,7 @@ function Trackball( object, domElement ) {
 
 	this.noRotate = false;
 	this.noZoom = true;
-	this.noPan = false;
+	this.noPan = true;
 	this.noRoll = false;
 
 	this.staticMoving = false;
@@ -242,13 +242,15 @@ function Trackball( object, domElement ) {
 
 			}
 
-
 		  
             
-			pointsSet.computeBoundingSphere();
-			var sphere = pointsSet.boundingSphere;
+		    pointsSet.computeBoundingSphere();
+		    var sphere = pointsSet.boundingSphere;
 			
-			_this.target = sphere.center.clone();
+		    //_this.target = new THREE.Vector3();
+
+		    _this.target = sphere.center.clone();
+		  
 		 
 		   // _this.target = new THREE.Vector3();
 
@@ -542,6 +544,16 @@ function Trackball( object, domElement ) {
 
 		if ( _state === STATE.ROTATE && !_this.noRotate ) {
 
+		    
+
+            //pointsSet.computeBoundingSphere();
+            //var sphere = pointsSet.boundingSphere;
+            //var factor = 0.1; 
+            //var vector = sphere.center.clone();
+		    //vector.sub(_this.object.position);
+		    //_this.object.position.addVectors(_this.object.position, vector.setLength(factor));
+		    //_this.target.addVectors(_this.target, vector.setLength(factor));
+
 		    _this.getMouseProjectionOnBall(event.pageX, event.pageY, _rotateEnd);
 		    
 
@@ -593,7 +605,7 @@ function Trackball( object, domElement ) {
 		//} else if ( event.detail ) { // Firefox
 
 		//	delta = - event.detail / 3;
-
+        
 		//}
 
         
@@ -71468,20 +71480,20 @@ module.exports = (function () {
         }
 
 
-        function createWheelHandler(evt) {
+        //function createWheelHandler(evt) {
             
 
-            var d = ((typeof evt.wheelDelta != "undefined") ? (-evt.wheelDelta) : evt.detail);
-            d = -0.1 * ((d > 0) ? 1 : -1);
-            var factor = d;
-            mX = (event.clientX / window.innerWidth) * 2 - 1;
-            mY = -(event.clientY / window.innerHeight) * 2 + 1;
-            var vector = new THREE.Vector3(mX, mY, 1);
-            vector.unproject(self.camera);
-            vector.sub(self.camera.position);
-            self.camera.position.addVectors(self.camera.position, vector.setLength(factor));
-            self.controls.target.addVectors(self.controls.target, vector.setLength(factor));       
-        }       
+        //    var d = ((typeof evt.wheelDelta != "undefined") ? (-evt.wheelDelta) : evt.detail);
+        //    d = -0.1 * ((d > 0) ? 1 : -1);
+        //    var factor = d;
+        //    mX = (event.clientX / window.innerWidth) * 2 - 1;
+        //    mY = -(event.clientY / window.innerHeight) * 2 + 1;
+        //    var vector = new THREE.Vector3(mX, mY, 0);
+        //    vector.unproject(self.camera);
+        //    vector.sub(self.camera.position);
+        //    self.camera.position.addVectors(self.camera.position, vector.setLength(factor));
+        //    self.controls.target.addVectors(self.controls.target, vector.setLength(factor));       
+        //}       
         
         //elem.addEventListener('mousewheel', createWheelHandler, false);
 
@@ -71603,17 +71615,17 @@ module.exports = (function () {
     };
     
 
-    //Graph.prototype.removeLastNode = function () {
+    Graph.prototype.removeLastNode = function () {
 
-    //    var mynodes = this.getNodes();
-    //    var nodeslength = mynodes.length;
-    //    var nodetoremove = mynodes[nodeslength - 1];
-    //    var id = nodetoremove.getId();
-    //    this._nodeIds[id] = undefined;
-    //    this._nodes.splice(nodeslength - 1, 1);
-
-    //    return this;
-    //};
+        var mynodes = this.getNodes();
+        var nodeslength = mynodes.length;
+        var nodetoremove = mynodes[nodeslength - 1];
+        var id = nodetoremove.getId();
+        this._nodeIds[id] = undefined;
+        //this._nodes.splice(nodeslength - 1, 1);
+        this._nodes.pop();
+        return this;
+    };
 
     //Graph.prototype.removeNode = function (node) {//to repair !! *****
 
@@ -71640,32 +71652,32 @@ module.exports = (function () {
     //    return this;
     //};
 
-    Graph.prototype.removeSubTree = function (node) {
+    //Graph.prototype.removeSubTree = function (node) {
 
-        var myEdges = this.getEdges();
-        var leng = myEdges.length;
-        for ( var i=0; i< leng; i++ )
-        {
-            var edge = myEdges[i];
+    //    var myEdges = this.getEdges();
+    //    var leng = myEdges.length;
+    //    for ( var i=0; i< leng; i++ )
+    //    {
+    //        var edge = myEdges[i];
                 
-            var edgeNodes = edge.getNodes(); 
-            if (edgeNodes[0].getId() == node.getId())
-            {
-                graph.removeEdge(i);
-                graph.removeSubTree(edgeNodes[1]);
-            }
+    //        var edgeNodes = edge.getNodes(); 
+    //        if (edgeNodes[0].getId() == node.getId())
+    //        {
+    //            graph.removeEdge(i);
+    //            graph.removeSubTree(edgeNodes[1]);
+    //        }
             
-        }
-        graph.removeNode(nodeIndex);
+    //    }
+    //    graph.removeNode(nodeIndex);
         
-    };
+    //};
 
-    Graph.prototype.removeEdge = function (edgeIndex)
-    {    
+    //Graph.prototype.removeEdge = function (edgeIndex)
+    //{    
         
-        this._edges.splice(edgeIndex, 1);
-        return this;
-    }
+    //    this._edges.splice(edgeIndex, 1);
+    //    return this;
+    //}
 
     //Graph.prototype.removeAllNodes = function () {
 

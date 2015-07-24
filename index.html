@@ -45,9 +45,30 @@
       <script src="examples/eve-universe/eve-data.js"></script>
     <script charset="4">
     
+        function KeyPress(e) {
+            var evtobj = window.event ? event : e
+            if (evtobj.keyCode == 90 && evtobj.ctrlKey) {
+                if (clicked == true) {
+                    RemoveLastNodes();
+                    clicked = false;
+                    lastOpenNode.setColor(nodesColor);
+                    redrawSameScene();
+                }
+                
+               // alert("Ctrl+z");
+            }
+        }
+
+        document.onkeydown = KeyPress;
+
+
     	var level = 0;
     	var count = 0;//counts the number of clicks
     	var pointsSet; 
+    	var previousNumberOfNodes = 0; 
+    	var clicked = false; 
+    	var lastOpenNode;
+    	var nodesColor = "white"; 
 
     	var graph = G.graph({
     	    nodeImage: "examples/eve-universe/disc.png",
@@ -62,11 +83,12 @@
     	        // $("#label").text("Node label: " + node.name);
     	    },
     	    mousedown: function (node) {
-    	        level++;
+    	        clicked = true; 
     	       // $("#label").text("level: " + level);
-			
-    	        CreateNewGraph(node)   	        
-                redrawSameScene();	  		
+    	        previousNumberOfNodes = graph.getNodes().length; 
+    	        CreateNewGraph(node);
+    	        redrawSameScene();
+    	        lastOpenNode = node; 
   		}
       });
       var oldgraph;
@@ -90,7 +112,7 @@
                 var system = eve.points[i];
                 var systemId = system[0];
                 var coords = system.slice(2, 6);
-                var security = system[1];
+                var security = system[1];//the color
                 
                 var colorVar = numberToRGB(security, maxColorIndex);
                 
@@ -99,7 +121,7 @@
                     id: systemId,
                     //color: (security +1)*40000,// securityColor(security),
                     //color: "rgb(100,0,0)"
-                    color: "white",//colorVar,                    
+                    color: nodesColor,//colorVar,                    
                 });
                 node.name = systemId;
                 node.addTo(graph);
@@ -164,47 +186,16 @@
 
           
       }
-
-
-      function CreateFirstGraph() {
-
-
-          graph.removeAllEdges();
-          graph.removeAllNodes();
-          var coords = [0.5, 0.5, 0.5];
-
-          var node = G.node(coords, {
-              id: 500000,
-
-              color: "blue",
-          });
-          node.name = node.getId;
-          node.addTo(graph);
-
-          var coords1 = [0.8, 0.8, 0.8];
-
-          var node1 = G.node(coords1, {
-              id: 5007000,
-
-              color: "green",
-          });
-          node1.name = node1.getId;
-          node1.addTo(graph);
-
-
-          var coords2 = [0.5, 0.8, 0.8];
-
-          var node2 = G.node(coords2, {
-              id: 5007000,
-
-              color: "green",
-          });
-          node2.name = node2.getId;
-          node2.addTo(graph);
-
+         
+      function RemoveLastNodes()
+      {
+          var numberOfNodes = graph.getNodes().length;
+          for (var i = 0; i < numberOfNodes - previousNumberOfNodes; i++)
+          {
+              graph.removeLastNode();
+          }
 
       }
-
 
       
 
@@ -312,32 +303,3 @@
 </html>
 
 
-<!--if (wl >= 380 && wl < 440) {
-		        Red = -1 * (wl - 440.0) / (440.0 - 380.0) * factor;
-		        Green = 0;
-		        Blue = 1*factor;
-		    } else if (wl >= 440 && wl < 490) {
-		        Red = 0;
-		        Green = (wl - 440.0) / (490.0 - 440) * factor;
-		        Blue = 1 * factor;
-		    } else if (wl >= 490 && wl < 510) {
-		        Red = 0;
-		        Green = 1 * factor;
-		        Blue = -1 * (wl - 510.0) / (510.0 - 490) * factor;
-		    } else if (wl >= 510 && wl < 580) {
-		        Red = (wl - 510.0) / (580.0 - 510) * factor;
-		        Green = 1 * factor;
-		        Blue = 0;
-		    } else if (wl >= 580 && wl < 645) {
-		        Red = 1 * factor;
-		        Green = -1 * (wl - 645.0) / (645.0 - 580) * factor;
-		        Blue = 0.0;
-		    } else if (wl >= 645 && wl <= 780) {
-		        Red = -1 * (wl - 645.0) / (645 - 780) * factor;
-		        Green = 1 * factor;
-		        Blue = 1 * factor;
-		    } else {
-		        Red = 1.5;
-		        Green = 1.5;
-		        Blue = 1.5;
-		    }-->
