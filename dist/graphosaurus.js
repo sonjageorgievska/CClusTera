@@ -113,7 +113,7 @@ function Trackball( object, domElement ) {
 
 	this.noRotate = false;
 	this.noZoom = true;
-	this.noPan = true;
+	this.noPan = false;
 	this.noRoll = false;
 
 	this.staticMoving = false;
@@ -247,12 +247,12 @@ function Trackball( object, domElement ) {
 		    pointsSet.computeBoundingSphere();
 		    var sphere = pointsSet.boundingSphere;
 			
-		    //_this.target = new THREE.Vector3();
+		   // _this.target = new THREE.Vector3();
 
 		    _this.target = sphere.center.clone();
 		  
 		 
-		   // _this.target = new THREE.Vector3();
+		  
 
 			_eye.copy( _this.object.position ).sub( _this.target );
 
@@ -612,19 +612,15 @@ function Trackball( object, domElement ) {
 		//_zoomStart.y += delta * 0.01;
 		
 		var d = ((typeof event.wheelDelta != "undefined") ? (-event.wheelDelta) : event.detail);
-		d = -0.1 * ((d > 0) ? 1 : -1);
+		d = -0.025 * ((d > 0) ? 1 : -1);
 		var factor = d;
-		mX = (event.clientX / window.innerWidth) * 2 - 1;
+		mX = ((event.clientX-285) / (window.innerWidth-285)) * 2 - 1;
 		mY = -(event.clientY / window.innerHeight) * 2 + 1;
 		var vector = new THREE.Vector3(mX, mY, 1);
 		vector.unproject(_this.object);
 		vector.sub(_this.object.position);
 		_this.object.position.addVectors(_this.object.position, vector.setLength(factor));        
 		_this.target.addVectors(_this.target, vector.setLength(factor));
-
-
-
-
 		_this.dispatchEvent( startEvent );
 	    _this.dispatchEvent( endEvent );
 
@@ -18466,9 +18462,9 @@ THREE.BufferGeometry.prototype = {
 
 				if ( isNaN( this.boundingSphere.radius ) ) {
 
+				    //this.boundingSphere.radius = 1;
 
-
-					THREE.error( 'THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values.' );
+				    THREE.error('THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. Radius2 is' + maxRadiusSq);
 
 
 
@@ -71246,11 +71242,23 @@ module.exports = (function () {
         this.renderer.render(this.scene, this.camera);
     };
 
+    Frame.prototype.drawMe = function () {
+        this._initScene();
+        this._initRenderer(this.width, this.height, this.elem);
+        this._initNodes(this.graph.getNodes());
+        //this._normalizeNodes();
+        this._initEdges(this.graph.getEdges());
+
+        this._initCamera(this.aspectRatio);
+        this.positionCamera();
+        this.forceRerender();
+    };
+
 	Frame.prototype.reDrawMe = function() {
 		//this._initScene();
         //this._initRenderer(this.width, this.height, this.elem);
         this._initNodes(this.graph.getNodes());
-        this._normalizeNodes();
+        //this._normalizeNodes();
         this._initEdges(this.graph.getEdges());
 
         //this._initCamera(this.aspectRatio);
@@ -71262,7 +71270,7 @@ module.exports = (function () {
 	    //this._initScene();
 	    //this._initRenderer(this.width, this.height, this.elem);
 	    this._initNodes(this.graph.getNodes());
-	    this._normalizeNodes();
+	    //this._normalizeNodes();
 	    this._initEdges(this.graph.getEdges());
 
 	    //this._initCamera(this.aspectRatio);
@@ -71371,7 +71379,7 @@ module.exports = (function () {
             opacity: this.graph._edgeOpacity,
             transparent: this.graph._edgeOpacity < 1,
         });
-
+        this.scale = 1; 
         var positions = new THREE.BufferAttribute(
             new Float32Array(edges.length * 6), 3);
         var colors = new THREE.BufferAttribute(
@@ -71423,7 +71431,7 @@ module.exports = (function () {
             return function (evt) {
                 evt.preventDefault();
 
-                var mouseX = (evt.clientX / window.innerWidth) * 2 - 1;
+                var mouseX = ((evt.clientX-285) / (window.innerWidth-285)) * 2 - 1;
                 var mouseY = 1 - (evt.clientY / window.innerHeight) * 2;
 
                 
@@ -71436,7 +71444,7 @@ module.exports = (function () {
                 // Calculate threshold
                 var clickRadiusPx = 2;  // 5px originally, changed by sonja
 
-                var radiusX = ((evt.clientX + clickRadiusPx) / window.innerWidth) * 2 - 1;
+                var radiusX = ((evt.clientX -285 + clickRadiusPx) / (window.innerWidth-285)) * 2 - 1;
                 radiusPosition.setX(radiusX);
                              
 
@@ -71458,17 +71466,17 @@ module.exports = (function () {
                 var intersects = raycaster.intersectObject(self.pointCloud);
                 if (intersects.length) {
                     var firstIndex = intersects[0].index;
-                    var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];//changed by sonja, previously it was a bug
+                    var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];//changed by sonja, previously it was buggy
                      
                     callback(self.graph._nodes[nodeIndex]);
                 }
             };
         };
 
-        //if (this.graph._hover) {
-        //    elem.addEventListener(
-        //        'mousemove', createMouseHandler(this.graph._hover), false);
-        //}
+        if (this.graph._hover) {
+            elem.addEventListener(
+                'mousemove', createMouseHandler(this.graph._hover), false);
+        }
 
         if (this.graph._click) {
             elem.addEventListener(
@@ -71641,16 +71649,16 @@ module.exports = (function () {
     //};
 
 
-    //Graph.prototype.removeLastEdge = function () {
+    Graph.prototype.removeLastEdge = function () {
 
-    //    var myEdges = this.getEdges();
-    //    var edgeslength = myEdges.length;
-    //    var edgetoremove = myEdges[edgeslength - 1];
-    //    var id = edgetoremove.getId();
-    //    this._edgeIds[id] = undefined;
-    //    this._edges.splice(edgeslength - 1, 1);
-    //    return this;
-    //};
+        var myEdges = this.getEdges();
+        var edgeslength = myEdges.length;
+        //var edgetoremove = myEdges[edgeslength - 1];
+        //var id = edgetoremove
+        //this._edgeIds[id] = undefined;
+        this._edges.splice(edgeslength - 1, 1);
+        return this;
+    };
 
     //Graph.prototype.removeSubTree = function (node) {
 
@@ -71923,6 +71931,10 @@ module.exports = (function () {
      */
     Node.prototype.getColor = function () {
         return this._color.getHexString();
+    };
+
+    Node.prototype.getColor1 = function () {
+        return this._color;
     };
 
     /**
