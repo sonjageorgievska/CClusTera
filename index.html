@@ -1,124 +1,123 @@
 ﻿<html>
-<head title="Fungi visualization">    
+<head>
 
-    <link rel="stylesheet" type="text/css" href="src/dhtmlx.css">
-    <script src="src/dhtmlx.js"></script>
-
-    <style>      
-
-        #frame {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            left: 285;
-            right: 0;
-            z-index: 0;
-        }
-       
-
-        #label {
-            position: absolute;
-            top: 80;
-            left: 15;
-            z-index: 1;
-            color: black;
-            font-family: sans-serif;
-        }
-
-        #label2 {
-            position: absolute;
-            top: 80;
-            left: 60;
-            z-index: 1;
-            color: black;
-            font-family: sans-serif;
-        }
-
-        #labelcolor {
-            position: absolute;
-            top: 220;
-            left: 15;
-            z-index: 1;
-            color: black;
-            font-family: sans-serif;
-        }
-
-         #labelproperty {
-            position: absolute;
-            top: 155;
-            left: 15;
-            z-index: 1;
-            color: black;
-            font-family: sans-serif;
-        }
-
-       #labelproperty2 {
-            position: absolute;
-            top: 330;
-            left: 15;
-            z-index: 1;
-            color: black;
-            font-family: sans-serif;
-        }
-        #title {
-            position: absolute;
-            top: 15;
-            right: 15;
-            z-index: 1;
-            color: white;
-            font-family: sans-serif;
-        }
-
-        #labelnode {
-            position: absolute;
-            top: 10;
-            left: 15;
-            z-index: 1;
-            color: black;
-            font-family: sans-serif;
-        }
-
-        #sliderObj {
-            position: absolute;
-            top: 110;
-            left: 15;
-            z-index: 1;
-            font-family: sans-serif;
-        }
+   
+    <style>
 
 
-         #colortable {
-            position: absolute;
-            top: 240;
-            left: 15;
-            z-index: 1;
-            font-family: sans-serif;
-        }
+         #frame {
+             position: absolute;
+             top: 0;
+             bottom: 0;
+             left: 285;
+             right: 0;
+             z-index: 0;
+         }
 
-        #comboObj {
-            position: absolute;
-            top: 180;
-            left: 15;
-            z-index: 1;
-            font-family: sans-serif;
-        }
 
-         #comboObj2 {
-            position: absolute;
-            top: 350;
-            left: 15;
-            z-index: 1;
-            font-family: sans-serif;
-        }
+         #label {
+             position: absolute;
+             top: 80;
+             left: 15;
+             z-index: 1;
+             color: black;
+             font-family: sans-serif;
+         }
+
+         #label2 {
+             position: absolute;
+             top: 80;
+             left: 60;
+             z-index: 1;
+             color: black;
+             font-family: sans-serif;
+         }
+
+         #labelcolor {
+             position: absolute;
+             top: 220;
+             left: 15;
+             z-index: 1;
+             color: black;
+             font-family: sans-serif;
+         }
+
+          #labelproperty {
+             position: absolute;
+             top: 155;
+             left: 15;
+             z-index: 1;
+             color: black;
+             font-family: sans-serif;
+         }
+
+        #labelproperty2 {
+             position: absolute;
+             top: 330;
+             left: 15;
+             z-index: 1;
+             color: black;
+             font-family: sans-serif;
+         }
+         #title {
+             position: absolute;
+             top: 15;
+             right: 15;
+             z-index: 1;
+             color: white;
+             font-family: sans-serif;
+         }
+
+         #labelnode {
+             position: absolute;
+             top: 10;
+             left: 15;
+             z-index: 1;
+             color: black;
+             font-family: sans-serif;
+         }
+
+         #sliderObj {
+             position: absolute;
+             top: 110;
+             left: 15;
+             z-index: 1;
+             font-family: sans-serif;
+         }
+
+
+          #colortable {
+             position: absolute;
+             top: 240;
+             left: 15;
+             z-index: 1;
+             font-family: sans-serif;
+         }
+
+         #comboObj {
+             position: absolute;
+             top: 180;
+             left: 15;
+             z-index: 1;
+             font-family: sans-serif;
+         }
+
+          #comboObj2 {
+             position: absolute;
+             top: 350;
+             left: 15;
+             z-index: 1;
+             font-family: sans-serif;
+         }
     </style>
 </head>
 
 
 
 <body>
-  
-    <input type="text" name="search" id="search" class="textbox"/>
-    <button style="background-color:white"  onclick="searchSequence()"  name="button">Search</button>
+
+    <input type="text" name="search" id="search" class="textbox" />
+    <button style="background-color:white" onclick="searchSequence()" name="button">Search</button>
 
     <div id="frame"></div>
     <!--<div id="graph"></div>-->
@@ -126,7 +125,7 @@
     <div id="label">Level: </div>
     <!--<div id="labelnode">Sequence id: </div>-->
     <div id="label2">0</div>
-   
+
     <div id="labelproperty">Colorize by a numerical property:</div>
     <div id="labelproperty2">Colorize by family, type, etc:</div>
     <div id="labelcolor">Click inside to select a color:</div>
@@ -134,180 +133,98 @@
     <div id="comboObj2" width="245"></div>
     <!--<div id="colorpickerObj"></div>-->
 
-    <table cellspacing="2" cellpadding="2" border="0" id="colortable" >     
+    <table cellspacing="2" cellpadding="2" border="0" id="colortable">
         <tr><td><input type="text" id="inputcolor" colorbox="true"></td></tr>
     </table>
 
+    <link rel="stylesheet" type="text/css" href="src/dhtmlx.css">
+    <script src="src/dhtmlx.js"></script>
+
+
     <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
     <script src="dist/graphosaurus.js"></script>
+    <script src="src/uifunctions.js"></script>
     <script src="examples/eve-universe/eve-data.js"></script>
     <script src="examples/eve-universe/level.js"></script>
     <script charset="4">
 
-        //function ReadFile(filepath)
-        //{
-        //    var reader = new FileReader();
-        //    reader.onload = function () {
-        //        var text = reader.result;
-        //        alert(reader.result.substring(0, 200));
-        //    };
-        //    reader.readAsText(filepath);
 
-        //}
-        ////ReadFile("eve-universe/level.js");
-
-        //var fileLoader = new THREE.JSONLoader();
-        //fileLoader.prototype.load("examples/eve-universe/eve-data.js");
-
-
-
-        function KeyPress(e) {
-            var evtobj = window.event ? event : e
-            if (evtobj.keyCode == 90 && evtobj.ctrlKey) {
-                if (clicked == true) {
-                    RemoveLastNodes();
-                    RemoveLastEdges();
-                    clicked = false;
-                    //lastOpenNode.setColor(nodesColor);
-                    redrawSameScene();
+        function fetchJSONFile(path, callback) {
+            var httpRequest = new XMLHttpRequest();
+            httpRequest.onreadystatechange = function () {
+                if (httpRequest.readyState === 4) {
+                    if (httpRequest.status === 200) {
+                        var data = JSON.parse(httpRequest.responseText);
+                        if (callback) callback(data);
+                    }
                 }
+            };
+            httpRequest.open('GET', path);
+            httpRequest.send();
+        }
 
-                // alert("Ctrl+z");
+
+       
+
+        function AddPointsFromList(data, parentid, level) //data is a list of a list. The latter has 4 numbers: id,  and 3 cooordinates
+        {
+            var y = parentid;
+            for (var point in data)
+            {
+                var pointid = point[0];
+                var coords = point.slice(1, 4);
+                var node = G.node(coords, {
+                    id: pointid,
+                    color: "rgb(" + 111 * level * (y + 1) % 256 + "," + 20 * level * (y + 1) % 256 + "," + 50 * level * (y + 1) % 256 + ")",
+                });
+                node.name = pointid;
+                node.addTo(graph);
+                G.edge([y, pointId], {
+                    color: "white",
+                }).addTo(graph);
+            }
+        }
+      
+
+        function AddLevelZero(data) //data is a list of lists. The latter has 4 numbers: id,  and 3 cooordinates
+        {           
+            for (var i = 0; i < data.length; i++) {
+                var point = data[i];
+                var pointid = point[0];
+                var coords = point.slice(1, 4);          
+                var red = Math.floor((coords[0] * coords[0] * 1643 % 256) + 1);
+                var green = Math.floor((coords[1] * coords[1] * 3288 % 256) + 1);
+                var blue = Math.floor((coords[2] * coords[2] * 4387 % 256) + 1);
+                var node = G.node(coords, {
+                    id: pointid,                   
+                });
+                node.setColor("rgb(" + red + "," + green + "," + blue + ")");
+                node.name = pointid;
+                node.addTo(graph);                
             }
         }
 
-        function searchSequence() {
-            var value = document.getElementById("search").value;
-        }
-
         document.onkeydown = KeyPress;
-
-        function defineSlider() {
-            
-
-            mySlider.enableTooltip(true);
-
-            mySlider.attachEvent("onChange", function () {
-                var sliderval = mySlider.getValue();
-                $("#label2").text(sliderval);
-                if (sliderval > 0) {
-                    AddLevel(sliderval);
-                    redrawSameScene();
-                }
-            });
-
-            mySlider.attachEvent("onChange", function (value) {
-                updateSliderPopupValue(value);
-            });
-
-            mySlider.enable();
-        };
-     
-
-        function defineCombo() {
-            var myCombo = new dhtmlXCombo("comboObj");
-
-
-            myCombo.addOption([
-        ["a", "property A"],
-        ["aa", "property AA"],
-        ["b", "property B"],
-        ["c", "property C"]
-            ]);
-
-
-            myCombo.attachEvent("onChange", function () {
-                var comboval = myCombo.getSelectedValue();
-                // $("#label2").text(comboval);
-            });
-            //myCombo.filter = true;
-            myCombo.setSize(245);
-            
-            myCombo.enable();
-        }
-
-        defineCombo();
-
-        function defineCombo2() {
-            var myCombo2 = new dhtmlXCombo("comboObj2");
-
-
-            myCombo2.addOption([
-        ["a", "family"],
-        ["aa", "class"],
-        ["b", "type"]        
-            ]);
-
-
-            myCombo2.attachEvent("onChange", function () {
-                var comboval2 = myCombo2.getSelectedValue();
-                // $("#label2").text(comboval);
-            });
-            //myCombo.filter = true;
-            myCombo2.setSize(245);
-
-            myCombo2.enable();
-        }
+       
+        defineCombo();      
 
         defineCombo2();
-
-        function defineColorPicker() {
-            var myColorpicker = new dhtmlXColorPicker("colorpickerObj");
-            myColorpicker.setCustomColors(true);
-            myColorpicker.setColor("#05ff50");
-            myColorpicker.setCustomColors(true);
-
-            myColorpicker.showMemory(true);
-
-            myColorpicker.show();
-
-            myColorpicker.attachEvent("onSelect", function (color, node) {
-                var col = myColorpicker.getSelectedColor();
-                //$("#label2").text(color);
-            });
-
-            myColorpicker.attachEvent("onCancel", function (node) { });
-        }
-
-        function defineColorPicker2() {
-            myColorpicker = new dhtmlXColorPicker(["inputcolor"]);
-            myColorpicker.setCustomColors(true);
-            myColorpicker.setColor("#05ff50");
-            myColorpicker.setCustomColors(true);
-
-            myColorpicker.showMemory(true);
-
-           
-
-            myColorpicker.attachEvent("onSelect", function (color, node) {
-                var col = myColorpicker.getSelectedColor();
-                //$("#label2").text(color);
-            });
-
-            myColorpicker.attachEvent("onCancel", function (node) { myColorpicker.hide()});
-        }
-
-        function updateSliderPopupValue(value) {
-            myPopSlider.attachHTML("Level: " + value.toString());
-        }
-
+        
         var myColorpicker;
         defineColorPicker2();
 
         var cursorX;
         var cursorY;
         document.onmousemove = function (e) {
-         
+
             cursorX = e.clientX;
             cursorY = e.clientY;
         }
 
-        document.onclick = function(e)
-        {
+        document.onclick = function (e) {
             myPop.hide();
         }
 
-       
         var mySlider = new dhtmlXSlider("sliderObj");
         defineSlider();
 
@@ -317,7 +234,7 @@
         updateSliderPopupValue(mySlider.getValue())
 
         var level = 0;
-        var count = 0;//counts the number of clicks
+        var count = 0;//counts the number of clicks on a node
         var pointsSet;
         var previousNumberOfNodes = 0; //is used in ctrl+z
         var previousNumberOfEdges = 0;
@@ -331,43 +248,41 @@
             nodeImageTransparent: true,
             antialias: true,
             bgColor: 'lightskyblue',
-            //bgColor: 'black',
-            //bgColor: 0x004E51,
             edgeWidth: 1,
             nodeSize: 10,
-            hover: function (node) {
-                //console.log("Hover");
-                // $("#label").text("Node label: " + node.name);
-                $("#labelnode").text("Sequence id: " + node.getId());
-                //if (myPop) myPop.hide();
-               
+            hover: function (node) {             
+                $("#labelnode").text("Sequence id: " + node.getId());             
                 myPop.attachHTML("Sequence id: " + node.getId());
-                
                 myPop.show(cursorX, cursorY, 3, 5); //params are: x, y, width, height
-
             },
             mousedown: function (node) {
                 level++;
                 count++;
                 clicked = true;
-                // $("#label").text("level: " + level);
                 $("#labelnode").text("Sequence id: " + node.getId());
                 previousNumberOfNodes = graph.getNodes().length;
                 previousNumberOfEdges = graph.getEdges().length;
-                //CreateNewGraph(node);
-                //AddLevel(level);
                 AddLevelforNode(node);
                 redrawSameScene();
                 lastOpenNode = node;
             }
         });
+
+        ////this requests the file and executes a callback with the parsed result once
+        //// it is available
+        //fetchJSONFile("data/data.js", function (data) {
+        //    // do something with your data
+        //    AddLevelZero(data.points);
+        //    var renderFrame = graph.renderIn("frame");
+        //    renderFrame.reDrawMe();
+        //    //alert(data[0]);
+        //});
+
         var oldgraph;
         AddZeroLevel();
-        //CreateInitialGraph();
         var renderFrame = graph.renderIn("frame");
         renderFrame.reDrawMe();
 
-        
         function AddZeroLevel() {
             for (var i = 0; i < eve.points.length; i++) {
                 var system = eve.points[i];
@@ -375,7 +290,6 @@
                 var x = lev[level];
                 var y = x[systemId];
                 if (y === "t") {
-                    //var coords = system.slice(2, 6);
                     var coords = system.slice(0, 4);
                     var red = Math.floor((coords[0] * coords[0] * 1643 % 256) + 1);
                     var green = Math.floor((coords[1] * coords[1] * 3288 % 256) + 1);
@@ -395,33 +309,30 @@
             }
         }
 
-
-
         function AddLevelforNode(parentnode) {
-            var added = false;
+            var added = false;//when a level has been added , you stop going deeper
             for (var level = 1; level < lev.length; level++) {
                 if (!added) {
                     for (var i = 0; i < eve.points.length; i++) {
                         var system = eve.points[i];
                         var systemId = i;//system[0];
-                        if (graph._nodeIds[systemId] == undefined) {
-                            var x = lev[level];
-                            var y = x[systemId];
-                            if (y != "false" && y != "true") {
+                        if (graph._nodeIds[systemId] == undefined) { //if the node with systemId is not yet in the graph 
+                            var x = lev[level]; //take the infor for the current level
+                            var y = x[systemId]; //take the string representing the level info
+                            if (y != "f" && y != "t") { // if the string is actually a parentID
 
                                 //var coords = system.slice(2, 6);
                                 var coords = system.slice(0, 4);
                                 var parentId = y;
                                 var parentNode1 = graph.getNode(parentId);
-                                if (parentId == parentnode.getId()) {
+                                if (parentId == parentnode.getId()) {//if 
                                     var colorNode = parentNode1.getColor1();
-                                    
+
                                     var node = G.node(coords, {
-                                        id: systemId,                                 
+                                        id: systemId,
                                         color: "rgb(" + 111 * level * (y + 1) % 256 + "," + 20 * level * (y + 1) % 256 + "," + 50 * level * (y + 1) % 256 + ")",
                                     });
-                                    parentNode1.setColor(node.getColor());
-                                    // node.setColor(colorNode);
+                                    parentNode1.setColor(node.getColor());                           
                                     node.name = systemId;
                                     node.addTo(graph);
                                     added = true;
@@ -439,7 +350,6 @@
 
         }
 
-
         function AddLevel(level) {
             if (level > 0 && level < lev.length) {
                 for (var i = 0; i < eve.points.length; i++) {
@@ -456,7 +366,7 @@
                                 id: systemId,
                                 color: "rgb(" + 111 * level * (y + 1) % 256 + "," + 20 * level * (y + 1) % 256 + "," + 50 * level * (y + 1) % 256 + ")",
                             });
-                            parentNode.setColor(node.getColor()); 
+                            parentNode.setColor(node.getColor());
                             node.name = systemId;
                             node.addTo(graph);
                         }
@@ -466,13 +376,11 @@
 
         }
 
-       
         function RemoveLastNodes() {
             var numberOfNodes = graph.getNodes().length;
             for (var i = 0; i < numberOfNodes - previousNumberOfNodes; i++) {
                 graph.removeLastNode();
             }
-
         }
 
         function RemoveLastEdges() {
@@ -480,9 +388,7 @@
             for (var i = 0; i < numberOfEdges - previousNumberOfEdges; i++) {
                 graph.removeLastEdge();
             }
-
         }
-
 
         function simpleColour(colorId) {
             return 20000 * colorId;
@@ -501,8 +407,6 @@
         function redrawSameScene() {
             renderFrame.reDrawMeInSameScene();
         }
-
-       
 
 
     </script>
