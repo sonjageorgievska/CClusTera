@@ -112,13 +112,15 @@
     </style>
 </head>
 
-
-
 <body>
 
     <input type="text" name="search" id="search" class="textbox" />
     <button style="background-color:white" onclick="searchSequence()" name="button">Search</button>
+    <p> </p>
+    <input type="checkbox" name="showedges" id="showedges" />
 
+    <label> Show edges</label> 
+    
     <div id="frame"></div>
     <!--<div id="graph"></div>-->
     <div id="sliderObj" min="0" max="4" step="1" value="0" vertical="false" size="245"></div>
@@ -162,54 +164,18 @@
             httpRequest.open('GET', path);
             httpRequest.send();
         }
-
-
-       
-
-        function AddPointsFromList(data, parentid, level) //data is a list of a list. The latter has 4 numbers: id,  and 3 cooordinates
-        {
-            var y = parentid;
-            for (var point in data)
-            {
-                var pointid = point[0];
-                var coords = point.slice(1, 4);
-                var node = G.node(coords, {
-                    id: pointid,
-                    color: "rgb(" + 111 * level * (y + 1) % 256 + "," + 20 * level * (y + 1) % 256 + "," + 50 * level * (y + 1) % 256 + ")",
-                });
-                node.name = pointid;
-                node.addTo(graph);
-                G.edge([y, pointId], {
-                    color: "white",
-                }).addTo(graph);
-            }
-        }
-      
-
-        function AddLevelZero(data) //data is a list of lists. The latter has 4 numbers: id,  and 3 cooordinates
-        {           
-            for (var i = 0; i < data.length; i++) {
-                var point = data[i];
-                var pointid = point[0];
-                var coords = point.slice(1, 4);          
-                var red = Math.floor((coords[0] * coords[0] * 1643 % 256) + 1);
-                var green = Math.floor((coords[1] * coords[1] * 3288 % 256) + 1);
-                var blue = Math.floor((coords[2] * coords[2] * 4387 % 256) + 1);
-                var node = G.node(coords, {
-                    id: pointid,                   
-                });
-                node.setColor("rgb(" + red + "," + green + "," + blue + ")");
-                node.name = pointid;
-                node.addTo(graph);                
-            }
-        }
-
-        document.onkeydown = KeyPress;
-       
-        defineCombo();      
-
-        defineCombo2();
         
+        document.onkeydown = KeyPress;
+        var edgesShow = document.getElementById("showedges");
+
+        edgesShow.checked = true; 
+
+        edgesShow.onchange = function () {
+            redrawSameScene();
+        }
+        
+        defineCombo();      
+        defineCombo2();        
         var myColorpicker;
         defineColorPicker2();
 
@@ -233,16 +199,18 @@
 
         updateSliderPopupValue(mySlider.getValue())
 
-        var level = 0;
-        var count = 0;//counts the number of clicks on a node
         var pointsSet;
-        var previousNumberOfNodes = 0; //is used in ctrl+z
-        var previousNumberOfEdges = 0;
-        var clicked = false; //is used in ctrl+z
-        var lastOpenNode;
+        var previousNumberOfNodes = []; //is used in ctrl+z
+        var previousNumberOfEdges = [];
+        var clicked = 0; //is used in ctrl+z
+        var lastOpenNode = [];
         var nodesColor = "white";// "rgb(255,253,224)";
 
+        var CurrentDir = [];
+        var CurrentLevel = [];
 
+        var edges;//edges is a backup of the current edges in the graph, regardless of whether they are shown or not        
+            
         var graph = G.graph({
             nodeImage: "examples/eve-universe/disc.png",
             nodeImageTransparent: true,
@@ -251,163 +219,185 @@
             edgeWidth: 1,
             nodeSize: 10,
             hover: function (node) {             
-                $("#labelnode").text("Sequence id: " + node.getId());             
+                //$("#labelnode").text("Sequence id: " + node.getId());             
                 myPop.attachHTML("Sequence id: " + node.getId());
                 myPop.show(cursorX, cursorY, 3, 5); //params are: x, y, width, height
             },
-            mousedown: function (node) {
-                level++;
-                count++;
-                clicked = true;
-                $("#labelnode").text("Sequence id: " + node.getId());
-                previousNumberOfNodes = graph.getNodes().length;
-                previousNumberOfEdges = graph.getEdges().length;
-                AddLevelforNode(node);
-                redrawSameScene();
-                lastOpenNode = node;
+            mousedown: function (node) {                 
+                    clicked++;
+                    lastOpenNode[clicked] = node;
+
+                    previousNumberOfNodes[clicked] = graph.getNodes().length;
+                    if (edges == undefined)
+                    { previousNumberOfEdges[clicked] = 0; }
+                    else
+                    {
+                        previousNumberOfEdges[clicked] = edges.length;
+                    }                
+                    AddNextLevelForNode(node.getId());
+                    //if (graph._nodes.length == previousNumberOfNodes[clicked])
+                    //{
+                    //    lastOpenNode[clicked] = undefined;
+                    //    previousNumberOfNodes[clicked] = undefined;
+                    //    previousNumberOfEdges[clicked] = undefined;
+                    //    clicked--;
+                    //}
             }
         });
-
-        ////this requests the file and executes a callback with the parsed result once
-        //// it is available
-        //fetchJSONFile("data/data.js", function (data) {
-        //    // do something with your data
-        //    AddLevelZero(data.points);
-        //    var renderFrame = graph.renderIn("frame");
-        //    renderFrame.reDrawMe();
-        //    //alert(data[0]);
-        //});
+    
+        var renderFrame; 
+        //this requests the file and executes a callback with the parsed result once
+        // it is available
+        fetchJSONFile("data/data.js", function (data) {
+            // do something with your data
+            AddLevelZero(data.points);
+            renderFrame = graph.renderIn("frame");
+            renderFrame.reDrawMe();
+            //alert(data[0]);
+        });
 
         var oldgraph;
-        AddZeroLevel();
-        var renderFrame = graph.renderIn("frame");
-        renderFrame.reDrawMe();
+        
 
-        function AddZeroLevel() {
-            for (var i = 0; i < eve.points.length; i++) {
-                var system = eve.points[i];
-                var systemId = i; //system[0];
-                var x = lev[level];
-                var y = x[systemId];
-                if (y === "t") {
-                    var coords = system.slice(0, 4);
-                    var red = Math.floor((coords[0] * coords[0] * 1643 % 256) + 1);
-                    var green = Math.floor((coords[1] * coords[1] * 3288 % 256) + 1);
-                    var blue = Math.floor((coords[2] * coords[2] * 4387 % 256) + 1);
-
-
-                    var node = G.node(coords, {
-                        id: systemId,
-                        //color: colorn
-                    });
-                    node.setColor("rgb(" + red + "," + green + "," + blue + ")");
-                    node.name = systemId;
-                    if (graph._nodeIds[node.Id] == undefined) {//da se smeni
-                        node.addTo(graph);
-                    }
-                }
+        function AddLevelZero(data) //data is a list of lists. The latter has 4 numbers: id,  and 3 cooordinates
+        {
+            for (var i = 0; i < data.length; i++) {
+                var point = data[i];
+                var pointid = point[0];
+                var coords = point.slice(1, 4);
+                var red = Math.floor((coords[0] * coords[0] * 1643 % 256) + 1);
+                var green = Math.floor((coords[1] * coords[1] * 328 % 256) + 1);
+                var blue = Math.floor((coords[2] * coords[2] * 487 % 256) + 1);
+                var node = G.node(coords, {
+                    id: pointid,
+                });
+                node.setColor("rgb(" + red + "," + green + "," + blue + ")");
+                node.name = pointid;
+                node.addTo(graph);
+                CurrentDir[pointid] = "data";
             }
         }
 
-        function AddLevelforNode(parentnode) {
-            var added = false;//when a level has been added , you stop going deeper
-            for (var level = 1; level < lev.length; level++) {
-                if (!added) {
-                    for (var i = 0; i < eve.points.length; i++) {
-                        var system = eve.points[i];
-                        var systemId = i;//system[0];
-                        if (graph._nodeIds[systemId] == undefined) { //if the node with systemId is not yet in the graph 
-                            var x = lev[level]; //take the infor for the current level
-                            var y = x[systemId]; //take the string representing the level info
-                            if (y != "f" && y != "t") { // if the string is actually a parentID
-
-                                //var coords = system.slice(2, 6);
-                                var coords = system.slice(0, 4);
-                                var parentId = y;
-                                var parentNode1 = graph.getNode(parentId);
-                                if (parentId == parentnode.getId()) {//if 
-                                    var colorNode = parentNode1.getColor1();
-
-                                    var node = G.node(coords, {
-                                        id: systemId,
-                                        color: "rgb(" + 111 * level * (y + 1) % 256 + "," + 20 * level * (y + 1) % 256 + "," + 50 * level * (y + 1) % 256 + ")",
-                                    });
-                                    parentNode1.setColor(node.getColor());                           
-                                    node.name = systemId;
-                                    node.addTo(graph);
-                                    added = true;
-
-                                    G.edge([y, systemId], {
-                                        color: "white",
-                                    }).addTo(graph);
-
-                                }
-                            }
-                        }
-                    }
-                }
+        function IncrementCurrentLevelForNode(nodeId)
+        {
+            if (CurrentLevel[nodeId] == undefined)
+            {
+                CurrentLevel[nodeId] = 0;
             }
-
+            else 
+            {
+                CurrentLevel[nodeId]++; 
+            }
         }
 
-        function AddLevel(level) {
-            if (level > 0 && level < lev.length) {
-                for (var i = 0; i < eve.points.length; i++) {
-                    var system = eve.points[i];
-                    var systemId = i;//system[0];
-                    if (graph._nodeIds[systemId] == undefined) {
-                        var x = lev[level];
-                        var y = x[systemId];
-                        if (y != "f" && y != "t") {
-                            var coords = system.slice(0, 4);
-                            var parentId = y;
-                            var parentNode = graph.getNode(parentId);
-                            var node = G.node(coords, {
-                                id: systemId,
-                                color: "rgb(" + 111 * level * (y + 1) % 256 + "," + 20 * level * (y + 1) % 256 + "," + 50 * level * (y + 1) % 256 + ")",
-                            });
-                            parentNode.setColor(node.getColor());
-                            node.name = systemId;
-                            node.addTo(graph);
-                        }
-                    }
-                }
-            }
-
+        function AddNextLevelForNode(nodeId)
+        {
+            //this requests the file and executes a callback with the parsed result once
+            // it is available
+            var path = CurrentDir[nodeId] + "/" + nodeId + "/data.js";
+            IncrementCurrentLevelForNode(nodeId);   
+            fetchJSONFile(path, function (data) {
+                var dir = CurrentDir[nodeId];
+                AddPointsFromList(data.points, nodeId, CurrentLevel[nodeId], dir);               
+               
+                redrawSameScene();            
+            });          
         }
 
+        function LoadUpToLevel(sliderlevel)
+        {
+            //RemoveAllNodes();
+            //RemoveAllEdges();
+            //AddLevelZero();
+            var currentLevel = 0;
+            
+            while (currentLevel < sliderlevel )
+            {                
+                var nodes = graph.getNodes();
+                var numberOfNodes = nodes.length;
+                for (var i = 0; i < numberOfNodes; i++)
+                {
+                    var node = nodes[i];
+                    var id = node.getId();
+                    AddNextLevelForNode(id);
+                }
+                currentLevel++;
+            }
+        }
+
+
+        function AddPointsFromList(data, parentid, level, dir) //data is a list of a list. The latter has 4 numbers: id,  and 3 cooordinates
+        {
+            var y = parentid;
+            for (var i = 0; i < data.length; i++) {
+                var point = data[i];
+                var pointid = point[0];
+                var coords = point.slice(1, 4);
+                var node = G.node(coords, {
+                    id: pointid,
+                    color: "rgb(" + 111 * (level + 1) * (y + 1) % 256 + "," + 20 * (level + 1) * (y + 1) % 256 + "," + 50 * (level + 1) * (y + 1) % 256 + ")",
+                });
+               
+                node.addTo(graph);
+                CurrentDir[pointid] = dir + "/" + parentid;                        
+                
+                var newedge = G.edge([y, pointid], {
+                    color: "white",
+                });
+
+                newedge.addTo(graph);
+
+                if (edges == undefined)
+                {
+                    edges = graph._edges.slice();
+                }
+                else {
+                    edges.push(newedge)
+                }
+            }                                
+            
+        }
+
+        function AddLevel (level)
+        {
+        }
+    
         function RemoveLastNodes() {
             var numberOfNodes = graph.getNodes().length;
-            for (var i = 0; i < numberOfNodes - previousNumberOfNodes; i++) {
+            for (var i = 0; i < numberOfNodes - previousNumberOfNodes[clicked]; i++) {
                 graph.removeLastNode();
             }
         }
 
-        function RemoveLastEdges() {
-            var numberOfEdges = graph.getEdges().length;
-            for (var i = 0; i < numberOfEdges - previousNumberOfEdges; i++) {
-                graph.removeLastEdge();
-            }
+        function RemoveLastEdges() {//when the user has asked to close an open node           
+            edges.splice(previousNumberOfEdges[clicked], edges.length - previousNumberOfEdges[clicked]);
+        }
+      
+        function RemoveAllEdges() {//when the checkbox for show edges is unchecked
+            var numberOfEdges = graph._edges.length;         
+            graph._edges.splice(0, numberOfEdges);
         }
 
-        function simpleColour(colorId) {
-            return 20000 * colorId;
-        }
-
-        function addEdge(newedge) {
-            var edge = G.edge(newedge, { color: "blue" });
-            graph.addEdge(edge);
-            //renderFrame.reDrawMe();
-        }
-
+        // when the  checkbox for show edges is checked. edges is a backup of the current edges in the graph, regardless of whether they are shown or not
+        function ReturnAllEdges() {
+            graph._edges = edges.slice();
+        }                
+       
         function redraw() {
             renderFrame.reDrawMe();
         }
 
         function redrawSameScene() {
+            if (edgesShow.checked)
+            {
+                ReturnAllEdges();
+            }
+            else
+            {
+                RemoveAllEdges(); 
+            }
             renderFrame.reDrawMeInSameScene();
         }
-
 
     </script>
 </body>

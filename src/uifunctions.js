@@ -1,10 +1,14 @@
  function KeyPress(e) {
             var evtobj = window.event ? event : e
             if (evtobj.keyCode == 90 && evtobj.ctrlKey) {
-                if (clicked == true) {
-                    RemoveLastNodes();
+                if (clicked>0) {
                     RemoveLastEdges();
-                    clicked = false;                    
+                    RemoveLastNodes();                                                            
+                    var nodeId = lastOpenNode[clicked].getId();
+                    CurrentLevel[nodeId]--;
+                    var n = CurrentDir[nodeId].lastIndexOf("/");
+                    CurrentDir[nodeId] = CurrentDir[nodeId].substring(0, n);
+                    clicked--;
                     redrawSameScene();
                 }           
             }
@@ -25,7 +29,8 @@
          var sliderval = mySlider.getValue();
          $("#label2").text(sliderval);
          if (sliderval > 0) {
-             AddLevel(sliderval);
+             //AddLevel(sliderval);
+             LoadUpToLevel(sliderval);
              redrawSameScene();
          }
      });

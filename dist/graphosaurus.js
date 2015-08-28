@@ -30,54 +30,54 @@ module.exports = (function () {
         var distances = [],
             tmpPos = new THREE.Vector3(0, 0, 0),
             currFrame = 0;  // This will result in the first frame getting sorted
+        ////removed by sonja: buggy and not really needed. buggy because it changes the positions to NaN
+        //return function (bufferGeomAttributes, cameraPosition) {
+        //    if (currFrame > 0) {
+        //        if (currFrame > this.frameSkip) {
+        //            // Render next frame
+        //            currFrame = 0;
+        //        } else {
+        //            currFrame += 1;
+        //        }
+        //        return;
+        //    }
+        //    currFrame += 1;
 
-        return function (bufferGeomAttributes, cameraPosition) {
-            if (currFrame > 0) {
-                if (currFrame > this.frameSkip) {
-                    // Render next frame
-                    currFrame = 0;
-                } else {
-                    currFrame += 1;
-                }
-                return;
-            }
-            currFrame += 1;
+        //    var attributes = bufferGeomAttributes,
+        //        numPoints = attributes.position.length / 3;
 
-            var attributes = bufferGeomAttributes,
-                numPoints = attributes.position.length / 3;
+        //    for (var i = 0; i < numPoints; ++i) {
+        //        tmpPos.set(
+        //            attributes.position.array[i * 3],
+        //            attributes.position.array[i * 3 + 1],
+        //            attributes.position.array[i * 3 + 2]
+        //        );
+        //        distances[i] = [
+        //            cameraPosition.distanceTo(tmpPos), i];
+        //    }
+        //    distances.sort(function(a, b) {
+        //        return b[0] - a[0];
+        //    });
 
-            for (var i = 0; i < numPoints; ++i) {
-                tmpPos.set(
-                    attributes.position.array[i * 3],
-                    attributes.position.array[i * 3 + 1],
-                    attributes.position.array[i * 3 + 2]
-                );
-                distances[i] = [
-                    cameraPosition.distanceTo(tmpPos), i];
-            }
-            distances.sort(function(a, b) {
-                return b[0] - a[0];
-            });
+        //    for (var val in attributes) {
+        //        if (!attributes.hasOwnProperty(val)) { continue; }
 
-            for (var val in attributes) {
-                if (!attributes.hasOwnProperty(val)) { continue; }
+        //        var itemSize = attributes[val].itemSize;
+        //        var newArray = new Float32Array(itemSize * numPoints);
 
-                var itemSize = attributes[val].itemSize;
-                var newArray = new Float32Array(itemSize * numPoints);
+        //        for (i = 0; i < numPoints; ++i){
+        //            var index = distances[i][1];
+        //            for (var j = 0; j < itemSize; ++j) {
+        //                var srcIndex = index * itemSize + j;
+        //                var dstIndex = i * itemSize + j;
+        //                newArray[dstIndex] = attributes[val].array[srcIndex];
+        //            }
+        //        }
 
-                for (i = 0; i < numPoints; ++i){
-                    var index = distances[i][1];
-                    for (var j = 0; j < itemSize; ++j) {
-                        var srcIndex = index * itemSize + j;
-                        var dstIndex = i * itemSize + j;
-                        newArray[dstIndex] = attributes[val].array[srcIndex];
-                    }
-                }
-
-                attributes[val].array = newArray;
-                attributes[val].needsUpdate = true;
-            }
-        };
+        //        attributes[val].array = newArray;
+        //        attributes[val].needsUpdate = true;
+        //    }
+        //};
     }());
 
     return BufferGeometrySorter;
@@ -18375,6 +18375,7 @@ THREE.BufferGeometry.prototype = {
 	computeBoundingSphere: function () {
 
 
+        
 
 		var box = new THREE.Box3();
 
@@ -18462,7 +18463,7 @@ THREE.BufferGeometry.prototype = {
 
 				if ( isNaN( this.boundingSphere.radius ) ) {
 
-				    //this.boundingSphere.radius = 1;
+				    this.boundingSphere.radius = 1.5;
 
 				    THREE.error('THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. Radius2 is' + maxRadiusSq);
 
@@ -71269,7 +71270,8 @@ module.exports = (function () {
 	Frame.prototype.reDrawMeInSameScene = function () {
 	    //this._initScene();
 	    //this._initRenderer(this.width, this.height, this.elem);
-	    this._initNodes(this.graph.getNodes());
+	    var nodes = this.graph.getNodes(); 
+	    this._initNodes(nodes);
 	    //this._normalizeNodes();
 	    this._initEdges(this.graph.getEdges());
 
@@ -71294,8 +71296,11 @@ module.exports = (function () {
         this.points.computeBoundingSphere();
         var sphere = this.points.boundingSphere;
 
+        //var optimalDistance = (
+        //    sphere.radius * 1.5 / Math.tan(this.graph._fov / 2));
+
         var optimalDistance = (
-            sphere.radius * 1.5 / Math.tan(this.graph._fov / 2));
+            sphere.radius * 2.0 / Math.tan(this.graph._fov / 2));
 
         this.camera.position.x = sphere.center.x + optimalDistance;
         this.camera.position.y = sphere.center.y;
@@ -71306,7 +71311,7 @@ module.exports = (function () {
 
     Frame.prototype._initNodes = function (nodes) {
         var self = this;
-
+        
         var material = new THREE.PointCloudMaterial({
             size: this.graph._nodeSize,
             vertexColors: true,
@@ -71358,8 +71363,21 @@ module.exports = (function () {
             this.pointCloud.sortParticles = true;
         }
 
+
+
+        //for (var i = 0; i < pointsSet.attributes.id.array.length;  i++) {
+        //    var spritey = makeTextSprite(" " + i + " ", { fontsize: 32, backgroundColor: { r: 255, g: 100, b: 100, a: 1 } });
+        //    spritey.position = pointsSet.attributes.position.splice(i * 3, 3).clone().multiplyScalar(1.1);
+        //    scene.add(spritey);
+        //}
+
+
         this.scene.add(this.pointCloud);
+
+
     };
+
+
 
     Frame.prototype._normalizeNodes = function () {
         this.points.computeBoundingSphere();
@@ -71485,25 +71503,7 @@ module.exports = (function () {
         if (this.graph._mousedown) {
             elem.addEventListener(
                 'mousedown', createMouseHandler(this.graph._mousedown), false);
-        }
-
-
-        //function createWheelHandler(evt) {
-            
-
-        //    var d = ((typeof evt.wheelDelta != "undefined") ? (-evt.wheelDelta) : evt.detail);
-        //    d = -0.1 * ((d > 0) ? 1 : -1);
-        //    var factor = d;
-        //    mX = (event.clientX / window.innerWidth) * 2 - 1;
-        //    mY = -(event.clientY / window.innerHeight) * 2 + 1;
-        //    var vector = new THREE.Vector3(mX, mY, 0);
-        //    vector.unproject(self.camera);
-        //    vector.sub(self.camera.position);
-        //    self.camera.position.addVectors(self.camera.position, vector.setLength(factor));
-        //    self.controls.target.addVectors(self.controls.target, vector.setLength(factor));       
-        //}       
-        
-        //elem.addEventListener('mousewheel', createWheelHandler, false);
+        }        
 
     };
 
@@ -71536,7 +71536,7 @@ module.exports = (function () {
         // Update near/far camera range
         (function animate() {
             self._updateCameraBounds();
-            sorter.sort(self.points.attributes, self.controls.object.position);
+            //sorter.sort(self.points.attributes, self.controls.object.position);
 
             window.requestAnimationFrame(animate);
             self.controls.update();
@@ -71610,15 +71610,16 @@ module.exports = (function () {
         return this;
     };
 
-    Graph.prototype.addNode = function (node) {
+    Graph.prototype.addNode = function (node) {//changed by sonja, was buggy (was adding a node even if it existed)
         var id = node.getId();
 
         if (id !== undefined) {
-            this._nodeIds[id] = node;
+            if (this._nodeIds[id] == undefined) //if there does not exist a node with this id
+            {
+                this._nodeIds[id] = node;
+                this._nodes.push(node);
+            }
         }
-
-        this._nodes.push(node);
-
         return this;
     };
     
@@ -71629,118 +71630,25 @@ module.exports = (function () {
         var nodeslength = mynodes.length;
         var nodetoremove = mynodes[nodeslength - 1];
         var id = nodetoremove.getId();
+        if (id == 0)
+        {
+            var p;
+        }
         this._nodeIds[id] = undefined;
-        //this._nodes.splice(nodeslength - 1, 1);
         this._nodes.pop();
         return this;
     };
-
-    //Graph.prototype.removeNode = function (node) {//to repair !! *****
-
-    //    var mynodes = this.getNodes();
-    //        var nodeslength = mynodes.length;
-    //        var nodetoremove = mynodes[nodeslength - 1];
-    //        var id = nodetoremove.getId();
-    //        this._nodeIds[id] = undefined;
-            
-    //    this._nodes.splice(index, 1);
-
-    //    return this;
-    //};
-
-
+    
     Graph.prototype.removeLastEdge = function () {
 
         var myEdges = this.getEdges();
         var edgeslength = myEdges.length;
-        //var edgetoremove = myEdges[edgeslength - 1];
-        //var id = edgetoremove
+        var edgetoremove = myEdges[edgeslength - 1];
+        //var id = edgetoremove.getId();
         //this._edgeIds[id] = undefined;
-        this._edges.splice(edgeslength - 1, 1);
+        this._edges.pop();
         return this;
     };
-
-    //Graph.prototype.removeSubTree = function (node) {
-
-    //    var myEdges = this.getEdges();
-    //    var leng = myEdges.length;
-    //    for ( var i=0; i< leng; i++ )
-    //    {
-    //        var edge = myEdges[i];
-                
-    //        var edgeNodes = edge.getNodes(); 
-    //        if (edgeNodes[0].getId() == node.getId())
-    //        {
-    //            graph.removeEdge(i);
-    //            graph.removeSubTree(edgeNodes[1]);
-    //        }
-            
-    //    }
-    //    graph.removeNode(nodeIndex);
-        
-    //};
-
-    //Graph.prototype.removeEdge = function (edgeIndex)
-    //{    
-        
-    //    this._edges.splice(edgeIndex, 1);
-    //    return this;
-    //}
-
-    //Graph.prototype.removeAllNodes = function () {
-
-    //    var mynodes = this.getNodes();
-    //    var nodeslength = mynodes.length;
-    //    while (nodeslength > 0) {
-    //        this.removeLastNode();
-    //        var mynodes = this.getNodes();
-    //        var nodeslength = mynodes.length;
-    //    }
-
-    //}
-
-    //Graph.prototype.removeAllEdges = function () {
-
-    //    var myedges = this.getEdges();
-    //    var edgeslength = myedges.length;
-    //    while (edgeslength > 0) {
-    //        this.removeLastEdge();
-    //        var myedges = this.getEdges();
-    //        var edgeslength = myedges.length;
-    //    }
-
-    //}
-
-    //Graph.prototype.removeLastNode = function () {
-
-	//	var mynodes = this.getNodes();
-	//	var nodeslength = mynodes.length;
-	//	var nodetoremove = mynodes[nodeslength-1];
-	//	var id = nodetoremove.getId();
-	//	this._nodeIds[id] = undefined;
-	//	this._nodes.splice(nodeslength-1, 1);
-
-    //    return this;
-    //};
-
-    //Graph.prototype.removeAllNodes = function()
-    //{
-
-    //    var mynodes = this.getNodes();
-    //    var nodeslength = mynodes.length;
-
-    //    this._nodes.splice(0, nodeslength);
-
-    //}
-
-    //Graph.prototype.removeAllEdges = function () {
-
-    //    var myedges = this.getEdges();
-    //    var edgeslength = myedges.length;
-
-    //    this._edges.splice(0, edgeslength);
-
-    //}
 
     Graph.prototype.getNode = function (id) {
         return this._nodeIds[id];
