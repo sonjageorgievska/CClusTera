@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1808,0.46847243628495455,0.489876034946169,0.56669034249433847],[1809,0.46216347962721627,0.49213979411722236,0.56467230872201135]],"relations":null}
+{"titles":null,"points":[[1808,0.35691997634014194,0.76252252341351223,0.36567335013475721,"Cyberlindnera amylophila","Cyberlindnera amylophila","Cyberlindnera","","Saccharomycetales",3,6,3],[1809,0.3611571522065381,0.75924139671176794,0.36937366740727984,"Cyberlindnera amylophila","Cyberlindnera amylophila","Cyberlindnera","","Saccharomycetales",3,6,3]]}

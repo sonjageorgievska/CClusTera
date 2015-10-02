@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1356,0.62671001748305122,1.1005694971475781,0.60413015787079494]],"relations":null}
+{"titles":null,"points":[[1356,0.28823438524701078,0.39526000231155045,0.82818823407717,"Metschnikowia australis","Metschnikowia australis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",2,3,7]]}

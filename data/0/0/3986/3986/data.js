@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3986,0.23576986095806807,1.0539034956594284,0.41397287289818552]],"relations":null}
+{"titles":null,"points":[[3986,0.75612091626776512,0.16627992650222837,0.4189196758245684,"Candida rhizophoriensis","Candida rhizophoriensis","Candida","","Saccharomycetales",7,1,3]]}

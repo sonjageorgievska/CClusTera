@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1503,0.45232591452276605,0.52530399583873966,0.50054610698155177]],"relations":null}
+{"titles":null,"points":[[1503,0.463230621300831,0.77458095548308248,0.84321323986142249,"Candida insectorum","Candida insectorum","Candida","","Saccharomycetales",4,6,7]]}

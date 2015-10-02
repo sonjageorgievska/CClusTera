@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3418,0.52210712294592954,0.49887101774393661,0.64843702767398648]],"relations":null}
+{"titles":null,"points":[[3418,0.316864064361806,0.44021313324391675,0.46675312918024991,"Pseudozyma alboarmeniaca","Pseudozyma alboarmeniaca","Pseudozyma","Ustilaginaceae","Ustilaginales",3,3,4]]}

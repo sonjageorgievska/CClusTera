@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2718,0.41156146102124852,0.66305339038055322,0.44151990323293683]],"relations":null}
+{"titles":null,"points":[[2718,0.17928683412197483,0.36344577141557377,0.72330806837215689,"Candida pseudoflosculorum","Candida pseudoflosculorum","Candida","","Saccharomycetales",1,2,6]]}

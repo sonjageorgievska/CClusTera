@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2938,1.051369995762977,-0.12391520454506977,1.1425725828900692]],"relations":null}
+{"titles":null,"points":[[2938,1.2456287401785222,0.32921969709115945,0.30394916719530868,"Metschnikowia koreensis","Metschnikowia koreensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",2,2,2]]}

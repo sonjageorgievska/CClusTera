@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1571,0.33287992633018831,0.804203019421712,0.24970318632125862]],"relations":null}
+{"titles":null,"points":[[1571,0.34898328962772368,0.34480165374426425,0.754400860161604,"Wickerhamomyces mucosus","Wickerhamomyces mucosus","Wickerhamomyces","","Saccharomycetales",3,2,6]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1692,0.94729490749345135,0.57980247555625974,0.514065959421476]],"relations":null}
+{"titles":null,"points":[[1692,0.46429939001700782,0.52962623157419442,0.57405136815551383,"Yamadazyma philogaea","Yamadazyma philogaea","Yamadazyma","Saccharomycetaceae","Saccharomycetales",4,4,5]]}

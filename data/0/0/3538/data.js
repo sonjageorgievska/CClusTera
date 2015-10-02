@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3538,0.48299016771864489,0.39272493332254305,0.28869282912532407]],"relations":null}
+{"titles":null,"points":[[3538,0.41292558481288844,0.640161349522736,0.67111369390919917,"Dioszegia butyracea","Dioszegia butyracea","Dioszegia","Tremellaceae","Tremellales",4,5,6]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1993,0.44571377396773337,0.49634102726578566,0.47772591060858877],[2336,0.55381792783089934,0.42386192719035304,0.38212808683300292]],"relations":null}
+{"titles":null,"points":[[1993,0.20244168128241216,0.39093340721962616,0.7017748463444291,"Sporobolomyces oryzicola","Sporobolomyces oryzicola","Sporobolomyces","","Sporidiobolales",2,3,6],[2336,0.59269739806804411,0.37086368971782319,0.579032525484103,"Sporobolomyces coprosmae","Sporobolomyces coprosmae","Sporobolomyces","","Sporidiobolales",5,2,5]]}

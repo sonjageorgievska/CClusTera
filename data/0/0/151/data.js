@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[151,0.68113495273713276,0.38518049145805633,0.2593146646533967],[152,0.63332921981840651,0.61045385858245627,0.56793764129939683]],"relations":null}
+{"titles":null,"points":[[151,0.25714048541196832,0.53966931251201111,0.13803142200920363,"Rhodotorula aurantiaca","Rhodotorula aurantiaca","Rhodotorula","","Sporidiobolales",2,4,1],[152,0.38703866874298609,0.61723285314332088,0.17288904099083791,"Rhodotorula aurantiaca","Rhodotorula aurantiaca","Rhodotorula","","Sporidiobolales",3,4,1]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4199,0.36373613898857732,0.8977814037799996,0.24097310958613977]],"relations":null}
+{"titles":null,"points":[[4199,0.47875689509109137,0.7314756649405566,0.54808562305314146,"Candida adriatica","Candida adriatica","Candida","","Saccharomycetales",4,5,4]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3636,0.51402016454776822,0.48506151017305715,0.68009813711770206],[3637,0.51461570370487864,0.48841969670177288,0.68218809318200146]],"relations":null}
+{"titles":null,"points":[[3636,0.68458814430759884,0.3702142671023011,0.22602690227153496,"Candida thaimueangensis","Candida thaimueangensis","Candida","","Saccharomycetales",6,2,2],[3637,0.68721205693117737,0.36725275848244315,0.22661388543852909,"Candida thaimueangensis","Candida thaimueangensis","Candida","","Saccharomycetales",6,2,2]]}

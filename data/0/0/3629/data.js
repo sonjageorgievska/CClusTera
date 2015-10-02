@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3629,0.84530987593320039,0.574224067416891,0.57659836321311064]],"relations":null}
+{"titles":null,"points":[[3629,0.62427594300773182,0.632260677511956,0.22017547010867844,"Trigonopsis californica","Trigonopsis californica","Trigonopsis","","Saccharomycetales",6,5,1]]}

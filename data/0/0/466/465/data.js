@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[465,0.13764678026600141,0.46846549392978676,0.43180416007877587]],"relations":null}
+{"titles":null,"points":[[465,0.2939244702329748,0.70884891705302455,0.62988120871471653,"Lipomyces lipofer","Lipomyces lipofer","Lipomyces","Lipomycetaceae","Saccharomycetales",2,5,5]]}

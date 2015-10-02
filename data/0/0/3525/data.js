@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3525,0.70767701862490984,0.82709269254823181,0.49253969887447679],[3767,0.46075430102907194,0.60246310806896364,0.436825863472159]],"relations":null}
+{"titles":null,"points":[[3525,0.36250320342929171,0.45236850355368691,0.34134678328611295,"Cryptococcus dejecticola","Cryptococcus dejecticola","Cryptococcus","Tremellaceae","Tremellales",3,3,3],[3767,0.47227694583217184,0.66456534493709385,0.580439695521492,"Cryptococcus pinus","Cryptococcus pinus","Cryptococcus","Tremellaceae","Tremellales",4,5,5]]}

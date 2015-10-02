@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[138,0.7022785429318843,0.59417860221944663,0.25741112155916618],[660,0.31610237928059914,0.630920700838756,0.45876017654268431]],"relations":null}
+{"titles":null,"points":[[138,0.52210224779157188,0.41315219528169334,0.5423666714819636,"Hanseniaspora osmophila","Hanseniaspora osmophila","Hanseniaspora","Saccharomycodaceae","Saccharomycetales",5,3,4],[660,0.43652269688556394,0.37047108262285222,0.51801456215657726,"Hanseniaspora vineae","Hanseniaspora vineae","Hanseniaspora","Saccharomycodaceae","Saccharomycetales",4,2,4]]}

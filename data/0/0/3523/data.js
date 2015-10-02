@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3523,0.52716972568202558,0.54934076256202768,0.810773384789162],[3605,0.7576192042573866,0.14723876254307045,0.76637406112950845]],"relations":null}
+{"titles":null,"points":[[3523,0.46451945922190646,0.3020367423826002,0.43995137398090073,"Blastobotrys robertii","Blastobotrys robertii","Blastobotrys","Trichomonascaceae","Saccharomycetales",4,2,3],[3605,0.59867711745239838,0.25327098437802875,0.51938375075300891,"Blastobotrys muscicola","Blastobotrys muscicola","Blastobotrys","Trichomonascaceae","Saccharomycetales",5,2,4]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3129,0.39156174822357837,0.45717012292573034,0.38796323541170646],[3130,0.3920328088717932,0.45882022566125213,0.38693597554783138]],"relations":null}
+{"titles":null,"points":[[3129,0.76726810743753737,0.64712388116484332,0.24289311312061088,"Blastobotrys indianaensis","Blastobotrys indianaensis","Blastobotrys","Trichomonascaceae","Saccharomycetales",7,5,2],[3130,0.76545435903913883,0.64796355843976827,0.24282059538978612,"Blastobotrys indianaensis","Blastobotrys indianaensis","Blastobotrys","Trichomonascaceae","Saccharomycetales",7,5,2]]}

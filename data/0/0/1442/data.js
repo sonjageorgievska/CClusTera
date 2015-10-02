@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1442,0.529464319278388,0.53037588339746489,0.36740524542342773]],"relations":null}
+{"titles":null,"points":[[1442,0.39771841968899291,0.43552465563959891,0.7782077265708266,"Brettanomyces naardenensis","Brettanomyces naardenensis","Brettanomyces","Pichiaceae","Saccharomycetales",3,3,7]]}

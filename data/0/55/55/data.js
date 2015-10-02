@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[55,0.87456853546026769,0.51262922805813516,0.53892757755573029],[599,0.87297684582562884,0.50236028217488793,0.546738805023544]],"relations":null}
+{"titles":null,"points":[[55,0.76693276529329213,0.40101835906203775,0.24268826746944922,"Candida glabrata","Candida glabrata","Candida","","Saccharomycetales",7,3,2],[599,0.76274336616687111,0.41015501110921621,0.25093269130185464,"Debaryomyces marama","Debaryomyces marama","Debaryomyces","Saccharomycetaceae","Saccharomycetales",7,3,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2563,0.58490721194727024,0.5267925475323354,0.87689654611313661]],"relations":null}
+{"titles":null,"points":[[2563,0.25698404737415365,0.53211745281411738,0.55919991030937388,"Bullera hannae","Bullera hannae","Bullera","Tremellaceae","Tremellales",2,4,5]]}

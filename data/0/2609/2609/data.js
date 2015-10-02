@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2609,0.5731045580666283,0.43064713346206,0.49042336712587065]],"relations":null}
+{"titles":null,"points":[[2609,0.41743832979321444,0.4123256970824562,0.41392245082621526,"Pseudozyma abaconensis","Pseudozyma abaconensis","Pseudozyma","Ustilaginaceae","Ustilaginales",4,3,3]]}

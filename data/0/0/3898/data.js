@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3898,0.45902567841452524,0.41328989646926928,0.4655320783700273]],"relations":null}
+{"titles":null,"points":[[3898,0.59090264436848794,0.80521510665107032,0.55848509430061666,"Sporobolomyces koalae","Sporobolomyces koalae","Sporobolomyces","","Sporidiobolales",5,6,5]]}

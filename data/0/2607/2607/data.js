@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2607,0.56511710261267134,0.85570627215582273,0.38787278283235482]],"relations":null}
+{"titles":null,"points":[[2607,0.77247754979173255,0.576362741153883,0.69970822468734029,"Kurtzmanomyces insolitus","Kurtzmanomyces insolitus","Kurtzmanomyces","Chionosphaeraceae","Agaricostilbales",7,4,6]]}

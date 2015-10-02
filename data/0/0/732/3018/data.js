@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3018,0.45092722680379593,0.52045319026784276,0.4581434915397784],[3019,0.45091442371981572,0.520467355424198,0.45814454225481943]],"relations":null}
+{"titles":null,"points":[[3018,0.61693633992147334,0.47615285194929385,0.47213521644792861,"Sporobolomyces vermiculatus","Sporobolomyces vermiculatus","Sporobolomyces","","Sporidiobolales",6,3,4],[3019,0.61693799209929523,0.47615241891783211,0.47213425577744256,"Sporobolomyces vermiculatus","Sporobolomyces vermiculatus","Sporobolomyces","","Sporidiobolales",6,3,4]]}

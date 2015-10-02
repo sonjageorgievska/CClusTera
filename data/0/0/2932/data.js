@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2932,0.30999157976800357,0.35563884167234611,0.69739785730320514]],"relations":null}
+{"titles":null,"points":[[2932,0.18864989355575559,0.3061231365806622,0.62558623762743681,"Candida caryicola","Candida caryicola","Candida","","Saccharomycetales",1,2,5]]}

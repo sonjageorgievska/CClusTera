@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4264,0.85819003748507616,0.95018719180760558,0.92426541707509613]],"relations":null}
+{"titles":null,"points":[[4264,0.15875459880203016,0.17235025980468471,0.30597001385671124,"Starmerella aceti","Starmerella aceti","Starmerella","Saccharomycetaceae","Saccharomycetales",1,1,2]]}

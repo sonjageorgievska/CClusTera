@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3585,0.67133568932583243,0.43921068878223773,0.50344586860616491]],"relations":null}
+{"titles":null,"points":[[3585,0.42917764372836376,0.40558950666890858,0.7979943506843451,"Candida aglyptini","Candida aglyptini","Candida","","Saccharomycetales",4,3,7]]}

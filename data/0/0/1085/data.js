@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1085,0.44350963936487359,0.78519599303675913,0.45126188773337433],[2112,0.37413303256440378,0.38324672386804132,0.7835656545007661]],"relations":null}
+{"titles":null,"points":[[1085,0.4713862390619451,0.64113661344148354,0.58370710250682989,"Trichomonascus ciferrii","Trichomonascus ciferrii","Trichomonascus","Endomycetaceae","Saccharomycetales",4,5,5],[2112,0.4750587661567684,0.86400458510363121,0.14223924488609158,"Candida mucifera","Candida mucifera","Candida","","Saccharomycetales",4,6,1]]}

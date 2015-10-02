@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1034,0.54665321632851493,0.58228042572364036,0.66030232862053573]],"relations":null}
+{"titles":null,"points":[[1034,0.41414255917183646,0.57586391558796546,0.43454275887940469,"Cryptococcus terricola","Cryptococcus terricola","Cryptococcus","Tremellaceae","Tremellales",4,4,3]]}

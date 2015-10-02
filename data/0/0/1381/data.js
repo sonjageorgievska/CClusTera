@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1381,0.46160350292513525,0.37752855900671606,0.35759826342338513]],"relations":null}
+{"titles":null,"points":[[1381,0.45289282032123718,0.34496018393464728,0.48437387895695394,"Candida fennica","Candida fennica","Candida","","Saccharomycetales",4,2,4]]}

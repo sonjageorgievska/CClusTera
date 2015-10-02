@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[480,0.26391291062474692,0.25012120862459675,0.27494562851746551]],"relations":null}
+{"titles":null,"points":[[480,0.30763456147443108,0.45767712612237821,0.51509135219974522,"Candida pararugosa","Candida pararugosa","Candida","","Saccharomycetales",3,3,4]]}

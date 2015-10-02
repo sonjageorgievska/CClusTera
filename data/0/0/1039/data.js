@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1039,0.042296913412498027,0.3764775852168924,0.35794034825540472],[1041,0.30497326363961069,0.56829030842062112,0.45966470694112277]],"relations":null}
+{"titles":null,"points":[[1039,0.43018504677852992,0.69602970665533881,0.31178829028190685,"Wickerhamia fluorescens","Wickerhamia fluorescens","Wickerhamia","Saccharomycodaceae","Saccharomycetales",4,5,2],[1041,0.56459383867261848,0.34978702601531081,0.45136268468785168,"Wickerhamia fluorescens","Wickerhamia fluorescens","Wickerhamia","Saccharomycodaceae","Saccharomycetales",5,2,4]]}

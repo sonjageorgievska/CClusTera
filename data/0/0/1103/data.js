@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1103,0.18380923211274491,0.34880477742700033,0.17910079385047115]],"relations":null}
+{"titles":null,"points":[[1103,0.62935854407578173,0.50751121402687926,0.60004717515713557,"Candida oregonensis","Candida oregonensis","Candida","","Saccharomycetales",6,4,5]]}

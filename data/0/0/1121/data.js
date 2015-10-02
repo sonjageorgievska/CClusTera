@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1121,0.82475854482051425,0.65419656297500883,0.379673681786445]],"relations":null}
+{"titles":null,"points":[[1121,0.3158596990786296,0.44776845701937285,0.56452729781652711,"Middelhovenomyces tepae","Middelhovenomyces tepae","Middelhovenomyces","","",3,3,5]]}

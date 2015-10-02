@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3346,0.45882080085921073,0.76711544541969179,0.52299301271394649]],"relations":null}
+{"titles":null,"points":[[3346,0.52426063421348434,0.21373140249720285,0.30500994596335634,"Candida derodonti","Candida derodonti","Candida","","Saccharomycetales",5,1,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2547,0.52983278770851472,0.693671220551154,0.73492836086811664]],"relations":null}
+{"titles":null,"points":[[2547,0.16590465288483372,0.69828848394140408,0.1644739916427494,"Fellomyces mexicanus","Fellomyces mexicanus","Fellomyces","Cuniculitremaceae","Tremellales",1,5,1]]}

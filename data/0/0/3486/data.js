@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3486,0.62156300696878541,0.49293715201891175,0.6323795856506883]],"relations":null}
+{"titles":null,"points":[[3486,0.75839867872106914,0.53076075438615222,0.61875594141620438,"Dipodascus tetrasporeus","Dipodascus tetrasporeus","Dipodascus","Dipodascaceae","Saccharomycetales",7,4,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3488,0.56958959483339722,0.258013055420746,0.39920106823098572],[3489,0.572213476948347,0.25194640952846847,0.39689649662989346]],"relations":null}
+{"titles":null,"points":[[3488,0.24093309264682772,0.19883108465588734,0.26240022851928063,"Pseudozyma shanxiensis","Pseudozyma shanxiensis","Pseudozyma","Ustilaginaceae","Ustilaginales",2,1,2],[3489,0.23671127327113997,0.19502299686131966,0.25831676081303717,"Pseudozyma shanxiensis","Pseudozyma shanxiensis","Pseudozyma","Ustilaginaceae","Ustilaginales",2,1,2]]}

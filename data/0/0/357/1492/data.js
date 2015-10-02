@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1492,0.49037206189565868,0.51332258281087439,0.29980020525734141],[1493,0.49035459731503661,0.51332127933640381,0.29978866610853244]],"relations":null}
+{"titles":null,"points":[[1492,0.65373052701629841,0.579117648728483,0.28291109926627434,"Hyphopichia heimii","Hyphopichia heimii","Hyphopichia","Saccharomycetaceae","Saccharomycetales",6,4,2],[1493,0.65373014223076165,0.579119541733657,0.28291071635855231,"Hyphopichia heimii","Hyphopichia heimii","Hyphopichia","Saccharomycetaceae","Saccharomycetales",6,4,2]]}

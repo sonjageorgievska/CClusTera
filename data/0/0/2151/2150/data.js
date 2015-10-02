@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2150,0.52689867889013231,0.6571459126208623,0.63032827902009214]],"relations":null}
+{"titles":null,"points":[[2150,0.38151471512305396,0.67256479510789935,0.22919620683414682,"Myxozyma udenii","Myxozyma udenii","Myxozyma","Lipomycetaceae","Saccharomycetales",3,5,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3427,0.5754955562426306,0.58965930966037816,0.742738409914699]],"relations":null}
+{"titles":null,"points":[[3427,0.50119768572016121,0.65450947790768765,0.45923225749718394,"Trichosporon cavernicola","Trichosporon cavernicola","Trichosporon","Trichosporonaceae","Tremellales",5,5,4]]}

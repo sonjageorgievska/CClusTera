@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3155,0.058851650577211922,0.38974047341232204,0.78619838811900289]],"relations":null}
+{"titles":null,"points":[[3155,0.15007636283918746,0.86525109854471194,0.2038525052356174,"Leucosporidium golubevii","Leucosporidium golubevii","Leucosporidium","Sporidiobolaceae","Sporidiobolales",1,6,1]]}

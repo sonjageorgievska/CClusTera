@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1814,0.66905038359164559,0.55581895655549662,0.68964553000787976],[1815,0.6690688029028713,0.55581957367205592,0.68965355097739722]],"relations":null}
+{"titles":null,"points":[[1814,0.66883005178782418,0.34177145018916349,0.59204503150825183,"Schwanniomyces yamadae","Schwanniomyces yamadae","Schwanniomyces","Saccharomycetaceae","Saccharomycetales",6,2,5],[1815,0.66883150492480825,0.34177050666211112,0.59204592680407131,"Schwanniomyces yamadae","Schwanniomyces yamadae","Schwanniomyces","Saccharomycetaceae","Saccharomycetales",6,2,5]]}

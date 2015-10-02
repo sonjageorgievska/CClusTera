@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[918,0.72170746477414871,0.4822557558184542,0.48102849064788983]],"relations":null}
+{"titles":null,"points":[[918,0.37844217720933093,0.54409663482416237,0.4096799395659555,"Rhodotorula bogoriensis","Rhodotorula bogoriensis","Rhodotorula","","Sporidiobolales",3,4,3]]}

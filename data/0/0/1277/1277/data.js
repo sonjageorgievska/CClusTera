@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1276,0.47366668417720881,0.42886370197418039,0.57779849048245013],[1277,0.4736490219456031,0.4288565260533484,0.57779626901842107]],"relations":null}
+{"titles":null,"points":[[1276,0.39819892164455861,0.77210434904186909,0.45865632582407623,"Millerozyma acaciae","Millerozyma acaciae","Millerozyma","Debaryomycetaceae","Saccharomycetales",3,6,4],[1277,0.39819950786628427,0.77210445859737231,0.45865820231305043,"Millerozyma acaciae","Millerozyma acaciae","Millerozyma","Debaryomycetaceae","Saccharomycetales",3,6,4]]}

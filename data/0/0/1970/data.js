@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1970,0.33172236797547067,0.45294230002184072,0.56502594498091407]],"relations":null}
+{"titles":null,"points":[[1970,0.31829514411547266,0.56905108195923182,0.5714892826315342,"Malassezia sympodialis","Malassezia sympodialis","Malassezia","","Malasseziales",3,4,5]]}

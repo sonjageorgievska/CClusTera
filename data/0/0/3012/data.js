@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3012,0.75779606590904758,0.88314008690676649,0.11205494314609646]],"relations":null}
+{"titles":null,"points":[[3012,0.92856388883505,0.6073160952142802,0.24043201612079895,"Candida davenportii","Candida davenportii","Candida","","Saccharomycetales",9,4,2]]}

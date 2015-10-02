@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3583,0.91265815204613843,0.55740801779823523,0.94686312203505885]],"relations":null}
+{"titles":null,"points":[[3583,0.20558451477531459,0.50577788562438508,0.20058841425686008,"Cryptococcus mujuensis","Cryptococcus mujuensis","Cryptococcus","Tremellaceae","Tremellales",2,4,1]]}

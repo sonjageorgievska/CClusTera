@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2648,0.67754351544308722,0.52352100314461536,0.42451982136583288],[2887,0.67626389571862044,0.52445644451841678,0.42330018092826993]],"relations":null}
+{"titles":null,"points":[[2648,0.47423877202516662,0.70386193467922031,0.37383491461069268,"Wickerhamiella lipophila","Wickerhamiella lipophila","Wickerhamiella","","Saccharomycetales",4,5,3],[2887,0.47392400648371363,0.70466822019027875,0.37203190980521589,"Wickerhamiella lipophila","Wickerhamiella lipophila","Wickerhamiella","","Saccharomycetales",4,5,3]]}

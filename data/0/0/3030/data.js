@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3030,0.59202964006774128,0.405263074814891,0.21192880730023897]],"relations":null}
+{"titles":null,"points":[[3030,0.32973851558601353,0.49280726269636088,0.0632528148877878,"Starmerella meliponinorum","Starmerella meliponinorum","Starmerella","Saccharomycetaceae","Saccharomycetales",3,3,0]]}

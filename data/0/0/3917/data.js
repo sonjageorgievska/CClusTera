@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3917,1.0311649998443309,0.2118504004987791,0.57624758431300571]],"relations":null}
+{"titles":null,"points":[[3917,0.25624868010025553,0.23552698136940461,0.49259328334902092,"Geotrichum siamensis","Geotrichum siamensis","Geotrichum","Dipodascaceae","Saccharomycetales",2,1,4]]}

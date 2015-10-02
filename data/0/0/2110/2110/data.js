@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2110,-0.13894600541194005,0.635018808482351,0.52493545326857338]],"relations":null}
+{"titles":null,"points":[[2110,0.13293361428236211,0.33379978167865954,0.57157028369362939,"Lipomyces smithiae","Lipomyces smithiae","Lipomyces","Lipomycetaceae","Saccharomycetales",1,2,5]]}

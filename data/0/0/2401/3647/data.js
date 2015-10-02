@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3647,0.288478025258186,0.42160432110160534,0.4811499734298969]],"relations":null}
+{"titles":null,"points":[[3647,0.41145241226789669,0.33061851646809343,0.51966763296059293,"Bandoniozyma glucofermentans","Bandoniozyma glucofermentans","Bandoniozyma","","Tremellales",4,2,4]]}

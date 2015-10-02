@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3992,-0.00028835082921912337,0.68038710885475751,0.47652895276787832]],"relations":null}
+{"titles":null,"points":[[3992,0.36877196744143531,0.59575317302935671,-0.060938925690041092,"Kazachstania taianensis","Kazachstania taianensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",3,4,0]]}

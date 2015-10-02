@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2716,0.60857628999942481,0.41057016029188692,0.74401873211202318]],"relations":null}
+{"titles":null,"points":[[2716,0.50053513044835263,0.51166014769703527,0.56130203241178378,"Candida vaughaniae","Candida vaughaniae","Candida","","Saccharomycetales",5,4,5]]}

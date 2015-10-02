@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2045,0.71948161775579877,0.67459124624878763,0.5595134172400561],[3535,0.514189468882565,0.38035976369844265,0.40421199066722291]],"relations":null}
+{"titles":null,"points":[[2045,0.45036200703961832,0.5834690968527011,0.4390080847272676,"Bensingtonia naganoensis","Bensingtonia naganoensis","Bensingtonia","Agaricostilbaceae","Agaricostilbales",4,4,3],[3535,0.47368671018620778,0.61796479000647919,0.47682153917141296,"Bensingtonia pseudonaganoensis","Bensingtonia pseudonaganoensis","Bensingtonia","Agaricostilbaceae","Agaricostilbales",4,4,4]]}

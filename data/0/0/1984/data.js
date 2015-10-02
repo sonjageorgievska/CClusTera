@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1984,0.55300840875797785,0.46709884857994494,0.46831160839459812]],"relations":null}
+{"titles":null,"points":[[1984,0.50439231867132528,0.63594196922931823,0.32569418694739771,"Mastigobasidium intermedium","Mastigobasidium intermedium","Mastigobasidium","Leucosporidiaceae","Leucosporidiales",5,5,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2398,0.22237834079259913,0.74066918653315017,0.82446231004271731]],"relations":null}
+{"titles":null,"points":[[2398,0.37137887250287432,0.3792267233375306,0.86923597722167867,"Candida paludigena","Candida paludigena","Candida","","Saccharomycetales",3,3,7]]}

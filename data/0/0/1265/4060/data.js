@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4060,0.50671153678442449,0.66281515003314173,0.37227687913721597],[4061,0.50669491956164159,0.66282568453665036,0.37228304090208247]],"relations":null}
+{"titles":null,"points":[[4060,0.53193982348967683,0.480800077747075,0.62644502010080039,"Candida nakhonratchasimensis","Candida nakhonratchasimensis","Candida","","Saccharomycetales",5,3,5],[4061,0.53193972519819843,0.48079949205962713,0.62644687414907041,"Candida nakhonratchasimensis","Candida nakhonratchasimensis","Candida","","Saccharomycetales",5,3,5]]}

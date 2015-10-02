@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1097,0.52832070843461154,0.42437217442799713,0.69084904353845078],[1100,0.60015826527519345,0.14267412551148273,0.29103849776219204]],"relations":null}
+{"titles":null,"points":[[1097,0.4988670881642977,0.70701335313094948,0.44395229646414369,"Cryptococcus skinneri","Cryptococcus skinneri","Cryptococcus","Tremellaceae","Tremellales",4,5,3],[1100,0.18046257685162734,0.3589541229267425,0.57665180193546373,"Cryptococcus skinneri","Cryptococcus skinneri","Cryptococcus","Tremellaceae","Tremellales",1,2,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4047,0.72112290029016157,0.41676470822335887,0.7134290099128715]],"relations":null}
+{"titles":null,"points":[[4047,0.51254203332175763,0.53359366306294742,0.70650806077923767,"Candida tanticharoeniae","Candida tanticharoeniae","Candida","","Saccharomycetales",5,4,6]]}

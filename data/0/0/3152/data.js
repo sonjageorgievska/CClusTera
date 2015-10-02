@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3152,0.40122644842673694,0.529474464819847,0.40304187346741155]],"relations":null}
+{"titles":null,"points":[[3152,0.15294272562278191,0.7353847273380093,0.473024808951287,"Auriculibuller fuscus","Auriculibuller fuscus","Auriculibuller","Tremellaceae","Tremellales",1,5,4]]}

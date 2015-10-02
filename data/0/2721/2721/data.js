@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2721,0.53753193379802433,0.50568384616832207,0.46199262476259606]],"relations":null}
+{"titles":null,"points":[[2721,0.23191017179566845,0.57296094545589171,0.62049686075557731,"Candida eppingiae","Candida eppingiae","Candida","","Saccharomycetales",2,4,5]]}

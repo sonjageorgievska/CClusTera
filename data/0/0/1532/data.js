@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1532,0.25611974447908764,0.4467215284545103,0.47137709889727142]],"relations":null}
+{"titles":null,"points":[[1532,0.59208744611301056,0.38959490828310145,0.3908986128036866,"Rhodotorula philyla","Rhodotorula philyla","Rhodotorula","","Sporidiobolales",5,3,3]]}

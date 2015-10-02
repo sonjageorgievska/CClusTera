@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2559,0.50032792700125717,0.644797986698046,0.27679022411112675]],"relations":null}
+{"titles":null,"points":[[2559,0.33176058608613651,0.41074394730217867,0.48530517297498676,"Hannaella coprosmaensis","Hannaella coprosmaensis","Hannaella","","Tremellales",3,3,4]]}

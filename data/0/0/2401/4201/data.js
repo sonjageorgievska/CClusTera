@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4201,0.2298202317961765,0.46676875954320596,0.535675963407914]],"relations":null}
+{"titles":null,"points":[[4201,0.405403580466901,0.31442965321417293,0.57684637662208571,"Bandoniozyma visegradensis","Bandoniozyma visegradensis","Bandoniozyma","","Tremellales",4,2,5]]}

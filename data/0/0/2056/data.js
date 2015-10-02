@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2056,0.79632474881094639,0.2911162343620779,0.45591083161429896]],"relations":null}
+{"titles":null,"points":[[2056,0.49030678715556014,0.48111435609996206,0.63271921161458611,"Ogataea methylivora","Ogataea methylivora","Ogataea","Saccharomycetaceae","Saccharomycetales",4,3,5]]}

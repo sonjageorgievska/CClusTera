@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3891,0.75912629371799711,0.34241343220918419,0.68162017679407128],[3894,0.75911228371697459,0.342410236707853,0.68160536604490551]],"relations":null}
+{"titles":null,"points":[[3891,0.53482581726026079,0.38324491681625944,0.310584790006914,"Candida orthopsilosis","Candida orthopsilosis","Candida","","Saccharomycetales",5,3,2],[3894,0.53482600792439761,0.3832463125548638,0.31058614166662274,"Candida orthopsilosis","Candida orthopsilosis","Candida","","Saccharomycetales",5,3,2]]}

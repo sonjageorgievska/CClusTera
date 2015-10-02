@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3710,0.82829014764244568,0.20745990305533035,0.542006825234684]],"relations":null}
+{"titles":null,"points":[[3710,0.33402593110222445,0.49678455767884167,0.2313677079392365,"Candida touchengensis","Candida touchengensis","Candida","","Saccharomycetales",3,3,2]]}

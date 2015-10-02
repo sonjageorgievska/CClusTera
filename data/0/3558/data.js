@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3558,0.68966669786706192,0.16959742114754051,0.4225024523190502]],"relations":null}
+{"titles":null,"points":[[3558,0.4742845198130029,0.67996826222860673,0.603169438211125,"Farysizyma setubalensis","Farysizyma setubalensis","Farysizyma","","Ustilaginales",4,5,5]]}

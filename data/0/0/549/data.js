@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[549,0.58844125151258619,0.40133022799963275,0.35815524217332956]],"relations":null}
+{"titles":null,"points":[[549,0.42086337003550428,0.47596125479185913,0.42777893007408724,"Trichosporon debeurmannianum","Trichosporon debeurmannianum","Trichosporon","Trichosporonaceae","Tremellales",4,3,3]]}

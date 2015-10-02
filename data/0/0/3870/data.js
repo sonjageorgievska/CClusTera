@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3870,0.065033344766441334,0.43591466145644503,0.5697896152325761]],"relations":null}
+{"titles":null,"points":[[3870,0.27055621306851096,0.6946975964912252,0.64820761877482547,"Asterotremella nantouana","Asterotremella nantouana","Asterotremella","Trichosporonaceae","Tremellales",2,5,5]]}

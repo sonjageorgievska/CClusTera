@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3928,0.31978420098428884,0.675203799296919,0.34650161778504174],[3929,0.3174424600186217,0.669485754551353,0.33995790220920685]],"relations":null}
+{"titles":null,"points":[[3928,0.3215033671398681,0.9140189756335908,0.47632849471824368,"Rhodotorula straminea","Rhodotorula straminea","Rhodotorula","","Sporidiobolales",3,7,4],[3929,0.3199128793680695,0.91421094290771754,0.48518476352702677,"Rhodotorula straminea","Rhodotorula straminea","Rhodotorula","","Sporidiobolales",3,7,4]]}

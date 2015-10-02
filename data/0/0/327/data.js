@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[327,0.4876317882978593,0.55050058642087341,0.4885296317648592],[1487,0.64573194269821876,0.50359794517630008,0.56122620501835307]],"relations":null}
+{"titles":null,"points":[[327,0.64511304133901126,0.51144902941457071,0.570269119957754,"Yarrowia lipolytica","Yarrowia lipolytica","Yarrowia","","Saccharomycetales",6,4,5],[1487,0.524476980631513,0.46569962935068404,0.58913059826937531,"Yarrowia lipolytica","Yarrowia lipolytica","Yarrowia","","Saccharomycetales",5,3,5]]}

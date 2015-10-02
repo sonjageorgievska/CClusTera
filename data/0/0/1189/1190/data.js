@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1190,0.20456226894455928,0.54786333406599774,0.46480724960304487]],"relations":null}
+{"titles":null,"points":[[1190,0.56998843475165906,0.21859354585790938,0.5647319060637892,"Kodamaea ohmeri","Kodamaea ohmeri","Kodamaea","Saccharomycetaceae","Saccharomycetales",5,1,5]]}

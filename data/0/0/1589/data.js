@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1589,0.56777899014923072,0.6511358254629066,0.56238252656977039]],"relations":null}
+{"titles":null,"points":[[1589,0.58495157606283366,0.51887209997576511,0.68067850543525388,"Cystofilobasidium capitatum","Cystofilobasidium capitatum","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales",5,4,6]]}

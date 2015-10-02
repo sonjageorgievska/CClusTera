@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2011,0.37430273619474819,0.723148631177675,0.31854704083644503],[2012,0.37431786233822151,0.72316046681773161,0.31854282956019]],"relations":null}
+{"titles":null,"points":[[2011,0.70788479151736494,0.522504143140159,0.14682797064160591,"Bensingtonia yamatoana","Bensingtonia yamatoana","Bensingtonia","Agaricostilbaceae","Agaricostilbales",7,4,1],[2012,0.70788676192524091,0.52250435347114943,0.14682784286046216,"Bensingtonia yamatoana","Bensingtonia yamatoana","Bensingtonia","Agaricostilbaceae","Agaricostilbales",7,4,1]]}

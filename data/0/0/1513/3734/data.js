@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3734,0.47905579444690172,0.69004746936653738,0.28701557375361453],[3735,0.47905635496805621,0.69006602834849129,0.28701099419369125]],"relations":null}
+{"titles":null,"points":[[3734,0.79868160450367831,0.46318667009969333,0.42749903948289725,"Scheffersomyces lignicola","Scheffersomyces lignicola","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",7,3,3],[3735,0.79868346096451848,0.4631859634889528,0.4274985687730819,"Scheffersomyces lignicola","Scheffersomyces lignicola","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",7,3,3]]}

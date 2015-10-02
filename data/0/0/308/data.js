@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[308,0.47339926326146781,0.70121989409245944,0.37058216988190179],[4133,0.64178407111810043,0.751183207767069,0.35421331387313915]],"relations":null}
+{"titles":null,"points":[[308,0.58609283049815342,0.40973872257941291,0.46147768991391724,"Cryptococcus curvatus","Cryptococcus curvatus","Cryptococcus","Tremellaceae","Tremellales",5,3,4],[4133,0.55571580857141112,0.358933980195207,0.48444581959895988,"Cryptococcus cyanovorans","Cryptococcus cyanovorans","Cryptococcus","Tremellaceae","Tremellales",5,2,4]]}

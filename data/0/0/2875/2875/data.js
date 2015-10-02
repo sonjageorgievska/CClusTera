@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2874,0.69427203292275352,0.1361660198619844,0.762527799686692],[2875,0.69516953770621792,0.13609149054089603,0.76296246109970267]],"relations":null}
+{"titles":null,"points":[[2874,0.71388119691171037,0.18146165907735939,0.36885168091131287,"Pichia sporocuriosa","Pichia sporocuriosa","Pichia","Saccharomycetaceae","Saccharomycetales",7,1,3],[2875,0.71432403452922444,0.18210169418291866,0.36822378768140263,"Pichia sporocuriosa","Pichia sporocuriosa","Pichia","Saccharomycetaceae","Saccharomycetales",7,1,3]]}

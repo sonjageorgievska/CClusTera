@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4227,0.68925064656545154,0.82173584573459213,0.62043596154844693]],"relations":null}
+{"titles":null,"points":[[4227,0.37912639352547722,0.937005893354728,0.37950322563078309,"Meredithblackwellia eburnea","Meredithblackwellia eburnea","Meredithblackwellia","Kriegeriaceae","Kriegeriales",3,7,3]]}

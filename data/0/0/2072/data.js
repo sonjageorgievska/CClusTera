@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2072,0.56459656246061163,0.26046261563781964,0.78814485297257464]],"relations":null}
+{"titles":null,"points":[[2072,0.3516882186692632,0.45332153866499342,0.39647120512774742,"Lipomyces japonicus","Lipomyces japonicus","Lipomyces","Lipomycetaceae","Saccharomycetales",3,3,3]]}

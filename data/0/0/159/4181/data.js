@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4181,0.44954872133100687,0.666255834617465,0.54026181457284883]],"relations":null}
+{"titles":null,"points":[[4181,0.46162985732260453,0.68839998050930407,0.42800586174823685,"Cystobasidium ritchiei","Cystobasidium ritchiei","Cystobasidium","Platygloeaceae","Platygloeales",4,5,3]]}

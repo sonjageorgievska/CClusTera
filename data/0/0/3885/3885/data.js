@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3885,1.0261089144193021,0.18771137638337238,0.64862877300527233]],"relations":null}
+{"titles":null,"points":[[3885,0.64319563018706394,0.75647400325980829,0.72845334964947572,"Ambrosiozyma pseudovanderkliftii","Ambrosiozyma pseudovanderkliftii","Ambrosiozyma","","Saccharomycetales",6,6,6]]}

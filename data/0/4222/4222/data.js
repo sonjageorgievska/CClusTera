@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4222,0.92519473966956822,0.2114019361643438,0.23839260263388926]],"relations":null}
+{"titles":null,"points":[[4222,0.66833097438150957,0.54893979823006556,0.12776015275254593,"Tortispora ganteri","Tortispora ganteri","Tortispora","Trigonopsidaceae","Saccharomycetales",6,4,1]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3517,0.44199439958060793,0.56060533331648954,0.35161425391623774]],"relations":null}
+{"titles":null,"points":[[3517,0.56600972312282172,0.46156497100833493,0.40424468315838796,"Kregervanrija pseudodelftensis","Kregervanrija pseudodelftensis","Kregervanrija","Saccharomycetaceae","Saccharomycetales",5,3,3]]}

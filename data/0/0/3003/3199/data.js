@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3199,0.24257467393962312,0.23306924352571068,0.54448854955583337],[3200,0.24256443112464657,0.23306172474801806,0.54450234183703794]],"relations":null}
+{"titles":null,"points":[[3199,0.38432633547596445,0.71153485838259389,0.45974064626960226,"Metschnikowia dekortorum","Metschnikowia dekortorum","Metschnikowia","Metschnikowiaceae","Saccharomycetales",3,5,4],[3200,0.38432487692780853,0.71153609034386611,0.45974108773141642,"Metschnikowia dekortorum","Metschnikowia dekortorum","Metschnikowia","Metschnikowiaceae","Saccharomycetales",3,5,4]]}

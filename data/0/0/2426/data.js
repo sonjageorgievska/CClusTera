@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2426,0.28029415439312089,0.63483670448506424,0.555928229510752],[2428,0.48833871408426144,0.757824961866995,0.46752524131954759]],"relations":null}
+{"titles":null,"points":[[2426,0.27662197120961629,0.5541159840927502,0.666200691049492,"Sporobolomyces foliicola","Sporobolomyces foliicola","Sporobolomyces","","Sporidiobolales",2,4,5],[2428,0.61249663546304978,0.65658173144010767,0.33527972419275415,"Sporobolomyces foliicola","Sporobolomyces foliicola","Sporobolomyces","","Sporidiobolales",6,5,3]]}

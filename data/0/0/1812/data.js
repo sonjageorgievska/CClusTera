@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1812,0.91942231057042467,0.051620973373403649,0.26185359650198836]],"relations":null}
+{"titles":null,"points":[[1812,0.56028925088304593,0.849299241483353,0.77693797743879112,"Candida methanosorbosa","Candida methanosorbosa","Candida","","Saccharomycetales",5,6,6]]}

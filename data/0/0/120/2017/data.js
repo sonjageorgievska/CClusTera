@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2017,0.56571097942029136,0.55383116144609268,0.719367524677347]],"relations":null}
+{"titles":null,"points":[[2017,0.673913471446339,0.27166019100910271,0.5743628147653066,"Pichia cephalocereana","Pichia cephalocereana","Pichia","Saccharomycetaceae","Saccharomycetales",6,2,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1220,0.43793841094439984,0.32833454184073341,0.47797195706037759]],"relations":null}
+{"titles":null,"points":[[1220,0.63120797894320757,0.54109460030291612,0.58666069549526578,"Nakazawaea anatomiae","Nakazawaea anatomiae","Nakazawaea","Saccharomycetaceae","Saccharomycetales",6,4,5]]}

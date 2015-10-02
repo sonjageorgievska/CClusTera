@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3772,0.26199054234699776,0.24905078829176541,0.50496087753704921],[3773,0.26200946472309877,0.24905084335225913,0.5049529035285456]],"relations":null}
+{"titles":null,"points":[[3772,0.29232363987515259,0.5201732158607264,0.69150310924114655,"Pichia garciniae","Pichia garciniae","Pichia","Saccharomycetaceae","Saccharomycetales",2,4,6],[3773,0.29232294874156234,0.52017475929475643,0.69150408837123256,"Pichia garciniae","Pichia garciniae","Pichia","Saccharomycetaceae","Saccharomycetales",2,4,6]]}

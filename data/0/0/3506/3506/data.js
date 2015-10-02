@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3506,0.31152044375490756,0.4242994097971366,0.22165994483187482],[3507,0.30940630698541738,0.42093858413133567,0.22117489167604049]],"relations":null}
+{"titles":null,"points":[[3506,0.28542343329619163,0.38517843161153131,0.53288338064772833,"Cryptococcus silvicola","Cryptococcus silvicola","Cryptococcus","Tremellaceae","Tremellales",2,3,4],[3507,0.28349298545112006,0.38321609338417117,0.5339838837174955,"Cryptococcus silvicola","Cryptococcus silvicola","Cryptococcus","Tremellaceae","Tremellales",2,3,4]]}

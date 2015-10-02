@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3250,0.49700599211772456,0.69203132594978556,0.25065745362529662],[3506,0.31152044375490756,0.4242994097971366,0.22165994483187482]],"relations":null}
+{"titles":null,"points":[[3250,0.43968096875508739,0.52133713999418907,0.47087349172070564,"Bullera taiwanensis","Bullera taiwanensis","Bullera","Tremellaceae","Tremellales",4,4,4],[3506,0.28542343329619163,0.38517843161153131,0.53288338064772833,"Cryptococcus silvicola","Cryptococcus silvicola","Cryptococcus","Tremellaceae","Tremellales",2,3,4]]}

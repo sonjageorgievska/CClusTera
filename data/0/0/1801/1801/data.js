@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1801,0.60757407671883135,-0.049800595072461588,0.21373170357047761]],"relations":null}
+{"titles":null,"points":[[1801,0.3770670947005933,0.25927049318173473,0.042815813836351642,"Phaffomyces thermotolerans","Phaffomyces thermotolerans","Phaffomyces","Phaffomycetaceae","Saccharomycetales",3,2,0]]}

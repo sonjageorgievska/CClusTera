@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1811,0.14424701746589133,0.58846802989877067,0.41185189803884492]],"relations":null}
+{"titles":null,"points":[[1811,0.65455065461406614,0.52929978756151019,0.56388300164047556,"Cyberlindnera mississippiensis","Cyberlindnera mississippiensis","Cyberlindnera","","Saccharomycetales",6,4,5]]}

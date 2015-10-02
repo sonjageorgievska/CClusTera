@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4166,0.409007804173703,0.19256912258814418,0.45677712845384]],"relations":null}
+{"titles":null,"points":[[4166,0.79538602837171779,0.3250661669544111,0.44143936082517155,"Candida taoyuanica","Candida taoyuanica","Candida","","Saccharomycetales",7,2,3]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2083,0.89042996470431113,0.18740810560145724,0.81858271478739431],[2084,0.90019340455682,0.19533543708423648,0.82187401510924]],"relations":null}
+{"titles":null,"points":[[2083,0.22031513169110784,0.35048491089882217,0.67564730811098084,"Myxozyma kluyveri","Myxozyma kluyveri","Myxozyma","Lipomycetaceae","Saccharomycetales",2,2,6],[2084,0.21593870966980694,0.36210583681837832,0.67949451632781321,"Myxozyma kluyveri","Myxozyma kluyveri","Myxozyma","Lipomycetaceae","Saccharomycetales",2,2,6]]}

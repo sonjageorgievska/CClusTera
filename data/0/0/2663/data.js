@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2663,0.42358142071376642,0.74391009303832678,0.25437092770412889]],"relations":null}
+{"titles":null,"points":[[2663,0.45126363119896085,0.91217901140542335,0.5530728864441905,"Candida arabinofermentans","Candida arabinofermentans","Candida","","Saccharomycetales",4,7,4]]}

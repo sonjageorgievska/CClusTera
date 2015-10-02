@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2270,0.35726325691182392,0.68536758434010014,0.52171539543314172]],"relations":null}
+{"titles":null,"points":[[2270,0.59035183083559661,0.66888097240470223,0.46613512342518443,"Tortispora caseinolytica","Tortispora caseinolytica","Tortispora","Trigonopsidaceae","Saccharomycetales",5,5,4]]}

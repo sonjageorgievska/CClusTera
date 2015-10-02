@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2409,0.50902478464989531,0.4790120343655479,0.63284076778170983]],"relations":null}
+{"titles":null,"points":[[2409,0.567285173404341,0.5633781723533372,0.40927081190086412,"Candida kofuensis","Candida kofuensis","Candida","","Saccharomycetales",5,4,3]]}

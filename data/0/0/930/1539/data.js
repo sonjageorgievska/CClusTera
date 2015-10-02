@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1539,0.31171331639736177,0.68005203041563744,0.59928925158116153]],"relations":null}
+{"titles":null,"points":[[1539,0.58703720827550043,0.61078463872529742,0.655896025035208,"Ambrosiozyma philentoma","Ambrosiozyma philentoma","Ambrosiozyma","","Saccharomycetales",5,4,5]]}

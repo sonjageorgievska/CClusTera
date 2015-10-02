@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1224,0.97179965208289631,0.941639754497911,0.67804784359026482]],"relations":null}
+{"titles":null,"points":[[1224,0.52755125353001264,0.86109165719828917,0.78401807010303948,"Ambrosiozyma oregonensis","Ambrosiozyma oregonensis","Ambrosiozyma","","Saccharomycetales",5,6,7]]}

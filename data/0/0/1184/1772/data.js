@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1772,0.71124250623453322,0.5058613858607629,0.51364683228592822],[1773,0.71246876406179716,0.50796899685840446,0.5118991859762595]],"relations":null}
+{"titles":null,"points":[[1772,0.24715798377974943,0.69312969686831571,0.63220754571088655,"Candida pseudointermedia","Candida pseudointermedia","Candida","","Saccharomycetales",2,5,5],[1773,0.24756157991717154,0.6932404029835435,0.62923688007606471,"Candida pseudointermedia","Candida pseudointermedia","Candida","","Saccharomycetales",2,5,5]]}

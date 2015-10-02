@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2256,0.44277021399026684,0.67319774396975429,0.57820644739920057]],"relations":null}
+{"titles":null,"points":[[2256,0.69293527563192092,0.71701199571765628,0.69879202531059426,"Candida fragi","Candida fragi","Candida","","Saccharomycetales",6,5,6]]}

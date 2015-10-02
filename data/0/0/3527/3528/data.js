@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3528,0.45347841574618541,0.49760634200544407,0.37387105135424847]],"relations":null}
+{"titles":null,"points":[[3528,0.31785641574430251,0.39325420162341751,0.21992137511969948,"Cryptococcus bestiolae","Cryptococcus bestiolae","Cryptococcus","Tremellaceae","Tremellales",3,3,1]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3901,0.672165328069586,0.42466125900880203,0.32887156021136571]],"relations":null}
+{"titles":null,"points":[[3901,0.37642630531772947,0.57248469362865417,0.72378012040507034,"Candida takamatsuzukensis","Candida takamatsuzukensis","Candida","","Saccharomycetales",3,4,6]]}

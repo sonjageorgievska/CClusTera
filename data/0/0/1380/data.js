@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1380,0.37834931288931639,0.53331967965092353,0.50945889012012813]],"relations":null}
+{"titles":null,"points":[[1380,0.48667883489079111,0.38074371197000589,0.48782989753710421,"Candida grinbergsii","Candida grinbergsii","Candida","","Saccharomycetales",4,3,4]]}

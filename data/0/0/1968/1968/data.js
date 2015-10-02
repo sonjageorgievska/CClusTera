@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1968,0.64494215016341216,0.64609509449409452,0.18046026668268164],[1969,0.64658702598993156,0.64701452453010277,0.18113036512636016]],"relations":null}
+{"titles":null,"points":[[1968,0.42796422800651762,0.41625772216592255,0.68728452681325392,"Myxozyma geophila","Myxozyma geophila","Myxozyma","Lipomycetaceae","Saccharomycetales",4,3,6],[1969,0.4272545835653288,0.41680606627837063,0.68907218547794247,"Myxozyma geophila","Myxozyma geophila","Myxozyma","Lipomycetaceae","Saccharomycetales",4,3,6]]}

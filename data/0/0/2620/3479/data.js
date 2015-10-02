@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3478,0.44788805270846294,0.4539288755308285,0.46721889281952544],[3479,0.4478989047183109,0.45393116743735984,0.46723474311595414]],"relations":null}
+{"titles":null,"points":[[3478,0.7742717859600009,0.23840097907485447,0.35890065088658862,"Metschnikowia hamakuensis","Metschnikowia hamakuensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",7,1,3],[3479,0.77427062045353112,0.23840141898071565,0.35890220834248343,"Metschnikowia hamakuensis","Metschnikowia hamakuensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",7,1,3]]}

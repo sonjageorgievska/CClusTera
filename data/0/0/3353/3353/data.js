@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3352,0.36340237452788038,0.84815054004577117,0.26222210075003893],[3353,0.36338733204113172,0.84814371596267546,0.26221195772321587]],"relations":null}
+{"titles":null,"points":[[3352,0.3672285813287357,0.23617667480249902,0.81247540344849745,"Geotrichum cucujoidarum","Geotrichum cucujoidarum","Geotrichum","Dipodascaceae","Saccharomycetales",3,1,7],[3353,0.36723016809283437,0.23617727678874353,0.81247434740413627,"Geotrichum cucujoidarum","Geotrichum cucujoidarum","Geotrichum","Dipodascaceae","Saccharomycetales",3,1,7]]}

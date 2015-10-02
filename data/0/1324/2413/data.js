@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2413,0.09344366117405499,0.41889196006215995,0.289492135470641]],"relations":null}
+{"titles":null,"points":[[2413,0.21235538416482958,0.56170952038014621,0.18603729770555968,"Sporopachydermia quercuum","Sporopachydermia quercuum","Sporopachydermia","","Saccharomycetales",2,4,1]]}

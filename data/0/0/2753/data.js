@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2753,0.443889159720486,0.50191289310495291,0.3735669940878853]],"relations":null}
+{"titles":null,"points":[[2753,0.57179716146166348,0.443225513447983,0.43960968735396622,"Kockovaella sacchari","Kockovaella sacchari","Kockovaella","Cuniculitremaceae","Tremellales",5,3,3]]}

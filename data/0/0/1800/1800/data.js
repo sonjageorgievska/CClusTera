@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1799,0.2158958073066766,0.39710274173530352,0.555161403119892],[1800,0.21589930112696584,0.39708645333724141,0.55515105538803944]],"relations":null}
+{"titles":null,"points":[[1799,0.41916171467537938,0.50396351824577312,0.638177731762799,"Wickerhamomyces alni","Wickerhamomyces alni","Wickerhamomyces","","Saccharomycetales",4,4,5],[1800,0.41916357796872161,0.50396317281560188,0.63817726137527664,"Wickerhamomyces alni","Wickerhamomyces alni","Wickerhamomyces","","Saccharomycetales",4,4,5]]}

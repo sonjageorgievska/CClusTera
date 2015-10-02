@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3915,0.53938411242611339,0.48825196784776809,0.20419453274106036]],"relations":null}
+{"titles":null,"points":[[3915,0.33917452079200094,0.46344601981660316,0.502744060546894,"Candida suratensis","Candida suratensis","Candida","","Saccharomycetales",3,3,4]]}

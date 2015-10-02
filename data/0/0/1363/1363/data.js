@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1363,0.44428944947945426,0.531628366942815,0.27518869744886404]],"relations":null}
+{"titles":null,"points":[[1363,0.20254388876704,0.40184338215560678,0.47101238118515043,"Lipomyces tetrasporus","Lipomyces tetrasporus","Lipomyces","Lipomycetaceae","Saccharomycetales",2,3,4]]}

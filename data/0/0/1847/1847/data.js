@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1847,1.0603202077052618,0.64838549012073721,0.52368336918566871]],"relations":null}
+{"titles":null,"points":[[1847,0.49626018547046463,0.1856581365281392,0.47110670372865115,"Clavispora opuntiae","Clavispora opuntiae","Clavispora","Metschnikowiaceae","Saccharomycetales",4,1,4]]}

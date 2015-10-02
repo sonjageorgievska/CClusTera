@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3378,0.79773292672984475,0.22856053755464767,0.85482985818173618]],"relations":null}
+{"titles":null,"points":[[3378,0.077202119084755133,0.58330186328481937,0.310020352746961,"Cryptococcus taiwaniana","Cryptococcus taiwaniana","Cryptococcus","Tremellaceae","Tremellales",0,4,2]]}

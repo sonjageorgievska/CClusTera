@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1374,0.25072873893182174,0.2971587943599337,0.611168348070926]],"relations":null}
+{"titles":null,"points":[[1374,0.5764709098211751,0.65035957624143548,0.52154675758353619,"Sterigmatomyces elviae","Sterigmatomyces elviae","Sterigmatomyces","Agaricostilbaceae","Agaricostilbales",5,5,4]]}

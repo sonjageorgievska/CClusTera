@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3903,0.65248361719349313,0.53462618568946785,0.6321952457677158]],"relations":null}
+{"titles":null,"points":[[3903,0.43975741299470378,0.61708131299854208,0.63358474683451949,"Candida tumulicola","Candida tumulicola","Candida","","Saccharomycetales",4,4,5]]}

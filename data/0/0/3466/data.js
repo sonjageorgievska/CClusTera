@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3466,0.63092849986417865,0.73192235555300622,0.42302526632939408],[3530,0.30522625400061371,0.72224782836280033,0.60935904231331073]],"relations":null}
+{"titles":null,"points":[[3466,0.538610829713852,0.45774324570580688,0.38797286181591911,"Dioszegia catarinonii","Dioszegia catarinonii","Dioszegia","Tremellaceae","Tremellales",5,3,3],[3530,0.617121807812567,0.31965025274890485,0.17559683309096852,"Dioszegia athyri","Dioszegia athyri","Dioszegia","Tremellaceae","Tremellales",6,2,1]]}

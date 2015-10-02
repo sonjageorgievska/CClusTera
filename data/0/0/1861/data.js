@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1861,0.2499113665641883,0.35849726785565694,0.25544146894207709],[3219,0.5958771706900069,0.6541005303800963,0.27358571854183811]],"relations":null}
+{"titles":null,"points":[[1861,0.69193733448392025,0.536614486062787,0.24234892420087692,"Barnettozyma pratensis","Barnettozyma pratensis","Barnettozyma","","Saccharomycetales",6,4,2],[3219,0.61708012930055733,0.5977800894115135,0.42512673918004495,"Candida qinlingensis","Candida qinlingensis","Candida","","Saccharomycetales",6,4,3]]}

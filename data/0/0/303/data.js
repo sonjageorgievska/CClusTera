@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[303,0.28056819017549567,0.536422093404942,0.58293686332122263]],"relations":null}
+{"titles":null,"points":[[303,0.52291448428118026,0.48238056148615871,0.43847755921862819,"Cryptococcus heveanensis","Cryptococcus heveanensis","Cryptococcus","Tremellaceae","Tremellales",5,3,3]]}

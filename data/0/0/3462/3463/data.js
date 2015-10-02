@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3463,0.57491826695716963,0.45647319275018977,0.58995477146050657]],"relations":null}
+{"titles":null,"points":[[3463,0.3203259837818237,0.30376708466942909,0.5382540644237066,"Cryptococcus amylolyticus","Cryptococcus amylolyticus","Cryptococcus","Tremellaceae","Tremellales",3,2,4]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3809,0.27848007418687343,0.76079879173499154,0.38947653354537026]],"relations":null}
+{"titles":null,"points":[[3809,0.60796028680933678,0.64150337693000825,0.74583581675743049,"Mrakia psychrophila","Mrakia psychrophila","Mrakia","Cystofilobasidiaceae","Cystofilobasidiales",6,5,6]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2497,0.41632009949291243,0.51988666296118025,0.33960771707408183]],"relations":null}
+{"titles":null,"points":[[2497,0.65614803761007445,0.53931711026885154,0.45256937407473841,"Scheffersomyces coipomoensis","Scheffersomyces coipomoensis","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",6,4,4]]}

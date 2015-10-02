@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4260,0.31877067290844158,0.520944023482332,0.58084450931219034]],"relations":null}
+{"titles":null,"points":[[4260,0.48682433623456295,0.46764521260438036,0.62884385616170846,"Yarrowia bubula","Yarrowia bubula","Yarrowia","","Saccharomycetales",4,3,5]]}

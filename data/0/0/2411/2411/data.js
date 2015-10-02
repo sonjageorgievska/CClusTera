@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2411,0.73884851852487221,0.47515072787349655,0.21654699153723422],[2412,0.73811779173267211,0.47554314327003511,0.21836689497195849]],"relations":null}
+{"titles":null,"points":[[2411,0.55175460471389082,0.52308648075132358,0.71274353659687983,"Cyberlindnera misumaiensis","Cyberlindnera misumaiensis","Cyberlindnera","","Saccharomycetales",5,4,6],[2412,0.552508753966536,0.52181857301071033,0.7100413617769803,"Cyberlindnera misumaiensis","Cyberlindnera misumaiensis","Cyberlindnera","","Saccharomycetales",5,4,6]]}

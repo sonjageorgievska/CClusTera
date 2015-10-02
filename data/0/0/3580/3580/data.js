@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3580,0.66104721957717394,0.68471021419659683,0.12723532704850138]],"relations":null}
+{"titles":null,"points":[[3580,0.37175201698124294,0.46638957551789845,0.1864765093602597,"Bullera formosana","Bullera formosana","Bullera","Tremellaceae","Tremellales",3,3,1]]}

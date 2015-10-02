@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1367,0.58914902001485558,0.23702630517707532,0.46113125518415565]],"relations":null}
+{"titles":null,"points":[[1367,0.30509163182727134,0.56994153809917358,0.68580158457203932,"Cryptococcus longus","Cryptococcus longus","Cryptococcus","Tremellaceae","Tremellales",3,4,6]]}

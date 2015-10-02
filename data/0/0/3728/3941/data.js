@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3941,0.55390365120629137,0.37696686758658127,0.70786280098333965]],"relations":null}
+{"titles":null,"points":[[3941,0.590076368888216,0.38563355740987093,0.2946221319193974,"Hannaella pagnoccae","Hannaella pagnoccae","Hannaella","","Tremellales",5,3,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1694,0.67371507825610211,0.39975304818536045,0.70680758219634543]],"relations":null}
+{"titles":null,"points":[[1694,0.54232178835843681,0.3465029688720041,0.68500286597643523,"Rhodotorula sonckii","Rhodotorula sonckii","Rhodotorula","","Sporidiobolales",5,2,6]]}

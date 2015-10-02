@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3937,0.44043700543849085,0.0029934713371087256,0.9893655288018367]],"relations":null}
+{"titles":null,"points":[[3937,0.35441438550449644,0.15961101857077284,0.50174157588638768,"Geotrichum ghanense","Geotrichum ghanense","Geotrichum","Dipodascaceae","Saccharomycetales",3,1,4]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[834,0.57802829009817114,0.48548679905405989,0.0092380111490762713],[835,0.52958037822528847,0.35187911433999192,0.34691115754622137]],"relations":null}
+{"titles":null,"points":[[834,0.3298306993320006,0.25121640112235954,0.81743642491599666,"Kazachstania lodderae","Kazachstania lodderae","Kazachstania","Saccharomycetaceae","Saccharomycetales",3,2,7],[835,0.43382371478590476,0.5943171459383807,0.73672396706651111,"Kazachstania lodderae","Kazachstania lodderae","Kazachstania","Saccharomycetaceae","Saccharomycetales",4,4,6]]}

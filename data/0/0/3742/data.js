@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3742,0.44401057354973616,0.33629887828403615,0.37980674028342926]],"relations":null}
+{"titles":null,"points":[[3742,0.17715766089032864,0.69006066852260861,0.43487659817310853,"Cystofilobasidium lacus-mascardii","Cystofilobasidium lacus-mascardii","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales",1,5,3]]}

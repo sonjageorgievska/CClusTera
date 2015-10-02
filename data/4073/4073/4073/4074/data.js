@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4074,0.593091355095862,0.42982930640695727,0.69002355862161024]],"relations":null}
+{"titles":null,"points":[[4074,0.54788910153655324,0.847007574754892,0.51158042253620906,"Malassezia cuniculi","Malassezia cuniculi","Malassezia","","Malasseziales",5,6,4]]}

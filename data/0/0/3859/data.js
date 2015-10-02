@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3859,0.36181177929968517,0.46317038961489893,0.39478900837424119],[3860,0.36028163454632689,0.47073887673503462,0.3968810551581618]],"relations":null}
+{"titles":null,"points":[[3859,0.76291301733623029,0.38571439831648435,0.40463892662614209,"Cryptococcus aciditolerans","Cryptococcus aciditolerans","Cryptococcus","Tremellaceae","Tremellales",7,3,3],[3860,0.766852392678547,0.37978150750119732,0.40828339208574416,"Cryptococcus metallitolerans","Cryptococcus metallitolerans","Cryptococcus","Tremellaceae","Tremellales",7,3,3]]}

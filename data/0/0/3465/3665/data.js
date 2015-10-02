@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3665,0.1147827337577825,0.23172719063474923,0.28757981413238276],[3666,0.11185546702493393,0.23285488620811529,0.29006163043673916]],"relations":null}
+{"titles":null,"points":[[3665,0.25656307151923963,0.65929617409843044,0.54484887392886594,"Cryptococcus bromeliarum","Cryptococcus bromeliarum","Cryptococcus","Tremellaceae","Tremellales",2,5,4],[3666,0.25748392916208107,0.66185842046512278,0.54777921772405391,"Cryptococcus bromeliarum","Cryptococcus bromeliarum","Cryptococcus","Tremellaceae","Tremellales",2,5,4]]}

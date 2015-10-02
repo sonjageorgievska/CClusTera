@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3375,0.56325932326317874,0.3439882606192261,0.7856711465117433]],"relations":null}
+{"titles":null,"points":[[3375,0.51937425249684288,0.53310620097950923,0.30747760297907334,"Cryptococcus foliicola","Cryptococcus foliicola","Cryptococcus","Tremellaceae","Tremellales",5,4,2]]}

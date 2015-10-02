@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[933,0.64769454147149563,0.58336117286888844,0.35664130009335859]],"relations":null}
+{"titles":null,"points":[[933,0.56662239336894138,0.44492424153494015,0.38360541145192212,"Candida friedrichii","Candida friedrichii","Candida","","Saccharomycetales",5,3,3]]}

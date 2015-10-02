@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[604,0.536773381084224,0.7639899170573019,0.13834953394055569],[605,0.53677492829807227,0.76400398083190624,0.13833511987452474]],"relations":null}
+{"titles":null,"points":[[604,0.59606179695365691,0.79079181263603227,0.4832888785990635,"Kuraishia capsulata","Kuraishia capsulata","Kuraishia","Saccharomycetaceae","Saccharomycetales",5,6,4],[605,0.59606064391176761,0.79079192661673881,0.48329049361681919,"Kuraishia capsulata","Kuraishia capsulata","Kuraishia","Saccharomycetaceae","Saccharomycetales",5,6,4]]}

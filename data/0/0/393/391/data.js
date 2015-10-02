@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[391,0.32262914812315752,0.3218976950622206,0.6124428212145504],[392,0.32261645286614477,0.3218851565860521,0.61244894344887058]],"relations":null}
+{"titles":null,"points":[[391,0.45649960578091925,0.73054022433452948,0.46902015640729583,"Lachancea fermentati","Lachancea fermentati","Lachancea","Saccharomycetaceae","Saccharomycetales",4,5,4],[392,0.45649824429414526,0.730541441396009,0.46901948382991582,"Lachancea fermentati","Lachancea fermentati","Lachancea","Saccharomycetaceae","Saccharomycetales",4,5,4]]}

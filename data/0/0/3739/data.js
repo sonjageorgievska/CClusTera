@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3739,0.40112432096117162,0.5355284660422438,0.6018911988785]],"relations":null}
+{"titles":null,"points":[[3739,0.47358604267506943,0.72932989848630736,0.51573796798394156,"Glaciozyma watsonii","Glaciozyma watsonii","Glaciozyma","","",4,5,4]]}

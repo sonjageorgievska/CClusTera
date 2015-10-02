@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2780,0.88604817082251275,0.53200455409554748,0.26908210702181196],[3567,0.77637446076139183,0.30412241648378463,0.29517704507936054]],"relations":null}
+{"titles":null,"points":[[2780,0.66816550871482328,0.24886500506796985,0.4440148132561888,"Cryptococcus chernovii","Cryptococcus chernovii","Cryptococcus","Tremellaceae","Tremellales",6,1,3],[3567,0.18705009009358428,0.35116942380916993,0.49649978504315934,"Cryptococcus stepposus","Cryptococcus stepposus","Cryptococcus","Tremellaceae","Tremellales",1,2,4]]}

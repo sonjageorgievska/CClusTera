@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1609,0.65755687238492821,0.49160627969567577,0.48594334432064989]],"relations":null}
+{"titles":null,"points":[[1609,0.47112651844218645,0.43628999813561181,0.544501539985653,"Trichosporon brassicae","Trichosporon brassicae","Trichosporon","Trichosporonaceae","Tremellales",4,3,4]]}

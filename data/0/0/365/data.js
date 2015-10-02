@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[365,0.630883500611389,0.662497762755959,0.48710053771434358],[370,0.65408480478750031,0.43797224490911113,0.6056880214858138]],"relations":null}
+{"titles":null,"points":[[365,0.6059134009116568,0.48274610126154849,0.68953457695609832,"Zygosaccharomyces bailii","Zygosaccharomyces bailii","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales",6,3,6],[370,0.155721635706228,0.746730706508715,0.42613674150360803,"Zygosaccharomyces bailii","Zygosaccharomyces bailii","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales",1,5,3]]}

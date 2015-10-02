@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2690,0.55094798777932141,0.62869701283003609,0.19314520114343839]],"relations":null}
+{"titles":null,"points":[[2690,0.60307876429431717,0.75657759777204081,0.43528226645189311,"Candida taylorii","Candida taylorii","Candida","","Saccharomycetales",6,6,3]]}

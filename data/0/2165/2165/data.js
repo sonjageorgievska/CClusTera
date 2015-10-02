@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2165,0.543458329832833,0.44649449431885985,0.39723506409685122]],"relations":null}
+{"titles":null,"points":[[2165,0.65747967945196784,0.56339259218025062,0.586886657760344,"Bensingtonia ciliata","Bensingtonia ciliata","Bensingtonia","Agaricostilbaceae","Agaricostilbales",6,4,5]]}

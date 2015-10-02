@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2406,0.75736675985164992,0.21175561615326694,0.51313743025049952]],"relations":null}
+{"titles":null,"points":[[2406,0.40857555046030714,0.48841445984946641,0.45824692603051126,"Candida montana","Candida montana","Candida","","Saccharomycetales",4,3,4]]}

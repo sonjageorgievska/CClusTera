@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1687,0.26671285069741563,0.5931743965850953,0.24123009954300734]],"relations":null}
+{"titles":null,"points":[[1687,0.3215628257177231,0.608423908132083,0.29138902591814642,"Sporopachydermia cereana","Sporopachydermia cereana","Sporopachydermia","","Saccharomycetales",3,4,2]]}

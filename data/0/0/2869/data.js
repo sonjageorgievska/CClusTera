@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2869,0.44409921277483649,0.526916762025255,0.44789490552462036]],"relations":null}
+{"titles":null,"points":[[2869,0.45778548314638079,0.747068234425842,0.57755788692930021,"Candida peoriaensis","Candida peoriaensis","Candida","","Saccharomycetales",4,5,5]]}

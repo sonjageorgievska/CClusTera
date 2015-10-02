@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1499,0.59395196867061517,0.13686654708375087,0.65118992156094635]],"relations":null}
+{"titles":null,"points":[[1499,0.57106506308302662,0.6215255673089356,0.11251235695749699,"Ambrosiozyma cicatricosa","Ambrosiozyma cicatricosa","Ambrosiozyma","","Saccharomycetales",5,4,1]]}

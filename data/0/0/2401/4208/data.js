@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4208,0.23763585830946007,0.4169866316900494,0.43265959387136277]],"relations":null}
+{"titles":null,"points":[[4208,0.42067925861002731,0.32525737396525145,0.51390402352871445,"Bandoniozyma aquatica","Bandoniozyma aquatica","Bandoniozyma","","Tremellales",4,2,4]]}

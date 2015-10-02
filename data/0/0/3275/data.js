@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3275,0.76638546576484723,0.98522780481310879,0.47642803612075674]],"relations":null}
+{"titles":null,"points":[[3275,0.33922781685329173,0.2723852198738555,0.37545179453099486,"Candida bribrorum","Candida bribrorum","Candida","","Saccharomycetales",3,2,3]]}

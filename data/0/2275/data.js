@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2275,0.20780631258381219,0.56686543339973561,0.69827989812426083]],"relations":null}
+{"titles":null,"points":[[2275,0.63359361729836783,0.18001043104090198,0.66998720480549534,"Myxozyma monticola","Myxozyma monticola","Myxozyma","Lipomycetaceae","Saccharomycetales",6,1,6]]}

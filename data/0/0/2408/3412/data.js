@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3412,0.63881847220125121,0.4323445845792856,0.502054796703806],[3413,0.64062204220432306,0.43142280259358873,0.49984177767657961]],"relations":null}
+{"titles":null,"points":[[3412,0.68823763977766717,0.48941963701524538,0.46836011831110269,"Metschnikowia viticola","Metschnikowia viticola","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,3,4],[3413,0.68961320013010163,0.48824698218515783,0.47075442705608195,"Metschnikowia viticola","Metschnikowia viticola","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,3,4]]}

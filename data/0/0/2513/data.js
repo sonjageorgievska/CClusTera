@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2513,0.60769857617682921,0.38234093425340993,0.23360644225079172]],"relations":null}
+{"titles":null,"points":[[2513,0.55792225284646679,0.509047024624183,0.56491305882127985,"Eremothecium sinecaudum","Eremothecium sinecaudum","Eremothecium","Eremotheciaceae","Saccharomycetales",5,4,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2137,0.82088394733172809,0.56814466782146233,0.470561154994116]],"relations":null}
+{"titles":null,"points":[[2137,0.5389247877269332,0.39703889458094671,0.55059313041453606,"Sympodiomycopsis paphiopedili","Sympodiomycopsis paphiopedili","Sympodiomycopsis","Microstromataceae","Microstromatales",5,3,4]]}

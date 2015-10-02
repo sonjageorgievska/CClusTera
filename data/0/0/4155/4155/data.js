@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4155,0.44091320069877654,0.601889927433757,0.13045615761033275],[4190,0.44092776757914237,0.601902266742431,0.13045618089629335]],"relations":null}
+{"titles":null,"points":[[4155,0.69042750758117521,0.33528181751882064,0.29553775488471673,"Wickerhamomyces scolytoplatypi","Wickerhamomyces scolytoplatypi","Wickerhamomyces","","Saccharomycetales",6,2,2],[4190,0.69042567219941642,0.33528254681434327,0.29553774325051968,"Wickerhamomyces scolytoplatypi","Komagataella populi","Komagataella","Saccharomycetaceae","Saccharomycetales",6,2,2]]}

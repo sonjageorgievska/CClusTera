@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4019,0.527421038064988,0.73016467545060748,0.9551813256189734]],"relations":null}
+{"titles":null,"points":[[4019,0.55539545576926685,0.21519747863577537,0.26565166442537913,"Prototheca stagnorum","Prototheca stagnorum","Prototheca","","",5,1,2]]}

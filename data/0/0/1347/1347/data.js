@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1347,0.072427738148500759,0.17864651153714328,1.0840500066587608]],"relations":null}
+{"titles":null,"points":[[1347,0.62245579236436976,0.87583035714830859,0.82633682003739062,"Ambrosiozyma angophorae","Ambrosiozyma angophorae","Ambrosiozyma","","Saccharomycetales",6,7,7]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4024,0.2754722752168155,0.19939168544044741,0.993697088642061],[4025,0.28064208633526766,0.19790656636532197,0.99635556082213517]],"relations":null}
+{"titles":null,"points":[[4024,0.657066183318173,0.43731555288897084,0.33559269314599882,"Barnettozyma sucrosica","Barnettozyma sucrosica","Barnettozyma","","Saccharomycetales",6,3,3],[4025,0.66078619701606267,0.44190396272592519,0.33454008056025986,"Barnettozyma sucrosica","Barnettozyma sucrosica","Barnettozyma","","Saccharomycetales",6,3,3]]}

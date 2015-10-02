@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2483,0.466464537852626,0.1951573615660008,0.029214771077601898]],"relations":null}
+{"titles":null,"points":[[2483,0.39205749334049872,0.5930200805419521,0.72298451640177808,"Sugiyamaella chiloensis","Sugiyamaella chiloensis","Sugiyamaella","Trichomonascaceae","Saccharomycetales",3,4,6]]}

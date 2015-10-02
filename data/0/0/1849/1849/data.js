@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1849,0.64117989241318962,0.035089445509778862,0.65018748191895515]],"relations":null}
+{"titles":null,"points":[[1849,0.81519957228100526,0.64237462520326361,0.21215442305749072,"Myxozyma mucilagina","Myxozyma mucilagina","Myxozyma","Lipomycetaceae","Saccharomycetales",8,5,1]]}

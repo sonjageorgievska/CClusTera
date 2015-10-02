@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[247,0.52773134895751506,0.42387102621380146,0.51484191726130957]],"relations":null}
+{"titles":null,"points":[[247,0.46237457574299479,0.57362283566666428,0.33044359329561085,"Candida neerlandica","Candida neerlandica","Candida","","Saccharomycetales",4,4,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4101,0.94966104671159834,0.53621032561495918,0.038734321831377108]],"relations":null}
+{"titles":null,"points":[[4101,0.69743871071381913,0.79425416155040718,0.40302543109983774,"Cryptococcus yokohamensis","Cryptococcus yokohamensis","Cryptococcus","Tremellaceae","Tremellales",6,6,3]]}

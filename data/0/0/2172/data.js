@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2172,0.665167143438775,0.50886368962609174,0.22727512644108208]],"relations":null}
+{"titles":null,"points":[[2172,0.27747068758572141,0.39470448049201817,0.47469108565286139,"Fellomyces horovitziae","Fellomyces horovitziae","Fellomyces","Cuniculitremaceae","Tremellales",2,3,4]]}

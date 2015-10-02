@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1014,0.21027880995675619,0.35880900479124611,0.787545854210189]],"relations":null}
+{"titles":null,"points":[[1014,0.54369651634286775,0.4454327316844231,0.57092979954862755,"Candida quercitrusa","Candida quercitrusa","Candida","","Saccharomycetales",5,3,5]]}

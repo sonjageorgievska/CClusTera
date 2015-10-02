@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3380,0.76236367695403573,0.37238996714444439,0.35067220593684117]],"relations":null}
+{"titles":null,"points":[[3380,0.72801191425341361,0.52645685131067654,0.33368711997439787,"Bullera arundinariae","Bullera arundinariae","Bullera","Tremellaceae","Tremellales",7,4,3]]}

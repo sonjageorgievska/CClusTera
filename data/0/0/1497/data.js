@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1497,0.5520872032191817,0.8240546578129252,0.17680901863917897],[1498,0.56079732049664432,0.821812628440688,0.17648166362260725]],"relations":null}
+{"titles":null,"points":[[1497,0.77191788496294933,0.43139914395163581,0.64079694338449023,"Starmera dryadoides","Starmera dryadoides","Starmera","Phaffomycetaceae","Saccharomycetales",7,3,5],[1498,0.77752870320547229,0.43898391156951944,0.6416766780714056,"Starmera dryadoides","Starmera dryadoides","Starmera","Phaffomycetaceae","Saccharomycetales",7,3,5]]}

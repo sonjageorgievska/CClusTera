@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3194,0.59806098284780163,0.74722760029765489,0.55449449014314078]],"relations":null}
+{"titles":null,"points":[[3194,0.66585366022143377,0.42501766092840371,0.33581498330881393,"Metschnikowia colocasiae","Metschnikowia colocasiae","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,3,3]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2855,0.88931589670849787,0.180586877366689,0.20264393015303334]],"relations":null}
+{"titles":null,"points":[[2855,0.55386883073834747,0.25802259294192603,0.096841859421726365,"Candida ghanaensis","Candida ghanaensis","Candida","","Saccharomycetales",5,2,0]]}

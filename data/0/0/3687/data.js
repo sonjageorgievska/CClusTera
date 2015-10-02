@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3687,0.50950019920380551,0.43296899574761077,0.084441705399898329]],"relations":null}
+{"titles":null,"points":[[3687,0.45885304327513132,0.74134418750860354,0.62381111182537041,"Candida labiduridarum","Candida labiduridarum","Candida","","Saccharomycetales",4,5,5]]}

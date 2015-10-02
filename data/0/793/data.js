@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[793,0.599988863235163,0.12275802781689446,0.58494412480286306],[1499,0.59395196867061517,0.13686654708375087,0.65118992156094635]],"relations":null}
+{"titles":null,"points":[[793,0.530512003131358,0.57056330419736423,0.11738848467133191,"Ambrosiozyma monospora","Ambrosiozyma monospora","Ambrosiozyma","","Saccharomycetales",5,4,1],[1499,0.57106506308302662,0.6215255673089356,0.11251235695749699,"Ambrosiozyma cicatricosa","Ambrosiozyma cicatricosa","Ambrosiozyma","","Saccharomycetales",5,4,1]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3775,0.4083085891549888,0.73069981959473718,0.022511417083453208]],"relations":null}
+{"titles":null,"points":[[3775,0.41348529803334488,0.43822779335562168,0.15880837264190326,"Mingxiaea begoniae","Mingxiaea begoniae","Mingxiaea","","Tremellales",4,3,1]]}

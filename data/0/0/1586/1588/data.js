@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1588,0.28174020286523221,0.40815163946758526,0.85930269560837158]],"relations":null}
+{"titles":null,"points":[[1588,0.6436097935144468,0.56691338178254991,0.32076158219772438,"Sakaguchia dacryoidea","Sakaguchia dacryoidea","Sakaguchia","Sporidiobolaceae","Sporidiobolales",6,4,2]]}

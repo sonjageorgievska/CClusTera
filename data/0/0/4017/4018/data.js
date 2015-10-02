@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4018,0.74669403175658255,0.58966412790757428,0.4187564375170279]],"relations":null}
+{"titles":null,"points":[[4018,0.57888440019626819,0.48496027334194247,0.29004202692081604,"Candida kaohsiungensis","Candida kaohsiungensis","Candida","","Saccharomycetales",5,3,2]]}

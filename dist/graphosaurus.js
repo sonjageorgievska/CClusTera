@@ -30,7 +30,7 @@ module.exports = (function () {
         var distances = [],
             tmpPos = new THREE.Vector3(0, 0, 0),
             currFrame = 0;  // This will result in the first frame getting sorted
-        ////removed by sonja: buggy and not really needed. buggy because it changes the positions to NaN
+        ////removed by sonja: buggy and not needed. buggy because it changes the positions to NaN
         //return function (bufferGeomAttributes, cameraPosition) {
         //    if (currFrame > 0) {
         //        if (currFrame > this.frameSkip) {
@@ -107,9 +107,9 @@ function Trackball( object, domElement ) {
 
 	this.screen = { left: 0, top: 0, width: 0, height: 0 };
 
-	this.rotateSpeed = 1.0;
+	this.rotateSpeed = 0.15;
 	this.zoomSpeed = 1.2;
-	this.panSpeed = 0.3;
+	this.panSpeed = 0.15;
 
 	this.noRotate = false;
 	this.noZoom = true;
@@ -246,10 +246,9 @@ function Trackball( object, domElement ) {
             
 		    pointsSet.computeBoundingSphere();
 		    var sphere = pointsSet.boundingSphere;
-			
-		   // _this.target = new THREE.Vector3();
+				
 
-		    _this.target = sphere.center.clone();
+		    //_this.target = sphere.center.clone();// from sonja: you can add this code to move data to center before rotation
 		  
 		 
 		  
@@ -372,9 +371,7 @@ function Trackball( object, domElement ) {
 				} else {
 
 					_panStart.add( mouseChange.subVectors( _panEnd, _panStart ).multiplyScalar( _this.dynamicDampingFactor ) );
-
 				}
-
 			}
 		};
 
@@ -543,16 +540,7 @@ function Trackball( object, domElement ) {
 		event.stopPropagation();
 
 		if ( _state === STATE.ROTATE && !_this.noRotate ) {
-
-		    
-
-            //pointsSet.computeBoundingSphere();
-            //var sphere = pointsSet.boundingSphere;
-            //var factor = 0.1; 
-            //var vector = sphere.center.clone();
-		    //vector.sub(_this.object.position);
-		    //_this.object.position.addVectors(_this.object.position, vector.setLength(factor));
-		    //_this.target.addVectors(_this.target, vector.setLength(factor));
+		               
 
 		    _this.getMouseProjectionOnBall(event.pageX, event.pageY, _rotateEnd);
 		    
@@ -584,8 +572,7 @@ function Trackball( object, domElement ) {
 
 	}
 
-
-    
+	    
 	function mousewheel( event ) {
 
 	   
@@ -610,9 +597,10 @@ function Trackball( object, domElement ) {
 
         
 		//_zoomStart.y += delta * 0.01;
-		
+		 
+        //changed by sonja
 		var d = ((typeof event.wheelDelta != "undefined") ? (-event.wheelDelta) : event.detail);
-		d = -0.025 * ((d > 0) ? 1 : -1);
+		d = -0.020 * ((d > 0) ? 1 : -1);
 		var factor = d;
 		mX = ((event.clientX-285) / (window.innerWidth-285)) * 2 - 1;
 		mY = -(event.clientY / window.innerHeight) * 2 + 1;
@@ -627,10 +615,7 @@ function Trackball( object, domElement ) {
        
 
 	}
-
-
 	
-
 
 	function touchstart( event ) {
 
@@ -19696,7 +19681,7 @@ THREE.BufferGeometry.prototype = {
 THREE.EventDispatcher.prototype.apply( THREE.BufferGeometry.prototype );
 
 
-
+   
 // File:src/core/Geometry.js
 
 
@@ -71255,18 +71240,22 @@ module.exports = (function () {
         this.forceRerender();
     };
 
+    //added by sonja
 	Frame.prototype.reDrawMe = function() {
 		//this._initScene();
         //this._initRenderer(this.width, this.height, this.elem);
-        this._initNodes(this.graph.getNodes());
+	    this._initNodes(this.graph.getNodes());
+	    
         //this._normalizeNodes();
         this._initEdges(this.graph.getEdges());
 
         //this._initCamera(this.aspectRatio);
         this.positionCamera();
+        this._initLabelPositions();
         this.forceRerender();
 	};
 
+    //added by sonja
 	Frame.prototype.reDrawMeInSameScene = function () {
 	    //this._initScene();
 	    //this._initRenderer(this.width, this.height, this.elem);
@@ -71277,6 +71266,7 @@ module.exports = (function () {
 
 	    //this._initCamera(this.aspectRatio);
 	    //this.positionCamera();
+	    this._initLabelPositions();
 	    this.forceRerender();
 	};
 
@@ -71298,7 +71288,7 @@ module.exports = (function () {
 
         //var optimalDistance = (
         //    sphere.radius * 1.5 / Math.tan(this.graph._fov / 2));
-
+        //changed by sonja
         var optimalDistance = (
             sphere.radius * 2.0 / Math.tan(this.graph._fov / 2));
 
@@ -71334,7 +71324,7 @@ module.exports = (function () {
             new Float32Array(nodes.length * 3), 3);
         //ids added by Sonja
 
-        var ids = new THREE.BufferAttribute(
+        var ids = new THREE.BufferAttribute( //added by sonja to be able to detect properly clicked nodes. previously it was detecting completely different nodes
             new Int32Array(nodes.length * 1), 1);
         
 
@@ -71363,19 +71353,13 @@ module.exports = (function () {
             this.pointCloud.sortParticles = true;
         }
 
-
-
-        //for (var i = 0; i < pointsSet.attributes.id.array.length;  i++) {
-        //    var spritey = makeTextSprite(" " + i + " ", { fontsize: 32, backgroundColor: { r: 255, g: 100, b: 100, a: 1 } });
-        //    spritey.position = pointsSet.attributes.position.splice(i * 3, 3).clone().multiplyScalar(1.1);
-        //    scene.add(spritey);
-        //}
-
+        
 
         this.scene.add(this.pointCloud);
 
 
     };
+
 
 
 
@@ -71439,8 +71423,25 @@ module.exports = (function () {
 		this.scene.remove(this.line);
         this.line = new THREE.Line(this.edges, material, THREE.LinePieces);
         this.scene.add(this.line);
-    };
+    }; 
 
+    Frame.prototype._initLabelPositions = function () {//from sonja: I was trying to add labels to the expandable nodes
+
+        //this.camera.updateMatrixWorld();
+
+        //for (var i = 0; i < pointsSet.attributes.id .array.length; i++) {
+        //    var positionsarray = pointsSet.attributes.position.array;
+        //    var array = Array.prototype.slice.call(positionsarray);
+        //    var vect = array.slice(i * 3, 3);
+        //    //vector = projector.projectVector(vector.clone(), this.camera); 
+        //    var vector = new THREE.Vector3(vect[0], vect[1], vect[2]);
+        //    vector.project(this.camera);
+        //    vector.x = (vector.x + 1) / 2 * window.innerWidth + 285;
+        //    vector.y = -(vector.y - 1) / 2 * window.innerHeight;
+        //    labelPositionX[pointsSet.attributes.id.array[i]] = vector.x;
+        //    labelPositionY[pointsSet.attributes.id.array[i]] = vector.y;
+        //}
+    }
     Frame.prototype._initMouseEvents = function (elem) {
         var self = this;
         var createMouseHandler = function (callback) {
@@ -71455,25 +71456,26 @@ module.exports = (function () {
                 
 
                 // Calculate mouse position
-                var mousePosition = new THREE.Vector3(mouseX, mouseY, 0.1);
+                var mousePosition = new THREE.Vector3(mouseX, mouseY, 0.5);
                 var radiusPosition = mousePosition.clone();
                 mousePosition.unproject(self.camera);
 
                 // Calculate threshold
                 var clickRadiusPx = 2;  // 5px originally, changed by sonja
 
-                var radiusX = ((evt.clientX -285 + clickRadiusPx) / (window.innerWidth-285)) * 2 - 1;
+                var radiusX = ((evt.clientX -285 + clickRadiusPx) / (window.innerWidth-285)) * 2 - 1;//frame starts at 285
                 radiusPosition.setX(radiusX);
                              
 
                 radiusPosition.unproject(self.camera);
 
                 var clickRadius = radiusPosition.distanceTo(mousePosition);
-
+                //from sonja: this is the code responsible for finding which node was clicked or hovered over
 
                 var threshold = (
                     self.camera.far * clickRadius / self.camera.near);
 
+                
                 raycaster.params.PointCloud.threshold = threshold;
 
                 // Determine intersects
@@ -71483,8 +71485,18 @@ module.exports = (function () {
 
                 var intersects = raycaster.intersectObject(self.pointCloud);
                 if (intersects.length) {
+                    //if (intersects.length > 1)//for debugging purposes
+                    //{
+                    //    var t = intersects;
+                    //    var ff = "";
+                    //    for (var r = 0; r < t.length; r++)
+                    //    {
+                    //        ff += t[r].distance + " ";
+                    //    }
+                    //    alert(ff);
+                    //}
                     var firstIndex = intersects[0].index;
-                    var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];//changed by sonja, previously it was buggy
+                    var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];//changed by sonja, previously it was buggy (the indexes were getting messed up)
                      
                     callback(self.graph._nodes[nodeIndex]);
                 }
@@ -71776,9 +71788,13 @@ module.exports = (function () {
         var id = properties.id !== undefined ? properties.id : null;
         this._id = id;
 
-        var isItOpen = properties.isItOpen !== undefined ? properties.color : false;
-        this._isItOpen = isItOpen;
+        //var isItOpen = properties.isItOpen !== undefined ? properties.isItOpen : false;
+        //this._isItOpen = isItOpen;
 
+        
+        this._propertiesValues = properties.propertiesValues;
+
+        this._expandable = properties.expandable !== undefined ? properties.expandable : false;
         return this;
     };
 

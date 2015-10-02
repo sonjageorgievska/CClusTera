@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4258,1.13840212392235,0.30654481533741557,0.54703043591203171]],"relations":null}
+{"titles":null,"points":[[4258,0.42391471021556054,0.0078664372116401364,0.24296791721768571,"Yarrowia porcina","Yarrowia porcina","Yarrowia","","Saccharomycetales",4,0,2]]}

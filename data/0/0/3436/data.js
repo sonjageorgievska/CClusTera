@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3436,0.66692642545445768,0.42820731938195628,0.3999669082395812]],"relations":null}
+{"titles":null,"points":[[3436,0.49715684142160677,0.22490404561878261,0.34091965688232329,"Candida hispaniensis","Candida hispaniensis","Candida","","Saccharomycetales",4,1,3]]}

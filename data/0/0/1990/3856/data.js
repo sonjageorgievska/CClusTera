@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3856,0.39154202770859764,0.24191999174211973,0.38478505806092816],[3857,0.39005466068943451,0.24186778300116302,0.38344901405054704]],"relations":null}
+{"titles":null,"points":[[3856,0.71938778851410645,0.32546373669597789,0.17168293782840197,"Cryptococcus mangaliensis","Cryptococcus mangaliensis","Cryptococcus","Tremellaceae","Tremellales",7,2,1],[3857,0.72050003837159926,0.32387281817096375,0.17120140018576593,"Cryptococcus mangaliensis","Cryptococcus mangaliensis","Cryptococcus","Tremellaceae","Tremellales",7,2,1]]}

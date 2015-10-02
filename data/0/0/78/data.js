@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[78,0.44795202169069337,0.38572902535719883,0.48027975950092561]],"relations":null}
+{"titles":null,"points":[[78,0.16405812845448237,0.18726419957639759,0.3154928596360787,"Candida gropengiesseri","Candida gropengiesseri","Candida","","Saccharomycetales",1,1,2]]}

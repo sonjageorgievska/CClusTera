@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3602,0.60273164169688909,0.44496691154428053,0.54002915282333],[3607,0.557760099042388,0.42247540958413154,0.42323765244853656]],"relations":null}
+{"titles":null,"points":[[3602,0.35099608171551139,0.42262496877827505,0.50804556783153709,"Blastobotrys malaysiensis","Blastobotrys malaysiensis","Blastobotrys","Trichomonascaceae","Saccharomycetales",3,3,4],[3607,0.66062926831387248,0.65665468412206862,0.62479361258540178,"Blastobotrys illinoisensis","Blastobotrys illinoisensis","Blastobotrys","Trichomonascaceae","Saccharomycetales",6,5,5]]}

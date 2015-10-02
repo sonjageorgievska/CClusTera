@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1163,0.40390743083205904,0.42956520779091834,0.52056575468640709]],"relations":null}
+{"titles":null,"points":[[1163,0.33384433124286605,0.57289253681347541,0.33555118437281234,"Rhodotorula javanica","Rhodotorula javanica","Rhodotorula","","Sporidiobolales",3,4,3]]}

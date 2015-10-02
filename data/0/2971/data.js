@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2971,1.0004264571298762,0.40923780960850659,0.20987344277550332]],"relations":null}
+{"titles":null,"points":[[2971,0.63471573763763411,0.93573411456575106,0.34777483826923605,"Bensingtonia thailandica","Bensingtonia thailandica","Bensingtonia","Agaricostilbaceae","Agaricostilbales",6,7,3]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2399,0.17688456013820636,0.90188391965950476,0.14881836380110841]],"relations":null}
+{"titles":null,"points":[[2399,0.6235024975054233,0.619368146501712,0.80550926798642186,"Babjeviella inositovora","Babjeviella inositovora","Babjeviella","Debaryomycetaceae","Saccharomycetales",6,4,7]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4210,0.49778150406263366,0.58197896310969066,0.33450447487235546]],"relations":null}
+{"titles":null,"points":[[4210,0.91457890841028422,0.36743302986762522,0.50821705137992257,"Cyberlindnera samutprakarnensis","Cyberlindnera samutprakarnensis","Cyberlindnera","","Saccharomycetales",9,2,4]]}

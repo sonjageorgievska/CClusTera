@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4130,0.61209701358665791,0.47308228512277334,0.46337364181185908],[4132,0.61258889789772619,0.47272311120246208,0.46258051892132107]],"relations":null}
+{"titles":null,"points":[[4130,0.36007294861517292,0.68552475695816273,0.38317470151786726,"Ambrosiozyma maleeae","Ambrosiozyma maleeae","Ambrosiozyma","","Saccharomycetales",3,5,3],[4132,0.35916346646566538,0.6859388360140638,0.38313754300346636,"Ambrosiozyma maleeae","Ambrosiozyma maleeae","Ambrosiozyma","","Saccharomycetales",3,5,3]]}

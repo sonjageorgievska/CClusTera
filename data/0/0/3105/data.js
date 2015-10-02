@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3105,0.49930999466765585,0.56913881892271712,0.27882430556392346]],"relations":null}
+{"titles":null,"points":[[3105,0.6078485654388045,0.35762060724318667,0.43557969427978727,"Malassezia japonica","Malassezia japonica","Malassezia","","Malasseziales",6,2,3]]}

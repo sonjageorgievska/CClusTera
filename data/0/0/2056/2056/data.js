@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2055,0.79506756278653512,0.29089450195969446,0.46279344144210116],[2056,0.79632474881094639,0.2911162343620779,0.45591083161429896]],"relations":null}
+{"titles":null,"points":[[2055,0.48569880107702929,0.477468968098092,0.63318762795713179,"Ogataea methylivora","Ogataea methylivora","Ogataea","Saccharomycetaceae","Saccharomycetales",4,3,5],[2056,0.49030678715556014,0.48111435609996206,0.63271921161458611,"Ogataea methylivora","Ogataea methylivora","Ogataea","Saccharomycetaceae","Saccharomycetales",4,3,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3027,0.35963498924183496,-0.023527655034098923,0.354586327374962]],"relations":null}
+{"titles":null,"points":[[3027,0.46281350426261569,0.53825256434252389,0.19076324809770409,"Fibulobasidium murrhardtense","Fibulobasidium murrhardtense","Fibulobasidium","Sirobasidiaceae","Tremellales",4,4,1]]}

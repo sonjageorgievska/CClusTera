@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3433,0.52133995428127533,0.74473316373619147,0.34526250901491096]],"relations":null}
+{"titles":null,"points":[[3433,0.4783747183475906,0.56417288615663841,0.49592424691045112,"Kuraishia molischiana","Kuraishia molischiana","Kuraishia","Saccharomycetaceae","Saccharomycetales",4,4,4]]}

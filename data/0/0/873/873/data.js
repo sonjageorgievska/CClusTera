@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[872,0.60898359578592831,0.2793869850661162,0.15580292848531638],[873,0.61194617570647158,0.27959652230163423,0.15622626565747133]],"relations":null}
+{"titles":null,"points":[[872,0.62792233739922754,0.28546561514687691,0.36738488218327076,"Wickerhamomyces strasburgensis","Wickerhamomyces strasburgensis","Wickerhamomyces","","Saccharomycetales",6,2,3],[873,0.62911638536625836,0.28706795519790468,0.36884424182386244,"Wickerhamomyces strasburgensis","Wickerhamomyces strasburgensis","Wickerhamomyces","","Saccharomycetales",6,2,3]]}

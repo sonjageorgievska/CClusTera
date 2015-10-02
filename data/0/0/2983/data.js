@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2982,0.51389602453687511,0.77626185057019181,0.35889153744262647],[2983,0.55323396806315972,0.80085392207952,0.72594919320263251]],"relations":null}
+{"titles":null,"points":[[2982,0.33195671143341032,0.42633444648298241,0.27861806027874353,"Sporobolomyces ogasawarensis","Sporobolomyces ogasawarensis","Sporobolomyces","","Sporidiobolales",3,3,2],[2983,0.56489274771629294,0.20963853473922153,0.34528234432625049,"Sporobolomyces ogasawarensis","Sporobolomyces ogasawarensis","Sporobolomyces","","Sporidiobolales",5,1,3]]}

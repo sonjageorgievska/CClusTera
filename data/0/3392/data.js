@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3392,-0.22740960026957249,0.79672499496578941,0.73724396061718922]],"relations":null}
+{"titles":null,"points":[[3392,0.88237623221178163,1.1420243465870967,-0.027892588374145651,"Candida ficicola","Candida ficicola","Candida","","Saccharomycetales",8,1,0]]}

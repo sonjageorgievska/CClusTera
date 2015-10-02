@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3821,0.70635090528862365,0.61501472899956255,0.056645304010498984]],"relations":null}
+{"titles":null,"points":[[3821,0.096536013649909741,0.80819967363065015,0.58618538463839187,"Mrakiella cryoconiti","Mrakiella cryoconiti","Mrakiella","","Cystofilobasidiales",0,6,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[977,0.83028005081654332,0.82049840578212563,0.50283449629697552]],"relations":null}
+{"titles":null,"points":[[977,0.4614322877873161,0.2778887134657102,0.46587866149805629,"Candida vartiovaarae","Candida vartiovaarae","Candida","","Saccharomycetales",4,2,4]]}

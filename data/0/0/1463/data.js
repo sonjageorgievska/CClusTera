@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1463,0.55174676861206284,0.46027197723646507,0.56894184219522148]],"relations":null}
+{"titles":null,"points":[[1463,0.54069485582712362,0.55457586899465761,0.18154634117216253,"Bullera dendrophila","Bullera dendrophila","Bullera","Tremellaceae","Tremellales",5,4,1]]}

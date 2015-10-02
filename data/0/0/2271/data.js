@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2271,0.3327650695116941,0.254712908335187,0.5044185145191985]],"relations":null}
+{"titles":null,"points":[[2271,0.45309492726001765,0.35740672996204254,0.62216018629321923,"Candida duobushaemulonii","Candida duobushaemulonii","Candida","","Saccharomycetales",4,2,5]]}

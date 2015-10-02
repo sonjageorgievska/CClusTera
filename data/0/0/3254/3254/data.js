@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3254,0.094206309607668431,0.41581076916842907,0.10262433040766497]],"relations":null}
+{"titles":null,"points":[[3254,0.35108708560072793,0.18239034792170758,0.45894453696840637,"Candida bokatorum","Candida bokatorum","Candida","","Saccharomycetales",3,1,4]]}

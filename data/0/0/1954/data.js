@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1954,0.50885244631795645,0.65394038298571622,0.5254868143334982],[2431,0.48968815537137816,0.62176710077050867,0.25377646271501536]],"relations":null}
+{"titles":null,"points":[[1954,0.625371163674077,0.58788803264447487,0.50667221703518583,"Sporobolomyces phyllomatis","Sporobolomyces phyllomatis","Sporobolomyces","","Sporidiobolales",6,4,4],[2431,0.78663456654856367,0.74686833559822141,0.40768838752964359,"Rhodotorula armeniaca","Rhodotorula armeniaca","Rhodotorula","","Sporidiobolales",7,5,3]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1700,0.286843360334386,0.66321363563223612,0.3335418160427211]],"relations":null}
+{"titles":null,"points":[[1700,0.71188575077178762,0.47626390003491975,0.34958449198565222,"Dioszegia crocea","Dioszegia crocea","Dioszegia","Tremellaceae","Tremellales",7,3,3]]}

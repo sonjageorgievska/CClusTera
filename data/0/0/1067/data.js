@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1065,0.032852186447658534,0.15845644495290628,0.078614458196420628],[1067,0.29460175440816483,0.39468498402376417,0.1168190531986841]],"relations":null}
+{"titles":null,"points":[[1065,0.32137754043058581,0.6309357966504483,0.884410605978649,"Yamadazyma scolyti","Yamadazyma scolyti","Yamadazyma","Saccharomycetaceae","Saccharomycetales",3,5,7],[1067,0.39166636118077075,0.63036450044892534,0.83677371062955674,"Yamadazyma scolyti","Yamadazyma scolyti","Yamadazyma","Saccharomycetaceae","Saccharomycetales",3,5,7]]}

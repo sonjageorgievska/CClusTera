@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[772,0.64718768158332063,0.52899211685213177,0.53123615367248744],[773,0.64720654249237275,0.5289923576583867,0.53124495261991067]],"relations":null}
+{"titles":null,"points":[[772,0.70095732871708483,0.23464575059536766,0.55869875259463808,"Peterozyma toletana","Peterozyma toletana","Peterozyma","","Saccharomycetales",7,1,5],[773,0.70095866321592792,0.2346444026957567,0.55869921945828127,"Peterozyma toletana","Peterozyma toletana","Peterozyma","","Saccharomycetales",7,1,5]]}

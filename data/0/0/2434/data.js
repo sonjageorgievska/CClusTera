@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2434,0.49832836400817643,0.43648866729200064,0.44093209007477824]],"relations":null}
+{"titles":null,"points":[[2434,0.43614017006773903,0.617070634443762,0.54741851105231787,"Sporobolomyces elongatus","Sporobolomyces elongatus","Sporobolomyces","","Sporidiobolales",4,4,4]]}

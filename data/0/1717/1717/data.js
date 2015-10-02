@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1717,0.30718499443158892,0.42459076891851438,0.80314970040394151]],"relations":null}
+{"titles":null,"points":[[1717,0.19648672723552432,0.77769750889698674,0.2759433677483521,"Dipodascopsis anomala","Dipodascopsis anomala","Dipodascopsis","Lipomycetaceae","Saccharomycetales",1,6,2]]}

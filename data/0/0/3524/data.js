@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3524,1.0068859741231673,0.45407843467070264,0.38158812653092511]],"relations":null}
+{"titles":null,"points":[[3524,0.22079795278137751,0.3080248398881264,0.57567964866135179,"Candida scorzettiae","Candida scorzettiae","Candida","","Saccharomycetales",2,2,5]]}

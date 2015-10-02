@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[170,0.60058373912509055,0.64189362374548242,0.43838263513329045],[171,0.60059565788224611,0.6418791132248659,0.43837757353074464]],"relations":null}
+{"titles":null,"points":[[170,0.44753272848881259,0.41785995503764495,0.652768993434637,"Cryptococcus flavus","Cryptococcus flavus","Cryptococcus","Tremellaceae","Tremellales",4,3,5],[171,0.44753382468900021,0.41785968076564683,0.65277058109874164,"Cryptococcus flavus","Cryptococcus flavus","Cryptococcus","Tremellaceae","Tremellales",4,3,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3951,0.4352061054970196,0.84946775162201837,1.0163844135364915]],"relations":null}
+{"titles":null,"points":[[3951,0.67296321168668816,0.00054925571546687272,0.3069843147865467,"Prototheca cutis","Prototheca cutis","Prototheca","","",6,0,2]]}

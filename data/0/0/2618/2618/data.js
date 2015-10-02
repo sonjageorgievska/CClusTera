@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2618,0.84263808083024849,0.35473454062887372,0.36458432388909195]],"relations":null}
+{"titles":null,"points":[[2618,0.81963594803096151,0.68664724367675489,0.32756475052513534,"Candida novakii","Candida novakii","Candida","","Saccharomycetales",8,5,2]]}

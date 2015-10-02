@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1289,0.60931537786167345,0.63559322354099246,0.46820388667671842],[1290,0.60929888382984776,0.635583617319901,0.46819894013505753]],"relations":null}
+{"titles":null,"points":[[1289,0.45654071049678968,0.54184363042907391,0.36435382289425511,"Cystobasidium slooffiae","Cystobasidium slooffiae","Cystobasidium","Platygloeaceae","Platygloeales",4,4,3],[1290,0.45654111624416993,0.54184558428662744,0.3643537884120539,"Cystobasidium slooffiae","Cystobasidium slooffiae","Cystobasidium","Platygloeaceae","Platygloeales",4,4,3]]}

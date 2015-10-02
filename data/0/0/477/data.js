@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[477,0.46458588803303186,0.48193055559505277,0.45333408651429996]],"relations":null}
+{"titles":null,"points":[[477,0.46003811644112719,0.3526812245457695,0.47883308881953507,"Candida californica","Candida californica","Candida","","Saccharomycetales",4,2,4]]}

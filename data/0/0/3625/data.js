@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3625,0.44961213363311725,0.47338779125522978,0.22700787165646796]],"relations":null}
+{"titles":null,"points":[[3625,0.16121027757530093,0.53497952672399463,0.71495749837952483,"Candida neomexicana","Candida neomexicana","Candida","","Saccharomycetales",1,4,6]]}

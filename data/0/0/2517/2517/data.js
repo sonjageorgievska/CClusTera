@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2517,0.89788479137181,0.33588512542348453,0.47081673271068475],[3187,0.89511720084351354,0.33253215077262593,0.46410122798963921]],"relations":null}
+{"titles":null,"points":[[2517,0.7461678091916174,0.56128250207406249,0.63117560218704394,"Eremothecium sinecaudum","Eremothecium sinecaudum","Eremothecium","Eremotheciaceae","Saccharomycetales",7,4,5],[3187,0.74364747749985238,0.56544213982395586,0.63616821121256362,"Eremothecium sinecaudum","Blastobotrys attinorum","Blastobotrys","Trichomonascaceae","Saccharomycetales",7,4,5]]}

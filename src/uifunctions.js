@@ -1,22 +1,29 @@
- function KeyPress(e) {
+ function KeyPress(e) {//if the key combination is ctrl+z, then it will close the node that was last open. Can be called multiple times
             var evtobj = window.event ? event : e
-            if (evtobj.keyCode == 90 && evtobj.ctrlKey) {
-                if (clicked>0) {
-                    RemoveLastEdges();
-                    RemoveLastNodes();                                                            
-                    var nodeId = lastOpenNode[clicked].getId();
-                    CurrentLevel[nodeId]--;
-                    var n = CurrentDir[nodeId].lastIndexOf("/");
-                    CurrentDir[nodeId] = CurrentDir[nodeId].substring(0, n);
-                    clicked--;
-                    redrawSameScene();
-                }           
+            if (evtobj.keyCode == 90 && evtobj.ctrlKey) {////if the key combination is ctrl+z
+                handleCtrlz(); 
             }
         }
+
+ function handleCtrlz()
+ {
+     if (clicked > 0) {//if the user has expanded some nodes
+         RemoveLastEdges();//the last edges that were added with clicking a node
+         RemoveLastNodes();//the last nodes that were added with clicking a node
+         lastOpenNode[clicked]._expandable = true; //when you close a node, it is expandable again
+         var nodeId = lastOpenNode[clicked].getId();
+         CurrentLevel[nodeId]--;//decrease the current level for the node
+         var n = CurrentDir[nodeId].lastIndexOf("/");
+         CurrentDir[nodeId] = CurrentDir[nodeId].substring(0, n); // go up one folder for the closed node
+         clicked--;// decrease the number of clicks.
+         redrawSameScene();
+     }
+ }
 
 
  function searchSequence() {
      var value = document.getElementById("search").value;
+     SearchAndColorizeByName(value);
  }
 
 
@@ -29,9 +36,8 @@
          var sliderval = mySlider.getValue();
          $("#label2").text(sliderval);
          if (sliderval > 0) {
-             //AddLevel(sliderval);
+             
              LoadUpToLevel(sliderval);
-             redrawSameScene();
          }
      });
 
@@ -45,65 +51,58 @@
 
  function defineCombo() {
      var myCombo = new dhtmlXCombo("comboObj");
+     var listOfProperties; 
+     fetchJSONFile("data/data.js", function (data) {
+         listOfProperties = data.titles;
+         var len = listOfProperties.length;
+         listOfProperties = listOfProperties.slice(9, len);//the first 4  are id, x, y, and z, then 5 names, and then the properties start. That is why I start from 9
+     
+     var list = [];
+
+     for (var i = 0; i < listOfProperties.length; i++)
+     {
+         list.push([i, listOfProperties[i]]);
+     }
 
 
-     myCombo.addOption([
- ["a", "property A"],
- ["aa", "property AA"],
- ["b", "property B"],
- ["c", "property C"]
-     ]);
+     myCombo.addOption(list);
 
+    
 
      myCombo.attachEvent("onChange", function () {
-         var comboval = myCombo.getSelectedValue();
-         // $("#label2").text(comboval);
+         selectedPropertyIndex = myCombo.getSelectedValue();         
      });
      //myCombo.filter = true;
      myCombo.setSize(245);
 
      myCombo.enable();
- }
-
-
- function defineCombo2() {
-     var myCombo2 = new dhtmlXCombo("comboObj2");
-
-
-     myCombo2.addOption([
- ["a", "family"],
- ["aa", "class"],
- ["b", "type"]
-     ]);
-
-
-     myCombo2.attachEvent("onChange", function () {
-         var comboval2 = myCombo2.getSelectedValue();
-         // $("#label2").text(comboval);
      });
-     //myCombo.filter = true;
-     myCombo2.setSize(245);
-
-     myCombo2.enable();
  }
 
- function defineColorPicker() {
-     var myColorpicker = new dhtmlXColorPicker("colorpickerObj");
-     myColorpicker.setCustomColors(true);
-     myColorpicker.setColor("#05ff50");
-     myColorpicker.setCustomColors(true);
 
-     myColorpicker.showMemory(true);
+ //function defineCombo2() {
+ //    var myCombo2 = new dhtmlXCombo("comboObj2");
 
-     myColorpicker.show();
 
-     myColorpicker.attachEvent("onSelect", function (color, node) {
-         var col = myColorpicker.getSelectedColor();
-         //$("#label2").text(color);
-     });
+ ////    myCombo2.addOption([
+ ////["a", "family"],
+ ////["aa", "class"],
+ ////["b", "type"]
+ ////    ]);
 
-     myColorpicker.attachEvent("onCancel", function (node) { });
- }
+
+ //    myCombo2.attachEvent("onChange", function () {
+ //        var comboval2 = myCombo2.getSelectedValue();
+         
+ //        // $("#label2").text(comboval);
+ //    });
+ //    //myCombo.filter = true;
+ //    myCombo2.setSize(245);
+
+ //    myCombo2.enable();
+ //}
+
+ 
 
  function defineColorPicker2() {
      myColorpicker = new dhtmlXColorPicker(["inputcolor"]);
@@ -117,6 +116,8 @@
 
      myColorpicker.attachEvent("onSelect", function (color, node) {
          var col = myColorpicker.getSelectedColor();
+         
+         Colorize(col, selectedPropertyIndex);
          //$("#label2").text(color);
      });
 

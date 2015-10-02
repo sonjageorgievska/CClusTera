@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2211,0.56715590743233724,0.35960706258773639,0.60399598931303544]],"relations":null}
+{"titles":null,"points":[[2211,0.29229740039301338,0.52994359928840951,0.4401331585386154,"Kockovaella imperatae","Kockovaella imperatae","Kockovaella","Cuniculitremaceae","Tremellales",2,4,3]]}

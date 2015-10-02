@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3426,0.54391312193786479,0.087865477811199064,0.4178101557921815]],"relations":null}
+{"titles":null,"points":[[3426,0.47965119597426059,0.657226397662409,0.47022047284453661,"Trichosporon shinodae","Trichosporon shinodae","Trichosporon","Trichosporonaceae","Tremellales",4,5,4]]}

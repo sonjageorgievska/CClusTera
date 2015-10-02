@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1320,0.69244389401884343,0.58507737513548486,0.73313487294624236],[1796,0.56601883311253021,0.546402887273324,0.91868317593444193]],"relations":null}
+{"titles":null,"points":[[1320,0.23255396826719313,0.605349103350807,0.50239602838474406,"Cryptococcus dimennae","Cryptococcus dimennae","Cryptococcus","Tremellaceae","Tremellales",2,4,4],[1796,0.66190945112882837,0.56922728894518915,0.48464250889288407,"Bullera globispora","Bullera globispora","Bullera","Tremellaceae","Tremellales",6,4,4]]}

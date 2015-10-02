@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1597,0.14910738230828255,0.39925747073937157,0.077290627042722021]],"relations":null}
+{"titles":null,"points":[[1597,0.32555631272141028,0.16487605514278164,0.64237244537064608,"Pichia nakasei","Pichia nakasei","Pichia","Saccharomycetaceae","Saccharomycetales",3,1,5]]}

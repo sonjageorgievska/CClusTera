@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1335,0.6504611521306114,0.363804308660098,0.23074772003934974]],"relations":null}
+{"titles":null,"points":[[1335,0.38459596370149968,0.13142854762947584,0.71428110540007783,"Saturnispora zaruensis","Saturnispora zaruensis","Saturnispora","Saccharomycetaceae","Saccharomycetales",3,1,6]]}

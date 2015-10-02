@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3415,0.65911784112813676,0.37512682813130482,0.44308530781681371]],"relations":null}
+{"titles":null,"points":[[3415,0.57413226862767786,0.31863692354243117,0.28853237531164233,"Pseudozyma siamensis","Pseudozyma siamensis","Pseudozyma","Ustilaginaceae","Ustilaginales",5,2,2]]}

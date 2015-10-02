@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2994,0.38003792961932348,0.88869474460856979,0.49135820457537815]],"relations":null}
+{"titles":null,"points":[[2994,0.67301859648818285,0.62490962860792909,0.61078264881046729,"Botryozyma mucatilis","Botryozyma mucatilis","Botryozyma","","Saccharomycetales",6,4,5]]}

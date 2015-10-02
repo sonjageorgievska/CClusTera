@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1396,0.76779775925472959,0.044861443826414195,1.0586694350923689]],"relations":null}
+{"titles":null,"points":[[1396,-0.025575906041867824,0.099357471950845391,0.62219001402127228,"Metschnikowia lunata","Metschnikowia lunata","Metschnikowia","Metschnikowiaceae","Saccharomycetales",0,0,5]]}

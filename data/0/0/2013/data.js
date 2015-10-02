@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2013,0.62894152396511194,1.0343498131427567,0.65858229334243434]],"relations":null}
+{"titles":null,"points":[[2013,0.2550829412832587,0.28960459604699812,0.5199417831105192,"Lipomyces suomiensis","Lipomyces suomiensis","Lipomyces","Lipomycetaceae","Saccharomycetales",2,2,4]]}

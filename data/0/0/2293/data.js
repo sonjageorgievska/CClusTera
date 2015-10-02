@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2293,0.42576960979691103,0.55386836112684823,0.56119436041917836]],"relations":null}
+{"titles":null,"points":[[2293,0.46465860219256255,0.45309414109323182,0.47817230669160143,"Malassezia obtusa","Malassezia obtusa","Malassezia","","Malasseziales",4,3,4]]}

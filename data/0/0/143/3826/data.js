@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3826,0.322044024185777,0.436332935680434,0.70193366899558707],[3827,0.32203706664993181,0.43632536718505394,0.7019512060306764]],"relations":null}
+{"titles":null,"points":[[3826,0.631395926846104,0.59250988415659267,0.79792099700554453,"Hanseniaspora thailandica","Hanseniaspora thailandica","Hanseniaspora","Saccharomycodaceae","Saccharomycetales",6,4,7],[3827,0.63139721572949881,0.59251131744769325,0.79792135132756958,"Hanseniaspora thailandica","Hanseniaspora thailandica","Hanseniaspora","Saccharomycodaceae","Saccharomycetales",6,4,7]]}

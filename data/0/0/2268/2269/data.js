@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2269,0.12811545127932747,0.4774573188081887,0.54724773774318869]],"relations":null}
+{"titles":null,"points":[[2269,0.7408728249079678,0.1928719575328223,0.64518886757264726,"Metschnikowia agaves","Metschnikowia agaves","Metschnikowia","Metschnikowiaceae","Saccharomycetales",7,1,5]]}

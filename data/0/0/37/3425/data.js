@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3425,0.848228612315956,0.51671582406349581,0.43937978770227704]],"relations":null}
+{"titles":null,"points":[[3425,0.50541937377022894,0.64379188373239848,0.48406022633212376,"Trichosporon middelhovenii","Trichosporon middelhovenii","Trichosporon","Trichosporonaceae","Tremellales",5,5,4]]}

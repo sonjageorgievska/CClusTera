@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1309,0.35869570942628876,0.30194493055956273,0.6811781866497435]],"relations":null}
+{"titles":null,"points":[[1309,0.28475009016606295,0.42044409658114623,0.37486775148700646,"Barnettozyma californica","Barnettozyma californica","Barnettozyma","","Saccharomycetales",2,3,3]]}

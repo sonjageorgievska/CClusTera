@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2744,0.6137638780844199,0.91507696124459659,0.84477717824531007]],"relations":null}
+{"titles":null,"points":[[2744,0.6210258225609534,0.3316005669906818,0.49865432493234579,"Candida tolerans","Candida tolerans","Candida","","Saccharomycetales",6,2,4]]}

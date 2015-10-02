@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3244,0.27492319710984231,0.60185286802238369,0.2655725162911311]],"relations":null}
+{"titles":null,"points":[[3244,0.45994900231492553,0.69053374516634369,0.17330626808081504,"Kockovaella barringtoniae","Kockovaella barringtoniae","Kockovaella","Cuniculitremaceae","Tremellales",4,5,1]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2264,0.32214410347078881,0.57099978487932534,0.55059682016284928]],"relations":null}
+{"titles":null,"points":[[2264,0.71787944807243975,0.4379024208429404,0.59169733951196157,"Nakaseomyces bacillisporus","Nakaseomyces bacillisporus","Nakaseomyces","Saccharomycetaceae","Saccharomycetales",7,3,5]]}

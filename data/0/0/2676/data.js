@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2676,0.55959596140117029,0.34714699757770606,0.49001767387703488]],"relations":null}
+{"titles":null,"points":[[2676,0.24617594530828157,0.38743663377193932,0.39040742173246684,"Rhodotorula eucalyptica","Rhodotorula eucalyptica","Rhodotorula","","Sporidiobolales",2,3,3]]}

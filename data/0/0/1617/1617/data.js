@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1617,0.91306984316274276,0.89866481009130228,0.62348677451910084]],"relations":null}
+{"titles":null,"points":[[1617,0.25293144506182497,0.45149234818637873,0.54910237785109184,"Kurtzmanomyces nectairei","Kurtzmanomyces nectairei","Kurtzmanomyces","Chionosphaeraceae","Agaricostilbales",2,3,4]]}

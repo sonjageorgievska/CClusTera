@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1770,0.57227963537561166,0.53138943306905073,0.19757418547098815]],"relations":null}
+{"titles":null,"points":[[1770,0.51788436455669673,0.34934754222828462,0.53049335250996132,"Candida auringiensis","Candida auringiensis","Candida","","Saccharomycetales",5,2,4]]}

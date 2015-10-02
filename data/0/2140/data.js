@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2140,0.72075882227544386,0.18938277826859062,0.27295926279793015]],"relations":null}
+{"titles":null,"points":[[2140,0.57996346007583877,0.70240529449436073,0.71409335094349413,"Chionosphaera apobasidialis","Chionosphaera apobasidialis","Chionosphaera","Chionosphaeraceae","Agaricostilbales",5,5,6]]}

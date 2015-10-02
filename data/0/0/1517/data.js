@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1517,0.5690373209991737,0.56426425971171879,0.3595163099249728]],"relations":null}
+{"titles":null,"points":[[1517,0.545703098653562,0.68786309743207985,0.44962168457910995,"Leucosporidiella fragaria","Leucosporidiella fragaria","Leucosporidiella","Leucosporidiaceae","Leucosporidiales",5,5,4]]}

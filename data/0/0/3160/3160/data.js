@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3159,0.4826234414841884,0.45249756340119524,0.60434891578387362],[3160,0.47872318358071153,0.45024017198040339,0.60831025044023679]],"relations":null}
+{"titles":null,"points":[[3159,0.41926821679929988,0.37172686673384686,0.74100768447659282,"Metschnikowia kunwiensis","Metschnikowia kunwiensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",4,2,6],[3160,0.41913357881922908,0.36910784895660609,0.73561114683688145,"Metschnikowia kunwiensis","Metschnikowia kunwiensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",4,2,6]]}

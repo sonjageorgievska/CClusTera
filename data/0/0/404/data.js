@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[404,0.44126500192089613,0.57077372578867769,0.52234684524100061],[409,0.35005394455801048,0.56905798956037579,0.66951852424869474]],"relations":null}
+{"titles":null,"points":[[404,0.42155912855672967,0.558514405156327,0.46870706027545156,"Zygosaccharomyces rouxii","Zygosaccharomyces rouxii","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales",4,4,4],[409,0.67815979347753708,0.17277503741491881,0.24611834258766546,"Zygosaccharomyces rouxii","Zygosaccharomyces rouxii","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales",6,1,2]]}

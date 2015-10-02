@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2018,0.48221514176812341,0.53427461515359642,0.62838202728740289]],"relations":null}
+{"titles":null,"points":[[2018,0.51877704994881568,0.56866470954702908,0.4446550466811478,"Bensingtonia miscanthi","Bensingtonia miscanthi","Bensingtonia","Agaricostilbaceae","Agaricostilbales",5,4,4]]}

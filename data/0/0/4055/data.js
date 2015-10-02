@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4055,0.40266192626372427,0.40967645080512138,0.20537174086623261]],"relations":null}
+{"titles":null,"points":[[4055,0.32208569719690006,0.21900485601889563,0.3514897713873873,"Candida cabralensis","Candida cabralensis","Candida","","Saccharomycetales",3,1,3]]}

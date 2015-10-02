@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4011,0.669598328043074,0.38915035981207946,0.2259722341548821],[4012,0.66959680112403952,0.38913743414606522,0.22595868615119033]],"relations":null}
+{"titles":null,"points":[[4011,0.47573857106887169,0.26106846975173814,0.45475280691557296,"Scheffersomyces gosingicus","Scheffersomyces gosingicus","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",4,2,4],[4012,0.4757379546965656,0.2610667928490728,0.45475197483476587,"Scheffersomyces gosingicus","Scheffersomyces gosingicus","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",4,2,4]]}

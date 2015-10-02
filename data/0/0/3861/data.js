@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3861,0.90693066603483941,0.35836229983976203,0.60634759531136329]],"relations":null}
+{"titles":null,"points":[[3861,0.53954130613167428,0.67341418583641843,0.25385942437658993,"Rhodotorula cladiensis","Rhodotorula cladiensis","Rhodotorula","","Sporidiobolales",5,5,2]]}

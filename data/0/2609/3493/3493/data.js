@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3493,0.80466161711324213,0.55580292005913412,0.59540059155399083],[3494,0.805243517254852,0.55630575821312578,0.59603976759866883]],"relations":null}
+{"titles":null,"points":[[3493,0.1697598550696475,0.464719123655036,0.56951208887456761,"Pseudozyma hubeiensis","Pseudozyma hubeiensis","Pseudozyma","Ustilaginaceae","Ustilaginales",1,3,5],[3494,0.1690083742819487,0.46529252553810369,0.56983841219003062,"Pseudozyma hubeiensis","Pseudozyma hubeiensis","Pseudozyma","Ustilaginaceae","Ustilaginales",1,3,5]]}

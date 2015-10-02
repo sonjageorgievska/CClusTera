@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3163,0.79881671274091037,0.7085556231086716,0.39104084795065441]],"relations":null}
+{"titles":null,"points":[[3163,0.6000893626334125,0.44430777254152271,0.28102590423064583,"Candida galli","Candida galli","Candida","","Saccharomycetales",6,3,2]]}

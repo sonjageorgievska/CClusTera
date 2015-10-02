@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3350,0.93139823602972371,0.83791472970565661,0.68708460057654486]],"relations":null}
+{"titles":null,"points":[[3350,0.606568801444259,0.6072742420197127,0.54241455839549935,"Geotrichum carabidarum","Geotrichum carabidarum","Geotrichum","Dipodascaceae","Saccharomycetales",6,4,4]]}

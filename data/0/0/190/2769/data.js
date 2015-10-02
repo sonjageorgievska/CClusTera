@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2769,0.54573581394015314,0.51367699469283434,0.16100119974451232],[2770,0.54574778220358433,0.513660410169197,0.16100435654075176]],"relations":null}
+{"titles":null,"points":[[2769,0.22700747174170091,0.3865701868052438,0.70383500298330237,"Kazachstania turicensis","Kazachstania turicensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",2,3,6],[2770,0.22700597623744928,0.38657144652663966,0.70383468706285057,"Kazachstania turicensis","Kazachstania turicensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",2,3,6]]}

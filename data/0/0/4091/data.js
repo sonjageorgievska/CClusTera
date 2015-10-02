@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4091,0.19356176594816282,0.52341228089840375,0.273022126869698]],"relations":null}
+{"titles":null,"points":[[4091,0.58327786547641269,0.24884756388661189,0.32489506188602518,"Candida ezoensis","Candida ezoensis","Candida","","Saccharomycetales",5,1,2]]}

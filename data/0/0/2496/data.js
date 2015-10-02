@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2495,0.26431423572339813,0.397859170784977,0.21453410840606865],[2496,0.25845688611273288,0.39389137664275592,0.20746671389441185]],"relations":null}
+{"titles":null,"points":[[2495,0.52904909495552765,0.66114631402606949,0.30968325455110596,"Candida sophiae-reginae","Candida sophiae-reginae","Candida","","Saccharomycetales",5,5,2],[2496,0.53611451796094789,0.66123891450090289,0.3167593567907957,"Candida sophiae-reginae","Candida sophiae-reginae","Candida","","Saccharomycetales",5,5,2]]}

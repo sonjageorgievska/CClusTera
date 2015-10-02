@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2569,0.11561387360586185,0.74964884174123181,0.73889629924392064]],"relations":null}
+{"titles":null,"points":[[2569,0.49071256184126311,0.48102198213210068,0.5670316192621071,"Derxomyces mrakii","Derxomyces mrakii","Derxomyces","","Tremellales",4,3,5]]}

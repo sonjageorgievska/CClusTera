@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3188,0.14888874024891063,0.075498137794499237,0.22667437068719273]],"relations":null}
+{"titles":null,"points":[[3188,0.29926995879163321,0.16518875422950324,0.6177306547366721,"Candida leandrae","Candida leandrae","Candida","","Saccharomycetales",2,1,5]]}

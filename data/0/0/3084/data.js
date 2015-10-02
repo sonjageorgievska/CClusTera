@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2870,0.5586771262135104,0.36226932507043974,0.79205884537901239],[3084,0.79622863050965076,0.46430991805080413,0.58922044146355923]],"relations":null}
+{"titles":null,"points":[[2870,0.8832888241635678,0.280670781565235,0.77496869159715032,"Candida ponderosae","Candida ponderosae","Candida","","Saccharomycetales",8,2,6],[3084,0.69947527595134606,0.20916933769913737,0.58094139778289156,"Komagataella pseudopastoris","Komagataella pseudopastoris","Komagataella","Saccharomycetaceae","Saccharomycetales",6,1,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1761,0.55819192701444886,0.41391950826083007,0.36685402254574145]],"relations":null}
+{"titles":null,"points":[[1761,0.55941922910399444,0.65383081669281939,0.41986833039541166,"Symbiotaphrina buchneri","Symbiotaphrina buchneri","Symbiotaphrina","","",5,5,3]]}

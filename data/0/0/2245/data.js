@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2245,0.17373966693369533,0.69606771605212825,0.54024648389024543],[2248,0.51636215049981449,0.5509291517044379,0.6570406069848157]],"relations":null}
+{"titles":null,"points":[[2245,0.56685955542319733,0.4258293746533876,0.19329837677029441,"Kazachstania kunashirensis","Kazachstania kunashirensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",5,3,1],[2248,0.40451311078676611,0.37557000232805188,0.31667203735116412,"Kazachstania kunashirensis","Kazachstania kunashirensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",4,3,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2058,0.44110893945767882,0.16832949670527478,0.17354625722620204]],"relations":null}
+{"titles":null,"points":[[2058,0.48592441376785173,0.49642539606676556,0.33724121871791024,"Saitoella complicata","Saitoella complicata","Saitoella","Protomycetaceae","Taphrinales",4,3,3]]}

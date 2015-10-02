@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2448,0.155930360225714,0.44171800208023793,0.37708378826992583]],"relations":null}
+{"titles":null,"points":[[2448,0.78832692235898316,0.7596217906290581,0.41671352382323545,"Barnettozyma populi","Barnettozyma populi","Barnettozyma","","Saccharomycetales",7,6,3]]}

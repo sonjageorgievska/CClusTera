@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[328,0.66922556171420378,1.0407164370553295,0.27314006151777209]],"relations":null}
+{"titles":null,"points":[[328,0.47992628584171138,0.04932420169909419,0.49147421187370033,"Candida mesenterica","Candida mesenterica","Candida","","Saccharomycetales",4,0,4]]}

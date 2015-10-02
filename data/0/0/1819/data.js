@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1819,0.34026009596913026,0.5593776229912838,0.53813093130409839]],"relations":null}
+{"titles":null,"points":[[1819,0.5054832207028529,0.27470932507400175,0.371600443671179,"Rhodotorula pilati","Rhodotorula pilati","Rhodotorula","","Sporidiobolales",5,2,3]]}

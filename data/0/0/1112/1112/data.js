@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1112,0.17857853870482687,0.810007262098487,0.21969472714619254]],"relations":null}
+{"titles":null,"points":[[1112,0.64409433209844047,0.4903650819281633,0.80107824578521147,"Candida maritima","Candida maritima","Candida","","Saccharomycetales",6,3,7]]}

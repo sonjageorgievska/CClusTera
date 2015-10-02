@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3067,0.62542071158097867,0.63343251147492818,0.50536820072411381]],"relations":null}
+{"titles":null,"points":[[3067,0.50818556407440441,0.24892008163103779,0.558490999091343,"Candida hawaiiana","Candida hawaiiana","Candida","","Saccharomycetales",5,1,5]]}

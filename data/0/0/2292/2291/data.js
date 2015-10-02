@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2290,0.62691846281238939,0.10441410080240228,0.33259762176585872],[2291,0.62518417953477667,0.10474808116214758,0.3361865935729782]],"relations":null}
+{"titles":null,"points":[[2290,0.506333888557111,0.35690921302466377,0.43146319563630381,"Saccharomycopsis amapae","Saccharomycopsis amapae","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",5,2,3],[2291,0.50909596290030468,0.35933351099525174,0.43304234878672232,"Saccharomycopsis amapae","Saccharomycopsis amapae","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",5,2,3]]}

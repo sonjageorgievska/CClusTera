@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3379,0.62784903334110109,0.32259482668675121,0.54712450826250225]],"relations":null}
+{"titles":null,"points":[[3379,0.77538025796537224,0.62810800175080728,0.5219888632945392,"Farysizyma taiwaniana","Farysizyma taiwaniana","Farysizyma","","Ustilaginales",7,5,4]]}

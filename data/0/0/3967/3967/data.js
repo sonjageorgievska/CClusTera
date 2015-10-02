@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3967,0.99925219886038974,0.68359315018416678,0.9069498263203315]],"relations":null}
+{"titles":null,"points":[[3967,-0.11472569298963463,0.51212680517067033,0.51504549912985764,"Mycogloea nipponica","Mycogloea nipponica","Mycogloea","","",-1,4,4]]}

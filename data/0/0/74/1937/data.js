@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1937,0.52557957531165111,0.63907974915637511,0.44677748989111848]],"relations":null}
+{"titles":null,"points":[[1937,0.56465821641248937,0.697317974260737,0.67752620078327264,"Cryptococcus fuscescens","Cryptococcus fuscescens","Cryptococcus","Tremellaceae","Tremellales",5,5,6]]}

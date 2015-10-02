@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2949,0.319114786486397,0.62598505827186834,0.38099894251538446]],"relations":null}
+{"titles":null,"points":[[2949,0.39326076971304946,0.41120826719494019,0.38370362643229516,"Cryptococcus haglerorum","Cryptococcus haglerorum","Cryptococcus","Tremellaceae","Tremellales",3,3,3]]}

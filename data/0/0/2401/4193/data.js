@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4193,0.26519952488702037,0.55622446819621074,0.34519880522725416],[4194,0.26435732271842727,0.558439522092788,0.34197634781985892]],"relations":null}
+{"titles":null,"points":[[4193,0.29820099282502144,0.19725656278126239,0.35274413266260013,"Bandoniozyma fermentans","Bandoniozyma fermentans","Bandoniozyma","","Tremellales",2,1,3],[4194,0.2964310003616622,0.19537905631692848,0.34968764838224836,"Bandoniozyma fermentans","Bandoniozyma fermentans","Bandoniozyma","","Tremellales",2,1,3]]}

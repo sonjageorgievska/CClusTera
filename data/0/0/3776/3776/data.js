@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3776,0.36758669629668766,1.0278617683463449,0.55855879104755923]],"relations":null}
+{"titles":null,"points":[[3776,0.64896686540826853,0.53657975548610681,0.17356159688557238,"Bullera setariae","Bullera setariae","Bullera","Tremellaceae","Tremellales",6,4,1]]}

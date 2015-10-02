@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2580,0.31186323653789022,0.36015911826660874,0.55946895098103933]],"relations":null}
+{"titles":null,"points":[[2580,0.40456888868856633,0.46931296969353914,0.40962696326865078,"Fellomyces thailandicus","Fellomyces thailandicus","Fellomyces","Cuniculitremaceae","Tremellales",4,3,3]]}

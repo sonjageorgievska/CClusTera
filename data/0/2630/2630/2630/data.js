@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2630,0.55803440208258648,0.5989240605202123,0.64106765423028711],[2631,0.55805398174881671,0.59891981092893087,0.64106349142888208]],"relations":null}
+{"titles":null,"points":[[2630,0.20615756516973846,0.581109428639387,0.4671996207840553,"Metschnikowia hibisci","Metschnikowia hibisci","Metschnikowia","Metschnikowiaceae","Saccharomycetales",2,4,4],[2631,0.20615768437736029,0.58110834241550413,0.46719800470601586,"Metschnikowia hibisci","Metschnikowia hibisci","Metschnikowia","Metschnikowiaceae","Saccharomycetales",2,4,4]]}

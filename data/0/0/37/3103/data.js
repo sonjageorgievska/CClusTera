@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3103,0.19172447688748678,0.69193759354969508,0.15497770746032769]],"relations":null}
+{"titles":null,"points":[[3103,0.832727208904925,0.59259052652084454,0.20899225947580963,"Hannaella surugaensis","Hannaella surugaensis","Hannaella","","Tremellales",8,4,1]]}

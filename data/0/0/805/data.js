@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[805,0.592631207619271,0.34137279596474013,0.63190142902596846]],"relations":null}
+{"titles":null,"points":[[805,0.54491067748366662,0.5572033819772253,0.67807786065048059,"Eremothecium coryli","Eremothecium coryli","Eremothecium","Eremotheciaceae","Saccharomycetales",5,4,6]]}

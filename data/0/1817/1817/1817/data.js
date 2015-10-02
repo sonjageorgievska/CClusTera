@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1816,0.65908776169823957,0.16031866985565255,0.75017584695832873],[1817,0.6606466320757568,0.16218952625923927,0.74151156282960451]],"relations":null}
+{"titles":null,"points":[[1816,0.16866797735348429,0.645866647822569,0.56125762014812608,"Myxozyma lipomycoides","Myxozyma lipomycoides","Myxozyma","Lipomycetaceae","Saccharomycetales",1,5,5],[1817,0.17189628374582519,0.64057651135029259,0.566273354064301,"Myxozyma lipomycoides","Myxozyma lipomycoides","Myxozyma","Lipomycetaceae","Saccharomycetales",1,5,5]]}

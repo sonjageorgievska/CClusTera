@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1229,0.56665297557664629,0.28949295479138931,0.142973473139333]],"relations":null}
+{"titles":null,"points":[[1229,0.27691822548798128,0.835325317493725,0.68841713861647491,"Aciculoconidium aculeatum","Aciculoconidium aculeatum","Aciculoconidium","","Saccharomycetales",2,6,6]]}

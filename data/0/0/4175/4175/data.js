@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4175,0.72884494652393728,0.64977557908077155,0.25630483096864032],[4176,0.7288300667000327,0.64978843611468151,0.25630038189473414]],"relations":null}
+{"titles":null,"points":[[4175,0.49285203730206056,0.40282855059586514,0.62712710390127979,"Candida middelhoveniana","Candida middelhoveniana","Candida","","Saccharomycetales",4,3,5],[4176,0.49325891416927026,0.40391890522208024,0.62801896286151426,"Candida middelhoveniana","Candida middelhoveniana","Candida","","Saccharomycetales",4,3,5]]}

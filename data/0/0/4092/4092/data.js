@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4092,0.47028652942854537,0.47760297805711632,0.45315517386691917],[4093,0.47027215247008175,0.47759875590226974,0.45316682280730597]],"relations":null}
+{"titles":null,"points":[[4092,0.64860684935146407,0.19058154755270768,0.64932984086124279,"Saturnispora gosingensis","Saturnispora gosingensis","Saturnispora","Saccharomycetaceae","Saccharomycetales",6,1,5],[4093,0.64953233506265673,0.19057535805617237,0.64977388964897287,"Saturnispora gosingensis","Saturnispora gosingensis","Saturnispora","Saccharomycetaceae","Saccharomycetales",6,1,5]]}

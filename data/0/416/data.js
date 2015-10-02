@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[416,0.57217951817466062,0.238176021233671,0.504202852066592],[950,0.55950661185746364,0.64672686579705962,0.5102997027028422]],"relations":null}
+{"titles":null,"points":[[416,0.18777168735002939,0.64292361683600652,0.36203892461162623,"Zygotorulaspora florentina","Zygotorulaspora florentina","Zygotorulaspora","Saccharomycetaceae","Saccharomycetales",1,5,3],[950,0.59129238739772871,0.76499332025159739,0.57146979691884014,"Zygotorulaspora mrakii","Zygotorulaspora mrakii","Zygotorulaspora","Saccharomycetaceae","Saccharomycetales",5,6,5]]}

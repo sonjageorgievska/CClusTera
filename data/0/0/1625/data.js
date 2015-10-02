@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1625,0.99299630612699452,0.18172923285301326,0.88008573088194686]],"relations":null}
+{"titles":null,"points":[[1625,0.46744839843168512,0.606059033672655,0.96095238310862163,"Candida quercuum","Candida quercuum","Candida","","Saccharomycetales",4,4,8]]}

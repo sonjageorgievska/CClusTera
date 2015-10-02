@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1649,0.827042502442184,0.11588930957200737,0.18517838274010298]],"relations":null}
+{"titles":null,"points":[[1649,0.055623056763611893,0.67936784563689179,0.64849181211220808,"Rhodotorula bacarum","Rhodotorula bacarum","Rhodotorula","","Sporidiobolales",0,5,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3210,0.53695238580951921,0.40227809595577968,0.028033049253925069]],"relations":null}
+{"titles":null,"points":[[3210,-0.046662809433260337,0.61634436477776378,0.63473634632268161,"Derxomyces cylindrica","Derxomyces cylindrica","Derxomyces","","Tremellales",0,4,5]]}

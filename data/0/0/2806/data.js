@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2806,0.89949847544853567,0.66161932930989853,0.35847781545488594],[2807,0.89995221762544,0.65709219378025,0.4042522533207199]],"relations":null}
+{"titles":null,"points":[[2806,0.51615492515844752,0.5839022127714123,0.8748549863381242,"Nakazawaea wyomingensis","Nakazawaea wyomingensis","Nakazawaea","Saccharomycetaceae","Saccharomycetales",5,4,7],[2807,0.50260571003160637,0.5442225781968334,0.89110652832986492,"Nakazawaea wyomingensis","Nakazawaea wyomingensis","Nakazawaea","Saccharomycetaceae","Saccharomycetales",5,4,8]]}

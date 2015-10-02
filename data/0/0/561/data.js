@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[561,0.44804713661316253,0.626660384001393,0.53961376379515935],[1062,0.67201024125846087,0.45073049693634282,0.47345082200078709]],"relations":null}
+{"titles":null,"points":[[561,0.48854279367087189,0.53273470069309015,0.63916894388237988,"Filobasidium capsuligenum","Filobasidium capsuligenum","Filobasidium","Filobasidiaceae","Filobasidiales",4,4,5],[1062,0.33910720255713878,0.30016801841998852,0.71964241439195487,"Filobasidium capsuligenum","Filobasidium capsuligenum","Filobasidium","Filobasidiaceae","Filobasidiales",3,2,6]]}

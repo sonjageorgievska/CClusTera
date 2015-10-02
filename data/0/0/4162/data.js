@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4162,0.6320275418332737,0.54183451588650045,0.92743299504810317]],"relations":null}
+{"titles":null,"points":[[4162,0.41600545637924213,0.55726413803288477,0.97194634563218685,"Candida stauntonica","Candida stauntonica","Candida","","Saccharomycetales",4,4,8]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4247,0.91521046210317114,0.35939524588207,0.20346142238051163]],"relations":null}
+{"titles":null,"points":[[4247,0.86353219473815446,0.55121598459576415,0.63915245751274041,"Wickerhamomyces mori","Wickerhamomyces mori","","","",8,4,5]]}

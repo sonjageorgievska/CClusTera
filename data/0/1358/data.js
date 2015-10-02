@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1358,0.558397996089512,0.39303271927607752,0.40711994786834454]],"relations":null}
+{"titles":null,"points":[[1358,0.62438282553838165,0.50325577163595314,0.4718704007725365,"Phaffia rhodozyma","Phaffia rhodozyma","Phaffia","Cystofilobasidiaceae","Cystofilobasidiales",6,4,4]]}

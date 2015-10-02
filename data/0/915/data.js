@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[915,0.53522690781061044,0.5064616428468377,0.62411563121433744]],"relations":null}
+{"titles":null,"points":[[915,0.23790219852987496,0.60259501173774532,0.47052022259410581,"Zygoascus meyerae","Zygoascus meyerae","Zygoascus","","Saccharomycetales",2,4,4]]}

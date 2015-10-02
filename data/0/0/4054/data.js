@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4054,0.83393400624047431,0.91898625656476651,0.357008299586229]],"relations":null}
+{"titles":null,"points":[[4054,0.030595050532710916,0.4582155272827238,0.53406305742683191,"Sympodiomycopsis kandeliae","Sympodiomycopsis kandeliae","Sympodiomycopsis","Microstromataceae","Microstromatales",0,3,4]]}

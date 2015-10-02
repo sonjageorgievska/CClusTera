@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2870,0.5586771262135104,0.36226932507043974,0.79205884537901239]],"relations":null}
+{"titles":null,"points":[[2870,0.8832888241635678,0.280670781565235,0.77496869159715032,"Candida ponderosae","Candida ponderosae","Candida","","Saccharomycetales",8,2,6]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1996,0.58161774650928111,0.71941288356714328,0.2702255431915439]],"relations":null}
+{"titles":null,"points":[[1996,0.30644900410716552,0.66252846660957354,0.50621581459619225,"Udeniomyces megalosporus","Udeniomyces megalosporus","Udeniomyces","","Cystofilobasidiales",3,5,4]]}

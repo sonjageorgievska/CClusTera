@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2390,0.065533340215789437,0.86116773256938339,0.15996355606063287]],"relations":null}
+{"titles":null,"points":[[2390,0.50862033474387314,0.463794772698122,1.0264055290865171,"Kazachstania bromeliacearum","Kazachstania bromeliacearum","Kazachstania","Saccharomycetaceae","Saccharomycetales",5,3,0]]}

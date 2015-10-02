@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4004,0.59567543035025561,0.18215956454861035,0.1824994504102341]],"relations":null}
+{"titles":null,"points":[[4004,0.28716935396425664,0.98564125662913027,0.65257286993832764,"Rhodotorula silvestris","Rhodotorula silvestris","Rhodotorula","","Sporidiobolales",2,7,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4021,0.70695943909798076,0.22624276642025004,0.65821281616681193]],"relations":null}
+{"titles":null,"points":[[4021,0.62972149380492826,0.58592768291318431,0.6446817255584264,"Spathaspora arborariae","Spathaspora arborariae","Spathaspora","","Saccharomycetales",6,4,5]]}

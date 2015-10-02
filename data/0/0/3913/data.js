@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3913,0.44897213397681884,0.61669493424880228,0.6684616695997474]],"relations":null}
+{"titles":null,"points":[[3913,0.52940290468537077,0.37893580104662722,0.62598772735479791,"Kuraishia ogatae","Kuraishia ogatae","Kuraishia","Saccharomycetaceae","Saccharomycetales",5,3,5]]}

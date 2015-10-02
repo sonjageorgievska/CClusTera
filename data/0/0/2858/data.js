@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2858,0.48376515025065508,0.26088856028994373,-0.36863095210153385]],"relations":null}
+{"titles":null,"points":[[2858,1.1276778931218245,0.42581832326560282,0.31958099518678013,"Danielozyma litseae","Danielozyma litseae","Danielozyma","","",1,3,2]]}

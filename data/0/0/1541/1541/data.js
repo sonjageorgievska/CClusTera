@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1541,0.035637829054449982,0.88578186438994211,1.0203349881781676]],"relations":null}
+{"titles":null,"points":[[1541,0.52185877396260738,0.97753119060910076,0.75614793953306636,"Candida nemodendra","Candida nemodendra","Candida","","Saccharomycetales",5,7,6]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[969,0.90608967527047934,0.49374489902450819,0.27012886123639029],[970,0.913838669981095,0.50649892402703578,0.26861627166556995]],"relations":null}
+{"titles":null,"points":[[969,0.85279418797590334,0.85541902190055663,0.5752463099486177,"Kuraishia cidri","Kuraishia cidri","Kuraishia","Saccharomycetaceae","Saccharomycetales",8,6,5],[970,0.85445402304338269,0.84712169012986438,0.56586772393265339,"Kuraishia cidri","Kuraishia cidri","Kuraishia","Saccharomycetaceae","Saccharomycetales",8,6,5]]}

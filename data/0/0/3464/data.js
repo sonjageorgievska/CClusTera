@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3464,0.32483295213123692,0.27819896173403086,0.07892120365466708]],"relations":null}
+{"titles":null,"points":[[3464,0.24756640328248414,0.44827516121985067,0.18593877802401379,"Cryptococcus cistialbidi","Cryptococcus cistialbidi","Cryptococcus","Tremellaceae","Tremellales",2,3,1]]}

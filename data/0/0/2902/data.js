@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2902,0.48399409274099836,0.58803951855429093,0.46430301462092488],[3096,0.52127832473286739,0.60616216414030788,0.4973250642505303]],"relations":null}
+{"titles":null,"points":[[2902,0.53066012798759177,0.89734631883889293,0.33170037738715424,"Saccharomyces mikatae","Saccharomyces mikatae","Saccharomyces","Saccharomycetaceae","Saccharomycetales",5,7,2],[3096,0.4949641080701031,0.90698002375691134,0.30033983512732548,"Ogataea zsoltii","Ogataea zsoltii","Ogataea","Saccharomycetaceae","Saccharomycetales",4,7,2]]}

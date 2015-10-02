@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[58,0.66687163641434088,0.077101959077803317,0.36591640777226503]],"relations":null}
+{"titles":null,"points":[[58,0.74048667861230866,0.61659214082345626,0.18959624565895702,"Candida glabrata","Candida glabrata","Candida","","Saccharomycetales",7,4,1]]}

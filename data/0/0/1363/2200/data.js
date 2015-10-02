@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2200,0.4538031187387182,0.5795358193320318,0.32533215268282512]],"relations":null}
+{"titles":null,"points":[[2200,0.2754235181269718,0.40652514013615271,0.48196404924213604,"Lipomyces doorenjongii","Lipomyces doorenjongii","Lipomyces","Lipomycetaceae","Saccharomycetales",2,3,4]]}

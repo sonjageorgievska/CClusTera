@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3906,0.27524624838563133,0.74085061092525584,1.1572809205451895]],"relations":null}
+{"titles":null,"points":[[3906,-0.014404213419753823,0.54156194314877493,0.53121306354347575,"Jaminaea angkorensis","Jaminaea angkorensis","Jaminaea","","Microstromatales",0,4,4]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3498,1.0354947249752218,0.75951750593546508,0.46441541130505642]],"relations":null}
+{"titles":null,"points":[[3498,0.39221456449754255,0.24943670121180425,0.12921280777745295,"Candida riodocensis","Candida riodocensis","Candida","","Saccharomycetales",3,1,1]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1015,0.36375599647733786,0.63956494942054287,0.88377976914844159],[1016,0.36374517318960592,0.63958094277296329,0.88378503102151118]],"relations":null}
+{"titles":null,"points":[[1015,0.15087842708816224,0.38801727302096006,0.58700003415861812,"Clavispora lusitaniae","Clavispora lusitaniae","Clavispora","Metschnikowiaceae","Saccharomycetales",1,3,5],[1016,0.15087726541972624,0.38801722840151009,0.58700163323949084,"Clavispora lusitaniae","Clavispora lusitaniae","Clavispora","Metschnikowiaceae","Saccharomycetales",1,3,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4158,0.62873204856641352,0.548929092619995,1.0940539621022645]],"relations":null}
+{"titles":null,"points":[[4158,0.20544849498424739,0.66964023559211383,0.50765905850204607,"Derxomyces amylogenes","Derxomyces amylogenes","Derxomyces","","Tremellales",2,5,4]]}

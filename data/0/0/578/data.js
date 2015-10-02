@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[578,0.73293568597820991,0.64805126636785659,0.75882084663575011]],"relations":null}
+{"titles":null,"points":[[578,0.35470134676812987,0.636685013838773,0.49312270060948982,"Cryptococcus wieringae","Cryptococcus wieringae","Cryptococcus","Tremellaceae","Tremellales",3,5,4]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3998,0.58144230562795107,0.615634599767765,0.84987707263308176]],"relations":null}
+{"titles":null,"points":[[3998,0.796646036333584,0.35422616613722208,0.45485029033028546,"Mingxiaea wuzhishanensis","Mingxiaea wuzhishanensis","Mingxiaea","","Tremellales",7,2,4]]}

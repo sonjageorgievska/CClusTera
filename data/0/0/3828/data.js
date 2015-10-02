@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3828,0.80302674655975947,0.88960203240315894,0.18401662705260241]],"relations":null}
+{"titles":null,"points":[[3828,0.24923633111506938,0.31019132444797365,0.92813453010251945,"Kloeckera hatyaiensis","Kloeckera hatyaiensis","Kloeckera","Saccharomycodaceae","Saccharomycetales",2,2,8]]}

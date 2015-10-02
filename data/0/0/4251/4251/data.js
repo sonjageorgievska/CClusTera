@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4250,0.55771217596931622,0.61845670601003744,0.023791750365886617],[4251,0.55844712832619481,0.61573035730608527,0.022778405519559713]],"relations":null}
+{"titles":null,"points":[[4250,0.47731314079897225,0.50788520983651952,0.63800446879242156,"Citeromyces nyonsensis","Citeromyces nyonsensis","Citeromyces","Saccharomycetaceae","Saccharomycetales",4,4,5],[4251,0.479037526632913,0.50870680550921488,0.63739871970012751,"Citeromyces nyonsensis","Citeromyces nyonsensis","Citeromyces","Saccharomycetaceae","Saccharomycetales",4,4,5]]}

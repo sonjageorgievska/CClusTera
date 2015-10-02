@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3940,0.796660061962753,0.12991985153807453,1.136977267047615]],"relations":null}
+{"titles":null,"points":[[3940,0.48177741169680666,0.054665905831593753,0.1547783476255489,"Yarrowia divulgata","Yarrowia divulgata","Yarrowia","","Saccharomycetales",4,0,1]]}

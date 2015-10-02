@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2788,0.86245381479163707,0.59361773831811027,0.55344837849295192],[2789,0.8624639029117539,0.59360556833265343,0.55343647524530049]],"relations":null}
+{"titles":null,"points":[[2788,0.23162253826664897,0.40806945438108971,0.76277739861073068,"Cryptococcus oeirensis","Cryptococcus oeirensis","Cryptococcus","Tremellaceae","Tremellales",2,3,6],[2789,0.23162335486198998,0.40806895568874213,0.76277909458849413,"Cryptococcus oeirensis","Cryptococcus oeirensis","Cryptococcus","Tremellaceae","Tremellales",2,3,6]]}

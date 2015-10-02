@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[383,0.62304200105145968,0.32512391748173736,0.534676864959631],[384,0.59825816592990089,0.29593008897961376,0.50099479414953974]],"relations":null}
+{"titles":null,"points":[[383,0.63474324512252234,0.26825364743745644,0.38831348989807513,"Komagataella pastoris","Komagataella pastoris","Komagataella","Saccharomycetaceae","Saccharomycetales",6,2,3],[384,0.68112571360788587,0.25098220913260777,0.39543688239943242,"Komagataella pastoris","Komagataella pastoris","Komagataella","Saccharomycetaceae","Saccharomycetales",6,2,3]]}

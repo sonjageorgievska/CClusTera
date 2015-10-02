@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[623,0.52075843807084576,0.24225321839271469,0.68975242024039241]],"relations":null}
+{"titles":null,"points":[[623,0.41854954420817514,0.56713204839375808,0.50169218247202341,"Trichosporon porosum","Trichosporon porosum","Trichosporon","Trichosporonaceae","Tremellales",4,4,4]]}

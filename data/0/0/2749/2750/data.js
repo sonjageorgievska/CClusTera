@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2750,0.3977766104369066,0.6234092335341016,0.37065615629537418],[2751,0.39778917620322468,0.62341676287375969,0.3706427064079445]],"relations":null}
+{"titles":null,"points":[[2750,0.47995702578656685,0.64216462876729918,0.65073504078253475,"Bullera penniseticola","Bullera penniseticola","Bullera","Tremellaceae","Tremellales",4,5,5],[2751,0.47995895169063008,0.64216525306685512,0.65073495935941694,"Bullera penniseticola","Bullera penniseticola","Bullera","Tremellaceae","Tremellales",4,5,5]]}

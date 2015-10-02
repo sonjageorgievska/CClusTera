@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2832,0.10277234482952394,0.052354498628882237,0.30522751234623635]],"relations":null}
+{"titles":null,"points":[[2832,0.29473483688433977,0.15751844574906598,0.21857621659058313,"Candida sorbosivorans","Candida sorbosivorans","Candida","","Saccharomycetales",2,1,1]]}

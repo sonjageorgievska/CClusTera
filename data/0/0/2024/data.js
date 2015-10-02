@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2024,0.543644854186149,0.34549505455111457,0.71389696768905864]],"relations":null}
+{"titles":null,"points":[[2024,0.58317988079605365,0.451306164996841,0.53367140607115016,"Bensingtonia subrosea","Bensingtonia subrosea","Bensingtonia","Agaricostilbaceae","Agaricostilbales",5,3,4]]}

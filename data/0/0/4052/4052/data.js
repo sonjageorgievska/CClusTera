@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4052,0.059545996216466265,1.007818318756607,0.44590657191388539]],"relations":null}
+{"titles":null,"points":[[4052,0.50717726041553512,0.95136453709084678,0.71970405152864947,"Candida rishirensis","Candida rishirensis","Candida","","Saccharomycetales",5,7,6]]}

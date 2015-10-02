@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2828,0.3010244883097174,0.55071304716130354,0.4658951832337096]],"relations":null}
+{"titles":null,"points":[[2828,0.47663179910992526,0.314940895564455,0.57859090446452033,"Tetrapisispora nanseiensis","Tetrapisispora nanseiensis","Tetrapisispora","Saccharomycetaceae","Saccharomycetales",4,2,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1089,0.480503419135251,0.44327656998615067,0.366497142954211]],"relations":null}
+{"titles":null,"points":[[1089,0.33513665991972813,0.430291162556774,0.22614425653996154,"Saturnispora saitoi","Saturnispora saitoi","Saturnispora","Saccharomycetaceae","Saccharomycetales",3,3,2]]}

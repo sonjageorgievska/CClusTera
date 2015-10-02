@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1432,0.63672985420408013,0.28773348717522379,0.7140646570111594]],"relations":null}
+{"titles":null,"points":[[1432,0.39134910486916258,0.78379970635200957,0.415423233543798,"Candida naeodendra","Candida naeodendra","Candida","","Saccharomycetales",3,6,3]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4255,0.24464767720457678,0.27104672562077164,0.06148485676914605]],"relations":null}
+{"titles":null,"points":[[4255,0.83973797319446641,0.281110238070305,0.630061509965097,"Tetrapisispora pingtungensis","Tetrapisispora pingtungensis","Tetrapisispora","Saccharomycetaceae","Saccharomycetales",8,2,5]]}

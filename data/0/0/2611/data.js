@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2611,0.77433411627412407,0.73550052244144981,0.53430757230411063]],"relations":null}
+{"titles":null,"points":[[2611,0.31647060226482876,0.58339576840844654,0.58342327821454232,"Kriegeria eriophori","Kriegeria eriophori","Kriegeria","Platygloeaceae","Platygloeales",3,4,5]]}

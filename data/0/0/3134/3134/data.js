@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3134,0.66584861783010019,0.39343005001687892,0.505898714054193]],"relations":null}
+{"titles":null,"points":[[3134,0.44827998024336813,0.53894003471708485,0.22823662083646149,"Cryptococcus allantoinivorans","Cryptococcus allantoinivorans","Cryptococcus","Tremellaceae","Tremellales",4,4,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[977,0.83028005081654332,0.82049840578212563,0.50283449629697552],[994,0.83013152248289379,0.82074565223229212,0.50085540344241164]],"relations":null}
+{"titles":null,"points":[[977,0.4614322877873161,0.2778887134657102,0.46587866149805629,"Candida vartiovaarae","Candida vartiovaarae","Candida","","Saccharomycetales",4,2,4],[994,0.46336120149688015,0.27770265992885557,0.46637330882947647,"Candida vartiovaarae","Naumovozyma castellii","Naumovozyma","Saccharomycetaceae","Saccharomycetales",4,2,4]]}

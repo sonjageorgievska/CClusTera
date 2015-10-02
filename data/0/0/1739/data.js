@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1739,0.61142275660049239,0.68190756152050547,0.55821577228525088]],"relations":null}
+{"titles":null,"points":[[1739,0.44146425079517204,0.54862103224481029,0.12599081211465898,"Cryptococcus podzolicus","Cryptococcus podzolicus","Cryptococcus","Tremellaceae","Tremellales",4,4,1]]}

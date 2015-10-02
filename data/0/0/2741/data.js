@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2741,0.36908471180522878,0.68561512114258771,0.65890465562505618],[2742,0.732820426343939,0.52148877700649743,0.40672644169184979]],"relations":null}
+{"titles":null,"points":[[2741,0.57114080085263808,0.52852134512754434,0.64216320093946655,"Kodamaea kakaduensis","Kodamaea kakaduensis","Kodamaea","Saccharomycetaceae","Saccharomycetales",5,4,5],[2742,0.37010047383249878,0.22890317311672143,0.87260694376442882,"Kodamaea kakaduensis","Kodamaea kakaduensis","Kodamaea","Saccharomycetaceae","Saccharomycetales",3,1,7]]}

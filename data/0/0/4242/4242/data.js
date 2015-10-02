@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4242,0.0738738525852601,0.37937852944794648,0.49093955782650606]],"relations":null}
+{"titles":null,"points":[[4242,0.857104078475681,0.21783263610999859,0.57555274729561323,"Naumovozyma baii","Naumovozyma baii","Naumovozyma","Saccharomycetaceae","Saccharomycetales",8,1,5]]}

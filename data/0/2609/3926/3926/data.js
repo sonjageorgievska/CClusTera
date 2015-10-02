@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3926,0.78076683382786594,0.598362792326788,0.44852748051153996],[3927,0.78125589160639464,0.59923325519775483,0.44858330953206454]],"relations":null}
+{"titles":null,"points":[[3926,0.28528809522810589,0.71538660764053008,0.32167796811345334,"Pseudozyma pruni","Pseudozyma pruni","Pseudozyma","Ustilaginaceae","Ustilaginales",2,5,2],[3927,0.28465544895366118,0.7160986162306332,0.32137333315312794,"Pseudozyma pruni","Pseudozyma pruni","Pseudozyma","Ustilaginaceae","Ustilaginales",2,5,2]]}

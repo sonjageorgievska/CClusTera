@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2186,0.51083777489771,0.87788589187074217,0.42771904296264063]],"relations":null}
+{"titles":null,"points":[[2186,0.49820236501182463,0.21770504121072143,0.16419935412825498,"Bullera miyagiana","Bullera miyagiana","Bullera","Tremellaceae","Tremellales",4,1,1]]}

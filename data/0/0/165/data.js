@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[165,0.43921405925180484,0.66795228030472731,0.47616172763017378]],"relations":null}
+{"titles":null,"points":[[165,0.43034212625055412,0.49331308779711913,0.51406857420805818,"Cystobasidium pallidum","Cystobasidium pallidum","Cystobasidium","Platygloeaceae","Platygloeales",4,3,4]]}

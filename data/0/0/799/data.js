@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[799,0.93093598361831442,0.77947507818873218,0.89959767137513225],[1283,0.41971954907581127,0.5176151124138606,0.638500140358512]],"relations":null}
+{"titles":null,"points":[[799,0.61555971671676879,0.45157179607367481,0.89935287804606978,"Saccharomycopsis selenospora","Saccharomycopsis selenospora","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",6,3,8],[1283,0.34775011038656428,0.572239493168119,0.56053286006354963,"Candida glaebosa","Candida glaebosa","Candida","","Saccharomycetales",3,4,5]]}

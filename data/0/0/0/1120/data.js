@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1120,0.70250754400254256,0.786356436520877,0.10401665956213843]],"relations":null}
+{"titles":null,"points":[[1120,0.78407491210838909,0.62465063465024473,0.34512669782392313,"Sporobolomyces singularis","Sporobolomyces singularis","Sporobolomyces","","Sporidiobolales",7,4,3]]}

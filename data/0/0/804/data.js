@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[800,0.33600317366967092,0.67424754814543408,0.70936182970379924],[804,0.43748054046811141,0.78593003686695129,0.3334445600422562]],"relations":null}
+{"titles":null,"points":[[800,0.44345549998569689,0.58047497993607922,0.50159971914418211,"Lodderomyces elongisporus","Lodderomyces elongisporus","Lodderomyces","Saccharomycetaceae","Saccharomycetales",4,4,4],[804,0.67723964183033125,0.84136495897607888,0.60838819144407419,"Lodderomyces elongisporus","Lodderomyces elongisporus","Lodderomyces","Saccharomycetaceae","Saccharomycetales",6,6,5]]}

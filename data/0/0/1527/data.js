@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1527,0.69293556435530657,0.30698554306143261,0.67015743653677085],[3658,0.48619360719952021,0.41470503116726626,0.753192868652574]],"relations":null}
+{"titles":null,"points":[[1527,0.32760982697121371,0.55650063763709345,0.679281937567901,"Candida silvicultrix","Candida silvicultrix","Candida","","Saccharomycetales",3,4,6],[3658,0.4535119445505813,0.60192680191942638,0.51373486530844825,"Wickerhamomyces edaphicus","Wickerhamomyces edaphicus","Wickerhamomyces","","Saccharomycetales",4,4,4]]}

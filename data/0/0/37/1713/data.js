@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1713,0.72471287221692671,0.67682234801463936,0.54326913480456362]],"relations":null}
+{"titles":null,"points":[[1713,0.47072478485583158,0.54342712895199741,0.5488051729496275,"Trichosporon montevideense","Trichosporon montevideense","Trichosporon","Trichosporonaceae","Tremellales",4,4,4]]}

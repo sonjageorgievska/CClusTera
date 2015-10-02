@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[482,0.711874446436587,0.59553904783725264,0.6081451928723679],[483,0.7219273519347178,0.61157084487919033,0.6193666265887775]],"relations":null}
+{"titles":null,"points":[[482,0.621612020616773,0.75982540088991291,0.60087147926513584,"Trigonopsis variabilis","Trigonopsis variabilis","Trigonopsis","","Saccharomycetales",6,6,5],[483,0.62825317536979464,0.75275286754008131,0.58216559025464287,"Trigonopsis variabilis","Trigonopsis variabilis","Trigonopsis","","Saccharomycetales",6,6,5]]}

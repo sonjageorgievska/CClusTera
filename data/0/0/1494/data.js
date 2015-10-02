@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1494,0.7384946778691811,-0.13085269931187726,0.82077326545031515]],"relations":null}
+{"titles":null,"points":[[1494,0.25382294962967589,0.37070017131999067,0.56173618732738628,"Blastobotrys parvus","Blastobotrys parvus","Blastobotrys","Trichomonascaceae","Saccharomycetales",2,2,5]]}

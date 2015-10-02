@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3931,0.62160204376968875,0.49140205725612385,0.49732360834007955]],"relations":null}
+{"titles":null,"points":[[3931,0.51097643219734512,0.53941092386634537,0.39975681871004276,"Rhodotorula rosulata","Rhodotorula rosulata","Rhodotorula","","Sporidiobolales",5,4,3]]}

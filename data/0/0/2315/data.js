@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2315,0.49748461559595952,0.404984571292113,0.44432669005102166]],"relations":null}
+{"titles":null,"points":[[2315,0.13082921879857376,0.68059330511547722,0.59520116848010529,"Sporobolomyces novazealandicus","Sporobolomyces novazealandicus","Sporobolomyces","","Sporidiobolales",1,5,5]]}

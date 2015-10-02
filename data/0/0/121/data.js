@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[121,0.39183907981227539,0.64278780995481788,0.3096801813641139],[122,0.38496074722623613,0.64100028872373993,0.3152022560362166]],"relations":null}
+{"titles":null,"points":[[121,0.57207980111992973,0.31559745383583726,0.64404800849204569,"Pichia punctispora","Pichia punctispora","Pichia","Saccharomycetaceae","Saccharomycetales",5,2,5],[122,0.578726036159908,0.31736213174330841,0.65128065849626182,"Pichia punctispora","Pichia punctispora","Pichia","Saccharomycetaceae","Saccharomycetales",5,2,5]]}

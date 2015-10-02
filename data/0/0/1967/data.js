@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1966,0.873584337316359,0.52778445519532713,0.66058449772758476],[1967,0.88469714751464368,0.547712549839266,0.67080097918448167]],"relations":null}
+{"titles":null,"points":[[1966,0.63256406656998743,0.59198096625344288,0.33087715856457123,"Cyberlindnera japonica","Cyberlindnera japonica","Cyberlindnera","","Saccharomycetales",6,4,2],[1967,0.65023198011478622,0.585172913654625,0.34876012709972082,"Cyberlindnera japonica","Cyberlindnera japonica","Cyberlindnera","","Saccharomycetales",6,4,3]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2825,0.64267312239376884,0.49796870176748659,0.189528979706665]],"relations":null}
+{"titles":null,"points":[[2825,0.80653995239526,0.73558531220348622,0.26213899511092409,"Barnettozyma hawaiiensis","Barnettozyma hawaiiensis","Barnettozyma","","Saccharomycetales",8,5,2]]}

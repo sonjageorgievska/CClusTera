@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2488,0.57838273861056044,0.4107792917131442,0.45307343737005273]],"relations":null}
+{"titles":null,"points":[[2488,0.49134873511302735,0.55192979270879716,0.37198846595504659,"Middelhovenomyces petrohuensis","Middelhovenomyces petrohuensis","Middelhovenomyces","","",4,4,3]]}

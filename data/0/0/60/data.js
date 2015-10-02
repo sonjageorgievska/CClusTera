@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[60,0.56751556274343473,0.57681781128034337,0.69550509475442457],[3653,0.44770359598673226,0.66020348820564279,0.61423706655230481]],"relations":null}
+{"titles":null,"points":[[60,0.43515260036547726,0.53490595750197412,0.63500149636749292,"Cryptococcus laurentii","Cryptococcus laurentii","Cryptococcus","Tremellaceae","Tremellales",4,4,5],[3653,0.3132784098256618,0.38296363231553548,0.7274701807886641,"Cryptococcus rajasthanensis","Cryptococcus rajasthanensis","Cryptococcus","Tremellaceae","Tremellales",3,3,6]]}

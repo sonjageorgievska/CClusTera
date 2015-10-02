@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2287,0.58992276854719894,0.2871449886898666,0.17577978750324252]],"relations":null}
+{"titles":null,"points":[[2287,0.45023132773745045,0.77657114147107764,0.41524099107710583,"Candida stellimalicola","Candida stellimalicola","Candida","","Saccharomycetales",4,6,3]]}

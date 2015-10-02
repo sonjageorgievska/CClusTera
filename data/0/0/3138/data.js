@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3138,0.29744572344037851,0.53121042015340669,0.57757443076250881],[3141,0.71255329141832158,0.35784925061883321,0.56102090462765086]],"relations":null}
+{"titles":null,"points":[[3138,0.39537271452762346,0.644654294946388,0.1941262842937633,"Cryptococcus perniciosus","Cryptococcus perniciosus","Cryptococcus","Tremellaceae","Tremellales",3,5,1],[3141,0.40276050485613768,0.49760827349362086,0.57281526457271215,"Cryptococcus nemorosus","Cryptococcus nemorosus","Cryptococcus","Tremellaceae","Tremellales",4,3,5]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3355,0.063985382203458,0.054679346754323239,0.80136183353736556]],"relations":null}
+{"titles":null,"points":[[3355,0.14206690590135288,0.15489074971196978,0.45481896988028997,"Geotrichum cucujoidarum","Geotrichum cucujoidarum","Geotrichum","Dipodascaceae","Saccharomycetales",1,1,4]]}

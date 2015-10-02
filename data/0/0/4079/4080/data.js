@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4080,0.21646777680540574,0.68834285102815307,0.54960901312626587]],"relations":null}
+{"titles":null,"points":[[4080,0.4475994310671218,0.54736713487722,0.40930032957847307,"Candida inulinophila","Candida inulinophila","Candida","","Saccharomycetales",4,4,3]]}

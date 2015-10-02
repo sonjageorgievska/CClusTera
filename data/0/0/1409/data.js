@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1409,0.577129494315677,0.28050096729584323,0.76859318686952327]],"relations":null}
+{"titles":null,"points":[[1409,0.45048416326303808,0.707268317199361,0.51000252094229914,"Wickerhamomyces sydowiorum","Wickerhamomyces sydowiorum","Wickerhamomyces","","Saccharomycetales",4,5,4]]}

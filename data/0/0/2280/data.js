@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2280,0.3556329363717497,0.57606546518487756,0.3303240917566036]],"relations":null}
+{"titles":null,"points":[[2280,0.47572505217101685,0.641357840032419,0.34419031818032775,"Agaricostilbum hyphaenes","Agaricostilbum hyphaenes","Agaricostilbum","Agaricostilbaceae","Agaricostilbales",4,5,3]]}

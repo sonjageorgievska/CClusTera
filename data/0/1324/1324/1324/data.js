@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1324,0.45088070126450358,0.47018295808057042,0.64691997639568843],[1502,0.45284127824574721,0.46982957860202346,0.64916302361872269]],"relations":null}
+{"titles":null,"points":[[1324,0.4101228820741849,0.57746504643621488,0.47203937919947647,"Sporopachydermia lactativora","Sporopachydermia lactativora","Sporopachydermia","","Saccharomycetales",4,4,4],[1502,0.411782348528397,0.579081375567918,0.47394559304512818,"Sporopachydermia lactativora","Sporopachydermia lactativora","Sporopachydermia","","Saccharomycetales",4,4,4]]}

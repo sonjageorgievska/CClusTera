@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4249,0.62260862201428735,0.85415355442364338,0.43530961095833709]],"relations":null}
+{"titles":null,"points":[[4249,0.56948548383585118,0.28009898248444176,0.63506484559149534,"Candida verbasci","Candida verbasci","Candida","","Saccharomycetales",5,2,5]]}

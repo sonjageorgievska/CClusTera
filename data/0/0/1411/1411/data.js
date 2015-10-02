@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1411,0.99466267067434122,0.46543922699713142,0.76375283105621683],[2639,0.99465148107816148,0.4654551186620462,0.76375253970829582]],"relations":null}
+{"titles":null,"points":[[1411,0.31659769782746261,0.33849485257407524,0.27871954831395934,"Starmerella bombicola","Starmerella bombicola","Starmerella","Saccharomycetaceae","Saccharomycetales",3,2,2],[2639,0.31659745624351882,0.33849667084771534,0.27872031639329181,"Starmerella bombicola","Starmerella bombicola","Starmerella","Saccharomycetaceae","Saccharomycetales",3,2,2]]}

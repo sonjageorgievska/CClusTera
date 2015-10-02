@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1555,0.47882991130710267,0.64134934149668432,0.33574000642397528]],"relations":null}
+{"titles":null,"points":[[1555,0.54016214130995932,0.40346842510012848,0.25665430133334965,"Candida homilentoma","Candida homilentoma","Candida","","Saccharomycetales",5,3,2]]}

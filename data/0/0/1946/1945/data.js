@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1945,0.52908573423291094,0.11670582195926958,0.45640389251140867]],"relations":null}
+{"titles":null,"points":[[1945,0.73833009931196947,0.38060355857508865,0.4496299811808897,"Candida tsuchiyae","Candida tsuchiyae","Candida","","Saccharomycetales",7,3,4]]}

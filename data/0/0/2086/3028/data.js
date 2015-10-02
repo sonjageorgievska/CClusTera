@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3028,0.81168377151045956,0.76373542687709917,0.36710588611744072]],"relations":null}
+{"titles":null,"points":[[3028,0.51719691327120931,0.3458772202621106,0.54753004777426784,"Bulleribasidium oberjochense","Bulleribasidium oberjochense","Bulleribasidium","Tremellaceae","Tremellales",5,2,4]]}

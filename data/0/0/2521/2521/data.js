@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2521,0.25713516564550021,0.67663117314941845,0.31623749028566167],[2522,0.25711895135195578,0.67662372782407243,0.31624461955437938]],"relations":null}
+{"titles":null,"points":[[2521,0.17633445039494677,0.56821113874120477,0.47385647637165867,"Fellomyces fuzhouensis","Fellomyces fuzhouensis","Fellomyces","Cuniculitremaceae","Tremellales",1,4,4],[2522,0.17633385669300791,0.5682116247097091,0.47385828777351741,"Fellomyces fuzhouensis","Fellomyces fuzhouensis","Fellomyces","Cuniculitremaceae","Tremellales",1,4,4]]}

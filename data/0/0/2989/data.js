@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2989,0.17451924147007372,0.094370770996649561,0.84653164558578631],[2990,0.60863832194169287,0.50415397523176375,0.509693139069216]],"relations":null}
+{"titles":null,"points":[[2989,0.771796533471457,0.23399238153054527,0.12729985804915189,"Bannoa hahajimensis","Bannoa hahajimensis","Bannoa","","Erythrobasidiales",7,1,1],[2990,0.49286768668252962,0.27215939961050672,0.54194693185083342,"Sporobolomyces syzygii","Sporobolomyces syzygii","Sporobolomyces","","Sporidiobolales",4,2,4]]}

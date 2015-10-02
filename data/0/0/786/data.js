@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[786,0.43962063875041385,0.38610743811138437,0.28005002740785462]],"relations":null}
+{"titles":null,"points":[[786,0.24520825947547431,0.34515445728443617,0.50352688965836334,"Guehomyces pullulans","Guehomyces pullulans","Guehomyces","Cystofilobasidiaceae","Cystofilobasidiales",2,2,4]]}

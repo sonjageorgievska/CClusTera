@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3770,0.023239369353514762,0.34193896681454483,0.58634546872723847]],"relations":null}
+{"titles":null,"points":[[3770,0.3444586799900704,0.61991252407949193,0.621708122406305,"Cystofilobasidium macerans","Cystofilobasidium macerans","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales",3,4,5]]}

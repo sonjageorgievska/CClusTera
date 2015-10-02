@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1196,0.14727889148632034,0.75010400053106208,0.66376439403608334]],"relations":null}
+{"titles":null,"points":[[1196,0.37767083108232719,0.50243218374061771,0.19360938127379565,"Candida berthetii","Candida berthetii","Candida","","Saccharomycetales",3,4,1]]}

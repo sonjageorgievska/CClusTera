@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4077,-0.12833158030830549,0.43172699024570749,0.67847548251928846]],"relations":null}
+{"titles":null,"points":[[4077,0.48313566947159925,0.052127907558420034,0.45494079648727864,"Candida nongkhaiensis","Candida nongkhaiensis","Candida","","Saccharomycetales",4,0,4]]}

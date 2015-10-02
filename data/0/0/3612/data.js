@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3612,0.58246776759922547,0.44643709790508057,0.291822603219142]],"relations":null}
+{"titles":null,"points":[[3612,0.35974987347412346,0.557173410292912,0.7250566532999061,"Candida boreocaroliniensis","Candida boreocaroliniensis","Candida","","Saccharomycetales",3,4,6]]}

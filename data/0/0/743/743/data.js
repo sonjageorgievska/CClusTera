@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[743,0.64325937581215176,0.411247814452354,0.843268533119368],[744,0.64324155678364392,0.41124186204066543,0.84327272912781948]],"relations":null}
+{"titles":null,"points":[[743,0.60111340873011754,0.41925716639594596,0.4279690801724057,"Hyphopichia pseudoburtonii","Hyphopichia pseudoburtonii","Hyphopichia","Saccharomycetaceae","Saccharomycetales",6,3,3],[744,0.60111470987548854,0.41925747133293018,0.42796763787221942,"Hyphopichia pseudoburtonii","Hyphopichia pseudoburtonii","Hyphopichia","Saccharomycetaceae","Saccharomycetales",6,3,3]]}

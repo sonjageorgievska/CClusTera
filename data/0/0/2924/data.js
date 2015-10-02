@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2924,0.16755136873551887,0.52539537848461471,0.3187290423324754],[3252,0.22853435258864471,0.31458364705688768,0.6859615723660536]],"relations":null}
+{"titles":null,"points":[[2924,0.77204076215913886,0.65843722863179943,0.58566546150172893,"Candida ortonii","Candida ortonii","Candida","","Saccharomycetales",7,5,5],[3252,0.616168695937425,0.828105819624622,0.42441237712331148,"Ogataea falcaomoraisii","Ogataea falcaomoraisii","Ogataea","Saccharomycetaceae","Saccharomycetales",6,6,3]]}

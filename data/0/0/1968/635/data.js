@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[635,0.17951143476088877,0.60395398089715868,0.55476132561078573]],"relations":null}
+{"titles":null,"points":[[635,0.6795360766537496,0.48477587247320469,0.28864272096054122,"Myxozyma melibiosi","Myxozyma melibiosi","Myxozyma","Lipomycetaceae","Saccharomycetales",6,3,2]]}

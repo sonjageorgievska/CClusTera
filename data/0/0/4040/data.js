@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4039,0.79239903465930761,0.17859442149980562,0.7282474214884026],[4040,0.39893788804374647,0.5262818499627826,0.3272189301104389]],"relations":null}
+{"titles":null,"points":[[4039,0.23889700346575366,0.3554092293668899,0.24763503844606954,"Clavispora reshetovae","Clavispora reshetovae","Clavispora","Metschnikowiaceae","Saccharomycetales",2,2,2],[4040,0.56627377129490275,0.26540046843147558,0.49463206977237151,"Clavispora reshetovae","Clavispora reshetovae","Clavispora","Metschnikowiaceae","Saccharomycetales",5,2,4]]}

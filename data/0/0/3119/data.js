@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3119,0.41173571830888878,0.66560116837460692,0.16716188425637887]],"relations":null}
+{"titles":null,"points":[[3119,0.453281259360809,0.61788763385731349,0.0798546075488956,"Bensingtonia sorbi","Bensingtonia sorbi","Bensingtonia","Agaricostilbaceae","Agaricostilbales",4,4,0]]}

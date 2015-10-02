@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1599,0.53420606179243013,0.76234169814940422,0.99013450141413029],[1600,0.53538179067207259,0.76074165738316679,0.99037435792948136]],"relations":null}
+{"titles":null,"points":[[1599,0.37255892031509613,0.73500688805346648,0.29514668147328121,"Candida rugopelliculosa","Candida rugopelliculosa","Candida","","Saccharomycetales",3,5,2],[1600,0.37336919101419247,0.73444105624549216,0.29479748412945622,"Candida rugopelliculosa","Candida rugopelliculosa","Candida","","Saccharomycetales",3,5,2]]}

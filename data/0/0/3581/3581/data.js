@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3581,0.69869734585998511,0.78057039767675318,0.35323825749363169]],"relations":null}
+{"titles":null,"points":[[3581,0.69558074628898081,0.64771492041301593,0.51836158053924264,"Kuraishia floccosa","Kuraishia floccosa","Kuraishia","Saccharomycetaceae","Saccharomycetales",6,5,4]]}

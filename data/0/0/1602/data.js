@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1602,0.55239575505659266,0.36795945952864745,0.39558563817745995]],"relations":null}
+{"titles":null,"points":[[1602,0.44668444202199331,0.45912165501618968,0.37957643648380318,"Rhodotorula auriculariae","Rhodotorula auriculariae","Rhodotorula","","Sporidiobolales",4,3,3]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3269,1.0202301890721051,0.66846680658139535,0.44655651314668238]],"relations":null}
+{"titles":null,"points":[[3269,0.649377299769497,0.40420351909176755,0.33319302045578558,"Candida bolitotheri","Candida bolitotheri","Candida","","Saccharomycetales",6,3,2]]}

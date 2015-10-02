@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[980,0.89640447005691959,-0.0907160129624962,0.54864717038573563]],"relations":null}
+{"titles":null,"points":[[980,0.60556065703106421,0.95341265204152581,0.64641534140539347,"Ogataea wickerhamii","Ogataea wickerhamii","Ogataea","Saccharomycetaceae","Saccharomycetales",6,7,5]]}

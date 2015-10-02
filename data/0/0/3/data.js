@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3,1.0224913067520747,0.68519459835804242,0.19602006819120185]],"relations":null}
+{"titles":null,"points":[[3,0.21496453692872244,0.15462071390328033,0.28128080225366248,"Candida lactis-condensi","Candida lactis-condensi","Candida","","Saccharomycetales",2,1,2]]}

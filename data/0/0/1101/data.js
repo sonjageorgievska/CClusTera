@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1101,0.5423770268130903,0.82467513244237622,0.37706313519666146]],"relations":null}
+{"titles":null,"points":[[1101,0.46187140600620341,0.42705261906714304,0.363189932826145,"Candida pyralidae","Candida pyralidae","Candida","","Saccharomycetales",4,3,3]]}

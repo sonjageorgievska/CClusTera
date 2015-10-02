@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[514,0.61322262231925784,0.65642606290329975,0.419012219542693]],"relations":null}
+{"titles":null,"points":[[514,0.60095334489112939,0.62994128823133744,0.40620804259965676,"Filobasidium uniguttulatum","Filobasidium uniguttulatum","Filobasidium","Filobasidiaceae","Filobasidiales",6,5,3]]}

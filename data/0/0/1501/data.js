@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1501,0.016093283971232615,0.83909604757945844,0.55890544930168717]],"relations":null}
+{"titles":null,"points":[[1501,0.68970227024736885,0.6167313812010834,0.20943289523878658,"Saccharomycopsis synnaedendra","Saccharomycopsis synnaedendra","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",6,4,1]]}

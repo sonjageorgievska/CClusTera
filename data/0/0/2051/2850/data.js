@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2850,0.67399858728285744,0.54638749929661723,0.67906860783494172]],"relations":null}
+{"titles":null,"points":[[2850,0.29236596703570172,0.62154812991615882,0.46448580750851143,"Candida powellii","Candida powellii","Candida","","Saccharomycetales",2,4,4]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3384,0.40214275081253542,0.21776018874625003,0.25325406560170949]],"relations":null}
+{"titles":null,"points":[[3384,0.68687141235023574,0.46136651357611569,0.47271808709758462,"Bullera panici","Bullera panici","Bullera","Tremellaceae","Tremellales",6,3,4]]}

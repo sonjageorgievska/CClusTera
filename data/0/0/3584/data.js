@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3584,0.94657433588666051,0.30338147456094067,0.54646257035315537]],"relations":null}
+{"titles":null,"points":[[3584,0.18571839674876572,0.57851273947619919,0.28333950778958117,"Cryptococcus cuniculi","Cryptococcus cuniculi","Cryptococcus","Tremellaceae","Tremellales",1,4,2]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1143,0.47679231910474085,0.82723672385262259,0.066089619193794691]],"relations":null}
+{"titles":null,"points":[[1143,0.864410217970043,0.67699147395236381,0.39175182740091297,"Candida allociferrii","Candida allociferrii","Candida","","Saccharomycetales",8,5,3]]}

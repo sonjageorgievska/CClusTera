@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[101,0.32655249817438553,0.28856316985914149,0.60636736550864834]],"relations":null}
+{"titles":null,"points":[[101,0.57808858330752577,0.30717842519413652,0.35881134613006066,"Candida magnoliae","Candida magnoliae","Candida","","Saccharomycetales",5,2,3]]}

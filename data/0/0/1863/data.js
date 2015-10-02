@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1863,0.592263609300058,0.62824485182434708,0.23429682536951002],[1864,0.60134711689461962,0.62265246416983422,0.24172751107819096]],"relations":null}
+{"titles":null,"points":[[1863,0.72555281876076416,0.31777138434841989,0.475026612426197,"Lipomyces oligophaga","Lipomyces oligophaga","Lipomyces","Lipomycetaceae","Saccharomycetales",7,2,4],[1864,0.73016611432718492,0.30816289376998252,0.4824693547179148,"Lipomyces oligophaga","Lipomyces oligophaga","Lipomyces","Lipomycetaceae","Saccharomycetales",7,2,4]]}

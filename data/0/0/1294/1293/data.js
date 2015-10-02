@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1293,0.60380158927520255,0.50839574641661678,0.79424830180037331]],"relations":null}
+{"titles":null,"points":[[1293,0.63036045922701045,0.096441195312613789,0.58087166438077109,"Candida valdiviana","Candida valdiviana","Candida","","Saccharomycetales",6,0,5]]}

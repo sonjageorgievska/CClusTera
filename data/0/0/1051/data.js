@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1051,0.46470946902078947,0.38846689395422423,0.603140588452471]],"relations":null}
+{"titles":null,"points":[[1051,0.4664805214023291,0.50800372102243674,0.39043434241087593,"Sterigmatomyces halophilus","Sterigmatomyces halophilus","Sterigmatomyces","Agaricostilbaceae","Agaricostilbales",4,4,3]]}

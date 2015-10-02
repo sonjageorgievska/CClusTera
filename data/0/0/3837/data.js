@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3837,0.52818698391760832,0.59939321013349778,0.75612726272611386],[3840,0.61043371266274338,0.26129355571128982,0.83052674735067289]],"relations":null}
+{"titles":null,"points":[[3837,0.70813652353115286,0.47211692200067146,0.66215724084632144,"Candida pseudojiufengensis","Candida pseudojiufengensis","Candida","","Saccharomycetales",7,3,5],[3840,0.722466453835845,0.51666424218052631,0.5941250716682267,"Candida pseudojiufengensis","Candida pseudojiufengensis","Candida","","Saccharomycetales",7,4,5]]}

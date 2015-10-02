@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2178,0.47796785423928662,0.90266264530903151,0.15472433011972703]],"relations":null}
+{"titles":null,"points":[[2178,0.36660346392916093,0.67276267814860613,0.68987893471667616,"Sugiyamaella smithiae","Sugiyamaella smithiae","Sugiyamaella","Trichomonascaceae","Saccharomycetales",3,5,6]]}

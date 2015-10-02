@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3993,0.539914696606723,0.58553524217949926,0.29916114085680229]],"relations":null}
+{"titles":null,"points":[[3993,0.69528672469740371,0.33155959402577995,0.34096370636709,"Mingxiaea foliicola","Mingxiaea foliicola","Mingxiaea","","Tremellales",6,2,3]]}

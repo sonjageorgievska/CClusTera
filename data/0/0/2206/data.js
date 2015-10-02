@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2206,0.78875706151125524,0.52550817525738269,0.4758425782696446]],"relations":null}
+{"titles":null,"points":[[2206,0.2497919289435647,0.595573521102451,0.26501732337993211,"Kockovaella thailandica","Kockovaella thailandica","Kockovaella","Cuniculitremaceae","Tremellales",2,4,2]]}

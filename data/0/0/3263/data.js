@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[3263,0.29699442588485864,0.48740171531965359,0.24365286039606873]],"relations":null}
+{"titles":null,"points":[[3263,0.706634895580052,0.34309400245015792,0.30674781717333993,"Candida yuchorum","Candida yuchorum","Candida","","Saccharomycetales",7,2,2]]}

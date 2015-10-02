@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[4156,0.20703275285740327,0.5915206841312961,0.77790991142829446],[4157,0.20511859114305939,0.59141038507565,0.7773408604203309]],"relations":null}
+{"titles":null,"points":[[4156,0.80818108892149587,0.35978506965019053,0.50792802207762422,"Cyberlindnera xylebori","Cyberlindnera xylebori","Cyberlindnera","","Saccharomycetales",8,2,4],[4157,0.80835591590671352,0.36065014840752552,0.50747734015856338,"Cyberlindnera xylebori","Cyberlindnera xylebori","Cyberlindnera","","Saccharomycetales",8,2,4]]}

@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2933,1.3327201311077781,0.84401990826903051,0.2940065277756066]],"relations":null}
+{"titles":null,"points":[[2933,1.22006329378935,0.43847150692559234,0.31836474096314682,"Candida prunicola","Candida prunicola","Candida","","Saccharomycetales",2,3,2]]}

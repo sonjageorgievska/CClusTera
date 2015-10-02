@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[2445,0.79243804894015679,0.42226844426635435,0.44095535100516292]],"relations":null}
+{"titles":null,"points":[[2445,0.47251233547688748,0.8004294505978542,0.452047605779541,"Cuniculitrema polymorpha","Cuniculitrema polymorpha","Cuniculitrema","Cuniculitremaceae","Tremellales",4,6,4]]}

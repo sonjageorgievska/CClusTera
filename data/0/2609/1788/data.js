@@ -1,1 +1,1 @@
-{"parentId":null,"points":[[1788,0.52548200041021009,0.53685390398834,0.63404107711407665]],"relations":null}
+{"titles":null,"points":[[1788,0.461597580591332,0.57771285112931414,0.50110249116800309,"Pseudozyma fusiformata","Pseudozyma fusiformata","Pseudozyma","Ustilaginaceae","Ustilaginales",4,4,4]]}
