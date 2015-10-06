@@ -145,7 +145,7 @@
     <script src="src/dhtmlx.js"></script>
 
 
-    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <!--<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>-->
     <script src="dist/graphosaurus.js"></script>
     <script src="src/uifunctions.js"></script>
     <script src="data/smalldata.js"></script><!--use this if you want to include a js file (with data e.g.) before loading the page. Great for small data sitting on the server-->
@@ -217,6 +217,10 @@
         var edges = [];//edges is a backup of the current edges in the graph, regardless of whether they are shown or not  . should be a backupEdges property of the graph      
         var labelPositionX = [];//leftover from when I was trying to put labels on the expandable nodes. not used
         var labelPositionY = [];
+        //for debugging
+        var previoslyhoveredNode;
+        var previoscolor;
+        //endfordebugging
 
         var graph = G.graph({
             nodeImage: "examples/eve-universe/disc.png",
@@ -225,15 +229,25 @@
             bgColor: 'lightskyblue',
             edgeWidth: 1,
             nodeSize: 10,
-            hover: function (node) {//what should happen when a user hovers over a node with the mouse             
-                //$("#labelnode").text("Sequence id: " + node.getId());    
+            hover: function (node) {//what should happen when a user hovers over a node with the mouse                             
+                ////for debugging
+                if (previoslyhoveredNode != undefined)
+                {
+                    var stringColor = "#" + previoscolor;                    
+                    previoslyhoveredNode.setColorHex(stringColor);
+                }
+                previoscolor = node.getColor();
+                previoslyhoveredNode = node;
+                node.setColor("rgb(255,255,255)");
+                redrawSameScene();
+                ////endfordebugging
                 var props = node._propertiesValues;
                 var text = node.getId() + "<br>" + props[0] + "<br>" + props[2] +  "<br>" + props[4]
               
                 if (node._expandable) { text = "Click me! <br> " + text; }
                 myPop.attachHTML(text);
                
-                myPop.show(cursorX, cursorY, 3, 5); //params are: x, y, width, height. 3 and 5 are number of pixels relative to the node where the message should appear(you can play with these numbers)
+                myPop.show(cursorX, cursorY, 2, 3); //params are: x, y, width, height. 3 and 5 are number of pixels relative to the node where the message should appear(you can play with these numbers)
             },
             mousedown: function (node) {//what should happen when a user clicks on a node
                 if (node._expandable) {

@@ -602,9 +602,9 @@ function Trackball( object, domElement ) {
 		var d = ((typeof event.wheelDelta != "undefined") ? (-event.wheelDelta) : event.detail);
 		d = -0.020 * ((d > 0) ? 1 : -1);
 		var factor = d;
-		mX = ((event.clientX-285) / (window.innerWidth-285)) * 2 - 1;
+		mX = ((event.clientX - 285) / (window.innerWidth - 285)) * 2 - 1;//frame starts at 285
 		mY = -(event.clientY / window.innerHeight) * 2 + 1;
-		var vector = new THREE.Vector3(mX, mY, 1);
+		var vector = new THREE.Vector3(mX, mY, 0.5);
 		vector.unproject(_this.object);
 		vector.sub(_this.object.position);
 		_this.object.position.addVectors(_this.object.position, vector.setLength(factor));        
@@ -71266,7 +71266,7 @@ module.exports = (function () {
 
 	    //this._initCamera(this.aspectRatio);
 	    //this.positionCamera();
-	    this._initLabelPositions();
+	    //this._initLabelPositions();
 	    this.forceRerender();
 	};
 
@@ -71442,6 +71442,64 @@ module.exports = (function () {
         //    labelPositionY[pointsSet.attributes.id.array[i]] = vector.y;
         //}
     }
+
+
+    //Frame.prototype._initMouseEvents = function (elem) {
+    //    var self = this;
+    //    var createMouseHandler = function (callback) {
+    //        var raycaster = new THREE.Raycaster();
+    //        var mouse = new THREE.Vector2();
+
+    //        return function (evt) {
+    //            evt.preventDefault();
+
+    //             mouse.x = ((evt.clientX - 285) / (window.innerWidth - 285)) * 2 - 1;
+    //             mouse.y = 1 - (evt.clientY / window.innerHeight) * 2;
+
+    //            raycaster.setFromCamera(mouse, self.camera);
+               
+    //            var intersects = raycaster.intersectObject(self.pointCloud, true);
+
+               
+    //            //for debugging
+    //            //for (var i = 0; i < intersects.length; i++) {
+
+    //            //    var index = intersects[i].index;
+    //            //    var nodeIndex = self.pointCloud.geometry.attributes.id.array[index];
+    //            //    self.graph._nodes[nodeIndex]._color = new THREE.Color("yellow");
+    //            //}
+    //            //endfordebugging
+    //            if (intersects.length) {
+                    
+    //                var firstIndex = intersects[0].index;
+    //                var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];//changed by sonja, previously it was buggy (the indexes were getting messed up)
+
+    //                callback(self.graph._nodes[nodeIndex]);
+
+
+    //            }
+    //        };
+    //    };
+
+    //    if (this.graph._hover) {
+    //        elem.addEventListener(
+    //            'mousemove', createMouseHandler(this.graph._hover), false);
+    //    }
+
+    //    if (this.graph._click) {
+    //        elem.addEventListener(
+    //            'click', createMouseHandler(this.graph._click), false);
+    //    }
+    //    if (this.graph._mousedown) {
+    //        elem.addEventListener(
+    //            'mousedown', createMouseHandler(this.graph._mousedown), false);
+    //    }
+
+    //};
+
+    
+
+
     Frame.prototype._initMouseEvents = function (elem) {
         var self = this;
         var createMouseHandler = function (callback) {
@@ -71457,8 +71515,10 @@ module.exports = (function () {
 
                 // Calculate mouse position
                 var mousePosition = new THREE.Vector3(mouseX, mouseY, 0.5);
+                //var mousePosition = new THREE.Vector3(mouseX, mouseY, self.camera.near);
                 var radiusPosition = mousePosition.clone();
                 mousePosition.unproject(self.camera);
+                // raycaster.setFromCamera(mousePosition, self.camera);
 
                 // Calculate threshold
                 var clickRadiusPx = 2;  // 5px originally, changed by sonja
@@ -71476,29 +71536,30 @@ module.exports = (function () {
                     self.camera.far * clickRadius / self.camera.near);
 
                 
-                raycaster.params.PointCloud.threshold = threshold;
+                //raycaster.params.PointCloud.threshold = threshold;
+                raycaster.params.PointCloud.threshold = 0.009;
 
                 // Determine intersects
                 var mouseDirection = (
                     mousePosition.sub(self.camera.position)).normalize();
                 raycaster.set(self.camera.position, mouseDirection);
 
-                var intersects = raycaster.intersectObject(self.pointCloud);
+                var intersects = raycaster.intersectObject(self.pointCloud, true);
                 if (intersects.length) {
-                    //if (intersects.length > 1)//for debugging purposes
-                    //{
-                    //    var t = intersects;
-                    //    var ff = "";
-                    //    for (var r = 0; r < t.length; r++)
-                    //    {
-                    //        ff += t[r].distance + " ";
-                    //    }
-                    //    alert(ff);
+                    //for debugging
+                    //for (var i = 0; i < intersects.length; i++) {
+
+                    //    var index = intersects[i].index;
+                    //    var nodeIndex = self.pointCloud.geometry.attributes.id.array[index];
+                    //    self.graph._nodes[nodeIndex]._color = new THREE.Color("yellow");
                     //}
+                    //endfordebugging
                     var firstIndex = intersects[0].index;
                     var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];//changed by sonja, previously it was buggy (the indexes were getting messed up)
                      
                     callback(self.graph._nodes[nodeIndex]);
+
+                    
                 }
             };
         };
@@ -71536,7 +71597,11 @@ module.exports = (function () {
                 this.camera.far = distance + boundingSphere.radius * 2;
                 this.camera.updateProjectionMatrix();
             }
-
+            else {
+                this.camera.near = 0.1;
+                this.camera.far = boundingSphere.radius * 2;
+                this.camera.updateProjectionMatrix();
+            }
             prevCameraPos = cameraPos.clone();
         };
     }());
@@ -71544,12 +71609,12 @@ module.exports = (function () {
     Frame.prototype._animate = function () {
         var self = this,
             sorter = new BufferGeometrySorter(5);
-
+        //self.controls.update();
         // Update near/far camera range
         (function animate() {
             self._updateCameraBounds();
             //sorter.sort(self.points.attributes, self.controls.object.position);
-
+            //self.controls.update();
             window.requestAnimationFrame(animate);
             self.controls.update();
         }());
@@ -71844,6 +71909,19 @@ module.exports = (function () {
     Node.prototype.setColor = function (color) {
         if (color) {
             this._color.set(color);
+        }
+        return this;
+    };
+
+    /**
+    * Set the color of the Node
+    *
+    * @param {Number|String} color - Hexadecimal or CSS-style string representation of a color
+    * @returns The Node the method was called
+    */
+    Node.prototype.setColorHex = function (color) {
+        if (color) {
+            this._color = new THREE.Color(color)
         }
         return this;
     };

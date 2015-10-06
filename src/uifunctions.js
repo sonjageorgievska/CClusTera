@@ -34,7 +34,7 @@
 
      mySlider.attachEvent("onChange", function () {
          var sliderval = mySlider.getValue();
-         $("#label2").text(sliderval);
+         //$("#label2").text(sliderval);
          if (sliderval > 0) {
              
              LoadUpToLevel(sliderval);
