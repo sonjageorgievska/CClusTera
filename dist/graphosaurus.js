@@ -29675,7 +29675,7 @@ THREE.PointCloudMaterial.prototype.clone = function () {
 
 
 	material.vertexColors = this.vertexColors;
-
+	
 
 
 	material.fog = this.fog;
@@ -30689,258 +30689,511 @@ THREE.PointCloud.prototype = Object.create( THREE.Object3D.prototype );
 THREE.PointCloud.prototype.constructor = THREE.PointCloud;
 
 
+THREE.PointCloud.prototype.raycast = (function () {
 
-THREE.PointCloud.prototype.raycast = ( function () {
 
 
+    var inverseMatrix = new THREE.Matrix4();
 
-	var inverseMatrix = new THREE.Matrix4();
+    var ray = new THREE.Ray();
 
-	var ray = new THREE.Ray();
 
 
+    return function (raycaster, intersects) {
 
-	return function ( raycaster, intersects ) {
 
 
+        var object = this;
 
-		var object = this;
+        var geometry = object.geometry;
 
-		var geometry = object.geometry;
+        var threshold = raycaster.params.PointCloud.threshold;
 
-		var threshold = raycaster.params.PointCloud.threshold;
 
 
+        inverseMatrix.getInverse(this.matrixWorld);
 
-		inverseMatrix.getInverse( this.matrixWorld );
+        ray.copy(raycaster.ray).applyMatrix4(inverseMatrix);
 
-		ray.copy( raycaster.ray ).applyMatrix4( inverseMatrix );
 
 
+        if (geometry.boundingBox !== null) {
 
-		if ( geometry.boundingBox !== null ) {
 
 
+            if (ray.isIntersectionBox(geometry.boundingBox) === false) {
 
-			if ( ray.isIntersectionBox( geometry.boundingBox ) === false ) {
 
 
+                return;
 
-				return;
 
 
+            }
 
-			}
 
 
+        }
 
-		}
 
 
+        var localThreshold = threshold / ((this.scale.x + this.scale.y + this.scale.z) / 3);
+       // var localThresholdSq = localThreshold * localThreshold;
+        var position = new THREE.Vector3();
 
-		var localThreshold = threshold / ( ( this.scale.x + this.scale.y + this.scale.z ) / 3 );
 
-		var position = new THREE.Vector3();
 
+        var testPoint = function (point, index) {
 
 
-		var testPoint = function ( point, index ) {
 
+            var rayPointDistance = ray.distanceToPoint(point);
 
+           // var rayPointDistanceSq = rayPointDistance * rayPointDistance;
 
-			var rayPointDistance = ray.distanceToPoint( point );
+            if (rayPointDistance < localThreshold) {
 
 
 
-			if ( rayPointDistance < localThreshold ) {
+                var intersectPoint = ray.closestPointToPoint(point);
 
+                intersectPoint.applyMatrix4(object.matrixWorld);
 
 
-				var intersectPoint = ray.closestPointToPoint( point );
 
-				intersectPoint.applyMatrix4( object.matrixWorld );
+                var distance = raycaster.ray.origin.distanceTo(intersectPoint);
 
+               // if (distance < raycaster.near || distance > raycaster.far) return;
 
+                intersects.push({
 
-				var distance = raycaster.ray.origin.distanceTo( intersectPoint );
 
 
+                    distance: Math.sqrt(rayPointDistance),//distance,
 
-				intersects.push( {
+                    distanceToRay: Math.sqrt(rayPointDistance),
 
+                    point: intersectPoint.clone(),
 
+                    index: index,
 
-					distance: distance,
+                    face: null,
 
-					distanceToRay: rayPointDistance,
+                    object: object
 
-					point: intersectPoint.clone(),
 
-					index: index,
 
-					face: null,
+                });
 
-					object: object
 
 
+            }
 
-				} );
 
 
+        };
 
-			}
 
 
+        if (geometry instanceof THREE.BufferGeometry) {
 
-		};
+           
 
+            var attributes = geometry.attributes;
 
+            var positions = attributes.position.array;
 
-		if ( geometry instanceof THREE.BufferGeometry ) {
 
 
+            if (attributes.index !== undefined) {
 
-			var attributes = geometry.attributes;
 
-			var positions = attributes.position.array;
 
+                var indices = attributes.index.array;
 
+                var offsets = geometry.offsets;
 
-			if ( attributes.index !== undefined ) {
 
 
+                if (offsets.length === 0) {
 
-				var indices = attributes.index.array;
 
-				var offsets = geometry.offsets;
 
+                    var offset = {
 
+                        start: 0,
 
-				if ( offsets.length === 0 ) {
+                        count: indices.length,
 
+                        index: 0
 
+                    };
 
-					var offset = {
 
-						start: 0,
 
-						count: indices.length,
+                    offsets = [offset];
 
-						index: 0
 
-					};
 
+                }
 
 
-					offsets = [ offset ];
 
+                for (var oi = 0, ol = offsets.length; oi < ol; ++oi) {
 
 
-				}
 
+                    var start = offsets[oi].start;
 
+                    var count = offsets[oi].count;
 
-				for ( var oi = 0, ol = offsets.length; oi < ol; ++ oi ) {
+                    var index = offsets[oi].index;
 
 
 
-					var start = offsets[ oi ].start;
+                    for (var i = start, il = start + count; i < il; i++) {
 
-					var count = offsets[ oi ].count;
 
-					var index = offsets[ oi ].index;
 
+                        var a = index + indices[i];
 
 
-					for ( var i = start, il = start + count; i < il; i ++ ) {
 
+                        position.fromArray(positions, a * 3);
 
 
-						var a = index + indices[ i ];
 
+                        testPoint(position, a);
 
 
-						position.fromArray( positions, a * 3 );
 
+                    }
 
 
-						testPoint( position, a );
 
+                }
 
 
-					}
 
+            } else {
 
 
-				}
 
+                var pointCount = positions.length / 3;
 
 
-			} else {
 
+                for (var i = 0; i < pointCount; i++) {
 
 
-				var pointCount = positions.length / 3;
 
+                    position.set(
 
+						positions[3 * i],
 
-				for ( var i = 0; i < pointCount; i ++ ) {
+						positions[3 * i + 1],
 
-
-
-					position.set(
-
-						positions[ 3 * i ],
-
-						positions[ 3 * i + 1 ],
-
-						positions[ 3 * i + 2 ]
+						positions[3 * i + 2]
 
 					);
 
 
 
-					testPoint( position, i );
+                    testPoint(position, i);
 
 
 
-				}
+                }
 
 
 
-			}
+            }
 
 
 
-		} else {
+        } else {
 
 
 
-			var vertices = this.geometry.vertices;
+            var vertices = this.geometry.vertices;
 
 
 
-			for ( var i = 0; i < vertices.length; i ++ ) {
+            for (var i = 0; i < vertices.length; i++) {
 
 
 
-				testPoint( vertices[ i ], i );
+                testPoint(vertices[i], i);
 
 
 
-			}
+            }
 
 
 
-		}
+        }
 
 
 
-	};
+    };
 
 
 
-}() );
+}());
+
+
+
+//THREE.PointCloud.prototype.raycast = ( function () {
+
+
+
+//	var inverseMatrix = new THREE.Matrix4();
+
+//	var ray = new THREE.Ray();
+
+
+
+//	return function ( raycaster, intersects ) {
+
+
+
+//		var object = this;
+
+//		var geometry = object.geometry;
+
+//		var threshold = raycaster.params.PointCloud.threshold;
+
+
+
+//		inverseMatrix.getInverse( this.matrixWorld );
+
+//		ray.copy( raycaster.ray ).applyMatrix4( inverseMatrix );
+
+
+
+//		if ( geometry.boundingBox !== null ) {
+
+
+
+//			if ( ray.isIntersectionBox( geometry.boundingBox ) === false ) {
+
+
+
+//				return;
+
+
+
+//			}
+
+
+
+//		}
+
+
+
+//		var localThreshold = threshold / ( ( this.scale.x + this.scale.y + this.scale.z ) / 3 );
+
+//		var position = new THREE.Vector3();
+
+
+
+//		var testPoint = function ( point, index ) {
+
+
+
+//			var rayPointDistance = ray.distanceToPoint( point );
+
+
+
+//			if ( rayPointDistance < localThreshold ) {
+
+
+
+//				var intersectPoint = ray.closestPointToPoint( point );
+
+//				intersectPoint.applyMatrix4( object.matrixWorld );
+
+
+
+//				var distance = raycaster.ray.origin.distanceTo( intersectPoint );
+
+
+
+//				intersects.push( {
+
+
+
+//					distance: distance,
+
+//					distanceToRay: rayPointDistance,
+
+//					point: intersectPoint.clone(),
+
+//					index: index,
+
+//					face: null,
+
+//					object: object
+
+
+
+//				} );
+
+
+
+//			}
+
+
+
+//		};
+
+
+
+//		if ( geometry instanceof THREE.BufferGeometry ) {
+
+
+
+//			var attributes = geometry.attributes;
+
+//			var positions = attributes.position.array;
+
+
+
+//			if ( attributes.index !== undefined ) {
+
+
+
+//				var indices = attributes.index.array;
+
+//				var offsets = geometry.offsets;
+
+
+
+//				if ( offsets.length === 0 ) {
+
+
+
+//					var offset = {
+
+//						start: 0,
+
+//						count: indices.length,
+
+//						index: 0
+
+//					};
+
+
+
+//					offsets = [ offset ];
+
+
+
+//				}
+
+
+
+//				for ( var oi = 0, ol = offsets.length; oi < ol; ++ oi ) {
+
+
+
+//					var start = offsets[ oi ].start;
+
+//					var count = offsets[ oi ].count;
+
+//					var index = offsets[ oi ].index;
+
+
+
+//					for ( var i = start, il = start + count; i < il; i ++ ) {
+
+
+
+//						var a = index + indices[ i ];
+
+
+
+//						position.fromArray( positions, a * 3 );
+
+
+
+//						testPoint( position, a );
+
+
+
+//					}
+
+
+
+//				}
+
+
+
+//			} else {
+
+
+
+//				var pointCount = positions.length / 3;
+
+
+
+//				for ( var i = 0; i < pointCount; i ++ ) {
+
+
+
+//					position.set(
+
+//						positions[ 3 * i ],
+
+//						positions[ 3 * i + 1 ],
+
+//						positions[ 3 * i + 2 ]
+
+//					);
+
+
+
+//					testPoint( position, i );
+
+
+
+//				}
+
+
+
+//			}
+
+
+
+//		} else {
+
+
+
+//			var vertices = this.geometry.vertices;
+
+
+
+//			for ( var i = 0; i < vertices.length; i ++ ) {
+
+
+
+//				testPoint( vertices[ i ], i );
+
+
+
+//			}
+
+
+
+//		}
+
+
+
+//	};
+
+
+
+//}() );
 
 
 
@@ -30980,6 +31233,174 @@ THREE.ParticleSystem = function ( geometry, material ) {
 
 };
 
+    /**
+ * @author alteredq / http://alteredqualia.com/
+ */
+
+THREE.Points = function ( geometry, material ) {
+
+	THREE.Object3D.call( this );
+
+	this.type = 'Points';
+
+	this.geometry = geometry !== undefined ? geometry : new THREE.Geometry();
+	this.material = material !== undefined ? material : new THREE.PointsMaterial( { color: Math.random() * 0xffffff } );
+
+};
+
+THREE.Points.prototype = Object.create( THREE.Object3D.prototype );
+THREE.Points.prototype.constructor = THREE.Points;
+
+THREE.Points.prototype.raycast = ( function () {
+
+	var inverseMatrix = new THREE.Matrix4();
+	var ray = new THREE.Ray();
+
+	return function raycast( raycaster, intersects ) {
+
+		var object = this;
+		var geometry = object.geometry;
+		var threshold = raycaster.params.Points.threshold;
+
+		inverseMatrix.getInverse( this.matrixWorld );
+		ray.copy( raycaster.ray ).applyMatrix4( inverseMatrix );
+
+		if ( geometry.boundingBox !== null ) {
+
+			if ( ray.isIntersectionBox( geometry.boundingBox ) === false ) {
+
+				return;
+
+			}
+
+		}
+
+		var localThreshold = threshold / ( ( this.scale.x + this.scale.y + this.scale.z ) / 3 );
+		var localThresholdSq = localThreshold * localThreshold;
+		var position = new THREE.Vector3();
+
+		function testPoint( point, index ) {
+
+			var rayPointDistanceSq = ray.distanceSqToPoint( point );
+
+			if ( rayPointDistanceSq < localThresholdSq ) {
+
+				var intersectPoint = ray.closestPointToPoint( point );
+				intersectPoint.applyMatrix4( object.matrixWorld );
+
+				var distance = raycaster.ray.origin.distanceTo( intersectPoint );
+
+				if ( distance < raycaster.near || distance > raycaster.far ) return;
+
+				intersects.push( {
+
+					distance: distance,
+					distanceToRay: Math.sqrt( rayPointDistanceSq ),
+					point: intersectPoint.clone(),
+					index: index,
+					face: null,
+					object: object
+
+				} );
+
+			}
+
+		}
+
+		if ( geometry instanceof THREE.BufferGeometry ) {
+
+			var index = geometry.index;
+			var attributes = geometry.attributes;
+			var positions = attributes.position.array;
+
+			if ( index !== null ) {
+
+				var indices = index.array;
+
+				for ( var i = 0, il = indices.length; i < il; i ++ ) {
+
+					var a = indices[ i ];
+
+					position.fromArray( positions, a * 3 );
+
+					testPoint( position, a );
+
+				}
+
+			} else {
+
+				for ( var i = 0, l = positions.length / 3; i < l; i ++ ) {
+
+					position.fromArray( positions, i * 3 );
+
+					testPoint( position, i );
+
+				}
+
+			}
+
+		} else {
+
+			var vertices = geometry.vertices;
+
+			for ( var i = 0, l = vertices.length; i < l; i ++ ) {
+
+				testPoint( vertices[ i ], i );
+
+			}
+
+		}
+
+	};
+
+}() );
+
+THREE.Points.prototype.clone = function () {
+
+	return new this.constructor( this.geometry, this.material ).copy( this );
+
+};
+
+THREE.Points.prototype.toJSON = function ( meta ) {
+
+	var data = THREE.Object3D.prototype.toJSON.call( this, meta );
+
+	// only serialize if not in meta geometries cache
+	if ( meta.geometries[ this.geometry.uuid ] === undefined ) {
+
+		meta.geometries[ this.geometry.uuid ] = this.geometry.toJSON();
+
+	}
+
+	// only serialize if not in meta materials cache
+	if ( meta.materials[ this.material.uuid ] === undefined ) {
+
+		meta.materials[ this.material.uuid ] = this.material.toJSON();
+
+	}
+
+	data.object.geometry = this.geometry.uuid;
+	data.object.material = this.material.uuid;
+
+	return data;
+
+};
+
+//// Backwards compatibility
+
+//THREE.PointCloud = function ( geometry, material ) {
+
+//	console.warn( 'THREE.PointCloud has been renamed to THREE.Points.' );
+//	return new THREE.Points( geometry, material );
+
+//};
+
+THREE.ParticleSystem = function ( geometry, material ) {
+
+	console.warn( 'THREE.ParticleSystem has been renamed to THREE.Points.' );
+	return new THREE.Points( geometry, material );
+
+};
 
 
 // File:src/objects/Line.js
@@ -41270,7 +41691,7 @@ THREE.WebGLRenderer = function ( parameters ) {
 
 
 
-				} else if ( material.defaultAttributeValues !== undefined ) {
+				} else if (material.defaultAttributeValues !== undefined && material.defaultAttributeValues[key] != undefined) {
 
 
 
@@ -71309,6 +71730,21 @@ module.exports = (function () {
             depthWrite: false,
         });
 
+
+        //var material = new THREE.ShaderMaterial({
+
+        //    uniforms: {
+        //        color: { type: "c", value: new THREE.Color(0xffffff) },
+        //        texture: { type: "t", value: THREE.ImageUtils.loadTexture("examples/eve-universe/disc.png") }
+        //    },
+        //    vertexShader: document.getElementById('vertexshader').textContent,
+        //    fragmentShader: document.getElementById('fragmentshader').textContent,
+
+        //    vertexColors: true,
+        //    alphaTest: 0.9,
+
+        //});
+
         if (this.graph._nodeImage !== undefined) {
             var texture = THREE.ImageUtils.loadTexture(
                 this.graph._nodeImage, undefined, function () {
@@ -71327,6 +71763,8 @@ module.exports = (function () {
         var ids = new THREE.BufferAttribute( //added by sonja to be able to detect properly clicked nodes. previously it was detecting completely different nodes
             new Int32Array(nodes.length * 1), 1);
         
+        var sizes = new Float32Array(nodes.length);
+
 
         for (var i = 0; i < nodes.length; i++) {
             var node = nodes[i];
@@ -71336,11 +71774,13 @@ module.exports = (function () {
             positions.setXYZ(i, pos.x, pos.y, pos.z);
             colors.setXYZ(i, color.r, color.g, color.b);
             ids.setX(i, i);
+            sizes[i] = i % 20;
         }
         this.points = new THREE.BufferGeometry();
         this.points.addAttribute('position', positions);
         this.points.addAttribute('color', colors);
         this.points.addAttribute('id', ids);
+        this.points.addAttribute('size', new THREE.BufferAttribute(sizes, 1));
 
         pointsSet = this.points; 
 
@@ -71361,6 +71801,67 @@ module.exports = (function () {
     };
 
 
+
+    //Frame.prototype._initNodes = function (nodes) {
+    //    var self = this;
+
+    //    var material = new THREE.PointCloudMaterial({
+    //        size: this.graph._nodeSize,
+    //        vertexColors: true,
+    //        sizeAttenuation: this.graph._sizeAttenuation,
+    //        depthWrite: false,
+    //    });
+
+    //    if (this.graph._nodeImage !== undefined) {
+    //        var texture = THREE.ImageUtils.loadTexture(
+    //            this.graph._nodeImage, undefined, function () {
+    //                // Force a rerender after node image has finished loading
+    //                self.forceRerender();
+    //            });
+    //        material.map = texture;
+    //    }
+
+    //    var positions = new THREE.BufferAttribute(
+    //        new Float32Array(nodes.length * 3), 3);
+    //    var colors = new THREE.BufferAttribute(
+    //        new Float32Array(nodes.length * 3), 3);
+    //    //ids added by Sonja
+
+    //    var ids = new THREE.BufferAttribute( //added by sonja to be able to detect properly clicked nodes. previously it was detecting completely different nodes
+    //        new Int32Array(nodes.length * 1), 1);
+
+
+    //    for (var i = 0; i < nodes.length; i++) {
+    //        var node = nodes[i];
+    //        var pos = node._pos;
+    //        var color = node._color;
+
+    //        positions.setXYZ(i, pos.x, pos.y, pos.z);
+    //        colors.setXYZ(i, color.r, color.g, color.b);
+    //        ids.setX(i, i);
+    //    }
+    //    this.points = new THREE.BufferGeometry();
+    //    this.points.addAttribute('position', positions);
+    //    this.points.addAttribute('color', colors);
+    //    this.points.addAttribute('id', ids);
+
+    //    pointsSet = this.points;
+
+    //    this.scene.remove(this.pointCloud);
+
+    //    this.pointCloud = new THREE.Points(this.points, material);
+
+    //    if (this.graph._nodeImageTransparent === true) {
+    //        material.transparent = true;
+    //        this.pointCloud.sortParticles = true;
+    //    }
+
+
+
+    //    this.scene.add(this.pointCloud);
+
+
+    //};
 
 
     Frame.prototype._normalizeNodes = function () {
@@ -71458,7 +71959,7 @@ module.exports = (function () {
 
     //            raycaster.setFromCamera(mouse, self.camera);
                
-    //            var intersects = raycaster.intersectObject(self.pointCloud, true);
+    //            var intersects = raycaster.intersectObject(pointsSet);
 
                
     //            //for debugging
@@ -71518,10 +72019,9 @@ module.exports = (function () {
                 //var mousePosition = new THREE.Vector3(mouseX, mouseY, self.camera.near);
                 var radiusPosition = mousePosition.clone();
                 mousePosition.unproject(self.camera);
-                // raycaster.setFromCamera(mousePosition, self.camera);
 
                 // Calculate threshold
-                var clickRadiusPx = 2;  // 5px originally, changed by sonja
+                var clickRadiusPx = 3;  // 5px originally, changed by sonja
 
                 var radiusX = ((evt.clientX -285 + clickRadiusPx) / (window.innerWidth-285)) * 2 - 1;//frame starts at 285
                 radiusPosition.setX(radiusX);
@@ -71532,13 +72032,13 @@ module.exports = (function () {
                 var clickRadius = radiusPosition.distanceTo(mousePosition);
                 //from sonja: this is the code responsible for finding which node was clicked or hovered over
 
-                var threshold = (
-                    self.camera.far * clickRadius / self.camera.near);
+                //var threshold = (
+                //    self.camera.far * clickRadius / self.camera.near);
 
+                var threshold = clickRadius;
+
+                raycaster.params.PointCloud.threshold = threshold;
                 
-                //raycaster.params.PointCloud.threshold = threshold;
-                raycaster.params.PointCloud.threshold = 0.009;
-
                 // Determine intersects
                 var mouseDirection = (
                     mousePosition.sub(self.camera.position)).normalize();
@@ -71557,7 +72057,7 @@ module.exports = (function () {
                     var firstIndex = intersects[0].index;
                     var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];//changed by sonja, previously it was buggy (the indexes were getting messed up)
                      
-                    callback(self.graph._nodes[nodeIndex]);
+                    callback(self.graph._nodes[firstIndex]);
 
                     
                 }
