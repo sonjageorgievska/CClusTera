@@ -1,7 +1,5 @@
 ﻿<html>
-<head>
-
-   
+<head>   
     <style>
 
 
@@ -77,13 +75,13 @@
              font-family: sans-serif;
          }
 
-         #sliderObj {
+         /*#sliderObj {
              position: absolute;
              top: 110;
              left: 15;
              z-index: 1;
              font-family: sans-serif;
-         }
+         }*/
 
 
           #colortable {
@@ -118,17 +116,17 @@
     <button style="background-color:white" onclick="searchSequence()" name="button">Search</button>
     <p> </p>
     <button style="background-color:white" onclick="fastLoadAllData()" name="button">Load all data</button>
-   
+    <p> </p>
     <input type="checkbox" name="showedges" id="showedges" />
 
     <label> Show edges</label> 
     
     <div id="frame"></div>
     <!--<div id="graph"></div>-->
-    <div id="sliderObj" min="0" max="4" step="1" value="0" vertical="false" size="245"></div>
-    <div id="label">Level: </div>
+    <!--<div id="sliderObj" min="0" max="4" step="1" value="0" vertical="false" size="245"></div>-->
+    <!--<div id="label">Level: </div>-->
     <!--<div id="labelnode">Sequence id: </div>-->
-    <div id="label2">0</div>
+    <!--<div id="label2">0</div>-->
 
     <div id="labelproperty">Colorize by a numerical property:</div>
     <!--<div id="labelproperty2">Colorize by family, type, etc:</div>-->
@@ -143,15 +141,8 @@
 
     <link rel="stylesheet" type="text/css" href="src/dhtmlx.css">
     <script src="src/dhtmlx.js"></script>
-
-
-    <!--<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>-->
-    <!--<script src="https://threejs.org/build/three.min.js"></script>
-
-    <script src="https://threejs.org/examples/js/Detector.js"></script>
-    <script src="https://threejs.org/examples/js/libs/stats.min.js"></script>-->
     <script src="dist/graphosaurus.js"></script>
-    <script src="src/uifunctions.js"></script>
+    <script src="src/uifunctions.js"></script>    
     <script src="data/smalldata.js"></script><!--use this if you want to include a js file (with data e.g.) before loading the page. Great for small data sitting on the server-->
     <script src="data/level.js"></script>
 
@@ -201,13 +192,13 @@
             myPop.hide();
         }
         
-        var mySlider = new dhtmlXSlider("sliderObj");
-        defineSlider();
+        //var mySlider = new dhtmlXSlider("sliderObj");
+        //defineSlider();
 
         var myPop = new dhtmlXPopup();
-        var myPopSlider = new dhtmlXPopup({ slider: mySlider });
+        //var myPopSlider = new dhtmlXPopup({ slider: mySlider });
 
-        updateSliderPopupValue(mySlider.getValue())
+        //updateSliderPopupValue(mySlider.getValue())
 
         var pointsSet;
         var previousNumberOfNodes = []; //is used in ctrl+z, for every click
@@ -228,12 +219,14 @@
         //endfordebugging
 
         var graph = G.graph({
+            sizeAttenuation:true,
             nodeImage: "examples/eve-universe/disc.png",
             nodeImageTransparent: true,
             antialias: true,
-            bgColor: 'lightskyblue',
+            bgColor: 'lightgrey',//'lightskyblue',
             edgeWidth: 1,
-            nodeSize: 10,
+            nodeSize: 0.016,
+            edgeWidth: 0.005,
             hover: function (node) {//what should happen when a user hovers over a node with the mouse                             
                 ////for debugging
                 if (previoslyhoveredNode != undefined)

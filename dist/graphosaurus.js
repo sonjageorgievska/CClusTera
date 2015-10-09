@@ -200,7 +200,7 @@ function Trackball( object, domElement ) {
 	this.getMouseOnScreen = function ( pageX, pageY, vector ) {
 
 		return vector.set(
-			( pageX - _this.screen.left ) / _this.screen.width,
+			( pageX  - _this.screen.left ) / _this.screen.width,
 			( pageY - _this.screen.top ) / _this.screen.height
 		);
 
@@ -215,7 +215,7 @@ function Trackball( object, domElement ) {
 		return function ( pageX, pageY, projection ) {
 
 			mouseOnBall.set(
-				( pageX - _this.screen.width * 0.5 - _this.screen.left ) / (_this.screen.width*0.5),
+				( pageX -  _this.screen.width * 0.5 - _this.screen.left ) / (_this.screen.width*0.5),
 				( _this.screen.height * 0.5 + _this.screen.top - pageY ) / (_this.screen.height*0.5),
 				0.0
 			);
@@ -244,17 +244,26 @@ function Trackball( object, domElement ) {
 
 		  
             
+		    //pointsSet.computeBoundingSphere();
+		    //var sphere = pointsSet.boundingSphere;				
+		    // _this.target = sphere.center.clone();// from sonja: you can add this code to move data to center before rotation
+
 		    pointsSet.computeBoundingSphere();
 		    var sphere = pointsSet.boundingSphere;
-				
+		    var center = sphere.center.clone();
+		   
 
-		    //_this.target = sphere.center.clone();// from sonja: you can add this code to move data to center before rotation
-		  
+		    var vector = center.sub(_this.target);
+		    _this.target.addVectors(_this.target, vector.setLength(0.005));//this moves the target gradually to the center of the bounding sphere while rotating
 		 
-		  
 
+		    
+		   
+
+		   
 			_eye.copy( _this.object.position ).sub( _this.target );
 
+			
 			
 
 			projection.copy( _this.object.up ).setLength( mouseOnBall.y );
@@ -267,7 +276,7 @@ function Trackball( object, domElement ) {
 	}());
 
 	this.rotateCamera = (function(){
-
+	    
 	    var axis = new THREE.Vector3(),
 			quaternion = new THREE.Quaternion();
 
@@ -600,13 +609,14 @@ function Trackball( object, domElement ) {
 		 
         //changed by sonja
 		var d = ((typeof event.wheelDelta != "undefined") ? (-event.wheelDelta) : event.detail);
-		d = -0.020 * ((d > 0) ? 1 : -1);
+		d = -0.010 * ((d > 0) ? 1 : -1);
 		var factor = d;
 		mX = ((event.clientX - 285) / (window.innerWidth - 285)) * 2 - 1;//frame starts at 285
 		mY = -(event.clientY / window.innerHeight) * 2 + 1;
-		var vector = new THREE.Vector3(mX, mY, 0.5);
+		var vector = new THREE.Vector3(mX, mY, 1);
 		vector.unproject(_this.object);
 		vector.sub(_this.object.position);
+
 		_this.object.position.addVectors(_this.object.position, vector.setLength(factor));        
 		_this.target.addVectors(_this.target, vector.setLength(factor));
 		_this.dispatchEvent( startEvent );
@@ -616,7 +626,6 @@ function Trackball( object, domElement ) {
 
 	}
 	
-
 	function touchstart( event ) {
 
 		if ( _this.enabled === false ) return;
@@ -71694,12 +71703,15 @@ module.exports = (function () {
     Frame.prototype._initControls = function (elem) {
         var self = this;
         var controls = new TrackballControls(this.camera, elem);
+        
 
         controls.addEventListener('change', function () {
             self.forceRerender();
         });
 
+        
         this.controls = controls;
+
     };
 
     Frame.prototype.positionCamera = function () {
@@ -71707,11 +71719,11 @@ module.exports = (function () {
         this.points.computeBoundingSphere();
         var sphere = this.points.boundingSphere;
 
+        var optimalDistance = (
+            sphere.radius * 1 / Math.tan(this.graph._fov / 2));
+        ////original
         //var optimalDistance = (
         //    sphere.radius * 1.5 / Math.tan(this.graph._fov / 2));
-        //changed by sonja
-        var optimalDistance = (
-            sphere.radius * 2.0 / Math.tan(this.graph._fov / 2));
 
         this.camera.position.x = sphere.center.x + optimalDistance;
         this.camera.position.y = sphere.center.y;
