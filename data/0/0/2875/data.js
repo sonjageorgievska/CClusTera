@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2875,0.71432403452922444,0.18210169418291866,0.36822378768140263,"Pichia sporocuriosa","Pichia sporocuriosa","Pichia","Saccharomycetaceae","Saccharomycetales",7,1,3]]}
+{"2875":{"Path":["0","0","2875","2875"],"Coordinates":[0.53699881595604615,0.40841379931315241,0.4480764422632269],"Categories":["Pichia sporocuriosa","Pichia sporocuriosa","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,3,4]}}

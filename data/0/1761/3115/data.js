@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3115,0.68251739993324778,0.49556909512763359,0.5714942628870826,"Candida davisiana","Candida davisiana","Candida","","Saccharomycetales",6,3,5]]}
+{"3115":{"Path":["0","1761","3115","3115"],"Coordinates":[0.56324861914513,0.30271265282654591,0.66675579397206486],"Categories":["Candida davisiana","Candida davisiana","Candida","","Saccharomycetales"],"Properties":[5,2,6]}}

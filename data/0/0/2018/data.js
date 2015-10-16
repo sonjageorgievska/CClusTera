@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2018,0.51877704994881568,0.56866470954702908,0.4446550466811478,"Bensingtonia miscanthi","Bensingtonia miscanthi","Bensingtonia","Agaricostilbaceae","Agaricostilbales",5,4,4]]}
+{"2018":{"Path":["0","0","2018","2018"],"Coordinates":[0.72315259771526486,0.46142712521920531,0.60826651013442534],"Categories":["Bensingtonia miscanthi","Bensingtonia miscanthi","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[7,3,5]}}

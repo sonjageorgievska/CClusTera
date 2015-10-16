@@ -1,1 +1,1 @@
-{"titles":null,"points":[[964,0.59012334309260073,0.60950146118073423,0.43901221586115796,"Rhodotorula ingeniosa","Rhodotorula ingeniosa","Rhodotorula","","Sporidiobolales",5,4,3]]}
+{"964":{"Path":["0","0","964","964"],"Coordinates":[0.36417401131997629,0.57385030611536358,0.35606582409294096],"Categories":["Rhodotorula ingeniosa","Rhodotorula ingeniosa","Rhodotorula","","Sporidiobolales"],"Properties":[3,4,3]}}

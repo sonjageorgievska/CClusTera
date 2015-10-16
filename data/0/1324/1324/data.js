@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1324,0.4101228820741849,0.57746504643621488,0.47203937919947647,"Sporopachydermia lactativora","Sporopachydermia lactativora","Sporopachydermia","","Saccharomycetales",4,4,4]]}
+{"1324":{"Path":["0","1324","1324","1324"],"Coordinates":[0.540218059611748,0.5389457852917704,0.25330928920098622],"Categories":["Sporopachydermia lactativora","Sporopachydermia lactativora","Sporopachydermia","","Saccharomycetales"],"Properties":[5,4,2]}}

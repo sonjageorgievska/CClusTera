@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3426,0.47965119597426059,0.657226397662409,0.47022047284453661,"Trichosporon shinodae","Trichosporon shinodae","Trichosporon","Trichosporonaceae","Tremellales",4,5,4]]}
+{"3426":{"Path":["0","0","37","3426"],"Coordinates":[0.40468081121607968,0.5755578555177534,0.38016623039802305],"Categories":["Trichosporon shinodae","Trichosporon shinodae","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[4,4,3]}}

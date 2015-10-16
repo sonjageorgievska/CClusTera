@@ -1,1 +1,1 @@
-{"titles":null,"points":[[507,0.64788205014389433,0.5322281035885823,0.74410690667747359,"Wickerhamomyces silvicola","Wickerhamomyces silvicola","Wickerhamomyces","","Saccharomycetales",6,4,6]]}
+{"507":{"Path":["0","0","507","507"],"Coordinates":[0.47011143687963725,0.7362043523771552,0.308319913308988],"Categories":["Wickerhamomyces silvicola","Wickerhamomyces silvicola","Wickerhamomyces","","Saccharomycetales"],"Properties":[4,5,2]}}

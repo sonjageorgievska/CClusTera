@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1409,0.45048416326303808,0.707268317199361,0.51000252094229914,"Wickerhamomyces sydowiorum","Wickerhamomyces sydowiorum","Wickerhamomyces","","Saccharomycetales",4,5,4]]}
+{"1409":{"Path":["0","0","1409","1409"],"Coordinates":[0.54434009824250074,0.51686981881179483,0.56507430202341513],"Categories":["Wickerhamomyces sydowiorum","Wickerhamomyces sydowiorum","Wickerhamomyces","","Saccharomycetales"],"Properties":[5,4,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1811,0.65455065461406614,0.52929978756151019,0.56388300164047556,"Cyberlindnera mississippiensis","Cyberlindnera mississippiensis","Cyberlindnera","","Saccharomycetales",6,4,5]]}
+{"1811":{"Path":["0","0","1260","1811"],"Coordinates":[0.5754981634208981,0.44728927433959642,0.47340110198012952],"Categories":["Cyberlindnera mississippiensis","Cyberlindnera mississippiensis","Cyberlindnera","","Saccharomycetales"],"Properties":[5,3,4]}}

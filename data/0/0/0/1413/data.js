@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1413,0.40490808812684692,0.594677729053462,0.51730040159253754,"Rhodosporidium toruloides","Rhodosporidium toruloides","Rhodosporidium","","Sporidiales",4,4,4]]}
+{"1413":{"Path":["0","0","0","1413"],"Coordinates":[0.58632026272649418,0.50230072993749808,0.43863800112249035],"Categories":["Rhodosporidium toruloides","Rhodosporidium toruloides","Rhodosporidium","","Sporidiales"],"Properties":[5,4,3]}}

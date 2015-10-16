@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1309,0.28475009016606295,0.42044409658114623,0.37486775148700646,"Barnettozyma californica","Barnettozyma californica","Barnettozyma","","Saccharomycetales",2,3,3]]}
+{"1309":{"Path":["0","0","1309","1309"],"Coordinates":[0.55592704426913087,0.4919218409006752,0.44217549855159455],"Categories":["Barnettozyma californica","Barnettozyma californica","Barnettozyma","","Saccharomycetales"],"Properties":[5,3,3]}}

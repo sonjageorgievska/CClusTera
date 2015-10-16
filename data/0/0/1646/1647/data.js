@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1647,0.32302004677717916,0.50464100323020311,0.817219707355014,"Ogataea methanolica","Ogataea methanolica","Ogataea","Saccharomycetaceae","Saccharomycetales",3,4,7]]}
+{"1647":{"Path":["0","0","1646","1647"],"Coordinates":[0.55597472352130439,0.88551517727859086,0.64545703173245073],"Categories":["Ogataea methanolica","Ogataea methanolica","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,7,5]}}

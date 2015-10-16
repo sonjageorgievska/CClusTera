@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3860,0.766852392678547,0.37978150750119732,0.40828339208574416,"Cryptococcus metallitolerans","Cryptococcus metallitolerans","Cryptococcus","Tremellaceae","Tremellales",7,3,3]]}
+{"3860":{"Path":["0","0","3859","3860"],"Coordinates":[0.509517671375859,0.10689985351577996,0.19939364295169459],"Categories":["Cryptococcus metallitolerans","Cryptococcus metallitolerans","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,0,1]}}

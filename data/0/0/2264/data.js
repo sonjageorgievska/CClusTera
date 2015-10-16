@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2264,0.71787944807243975,0.4379024208429404,0.59169733951196157,"Nakaseomyces bacillisporus","Nakaseomyces bacillisporus","Nakaseomyces","Saccharomycetaceae","Saccharomycetales",7,3,5]]}
+{"2264":{"Path":["0","0","2264","2264"],"Coordinates":[0.498008531976496,0.53983669430262271,0.29804687632664983],"Categories":["Nakaseomyces bacillisporus","Nakaseomyces bacillisporus","Nakaseomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,4,2]}}

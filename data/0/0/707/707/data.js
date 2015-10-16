@@ -1,1 +1,1 @@
-{"titles":null,"points":[[707,0.47983175805659262,0.368229433057713,0.4884591043964957,"Peterozyma xylosa","Peterozyma xylosa","Peterozyma","","Saccharomycetales",4,2,4]]}
+{"707":{"Path":["0","0","707","707"],"Coordinates":[0.33280654422445244,0.48158808787167362,0.5362019129756882],"Categories":["Peterozyma xylosa","Peterozyma xylosa","Peterozyma","","Saccharomycetales"],"Properties":[3,3,4]}}

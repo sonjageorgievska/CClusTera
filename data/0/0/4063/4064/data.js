@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4064,0.53053325944719476,0.69741598583558351,0.83571594345942479,"Candida pattaniensis","Candida pattaniensis","Candida","","Saccharomycetales",5,5,7]]}
+{"4064":{"Path":["0","0","4063","4064"],"Coordinates":[0.36895049212099562,0.45822527101268351,0.64106609777138057],"Categories":["Candida pattaniensis","Candida pattaniensis","Candida","","Saccharomycetales"],"Properties":[3,3,5]}}

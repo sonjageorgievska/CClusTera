@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4205,0.89277299224270379,0.29935411395796452,0.63214779761100715,"Nakazawaea molendini-olei","Nakazawaea molendini-olei","Nakazawaea","Saccharomycetaceae","Saccharomycetales",8,2,5]]}
+{"4205":{"Path":["0","0","4203","4205"],"Coordinates":[0.79976144829675755,0.786244640000513,0.50377675289364332],"Categories":["Nakazawaea molendini-olei","Nakazawaea molendini-olei","Nakazawaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4260,0.48682433623456295,0.46764521260438036,0.62884385616170846,"Yarrowia bubula","Yarrowia bubula","Yarrowia","","Saccharomycetales",4,3,5]]}
+{"4260":{"Path":["0","0","4260","4260"],"Coordinates":[0.34344093259103348,0.54397312348601057,0.71037835121230186],"Categories":["Yarrowia bubula","Yarrowia bubula","Yarrowia","","Saccharomycetales"],"Properties":[3,4,6]}}

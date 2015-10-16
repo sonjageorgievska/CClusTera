@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2394,0.38155039854038575,0.70913369919734459,0.518654636867042,"Candida succiphila","Candida succiphila","Candida","","Saccharomycetales",3,5,4]]}
+{"2394":{"Path":["0","0","2394","2394"],"Coordinates":[0.53822755401313072,0.46978596852364612,0.42531285594977675],"Categories":["Candida succiphila","Candida succiphila","Candida","","Saccharomycetales"],"Properties":[5,3,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1546,0.64347980556370732,0.60493350206257512,0.54500187285365054,"Tetrapisispora blattae","Tetrapisispora blattae","Tetrapisispora","Saccharomycetaceae","Saccharomycetales",6,4,4]]}
+{"1546":{"Path":["0","0","1546","1546"],"Coordinates":[0.31185304331492941,0.43896877912104826,0.50939316610856467],"Categories":["Tetrapisispora blattae","Tetrapisispora blattae","Tetrapisispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,4]}}

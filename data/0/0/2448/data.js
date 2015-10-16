@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2448,0.78832692235898316,0.7596217906290581,0.41671352382323545,"Barnettozyma populi","Barnettozyma populi","Barnettozyma","","Saccharomycetales",7,6,3]]}
+{"2448":{"Path":["0","0","2448","2448"],"Coordinates":[0.230293879163882,0.44874367525299869,0.6338328250169899],"Categories":["Barnettozyma populi","Barnettozyma populi","Barnettozyma","","Saccharomycetales"],"Properties":[2,3,5]}}

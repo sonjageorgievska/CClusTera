@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4047,0.51254203332175763,0.53359366306294742,0.70650806077923767,"Candida tanticharoeniae","Candida tanticharoeniae","Candida","","Saccharomycetales",5,4,6]]}
+{"4047":{"Path":["0","0","4047","4047"],"Coordinates":[0.33400601070729424,0.35849869441443355,0.67171480818082185],"Categories":["Candida tanticharoeniae","Candida tanticharoeniae","Candida","","Saccharomycetales"],"Properties":[3,2,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2409,0.567285173404341,0.5633781723533372,0.40927081190086412,"Candida kofuensis","Candida kofuensis","Candida","","Saccharomycetales",5,4,3]]}
+{"2409":{"Path":["0","0","2408","2409"],"Coordinates":[0.33341349832861761,0.42756631981014714,0.57061596687673366],"Categories":["Candida kofuensis","Candida kofuensis","Candida","","Saccharomycetales"],"Properties":[3,3,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1196,0.37767083108232719,0.50243218374061771,0.19360938127379565,"Candida berthetii","Candida berthetii","Candida","","Saccharomycetales",3,4,1]]}
+{"1196":{"Path":["0","0","1196","1196"],"Coordinates":[0.42217658507712774,0.53404853420433362,0.61748944366930536],"Categories":["Candida berthetii","Candida berthetii","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

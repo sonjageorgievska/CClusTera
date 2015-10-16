@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3780,0.41245615335906505,0.64355306838214565,0.61617351292727451,"Candida koratica","Candida koratica","Candida","","Saccharomycetales",4,5,5]]}
+{"3780":{"Path":["0","0","3780","3780"],"Coordinates":[0.34993409824318122,0.54187715866772024,0.36953095588854951],"Categories":["Candida koratica","Candida koratica","Candida","","Saccharomycetales"],"Properties":[3,4,3]}}

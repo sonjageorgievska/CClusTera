@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3373,0.68294304281047491,0.52292243091050539,0.18361218748810654,"Cryptococcus taibaiensis","Cryptococcus taibaiensis","Cryptococcus","Tremellaceae","Tremellales",6,4,1]]}
+{"3373":{"Path":["0","0","3373","3373"],"Coordinates":[0.68357420654086209,0.3904646599649001,0.52717898945726838],"Categories":["Cryptococcus taibaiensis","Cryptococcus taibaiensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,3,4]}}

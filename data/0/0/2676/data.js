@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2676,0.24617594530828157,0.38743663377193932,0.39040742173246684,"Rhodotorula eucalyptica","Rhodotorula eucalyptica","Rhodotorula","","Sporidiobolales",2,3,3]]}
+{"2676":{"Path":["0","0","2676","2676"],"Coordinates":[0.65055961494665171,0.38140169685569775,0.39246424105891292],"Categories":["Rhodotorula eucalyptica","Rhodotorula eucalyptica","Rhodotorula","","Sporidiobolales"],"Properties":[6,3,3]}}

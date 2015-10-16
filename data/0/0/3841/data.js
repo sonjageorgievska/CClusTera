@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3841,0.69112485468731577,0.685318631230398,0.24196970759726058,"Sympodiomycopsis lanaiensis","Sympodiomycopsis lanaiensis","Sympodiomycopsis","Microstromataceae","Microstromatales",6,5,2]]}
+{"3841":{"Path":["0","0","3841","3841"],"Coordinates":[0.38818117071537828,0.37275647039524362,0.46791767666012662],"Categories":["Sympodiomycopsis lanaiensis","Sympodiomycopsis lanaiensis","Sympodiomycopsis","Microstromataceae","Microstromatales"],"Properties":[3,2,4]}}

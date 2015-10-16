@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4006,0.55519214381934268,0.23678902395017479,0.46016420471268338,"Candida alishanica","Candida alishanica","Candida","","Saccharomycetales",5,1,4]]}
+{"4006":{"Path":["0","0","4006","4006"],"Coordinates":[0.32837747517367888,0.21635327274943075,0.88735362159544928],"Categories":["Candida alishanica","Candida alishanica","Candida","","Saccharomycetales"],"Properties":[3,1,7]}}

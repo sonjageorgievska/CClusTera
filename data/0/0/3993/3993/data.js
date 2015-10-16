@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3993,0.69528672469740371,0.33155959402577995,0.34096370636709,"Mingxiaea foliicola","Mingxiaea foliicola","Mingxiaea","","Tremellales",6,2,3]]}
+{"3993":{"Path":["0","0","3993","3993"],"Coordinates":[0.51783780160561677,0.49905150538843052,0.3747276644352795],"Categories":["Mingxiaea foliicola","Mingxiaea foliicola","Mingxiaea","","Tremellales"],"Properties":[5,3,3]}}

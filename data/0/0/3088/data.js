@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3088,0.416494242158565,0.74088195693563408,0.55395953000395792,"Sporobolomyces bannaensis","Sporobolomyces bannaensis","Sporobolomyces","","Sporidiobolales",4,5,4]]}
+{"3088":{"Path":["0","0","3088","3088"],"Coordinates":[0.70378237758639028,0.58426467889433908,0.6561746634497797],"Categories":["Sporobolomyces bannaensis","Sporobolomyces bannaensis","Sporobolomyces","","Sporidiobolales"],"Properties":[7,4,5]}}

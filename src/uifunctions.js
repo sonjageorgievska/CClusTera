@@ -8,8 +8,8 @@
  function handleCtrlz()
  {
      if (clicked > 0) {//if the user has expanded some nodes
-         RemoveLastEdges();//the last edges that were added with clicking a node
-         RemoveLastNodes();//the last nodes that were added with clicking a node
+         RemoveLastEdges();//remove the last edges that were added with clicking a node
+         RemoveLastNodes();//remove the last nodes that were added with clicking a node
          lastOpenNode[clicked]._expandable = true; //when you close a node, it is expandable again
          var nodeId = lastOpenNode[clicked].getId();
          CurrentLevel[nodeId]--;//decrease the current level for the node
@@ -28,34 +28,24 @@
 
 
  function defineSlider() {
-
-
      mySlider.enableTooltip(true);
-
-     mySlider.attachEvent("onChange", function () {
-         var sliderval = mySlider.getValue();
-         //$("#label2").text(sliderval);
-         if (sliderval > 0) {
-             
-             LoadUpToLevel(sliderval);
-         }
+     mySlider.attachEvent("onChange", function () {               
+         var sliderval = mySlider.getValue();       
+         fastLoadUpToLevel(sliderval);
      });
-
      mySlider.attachEvent("onChange", function (value) {
          updateSliderPopupValue(value);
      });
-
      mySlider.enable();
  };
-
 
  function defineCombo() {
      var myCombo = new dhtmlXCombo("comboObj");
      var listOfProperties; 
-     fetchJSONFile("data/data.js", function (data) {
-         listOfProperties = data.titles;
+     fetchJSONFile("data/NamesOfProperties.js", function (data) {
+         listOfProperties = data;
          var len = listOfProperties.length;
-         listOfProperties = listOfProperties.slice(9, len);//the first 4  are id, x, y, and z, then 5 names, and then the properties start. That is why I start from 9
+         listOfProperties = listOfProperties.slice(0, len);
      
      var list = [];
 

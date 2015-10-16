@@ -1,1 +1,1 @@
-{"titles":null,"points":[[566,0.54207050473908336,0.52087469062977043,0.82745864965371174,"Candida solani","Candida solani","Candida","","Saccharomycetales",5,4,7]]}
+{"566":{"Path":["0","0","564","566"],"Coordinates":[0.31222983168314739,0.3193308165172552,0.201173499805493],"Categories":["Candida solani","Candida solani","Candida","","Saccharomycetales"],"Properties":[3,2,1]}}

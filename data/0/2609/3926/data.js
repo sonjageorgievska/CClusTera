@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3926,0.28528809522810589,0.71538660764053008,0.32167796811345334,"Pseudozyma pruni","Pseudozyma pruni","Pseudozyma","Ustilaginaceae","Ustilaginales",2,5,2]]}
+{"3926":{"Path":["0","2609","3926","3926"],"Coordinates":[0.71435214556714632,0.5702724364881292,0.63156755885964067],"Categories":["Pseudozyma pruni","Pseudozyma pruni","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[7,4,5]}}

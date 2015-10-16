@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1589,0.58495157606283366,0.51887209997576511,0.68067850543525388,"Cystofilobasidium capitatum","Cystofilobasidium capitatum","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales",5,4,6]]}
+{"1589":{"Path":["0","0","1589","1589"],"Coordinates":[0.50973322966647971,0.44905117163461356,0.64863365231710934],"Categories":["Cystofilobasidium capitatum","Cystofilobasidium capitatum","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[5,3,5]}}

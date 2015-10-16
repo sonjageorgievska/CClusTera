@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1432,0.39134910486916258,0.78379970635200957,0.415423233543798,"Candida naeodendra","Candida naeodendra","Candida","","Saccharomycetales",3,6,3]]}
+{"1432":{"Path":["0","0","1435","1432"],"Coordinates":[0.51588744584951884,0.77653999144710384,0.1663263782866107],"Categories":["Candida naeodendra","Candida naeodendra","Candida","","Saccharomycetales"],"Properties":[5,6,1]}}

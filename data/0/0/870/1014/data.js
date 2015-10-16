@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1014,0.54369651634286775,0.4454327316844231,0.57092979954862755,"Candida quercitrusa","Candida quercitrusa","Candida","","Saccharomycetales",5,3,5]]}
+{"1014":{"Path":["0","0","870","1014"],"Coordinates":[0.51837935994596729,0.6002503126318729,0.47423314265083938],"Categories":["Candida quercitrusa","Candida quercitrusa","Candida","","Saccharomycetales"],"Properties":[5,4,4]}}

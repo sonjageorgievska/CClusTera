@@ -1,1 +1,1 @@
-{"titles":null,"points":[[172,1.2181223915269752,0.5347749664628989,0.20961731101188369,"Cryptococcus flavus","Cryptococcus flavus","Cryptococcus","Tremellaceae","Tremellales",2,4,1]]}
+{"172":{"Path":["0","0","172","172"],"Coordinates":[-0.18371297505222811,0.742415325436729,0.47058953168412743],"Categories":["Cryptococcus flavus","Cryptococcus flavus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[-1,5,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[113,0.41916978606592908,0.57844111310918445,0.59850547552564715,"Millerozyma farinosa","Millerozyma farinosa","Millerozyma","Debaryomycetaceae","Saccharomycetales",4,4,5]]}
+{"113":{"Path":["0","0","113","113"],"Coordinates":[0.48469387186577878,0.66158624055259641,0.47392254232619563],"Categories":["Millerozyma farinosa","Millerozyma farinosa","Millerozyma","Debaryomycetaceae","Saccharomycetales"],"Properties":[4,5,4]}}

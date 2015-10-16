@@ -1,1 +1,1 @@
-{"titles":null,"points":[[797,0.26431641913797183,0.16818897584211492,0.37042958826054362,"Saccharomycopsis selenospora","Saccharomycopsis selenospora","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",2,1,3]]}
+{"797":{"Path":["0","797","797","797"],"Coordinates":[0.96417167359724931,0.50685646811966723,0.74652386749693866],"Categories":["Saccharomycopsis selenospora","Saccharomycopsis selenospora","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[9,4,6]}}

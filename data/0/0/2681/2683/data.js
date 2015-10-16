@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2683,0.44103561748287751,0.6032668734338803,0.70356779740283559,"Candida tammaniensis","Candida tammaniensis","Candida","","Saccharomycetales",4,4,6]]}
+{"2683":{"Path":["0","0","2681","2683"],"Coordinates":[0.48472224858305185,0.48648777518614955,0.2038773043769618],"Categories":["Candida tammaniensis","Candida tammaniensis","Candida","","Saccharomycetales"],"Properties":[4,3,1]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3822,0.559773259180056,0.35960295524370944,0.3657791351430047,"Candida khaoyaiensis","Candida khaoyaiensis","Candida","","Saccharomycetales",5,2,3]]}
+{"3822":{"Path":["0","0","3822","3822"],"Coordinates":[0.64515057969431,0.35343705791288438,0.61614458169656439],"Categories":["Candida khaoyaiensis","Candida khaoyaiensis","Candida","","Saccharomycetales"],"Properties":[6,2,5]}}

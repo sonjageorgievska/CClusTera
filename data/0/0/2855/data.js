@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2855,0.55386883073834747,0.25802259294192603,0.096841859421726365,"Candida ghanaensis","Candida ghanaensis","Candida","","Saccharomycetales",5,2,0]]}
+{"2855":{"Path":["0","0","2855","2855"],"Coordinates":[0.16083961468282407,0.22881124729180555,0.43963467716204163],"Categories":["Candida ghanaensis","Candida ghanaensis","Candida","","Saccharomycetales"],"Properties":[1,1,3]}}

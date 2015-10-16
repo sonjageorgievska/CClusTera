@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1473,0.69333246591035969,0.59733658906031517,0.27016926209676329,"Kondoa malvinella","Kondoa malvinella","Kondoa","","Microbotryales",6,4,2]]}
+{"1473":{"Path":["0","0","1468","1473"],"Coordinates":[0.81443580371449786,0.52630036407243042,0.61266500506525889],"Categories":["Kondoa malvinella","Kondoa malvinella","Kondoa","","Microbotryales"],"Properties":[8,4,5]}}

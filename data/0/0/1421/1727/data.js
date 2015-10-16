@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1727,0.79465709621284963,0.77225239952629954,0.47344602735620922,"Wickerhamomyces rabaulensis","Wickerhamomyces rabaulensis","Wickerhamomyces","","Saccharomycetales",7,6,4]]}
+{"1727":{"Path":["0","0","1421","1727"],"Coordinates":[0.55992339087270182,0.50124650435569984,0.25949109902314638],"Categories":["Wickerhamomyces rabaulensis","Wickerhamomyces rabaulensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[5,4,2]}}

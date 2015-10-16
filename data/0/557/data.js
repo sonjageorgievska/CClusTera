@@ -1,1 +1,1 @@
-{"titles":null,"points":[[557,0.98507287863037774,0.297044925483414,0.258733330586066,"Candida blankii","Candida blankii","Candida","","Saccharomycetales",9,2,2]]}
+{"557":{"Path":["0","557","557","557"],"Coordinates":[0.77749713745425753,0.010427720140150223,0.40616819870755472],"Categories":["Candida blankii","Candida blankii","Candida","","Saccharomycetales"],"Properties":[7,0,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[377,0.42959332198053291,0.4116163873553213,0.7767659809606966,"Zygosaccharomyces bisporus","Zygosaccharomyces bisporus","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales",4,3,6]]}
+{"377":{"Path":["0","0","377","377"],"Coordinates":[0.47402338137183914,0.51272495599876544,0.36968698139925305],"Categories":["Zygosaccharomyces bisporus","Zygosaccharomyces bisporus","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,4,3]}}

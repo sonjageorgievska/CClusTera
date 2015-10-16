@@ -1,1 +1,1 @@
-{"titles":null,"points":[[814,0.56365966839276216,0.25456925952687243,0.34554120849893866,"Pichia terricola","Pichia terricola","Pichia","Saccharomycetaceae","Saccharomycetales",5,2,3]]}
+{"814":{"Path":["0","0","814","814"],"Coordinates":[0.32478415121386423,0.60898836109219667,0.51168914712666969],"Categories":["Pichia terricola","Pichia terricola","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,4,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1256,0.598976474535101,0.2234971225169754,0.36584587717392453,"Saturnispora mendoncae","Saturnispora mendoncae","Saturnispora","Saccharomycetaceae","Saccharomycetales",5,1,3]]}
+{"1256":{"Path":["0","0","1256","1256"],"Coordinates":[0.26664772137837295,0.35003137901041442,0.53987514347609444],"Categories":["Saturnispora mendoncae","Saturnispora mendoncae","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,2,4]}}

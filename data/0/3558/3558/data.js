@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3558,0.4742845198130029,0.67996826222860673,0.603169438211125,"Farysizyma setubalensis","Farysizyma setubalensis","Farysizyma","","Ustilaginales",4,5,5]]}
+{"3558":{"Path":["0","3558","3558","3558"],"Coordinates":[0.26024493560283168,0.4252059024572033,0.26414900507897676],"Categories":["Farysizyma setubalensis","Farysizyma setubalensis","Farysizyma","","Ustilaginales"],"Properties":[2,3,2]}}

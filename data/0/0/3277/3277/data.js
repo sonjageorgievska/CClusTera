@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3277,0.48353315287733323,0.31159197785721471,0.39734315398070774,"Candida anneliseae","Candida anneliseae","Candida","","Saccharomycetales",4,2,3]]}
+{"3277":{"Path":["0","0","3277","3277"],"Coordinates":[0.51949342154060485,0.39269976894532649,0.37837289318179357],"Categories":["Candida anneliseae","Candida anneliseae","Candida","","Saccharomycetales"],"Properties":[5,3,3]}}

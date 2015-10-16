@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4253,0.74691346195700425,0.44133989659264922,0.55501600501650861,"Leucosporidium escuderoi","Leucosporidium escuderoi","Leucosporidiella","Leucosporidiaceae","Leucosporidiales",7,3,4]]}
+{"4253":{"Path":["0","0","0","4253"],"Coordinates":[0.44430882697144541,0.25064267980364635,0.69402955176111969],"Categories":["Leucosporidium escuderoi","Leucosporidium escuderoi","Leucosporidiella","Leucosporidiaceae","Leucosporidiales"],"Properties":[4,2,6]}}

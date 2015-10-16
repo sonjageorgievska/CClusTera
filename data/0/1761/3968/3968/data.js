@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3968,0.65278844895666444,0.40239936963503103,0.78061003397982764,"Candida carvajalis","Candida carvajalis","Candida","","Saccharomycetales",6,3,7]]}
+{"3968":{"Path":["0","1761","3968","3968"],"Coordinates":[0.47317730976053124,0.50696621522773178,0.59882368078339177],"Categories":["Candida carvajalis","Candida carvajalis","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

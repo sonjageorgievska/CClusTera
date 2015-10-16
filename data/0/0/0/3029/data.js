@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3029,0.43825043964110943,0.31226691783457333,0.56121064858437075,"Sporobolomyces odoratus","Sporobolomyces odoratus","Sporobolomyces","","Sporidiobolales",4,2,5]]}
+{"3029":{"Path":["0","0","0","3029"],"Coordinates":[0.72494402714827444,0.42372098502169392,0.70373865791599577],"Categories":["Sporobolomyces odoratus","Sporobolomyces odoratus","Sporobolomyces","","Sporidiobolales"],"Properties":[7,3,6]}}

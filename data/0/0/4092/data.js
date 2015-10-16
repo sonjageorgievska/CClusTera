@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4092,0.64860684935146407,0.19058154755270768,0.64932984086124279,"Saturnispora gosingensis","Saturnispora gosingensis","Saturnispora","Saccharomycetaceae","Saccharomycetales",6,1,5]]}
+{"4092":{"Path":["0","0","4092","4092"],"Coordinates":[0.30350632387702,0.51980647461367979,0.61701805545972532],"Categories":["Saturnispora gosingensis","Saturnispora gosingensis","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,4,5]}}

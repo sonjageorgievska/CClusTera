@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2017,0.673913471446339,0.27166019100910271,0.5743628147653066,"Pichia cephalocereana","Pichia cephalocereana","Pichia","Saccharomycetaceae","Saccharomycetales",6,2,5]]}
+{"2017":{"Path":["0","0","120","2017"],"Coordinates":[0.3994321490163199,0.48009205550691186,0.38198266631373434],"Categories":["Pichia cephalocereana","Pichia cephalocereana","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,3]}}

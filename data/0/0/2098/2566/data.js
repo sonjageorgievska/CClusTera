@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2566,0.4426029812554293,0.44364262804429172,0.48707115709477661,"Derxomyces huiaensis","Derxomyces huiaensis","Derxomyces","","Tremellales",4,3,4]]}
+{"2566":{"Path":["0","0","2098","2566"],"Coordinates":[0.5253126656187096,0.58391231130860244,0.80731668727204253],"Categories":["Derxomyces huiaensis","Derxomyces huiaensis","Derxomyces","","Tremellales"],"Properties":[5,4,7]}}

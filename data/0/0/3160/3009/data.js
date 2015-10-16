@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3009,0.38338957098580995,0.27117198900629597,0.52807264374191276,"Metschnikowia kunwiensis","Metschnikowia kunwiensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",3,2,4]]}
+{"3009":{"Path":["0","0","3160","3009"],"Coordinates":[0.52720011518475829,0.50405149376400349,0.69047022072775088],"Categories":["Metschnikowia kunwiensis","Metschnikowia kunwiensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,4,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3263,0.706634895580052,0.34309400245015792,0.30674781717333993,"Candida yuchorum","Candida yuchorum","Candida","","Saccharomycetales",7,2,2]]}
+{"3263":{"Path":["0","0","3263","3263"],"Coordinates":[0.64392864123784044,0.69821388312873078,0.56283330044267532],"Categories":["Candida yuchorum","Candida yuchorum","Candida","","Saccharomycetales"],"Properties":[6,5,5]}}

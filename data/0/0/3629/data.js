@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3629,0.62427594300773182,0.632260677511956,0.22017547010867844,"Trigonopsis californica","Trigonopsis californica","Trigonopsis","","Saccharomycetales",6,5,1]]}
+{"3629":{"Path":["0","0","3629","3629"],"Coordinates":[0.50821870482643172,0.34268139095985256,0.44011496035576048],"Categories":["Trigonopsis californica","Trigonopsis californica","Trigonopsis","","Saccharomycetales"],"Properties":[5,2,3]}}

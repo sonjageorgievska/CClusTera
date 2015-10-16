@@ -1,1 +1,1 @@
-{"titles":null,"points":[[873,0.62911638536625836,0.28706795519790468,0.36884424182386244,"Wickerhamomyces strasburgensis","Wickerhamomyces strasburgensis","Wickerhamomyces","","Saccharomycetales",6,2,3]]}
+{"873":{"Path":["0","0","873","873"],"Coordinates":[0.54729981652131277,0.50788217263921531,0.66281150019402635],"Categories":["Wickerhamomyces strasburgensis","Wickerhamomyces strasburgensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[5,4,5]}}

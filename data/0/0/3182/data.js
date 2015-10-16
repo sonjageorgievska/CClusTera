@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3182,0.76854457717594671,0.34897469438681272,0.22602424497108642,"Sporobolomyces clavatus","Sporobolomyces clavatus","Sporobolomyces","","Sporidiobolales",7,2,2]]}
+{"3182":{"Path":["0","0","3182","3182"],"Coordinates":[0.48464964650097941,0.24922495169485934,0.30039245987845042],"Categories":["Sporobolomyces clavatus","Sporobolomyces clavatus","Sporobolomyces","","Sporidiobolales"],"Properties":[4,1,2]}}

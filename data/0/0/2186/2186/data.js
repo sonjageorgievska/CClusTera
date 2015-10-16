@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2186,0.49820236501182463,0.21770504121072143,0.16419935412825498,"Bullera miyagiana","Bullera miyagiana","Bullera","Tremellaceae","Tremellales",4,1,1]]}
+{"2186":{"Path":["0","0","2186","2186"],"Coordinates":[0.50199510321366037,0.47293367753960414,0.45625800548036033],"Categories":["Bullera miyagiana","Bullera miyagiana","Bullera","Tremellaceae","Tremellales"],"Properties":[5,3,4]}}

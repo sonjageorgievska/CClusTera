@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3538,0.41292558481288844,0.640161349522736,0.67111369390919917,"Dioszegia butyracea","Dioszegia butyracea","Dioszegia","Tremellaceae","Tremellales",4,5,6]]}
+{"3538":{"Path":["0","0","3538","3538"],"Coordinates":[0.73224872988523848,0.68516403273276816,0.46295998232552488],"Categories":["Dioszegia butyracea","Dioszegia butyracea","Dioszegia","Tremellaceae","Tremellales"],"Properties":[7,5,4]}}

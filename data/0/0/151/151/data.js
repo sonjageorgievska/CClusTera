@@ -1,1 +1,1 @@
-{"titles":null,"points":[[151,0.25714048541196832,0.53966931251201111,0.13803142200920363,"Rhodotorula aurantiaca","Rhodotorula aurantiaca","Rhodotorula","","Sporidiobolales",2,4,1]]}
+{"151":{"Path":["0","0","151","151"],"Coordinates":[0.43759569746054788,0.29904977098236474,0.16531128017902605],"Categories":["Rhodotorula aurantiaca","Rhodotorula aurantiaca","Rhodotorula","","Sporidiobolales"],"Properties":[4,2,1]}}

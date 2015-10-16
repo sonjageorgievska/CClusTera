@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4263,0.835691403622379,0.46343282978413564,0.45697322108922894,"Hemisphaericaspora nanyangensis","Hemisphaericaspora nanyangensis","Hemisphaericaspora","Debaryomycetaceae","Saccharomycetales",8,3,4]]}
+{"4263":{"Path":["0","0","4263","4263"],"Coordinates":[0.20722325995890656,0.67942387371116264,0.54277705201262416],"Categories":["Hemisphaericaspora nanyangensis","Hemisphaericaspora nanyangensis","Hemisphaericaspora","Debaryomycetaceae","Saccharomycetales"],"Properties":[2,5,4]}}

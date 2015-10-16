@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1156,0.429033916654998,0.4586310033394822,0.40818314613874579,"Rhodotorula foliorum","Rhodotorula foliorum","Rhodotorula","","Sporidiobolales",4,3,3]]}
+{"1156":{"Path":["0","0","1156","1156"],"Coordinates":[0.37370152116216759,0.37952636575732762,0.55233639560103986],"Categories":["Rhodotorula foliorum","Rhodotorula foliorum","Rhodotorula","","Sporidiobolales"],"Properties":[3,3,4]}}

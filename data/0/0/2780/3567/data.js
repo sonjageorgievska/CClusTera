@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3567,0.18705009009358428,0.35116942380916993,0.49649978504315934,"Cryptococcus stepposus","Cryptococcus stepposus","Cryptococcus","Tremellaceae","Tremellales",1,2,4]]}
+{"3567":{"Path":["0","0","2780","3567"],"Coordinates":[0.64852239960369717,0.61911842069210687,0.44553380792559238],"Categories":["Cryptococcus stepposus","Cryptococcus stepposus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,4,4]}}

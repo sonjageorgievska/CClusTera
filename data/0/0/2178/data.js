@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2178,0.36660346392916093,0.67276267814860613,0.68987893471667616,"Sugiyamaella smithiae","Sugiyamaella smithiae","Sugiyamaella","Trichomonascaceae","Saccharomycetales",3,5,6]]}
+{"2178":{"Path":["0","0","2178","2178"],"Coordinates":[0.5498976694311799,0.6019214964924543,0.26744827558371148],"Categories":["Sugiyamaella smithiae","Sugiyamaella smithiae","Sugiyamaella","Trichomonascaceae","Saccharomycetales"],"Properties":[5,4,2]}}

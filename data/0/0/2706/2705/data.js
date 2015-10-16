@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2705,0.83351383102246113,0.19907820385417396,0.76526098382999042,"Zygosaccharomyces lentus","Zygosaccharomyces lentus","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales",8,1,6]]}
+{"2705":{"Path":["0","0","2706","2705"],"Coordinates":[0.52072694448334345,0.94047993247717632,0.55783256139956738],"Categories":["Zygosaccharomyces lentus","Zygosaccharomyces lentus","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,7,5]}}

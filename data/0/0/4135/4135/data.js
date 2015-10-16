@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4135,0.35661006061812767,0.32837154045062872,0.5782838001431726,"Candida wancherniae","Candida wancherniae","Candida","","Saccharomycetales",3,2,5]]}
+{"4135":{"Path":["0","0","4135","4135"],"Coordinates":[0.55528124970296866,0.49602275345905272,0.57190403787805777],"Categories":["Candida wancherniae","Candida wancherniae","Candida","","Saccharomycetales"],"Properties":[5,3,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4188,1.0218106874862469,0.17521630255935286,0.30933675213876083,"Komagataella ulmi","Komagataella ulmi","Komagataella","Saccharomycetaceae","Saccharomycetales",0,1,2]]}
+{"4188":{"Path":["0","0","4188","4188"],"Coordinates":[0.054750323706223361,0.57185371855793965,0.94366157711297827],"Categories":["Komagataella ulmi","Komagataella ulmi","Komagataella","Saccharomycetaceae","Saccharomycetales"],"Properties":[0,4,8]}}

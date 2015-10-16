@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1945,0.73833009931196947,0.38060355857508865,0.4496299811808897,"Candida tsuchiyae","Candida tsuchiyae","Candida","","Saccharomycetales",7,3,4]]}
+{"1945":{"Path":["0","0","1946","1945"],"Coordinates":[0.47466358239385037,0.27224689325560525,0.72527730607491636],"Categories":["Candida tsuchiyae","Candida tsuchiyae","Candida","","Saccharomycetales"],"Properties":[4,2,6]}}

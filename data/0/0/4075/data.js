@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4075,0.395052112210001,0.3240810310328085,0.71156200729899355,"Candida berkhoutiae","Candida berkhoutiae","Candida","","Saccharomycetales",3,2,6]]}
+{"4075":{"Path":["0","0","4075","4075"],"Coordinates":[0.10468382037732975,0.49114788799550363,0.22839022920976937],"Categories":["Candida berkhoutiae","Candida berkhoutiae","Candida","","Saccharomycetales"],"Properties":[1,3,2]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1125,0.74942344363023972,0.35600274720943731,0.29420338664600965,"Candida salmanticensis","Candida salmanticensis","Candida","","Saccharomycetales",7,2,2]]}
+{"1125":{"Path":["0","0","1125","1125"],"Coordinates":[0.19356559074823379,0.38951164319740605,0.38127476433164875],"Categories":["Candida salmanticensis","Candida salmanticensis","Candida","","Saccharomycetales"],"Properties":[1,3,3]}}

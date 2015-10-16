@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3455,0.526645184119185,0.48475627794404269,0.36339039542306006,"Pseudozyma thailandica","Pseudozyma thailandica","Pseudozyma","Ustilaginaceae","Ustilaginales",5,3,3]]}
+{"3455":{"Path":["0","2609","3455","3455"],"Coordinates":[0.45041031836571516,0.4059785104707323,0.45661352073084704],"Categories":["Pseudozyma thailandica","Pseudozyma thailandica","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[4,3,4]}}

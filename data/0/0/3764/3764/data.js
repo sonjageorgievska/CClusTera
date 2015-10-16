@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3764,0.15084345880502997,0.49957585205528815,0.60517287239823647,"Kazachstania hellenica","Kazachstania hellenica","Kazachstania","Saccharomycetaceae","Saccharomycetales",1,3,5]]}
+{"3764":{"Path":["0","0","3764","3764"],"Coordinates":[0.76384480268779575,0.6571142284248509,0.180434714536147],"Categories":["Kazachstania hellenica","Kazachstania hellenica","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,5,1]}}

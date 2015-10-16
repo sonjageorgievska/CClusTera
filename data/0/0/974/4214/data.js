@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4214,0.59627234037248644,0.52968044777542178,0.54785769076380553,"Scheffersomyces xylosifermentans","Scheffersomyces xylosifermentans","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",5,4,4]]}
+{"4214":{"Path":["0","0","974","4214"],"Coordinates":[0.51136434027236888,0.59391914644568533,0.64102414518521622],"Categories":["Scheffersomyces xylosifermentans","Scheffersomyces xylosifermentans","Scheffersomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[5,4,5]}}

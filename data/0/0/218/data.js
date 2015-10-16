@@ -1,1 +1,1 @@
-{"titles":null,"points":[[218,0.53809586440391044,0.42608891794572989,0.38633233748711016,"Naumovozyma dairenensis","Naumovozyma dairenensis","Naumovozyma","Saccharomycetaceae","Saccharomycetales",5,3,3]]}
+{"218":{"Path":["0","0","218","218"],"Coordinates":[0.44242170899722266,0.48565757654070685,0.54023261073905116],"Categories":["Naumovozyma dairenensis","Naumovozyma dairenensis","Naumovozyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,4]}}

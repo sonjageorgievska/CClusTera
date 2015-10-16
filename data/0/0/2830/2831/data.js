@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2831,0.6692463819362704,0.32735745216700451,0.59713417486969189,"Tetrapisispora arboricola","Tetrapisispora arboricola","Tetrapisispora","Saccharomycetaceae","Saccharomycetales",6,2,5]]}
+{"2831":{"Path":["0","0","2830","2831"],"Coordinates":[0.25591609633284684,0.79762822238398667,0.18019117613549407],"Categories":["Tetrapisispora arboricola","Tetrapisispora arboricola","Tetrapisispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,6,1]}}

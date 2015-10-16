@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2787,0.1933713767737211,0.43631967374494812,0.6841139308912807,"Cryptococcus oeirensis","Cryptococcus oeirensis","Cryptococcus","Tremellaceae","Tremellales",1,3,6]]}
+{"2787":{"Path":["0","0","2787","2787"],"Coordinates":[0.729877248226487,0.1636062468420357,0.49426136280412652],"Categories":["Cryptococcus oeirensis","Cryptococcus oeirensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,1,4]}}

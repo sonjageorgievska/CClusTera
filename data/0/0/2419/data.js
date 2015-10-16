@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2419,0.64043547109980359,0.56796313942965848,0.41951760156949003,"Candida tropicalis","Candida tropicalis","Candida","","Saccharomycetales",6,4,3]]}
+{"2419":{"Path":["0","0","2419","2419"],"Coordinates":[0.38933951719206389,0.46527919358013248,0.48812384956367566],"Categories":["Candida tropicalis","Candida tropicalis","Candida","","Saccharomycetales"],"Properties":[3,3,4]}}

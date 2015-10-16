@@ -1,1 +1,1 @@
-{"titles":null,"points":[[356,0.7194437551774211,0.45228037805596943,0.49585222381036992,"Candida tenuis","Candida tenuis","Candida","","Saccharomycetales",7,3,4]]}
+{"356":{"Path":["0","0","356","356"],"Coordinates":[0.37092994152107134,0.55329437383975844,0.34915147986225192],"Categories":["Candida tenuis","Candida tenuis","Candida","","Saccharomycetales"],"Properties":[3,4,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2626,0.69053235451861816,0.17806207510511002,0.58994642743424086,"Metschnikowia borealis","Metschnikowia borealis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,1,5]]}
+{"2626":{"Path":["0","0","2626","2626"],"Coordinates":[0.43110670272650742,0.40872215310782845,0.45320594818271603],"Categories":["Metschnikowia borealis","Metschnikowia borealis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,3,4]}}

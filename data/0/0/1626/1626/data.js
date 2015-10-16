@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1626,0.626641584716938,0.91189432534538017,0.67102845130770084,"Ogataea naganishii","Ogataea naganishii","Ogataea","Saccharomycetaceae","Saccharomycetales",6,7,6]]}
+{"1626":{"Path":["0","0","1626","1626"],"Coordinates":[0.7353124180521482,0.83450527923619855,0.5954843474880509],"Categories":["Ogataea naganishii","Ogataea naganishii","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,5]}}

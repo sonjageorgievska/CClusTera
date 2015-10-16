@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2399,0.6235024975054233,0.619368146501712,0.80550926798642186,"Babjeviella inositovora","Babjeviella inositovora","Babjeviella","Debaryomycetaceae","Saccharomycetales",6,4,7]]}
+{"2399":{"Path":["0","0","2399","2399"],"Coordinates":[0.5887279613877977,0.79970775154970175,0.39022151799706606],"Categories":["Babjeviella inositovora","Babjeviella inositovora","Babjeviella","Debaryomycetaceae","Saccharomycetales"],"Properties":[5,6,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2766,0.53881260965040545,0.42027055607804265,0.8226653882204521,"Kazachstania turicensis","Kazachstania turicensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",5,3,7]]}
+{"2766":{"Path":["0","0","2766","2766"],"Coordinates":[0.57645101137803856,0.791447337130231,0.137026409195393],"Categories":["Kazachstania turicensis","Kazachstania turicensis","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,6,1]}}

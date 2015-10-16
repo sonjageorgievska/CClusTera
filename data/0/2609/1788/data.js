@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1788,0.461597580591332,0.57771285112931414,0.50110249116800309,"Pseudozyma fusiformata","Pseudozyma fusiformata","Pseudozyma","Ustilaginaceae","Ustilaginales",4,4,4]]}
+{"1788":{"Path":["0","2609","1788","1788"],"Coordinates":[0.5578091280198384,0.32486804087626076,0.54315461952605792],"Categories":["Pseudozyma fusiformata","Pseudozyma fusiformata","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[5,2,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2609,0.41743832979321444,0.4123256970824562,0.41392245082621526,"Pseudozyma abaconensis","Pseudozyma abaconensis","Pseudozyma","Ustilaginaceae","Ustilaginales",4,3,3]]}
+{"2609":{"Path":["0","2609","2609","2609"],"Coordinates":[0.72893064098798654,0.5223396846691527,0.36955623593751624],"Categories":["Pseudozyma abaconensis","Pseudozyma abaconensis","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[7,4,3]}}

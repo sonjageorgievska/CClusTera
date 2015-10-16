@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2411,0.55175460471389082,0.52308648075132358,0.71274353659687983,"Cyberlindnera misumaiensis","Cyberlindnera misumaiensis","Cyberlindnera","","Saccharomycetales",5,4,6]]}
+{"2411":{"Path":["0","0","2411","2411"],"Coordinates":[0.68438404142795672,0.56138071774257536,0.30089188487992213],"Categories":["Cyberlindnera misumaiensis","Cyberlindnera misumaiensis","Cyberlindnera","","Saccharomycetales"],"Properties":[6,4,2]}}

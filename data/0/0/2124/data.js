@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2124,0.60993312974602443,0.480444123483001,0.21466957148788121,"Candida tanzawaensis","Candida tanzawaensis","Candida","","Saccharomycetales",6,3,1]]}
+{"2124":{"Path":["0","0","2124","2124"],"Coordinates":[0.34352836895302885,0.32244003881111272,0.56510434033757462],"Categories":["Candida tanzawaensis","Candida tanzawaensis","Candida","","Saccharomycetales"],"Properties":[3,2,5]}}

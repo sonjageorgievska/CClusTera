@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4137,0.36239729371958551,0.61780289596891225,0.67211792206180931,"Candida morakotiae","Candida morakotiae","Candida","","Saccharomycetales",3,4,6]]}
+{"4137":{"Path":["0","0","4137","4137"],"Coordinates":[0.22920990779955788,0.67458833658704709,0.42823064978296521],"Categories":["Candida morakotiae","Candida morakotiae","Candida","","Saccharomycetales"],"Properties":[2,5,3]}}

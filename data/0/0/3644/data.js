@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3644,0.49876426721762107,0.24560437023206463,0.259447303042354,"Candida gatunensis","Candida gatunensis","Candida","","Saccharomycetales",4,1,2]]}
+{"3644":{"Path":["0","0","3644","3644"],"Coordinates":[0.6317022413500496,0.55665004968375142,0.65054126566590764],"Categories":["Candida gatunensis","Candida gatunensis","Candida","","Saccharomycetales"],"Properties":[6,4,5]}}

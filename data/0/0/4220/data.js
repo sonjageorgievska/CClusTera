@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4220,0.6663003927213792,0.65712979214095735,0.48436497967779141,"Yamadazyma siamensis","Yamadazyma siamensis","Yamadazyma","Saccharomycetaceae","Saccharomycetales",6,5,4]]}
+{"4220":{"Path":["0","0","4220","4220"],"Coordinates":[0.513379304375488,0.44721456470169019,0.68517728164739755],"Categories":["Yamadazyma siamensis","Yamadazyma siamensis","Yamadazyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,3,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[933,0.56662239336894138,0.44492424153494015,0.38360541145192212,"Candida friedrichii","Candida friedrichii","Candida","","Saccharomycetales",5,3,3]]}
+{"933":{"Path":["0","0","582","933"],"Coordinates":[0.630241886541243,0.560687255605856,0.49572301646088374],"Categories":["Candida friedrichii","Candida friedrichii","Candida","","Saccharomycetales"],"Properties":[6,4,4]}}

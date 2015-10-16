@@ -1,1 +1,1 @@
-{"titles":null,"points":[[840,0.60572857858888929,0.690523578509643,0.45081370106086066,"Citeromyces matritensis","Citeromyces matritensis","Citeromyces","Saccharomycetaceae","Saccharomycetales",6,5,4]]}
+{"840":{"Path":["0","0","840","840"],"Coordinates":[0.51776167045762667,0.55162854922539917,0.54769404957500012],"Categories":["Citeromyces matritensis","Citeromyces matritensis","Citeromyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[857,0.80962152756464556,0.48567383170328515,0.54091172223639,"Wickerhamomyces pijperi","Wickerhamomyces pijperi","Wickerhamomyces","","Saccharomycetales",8,3,4]]}
+{"857":{"Path":["0","0","857","857"],"Coordinates":[0.16659235968866598,0.7467771771795525,0.75203047470342177],"Categories":["Wickerhamomyces pijperi","Wickerhamomyces pijperi","Wickerhamomyces","","Saccharomycetales"],"Properties":[1,5,6]}}

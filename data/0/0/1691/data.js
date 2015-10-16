@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1691,0.37743926845668269,0.38008260107694641,0.47581562756734391,"Pichia scutulata","Pichia scutulata","Pichia","Saccharomycetaceae","Saccharomycetales",3,3,4]]}
+{"1691":{"Path":["0","0","1691","1691"],"Coordinates":[0.43588463214587136,0.36216438513211241,0.35339278042390587],"Categories":["Pichia scutulata","Pichia scutulata","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,2,3]}}

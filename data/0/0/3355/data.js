@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3355,0.14206690590135288,0.15489074971196978,0.45481896988028997,"Geotrichum cucujoidarum","Geotrichum cucujoidarum","Geotrichum","Dipodascaceae","Saccharomycetales",1,1,4]]}
+{"3355":{"Path":["0","0","3355","3355"],"Coordinates":[0.439126691642358,0.071585680475695482,0.26895306043751815],"Categories":["Geotrichum cucujoidarum","Geotrichum cucujoidarum","Geotrichum","Dipodascaceae","Saccharomycetales"],"Properties":[4,0,2]}}

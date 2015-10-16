@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2269,0.7408728249079678,0.1928719575328223,0.64518886757264726,"Metschnikowia agaves","Metschnikowia agaves","Metschnikowia","Metschnikowiaceae","Saccharomycetales",7,1,5]]}
+{"2269":{"Path":["0","0","2268","2269"],"Coordinates":[0.24026819682286019,0.26692153071889163,0.48044977387275906],"Categories":["Metschnikowia agaves","Metschnikowia agaves","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[2,2,4]}}

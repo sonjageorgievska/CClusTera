@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3155,0.15007636283918746,0.86525109854471194,0.2038525052356174,"Leucosporidium golubevii","Leucosporidium golubevii","Leucosporidium","Sporidiobolaceae","Sporidiobolales",1,6,1]]}
+{"3155":{"Path":["0","0","3154","3155"],"Coordinates":[0.63242062278667122,0.4165700861516074,0.4963488659368232],"Categories":["Leucosporidium golubevii","Leucosporidium golubevii","Leucosporidium","Sporidiobolaceae","Sporidiobolales"],"Properties":[6,3,4]}}

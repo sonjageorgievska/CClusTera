@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3967,-0.11472569298963463,0.51212680517067033,0.51504549912985764,"Mycogloea nipponica","Mycogloea nipponica","Mycogloea","","",-1,4,4]]}
+{"3967":{"Path":["0","0","3967","3967"],"Coordinates":[0.95421462818913061,0.017722545174061907,0.39158178726730064],"Categories":["Mycogloea nipponica","Mycogloea nipponica","Mycogloea","",""],"Properties":[9,0,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[470,0.36345028553732323,0.538421411463082,0.39314526870678579,"Cryptococcus carnescens","Cryptococcus carnescens","Cryptococcus","Tremellaceae","Tremellales",3,4,3]]}
+{"470":{"Path":["0","0","470","470"],"Coordinates":[0.49884752659783277,0.40322652613307525,0.5362921805131341],"Categories":["Cryptococcus carnescens","Cryptococcus carnescens","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,3,4]}}

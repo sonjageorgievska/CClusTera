@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3840,0.722466453835845,0.51666424218052631,0.5941250716682267,"Candida pseudojiufengensis","Candida pseudojiufengensis","Candida","","Saccharomycetales",7,4,5]]}
+{"3840":{"Path":["0","0","3837","3840"],"Coordinates":[0.21789524887116038,0.78700255718400447,0.73219276196157657],"Categories":["Candida pseudojiufengensis","Candida pseudojiufengensis","Candida","","Saccharomycetales"],"Properties":[2,6,6]}}

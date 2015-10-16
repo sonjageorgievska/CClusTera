@@ -1,1 +1,1 @@
-{"titles":null,"points":[[190,0.36219191259606948,0.27332671162412453,0.74377492645776244,"Kazachstania exigua","Kazachstania exigua","Kazachstania","Saccharomycetaceae","Saccharomycetales",3,2,6]]}
+{"190":{"Path":["0","0","190","190"],"Coordinates":[0.80339754130941676,0.6083509461995581,0.40693376011340315],"Categories":["Kazachstania exigua","Kazachstania exigua","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[8,4,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3561,0.27448285531472261,0.39186284924351367,0.49467814528735154,"Yarrowia yakushimensis","Yarrowia yakushimensis","Yarrowia","","Saccharomycetales",2,3,4]]}
+{"3561":{"Path":["0","0","3561","3561"],"Coordinates":[0.23628576030688428,0.25006349685765028,0.62696844678348818],"Categories":["Yarrowia yakushimensis","Yarrowia yakushimensis","Yarrowia","","Saccharomycetales"],"Properties":[2,2,5]}}

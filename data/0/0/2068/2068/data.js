@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2068,0.577902296650139,0.15210232909879595,0.34601416787485367,"Candida vaccinii","Candida vaccinii","Candida","","Saccharomycetales",5,1,3]]}
+{"2068":{"Path":["0","0","2068","2068"],"Coordinates":[0.23355974404541036,0.22504262848595494,0.74135676652681715],"Categories":["Candida vaccinii","Candida vaccinii","Candida","","Saccharomycetales"],"Properties":[2,1,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4251,0.479037526632913,0.50870680550921488,0.63739871970012751,"Citeromyces nyonsensis","Citeromyces nyonsensis","Citeromyces","Saccharomycetaceae","Saccharomycetales",4,4,5]]}
+{"4251":{"Path":["0","0","4251","4251"],"Coordinates":[0.54537997606653943,0.7164312563639279,0.47998124007694348],"Categories":["Citeromyces nyonsensis","Citeromyces nyonsensis","Citeromyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

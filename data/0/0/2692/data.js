@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2692,0.5410735646950211,0.59687055119581678,0.71789607347642126,"Saccharomycopsis lassenensis","Saccharomycopsis lassenensis","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",5,4,6]]}
+{"2692":{"Path":["0","0","2692","2692"],"Coordinates":[0.37778745423657917,0.53200616396782918,0.4048105730751953],"Categories":["Saccharomycopsis lassenensis","Saccharomycopsis lassenensis","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[3,4,3]}}

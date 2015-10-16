@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3548,0.63620093197868666,0.52782114182164186,0.57950520236288172,"Candida ascalaphidarum","Candida ascalaphidarum","Candida","","Saccharomycetales",6,4,5]]}
+{"3548":{"Path":["0","0","3548","3548"],"Coordinates":[0.4104253335917431,0.61543941311617167,0.31715456277016169],"Categories":["Candida ascalaphidarum","Candida ascalaphidarum","Candida","","Saccharomycetales"],"Properties":[4,4,2]}}

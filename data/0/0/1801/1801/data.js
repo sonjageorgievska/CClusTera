@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1801,0.3770670947005933,0.25927049318173473,0.042815813836351642,"Phaffomyces thermotolerans","Phaffomyces thermotolerans","Phaffomyces","Phaffomycetaceae","Saccharomycetales",3,2,0]]}
+{"1801":{"Path":["0","0","1801","1801"],"Coordinates":[0.36123055641209406,0.0031683063327558442,0.47515526906372013],"Categories":["Phaffomyces thermotolerans","Phaffomyces thermotolerans","Phaffomyces","Phaffomycetaceae","Saccharomycetales"],"Properties":[3,0,4]}}

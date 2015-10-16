@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3527,0.30690624480515077,0.40159521618952121,0.22247504550003558,"Cryptococcus bestiolae","Cryptococcus bestiolae","Cryptococcus","Tremellaceae","Tremellales",3,3,2]]}
+{"3527":{"Path":["0","0","3527","3527"],"Coordinates":[0.74635119407546446,0.49575503365159296,0.39319111991966821],"Categories":["Cryptococcus bestiolae","Cryptococcus bestiolae","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,3,3]}}

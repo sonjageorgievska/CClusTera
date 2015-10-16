@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2256,0.69293527563192092,0.71701199571765628,0.69879202531059426,"Candida fragi","Candida fragi","Candida","","Saccharomycetales",6,5,6]]}
+{"2256":{"Path":["0","0","2260","2256"],"Coordinates":[0.58638473323397144,0.41456302537528472,0.64974072557467932],"Categories":["Candida fragi","Candida fragi","Candida","","Saccharomycetales"],"Properties":[5,3,5]}}

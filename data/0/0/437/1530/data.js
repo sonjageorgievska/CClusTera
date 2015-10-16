@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1530,0.50219532165469261,0.61536874035307454,0.38748952080157323,"Candida dendronema","Candida dendronema","Candida","","Saccharomycetales",5,4,3]]}
+{"1530":{"Path":["0","0","437","1530"],"Coordinates":[0.5148672182231232,0.37482109046614559,0.65466654031990346],"Categories":["Candida dendronema","Candida dendronema","Candida","","Saccharomycetales"],"Properties":[5,2,5]}}

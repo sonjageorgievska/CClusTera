@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1581,0.58548160971062368,0.60850815491411747,0.56972397319295487,"Saturnispora besseyi","Saturnispora besseyi","Saturnispora","Saccharomycetaceae","Saccharomycetales",5,4,5]]}
+{"1581":{"Path":["0","0","1581","1581"],"Coordinates":[0.32057006595521742,0.46554299257616688,0.528169982698447],"Categories":["Saturnispora besseyi","Saturnispora besseyi","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,4]}}

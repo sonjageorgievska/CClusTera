@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4086,0.50673941162243208,0.50167910488550949,0.53702029137860818,"Spencermartinsiella europaea","Spencermartinsiella europaea","Spencermartinsiella","Trichomonascaceae","Saccharomycetales",5,4,4]]}
+{"4086":{"Path":["0","0","4089","4086"],"Coordinates":[0.59518093511106307,0.699027903187472,0.24126097442569502],"Categories":["Spencermartinsiella europaea","Spencermartinsiella europaea","Spencermartinsiella","Trichomonascaceae","Saccharomycetales"],"Properties":[5,5,2]}}

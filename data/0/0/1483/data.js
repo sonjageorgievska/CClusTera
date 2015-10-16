@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1483,0.46181076346384342,0.40392075105592712,0.72306743581522515,"Saturnispora ahearnii","Saturnispora ahearnii","Saturnispora","Saccharomycetaceae","Saccharomycetales",4,3,6]]}
+{"1483":{"Path":["0","0","1483","1483"],"Coordinates":[0.45765817005729592,0.48021935206558791,0.60332797483329748],"Categories":["Saturnispora ahearnii","Saturnispora ahearnii","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,5]}}

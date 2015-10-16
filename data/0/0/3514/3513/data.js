@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3513,0.600539969349734,0.63469703615874151,0.6130180085545115,"Kazachstania aquatica","Kazachstania aquatica","Kazachstania","Saccharomycetaceae","Saccharomycetales",6,5,5]]}
+{"3513":{"Path":["0","0","3514","3513"],"Coordinates":[0.43909818828722186,0.53738209039642149,0.16242787549129553],"Categories":["Kazachstania aquatica","Kazachstania aquatica","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,4,1]}}

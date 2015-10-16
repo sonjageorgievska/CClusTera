@@ -1,1 +1,1 @@
-{"titles":null,"points":[[465,0.2939244702329748,0.70884891705302455,0.62988120871471653,"Lipomyces lipofer","Lipomyces lipofer","Lipomyces","Lipomycetaceae","Saccharomycetales",2,5,5]]}
+{"465":{"Path":["0","0","466","465"],"Coordinates":[0.52863438734950241,0.60553349358271968,0.685239940948613],"Categories":["Lipomyces lipofer","Lipomyces lipofer","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[5,4,6]}}

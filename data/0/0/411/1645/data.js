@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1645,0.70901915125032888,0.714839797869329,0.70988402804558948,"Candida methanolovescens","Candida methanolovescens","Candida","","Saccharomycetales",7,5,6]]}
+{"1645":{"Path":["0","0","411","1645"],"Coordinates":[0.58295070190072307,0.514899500496614,0.53019089698853661],"Categories":["Candida methanolovescens","Candida methanolovescens","Candida","","Saccharomycetales"],"Properties":[5,4,4]}}

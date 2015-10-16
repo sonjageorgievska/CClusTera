@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3583,0.20558451477531459,0.50577788562438508,0.20058841425686008,"Cryptococcus mujuensis","Cryptococcus mujuensis","Cryptococcus","Tremellaceae","Tremellales",2,4,1]]}
+{"3583":{"Path":["0","0","3583","3583"],"Coordinates":[0.717456341656668,0.19504170858292957,0.63347429919280929],"Categories":["Cryptococcus mujuensis","Cryptococcus mujuensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,1,5]}}

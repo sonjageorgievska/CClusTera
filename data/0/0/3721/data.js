@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3721,0.78624676512743419,0.41422428354480845,0.45646530074553476,"Candida yuanshanica","Candida yuanshanica","Candida","","Saccharomycetales",7,3,4]]}
+{"3721":{"Path":["0","0","3721","3721"],"Coordinates":[0.25529746100124839,0.6076085146590311,0.54745889307220386],"Categories":["Candida yuanshanica","Candida yuanshanica","Candida","","Saccharomycetales"],"Properties":[2,4,4]}}

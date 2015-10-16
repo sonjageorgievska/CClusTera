@@ -1,1 +1,1 @@
-{"titles":null,"points":[[605,0.59606064391176761,0.79079192661673881,0.48329049361681919,"Kuraishia capsulata","Kuraishia capsulata","Kuraishia","Saccharomycetaceae","Saccharomycetales",5,6,4]]}
+{"605":{"Path":["0","0","605","605"],"Coordinates":[0.7338850195164548,0.781151723467923,0.65223253771087764],"Categories":["Kuraishia capsulata","Kuraishia capsulata","Kuraishia","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,5]}}

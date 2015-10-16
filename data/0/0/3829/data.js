@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3829,0.44857396108858483,0.57934389101881512,0.61479371024472029,"Candida blackwellae","Candida blackwellae","Candida","","Saccharomycetales",4,4,5]]}
+{"3829":{"Path":["0","0","3829","3829"],"Coordinates":[0.5779429551842663,0.56471112210439167,0.54228731591993062],"Categories":["Candida blackwellae","Candida blackwellae","Candida","","Saccharomycetales"],"Properties":[5,4,4]}}

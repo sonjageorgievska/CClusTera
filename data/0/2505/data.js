@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2505,0.55087856217802456,0.55952312916862934,0.7565914933390373,"Cryptococcus huempii","Cryptococcus huempii","Cryptococcus","Tremellaceae","Tremellales",5,4,6]]}
+{"2505":{"Path":["0","2505","2505","2505"],"Coordinates":[0.61953740539470059,0.40083950582749162,0.61283969229495971],"Categories":["Cryptococcus huempii","Cryptococcus huempii","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,3,5]}}

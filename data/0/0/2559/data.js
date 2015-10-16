@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2559,0.33176058608613651,0.41074394730217867,0.48530517297498676,"Hannaella coprosmaensis","Hannaella coprosmaensis","Hannaella","","Tremellales",3,3,4]]}
+{"2559":{"Path":["0","0","2559","2559"],"Coordinates":[0.6400255658951024,0.69148766497234859,0.36568350984390452],"Categories":["Hannaella coprosmaensis","Hannaella coprosmaensis","Hannaella","","Tremellales"],"Properties":[6,5,3]}}

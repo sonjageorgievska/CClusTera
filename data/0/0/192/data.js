@@ -1,1 +1,1 @@
-{"titles":null,"points":[[192,0.52657285455718561,0.32824594322236827,0.48431065224279568,"Kazachstania unispora","Kazachstania unispora","Kazachstania","Saccharomycetaceae","Saccharomycetales",5,2,4]]}
+{"192":{"Path":["0","0","192","192"],"Coordinates":[0.4782390260403579,0.57208077048275718,0.42209938906925487],"Categories":["Kazachstania unispora","Kazachstania unispora","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,4,3]}}

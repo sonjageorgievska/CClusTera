@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3100,0.800899864033804,0.430196205021232,0.24636812688667367,"Hannaella surugaensis","Hannaella surugaensis","Hannaella","","Tremellales",8,3,2]]}
+{"3100":{"Path":["0","0","37","3100"],"Coordinates":[0.536957656940592,0.1826305742174916,0.56123145797420826],"Categories":["Hannaella surugaensis","Hannaella surugaensis","Hannaella","","Tremellales"],"Properties":[5,1,5]}}

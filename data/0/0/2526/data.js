@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2526,0.49279807609831422,0.49534543755436955,0.444992113463391,"Blastobotrys adeninivorans","Blastobotrys adeninivorans","Blastobotrys","Trichomonascaceae","Saccharomycetales",4,3,4]]}
+{"2526":{"Path":["0","0","2526","2526"],"Coordinates":[0.60851369060849969,0.52759591987479026,0.46577461061887454],"Categories":["Blastobotrys adeninivorans","Blastobotrys adeninivorans","Blastobotrys","Trichomonascaceae","Saccharomycetales"],"Properties":[6,4,4]}}

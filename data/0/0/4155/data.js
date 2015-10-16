@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4155,0.69042750758117521,0.33528181751882064,0.29553775488471673,"Wickerhamomyces scolytoplatypi","Wickerhamomyces scolytoplatypi","Wickerhamomyces","","Saccharomycetales",6,2,2]]}
+{"4155":{"Path":["0","0","4155","4155"],"Coordinates":[0.22187269636135404,0.7267375284672366,0.91904695328816177],"Categories":["Wickerhamomyces scolytoplatypi","Wickerhamomyces scolytoplatypi","Wickerhamomyces","","Saccharomycetales"],"Properties":[2,5,8]}}

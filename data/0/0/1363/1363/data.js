@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1363,0.20254388876704,0.40184338215560678,0.47101238118515043,"Lipomyces tetrasporus","Lipomyces tetrasporus","Lipomyces","Lipomycetaceae","Saccharomycetales",2,3,4]]}
+{"1363":{"Path":["0","0","1363","1363"],"Coordinates":[0.5539070238967474,0.62500044744602556,0.518993811675602],"Categories":["Lipomyces tetrasporus","Lipomyces tetrasporus","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

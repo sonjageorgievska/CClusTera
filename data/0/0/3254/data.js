@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3254,0.35108708560072793,0.18239034792170758,0.45894453696840637,"Candida bokatorum","Candida bokatorum","Candida","","Saccharomycetales",3,1,4]]}
+{"3254":{"Path":["0","0","3254","3254"],"Coordinates":[0.35345930836801626,0.25011988245084321,0.59024878040006035],"Categories":["Candida bokatorum","Candida bokatorum","Candida","","Saccharomycetales"],"Properties":[3,2,5]}}

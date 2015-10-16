@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1449,0.45271483479482327,0.3663020657019056,0.50529305327381635,"Priceomyces castillae","Priceomyces castillae","Priceomyces","Debaryomycetaceae","Saccharomycetales",4,2,4]]}
+{"1449":{"Path":["0","0","702","1449"],"Coordinates":[0.49414512411167444,0.3622001800296481,0.43621341431747962],"Categories":["Priceomyces castillae","Priceomyces castillae","Priceomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[4,2,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[542,0.54150097056509217,0.54269861376628725,0.51614257628243976,"Malassezia pachydermatis","Malassezia pachydermatis","Malassezia","","Malasseziales",5,4,4]]}
+{"542":{"Path":["0","0","542","542"],"Coordinates":[0.47018579297833774,0.54583257130542973,0.71688241159122756],"Categories":["Malassezia pachydermatis","Malassezia pachydermatis","Malassezia","","Malasseziales"],"Properties":[4,4,6]}}

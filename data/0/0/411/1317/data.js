@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1317,0.7355184688901637,0.68618501716009861,0.69245067059666821,"Ogataea glucozyma","Ogataea glucozyma","Ogataea","Saccharomycetaceae","Saccharomycetales",7,5,6]]}
+{"1317":{"Path":["0","0","411","1317"],"Coordinates":[0.59625483470330309,0.5609586141392241,0.53273285441623952],"Categories":["Ogataea glucozyma","Ogataea glucozyma","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,4]}}

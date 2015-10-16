@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2206,0.2497919289435647,0.595573521102451,0.26501732337993211,"Kockovaella thailandica","Kockovaella thailandica","Kockovaella","Cuniculitremaceae","Tremellales",2,4,2]]}
+{"2206":{"Path":["0","0","2206","2206"],"Coordinates":[0.57545042071968522,0.61908705213868687,0.52274858850149819],"Categories":["Kockovaella thailandica","Kockovaella thailandica","Kockovaella","Cuniculitremaceae","Tremellales"],"Properties":[5,4,4]}}

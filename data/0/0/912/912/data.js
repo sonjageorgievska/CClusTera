@@ -1,1 +1,1 @@
-{"titles":null,"points":[[912,0.78035226342081687,0.76311567099103317,0.50710550864022963,"Trigonopsis vinaria","Trigonopsis vinaria","Trigonopsis","","Saccharomycetales",7,6,4]]}
+{"912":{"Path":["0","0","912","912"],"Coordinates":[0.627422533225888,0.37350916870044193,0.41839076505200778],"Categories":["Trigonopsis vinaria","Trigonopsis vinaria","Trigonopsis","","Saccharomycetales"],"Properties":[6,2,3]}}

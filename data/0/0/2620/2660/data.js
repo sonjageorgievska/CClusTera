@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2660,0.61009188022826832,0.25447883474432986,0.6055107449715379,"Candida ipomoeae","Candida ipomoeae","Candida","","Saccharomycetales",6,2,5]]}
+{"2660":{"Path":["0","0","2620","2660"],"Coordinates":[0.46201279757885572,0.416266295123566,0.35591162832593437],"Categories":["Candida ipomoeae","Candida ipomoeae","Candida","","Saccharomycetales"],"Properties":[4,3,3]}}

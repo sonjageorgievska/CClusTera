@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3642,0.3117725183141139,0.71719721571500372,0.75589198948741909,"Candida stri","Candida stri","Candida","","Saccharomycetales",3,5,6]]}
+{"3642":{"Path":["0","0","3642","3642"],"Coordinates":[0.58316049375186885,0.62527736636361719,0.600763557719979],"Categories":["Candida stri","Candida stri","Candida","","Saccharomycetales"],"Properties":[5,5,5]}}

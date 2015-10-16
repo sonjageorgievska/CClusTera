@@ -1,1 +1,1 @@
-{"titles":null,"points":[[315,0.21115074510251786,0.75828144915548679,0.50393438885538433,"Cryptococcus curvatus","Cryptococcus curvatus","Cryptococcus","Tremellaceae","Tremellales",2,6,4]]}
+{"315":{"Path":["0","0","315","315"],"Coordinates":[0.77627455084772667,0.45217893163236528,0.18457737249828302],"Categories":["Cryptococcus curvatus","Cryptococcus curvatus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,3,1]}}

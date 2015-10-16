@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2315,0.13082921879857376,0.68059330511547722,0.59520116848010529,"Sporobolomyces novazealandicus","Sporobolomyces novazealandicus","Sporobolomyces","","Sporidiobolales",1,5,5]]}
+{"2315":{"Path":["0","0","2315","2315"],"Coordinates":[0.44816661288608683,0.407021785472168,0.36635394647576386],"Categories":["Sporobolomyces novazealandicus","Sporobolomyces novazealandicus","Sporobolomyces","","Sporidiobolales"],"Properties":[4,3,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4249,0.56948548383585118,0.28009898248444176,0.63506484559149534,"Candida verbasci","Candida verbasci","Candida","","Saccharomycetales",5,2,5]]}
+{"4249":{"Path":["0","0","4249","4249"],"Coordinates":[0.52629945696710845,0.6831264886349806,0.62086572738901458],"Categories":["Candida verbasci","Candida verbasci","Candida","","Saccharomycetales"],"Properties":[5,5,5]}}

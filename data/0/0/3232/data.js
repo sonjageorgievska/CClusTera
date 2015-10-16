@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3232,0.44281566178644366,0.6921044307627271,0.66776985410237533,"Pichia myanmarensis","Pichia myanmarensis","Pichia","Saccharomycetaceae","Saccharomycetales",4,5,6]]}
+{"3232":{"Path":["0","0","3232","3232"],"Coordinates":[0.55479814712656617,0.74908261433632994,0.50087325333650268],"Categories":["Pichia myanmarensis","Pichia myanmarensis","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

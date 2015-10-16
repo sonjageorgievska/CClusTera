@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1996,0.30644900410716552,0.66252846660957354,0.50621581459619225,"Udeniomyces megalosporus","Udeniomyces megalosporus","Udeniomyces","","Cystofilobasidiales",3,5,4]]}
+{"1996":{"Path":["0","0","1996","1996"],"Coordinates":[0.78778950702962025,0.40999289948744505,0.47765414364486758],"Categories":["Udeniomyces megalosporus","Udeniomyces megalosporus","Udeniomyces","","Cystofilobasidiales"],"Properties":[7,3,4]}}

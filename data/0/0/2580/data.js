@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2580,0.40456888868856633,0.46931296969353914,0.40962696326865078,"Fellomyces thailandicus","Fellomyces thailandicus","Fellomyces","Cuniculitremaceae","Tremellales",4,3,3]]}
+{"2580":{"Path":["0","0","2580","2580"],"Coordinates":[0.309330819137165,0.30147673068851849,0.52652927102414882],"Categories":["Fellomyces thailandicus","Fellomyces thailandicus","Fellomyces","Cuniculitremaceae","Tremellales"],"Properties":[3,2,4]}}

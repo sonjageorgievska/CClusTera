@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4267,0.22639167152836204,0.62434102201193431,0.60375885994692668,"Hannaella phetchabunensis","Hannaella phetchabunensis","Hannaella","","Tremellales",2,4,5]]}
+{"4267":{"Path":["0","0","3794","4267"],"Coordinates":[0.58428907840638655,0.50512451146373438,0.538124797329603],"Categories":["Hannaella phetchabunensis","Hannaella phetchabunensis","Hannaella","","Tremellales"],"Properties":[5,4,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1255,0.54821439229036351,0.45278652763593097,0.3609677863147282,"Candida maltosa","Candida maltosa","Candida","","Saccharomycetales",5,3,3]]}
+{"1255":{"Path":["0","0","1255","1255"],"Coordinates":[0.50837639237679966,0.4233426407218866,0.34943494217971527],"Categories":["Candida maltosa","Candida maltosa","Candida","","Saccharomycetales"],"Properties":[5,3,3]}}

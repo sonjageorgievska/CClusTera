@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1739,0.44146425079517204,0.54862103224481029,0.12599081211465898,"Cryptococcus podzolicus","Cryptococcus podzolicus","Cryptococcus","Tremellaceae","Tremellales",4,4,1]]}
+{"1739":{"Path":["0","0","1739","1739"],"Coordinates":[0.63745619646347573,0.17801805355877021,0.33478543610982148],"Categories":["Cryptococcus podzolicus","Cryptococcus podzolicus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,1,3]}}

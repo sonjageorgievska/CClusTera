@@ -1,1 +1,1 @@
-{"titles":null,"points":[[632,0.40707780451074022,0.23030914448139037,0.31697740574019756,"Yarrowia deformans","Yarrowia deformans","Yarrowia","","Saccharomycetales",4,1,2]]}
+{"632":{"Path":["0","0","632","632"],"Coordinates":[0.26241926766912194,0.32276596727993573,0.33522738154436832],"Categories":["Yarrowia deformans","Yarrowia deformans","Yarrowia","","Saccharomycetales"],"Properties":[2,2,3]}}

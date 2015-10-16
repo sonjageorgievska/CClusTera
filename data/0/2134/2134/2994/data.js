@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2994,0.67301859648818285,0.62490962860792909,0.61078264881046729,"Botryozyma mucatilis","Botryozyma mucatilis","Botryozyma","","Saccharomycetales",6,4,5]]}
+{"2994":{"Path":["0","2134","2134","2994"],"Coordinates":[0.52420984579331564,0.4737103888386256,0.701835152891264],"Categories":["Botryozyma mucatilis","Botryozyma mucatilis","Botryozyma","","Saccharomycetales"],"Properties":[5,3,6]}}

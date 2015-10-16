@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3589,0.68151497800357919,0.16993757518555075,0.23405065105009476,"Candida dosseyi","Candida dosseyi","Candida","","Saccharomycetales",6,1,2]]}
+{"3589":{"Path":["0","0","2308","3589"],"Coordinates":[0.4439263380510321,0.54100271284555435,0.56920053128193093],"Categories":["Candida dosseyi","Candida dosseyi","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

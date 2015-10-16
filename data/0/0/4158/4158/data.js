@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4158,0.20544849498424739,0.66964023559211383,0.50765905850204607,"Derxomyces amylogenes","Derxomyces amylogenes","Derxomyces","","Tremellales",2,5,4]]}
+{"4158":{"Path":["0","0","4158","4158"],"Coordinates":[0.707619318912913,0.13977455908560998,0.60516421312986868],"Categories":["Derxomyces amylogenes","Derxomyces amylogenes","Derxomyces","","Tremellales"],"Properties":[7,1,5]}}

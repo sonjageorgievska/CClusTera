@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2727,0.52327360167361714,0.55799660800264206,0.44694829940281622,"Kockovaella machilophila","Kockovaella machilophila","Kockovaella","Cuniculitremaceae","Tremellales",5,4,4]]}
+{"2727":{"Path":["0","0","2727","2727"],"Coordinates":[0.620944145221816,0.56892426246726147,0.30273997349020615],"Categories":["Kockovaella machilophila","Kockovaella machilophila","Kockovaella","Cuniculitremaceae","Tremellales"],"Properties":[6,4,2]}}

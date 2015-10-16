@@ -1,1 +1,1 @@
-{"titles":null,"points":[[980,0.60556065703106421,0.95341265204152581,0.64641534140539347,"Ogataea wickerhamii","Ogataea wickerhamii","Ogataea","Saccharomycetaceae","Saccharomycetales",6,7,5]]}
+{"980":{"Path":["0","0","980","980"],"Coordinates":[0.76701938226074429,0.88354715918863136,0.34946842972779379],"Categories":["Ogataea wickerhamii","Ogataea wickerhamii","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,7,3]}}

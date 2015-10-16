@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1220,0.63120797894320757,0.54109460030291612,0.58666069549526578,"Nakazawaea anatomiae","Nakazawaea anatomiae","Nakazawaea","Saccharomycetaceae","Saccharomycetales",6,4,5]]}
+{"1220":{"Path":["0","0","1220","1220"],"Coordinates":[0.66137658778772224,0.44964713165926928,0.24744442463054067],"Categories":["Nakazawaea anatomiae","Nakazawaea anatomiae","Nakazawaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,3,2]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2406,0.40857555046030714,0.48841445984946641,0.45824692603051126,"Candida montana","Candida montana","Candida","","Saccharomycetales",4,3,4]]}
+{"2406":{"Path":["0","2406","2406","2406"],"Coordinates":[0.87691085631123789,0.70992273730928057,0.45234913606514537],"Categories":["Candida montana","Candida montana","Candida","","Saccharomycetales"],"Properties":[8,5,4]}}

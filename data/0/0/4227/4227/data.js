@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4227,0.37912639352547722,0.937005893354728,0.37950322563078309,"Meredithblackwellia eburnea","Meredithblackwellia eburnea","Meredithblackwellia","Kriegeriaceae","Kriegeriales",3,7,3]]}
+{"4227":{"Path":["0","0","4227","4227"],"Coordinates":[0.82858010179956931,0.31428450195010338,0.11877245304848694],"Categories":["Meredithblackwellia eburnea","Meredithblackwellia eburnea","Meredithblackwellia","Kriegeriaceae","Kriegeriales"],"Properties":[8,2,1]}}

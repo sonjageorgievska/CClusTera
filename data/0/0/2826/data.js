@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2826,0.39666559672677404,0.36468117802215178,0.78204535258518748,"Tetrapisispora iriomotensis","Tetrapisispora iriomotensis","Tetrapisispora","Saccharomycetaceae","Saccharomycetales",3,2,7]]}
+{"2826":{"Path":["0","0","2826","2826"],"Coordinates":[0.42641369038894233,0.5101350415654119,0.13510443080530665],"Categories":["Tetrapisispora iriomotensis","Tetrapisispora iriomotensis","Tetrapisispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,4,1]}}

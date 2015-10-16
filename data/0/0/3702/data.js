@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3702,0.56955901253740571,0.43617908384633552,0.61644396943426594,"Candida gelsemii","Candida gelsemii","Candida","","Saccharomycetales",5,3,5]]}
+{"3702":{"Path":["0","0","3702","3702"],"Coordinates":[0.14839920188567427,0.3371336036198383,0.80036272431055822],"Categories":["Candida gelsemii","Candida gelsemii","Candida","","Saccharomycetales"],"Properties":[1,2,7]}}

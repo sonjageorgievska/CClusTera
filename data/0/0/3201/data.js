@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3201,0.513483922252176,0.648895024660061,0.55103510536450029,"Cryptococcus taeanensis","Cryptococcus taeanensis","Cryptococcus","Tremellaceae","Tremellales",5,5,4]]}
+{"3201":{"Path":["0","0","3201","3201"],"Coordinates":[0.51729446320453987,0.52314939079610923,0.69415033408191407],"Categories":["Cryptococcus taeanensis","Cryptococcus taeanensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,4,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3677,0.32882063643327436,0.42313017883192405,0.49106386749122932,"Rhodotorula psychrophila","Rhodotorula psychrophila","Rhodotorula","","Sporidiobolales",3,3,4]]}
+{"3677":{"Path":["0","0","3677","3677"],"Coordinates":[0.49645246480964478,0.44465776423609166,0.69290685552045528],"Categories":["Rhodotorula psychrophila","Rhodotorula psychrophila","Rhodotorula","","Sporidiobolales"],"Properties":[4,3,6]}}

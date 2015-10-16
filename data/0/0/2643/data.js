@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2643,0.39617221542952752,0.33605875074496927,0.35989741057359259,"Wickerhamiella cacticola","Wickerhamiella cacticola","Wickerhamiella","","Saccharomycetales",3,2,3]]}
+{"2643":{"Path":["0","0","2643","2643"],"Coordinates":[0.24440869365693757,0.70563458968359838,0.44820782814959576],"Categories":["Wickerhamiella cacticola","Wickerhamiella cacticola","Wickerhamiella","","Saccharomycetales"],"Properties":[2,5,4]}}

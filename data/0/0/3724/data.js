@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3724,0.7657369127544511,0.42398116703341548,0.61753669104938624,"Candida dajiaensis","Candida dajiaensis","Candida","","Saccharomycetales",7,3,5]]}
+{"3724":{"Path":["0","0","3724","3724"],"Coordinates":[0.56016065986950125,0.70935099126727674,0.47321045427261921],"Categories":["Candida dajiaensis","Candida dajiaensis","Candida","","Saccharomycetales"],"Properties":[5,5,4]}}

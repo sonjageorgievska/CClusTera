@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4238,0.56798521975249683,0.47623222089601269,0.53999722718111842,"Scheffersomyces illinoinensis","Scheffersomyces illinoinensis","","","",5,3,4]]}
+{"4238":{"Path":["0","0","974","4238"],"Coordinates":[0.54799274751674909,0.583733078309775,0.68622680527449786],"Categories":["Scheffersomyces illinoinensis","Scheffersomyces illinoinensis","","",""],"Properties":[5,4,6]}}

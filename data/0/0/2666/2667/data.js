@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2667,0.69093776553526975,0.50292268756211567,0.79498684074147008,"Kodamaea nitidulidarum","Kodamaea nitidulidarum","Kodamaea","Saccharomycetaceae","Saccharomycetales",6,4,7]]}
+{"2667":{"Path":["0","0","2666","2667"],"Coordinates":[0.57155638378377482,0.309734712557908,0.787356300343665],"Categories":["Kodamaea nitidulidarum","Kodamaea nitidulidarum","Kodamaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,2,7]}}

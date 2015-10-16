@@ -1,1 +1,1 @@
-{"titles":null,"points":[[914,1.1909657136397924,0.4409946837651027,0.35444139706838995,"Yamadazyma triangularis","Yamadazyma triangularis","Yamadazyma","Saccharomycetaceae","Saccharomycetales",1,3,3]]}
+{"914":{"Path":["0","0","914","914"],"Coordinates":[-0.14227661903399322,0.76413800226469342,0.62330330080493279],"Categories":["Yamadazyma triangularis","Yamadazyma triangularis","Yamadazyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[-1,6,5]}}

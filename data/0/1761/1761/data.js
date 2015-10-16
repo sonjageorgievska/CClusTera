@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1761,0.55941922910399444,0.65383081669281939,0.41986833039541166,"Symbiotaphrina buchneri","Symbiotaphrina buchneri","Symbiotaphrina","","",5,5,3]]}
+{"1761":{"Path":["0","1761","1761","1761"],"Coordinates":[0.50247285013325071,0.0585314146640269,0.67570917572450884],"Categories":["Symbiotaphrina buchneri","Symbiotaphrina buchneri","Symbiotaphrina","",""],"Properties":[5,0,6]}}

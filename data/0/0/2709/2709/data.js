@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2709,0.54445506620731543,0.6289929728705469,0.40529079238631827,"Candida tallmaniae","Candida tallmaniae","Candida","","Saccharomycetales",5,5,3]]}
+{"2709":{"Path":["0","0","2709","2709"],"Coordinates":[0.51099704332755813,0.7835515481116494,0.4642442492290873],"Categories":["Candida tallmaniae","Candida tallmaniae","Candida","","Saccharomycetales"],"Properties":[5,6,4]}}

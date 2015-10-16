@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3356,0.42840450502216021,0.22849476751127484,0.37417424363775958,"Candida buenavistaensis","Candida buenavistaensis","Candida","","Saccharomycetales",4,1,3]]}
+{"3356":{"Path":["0","0","3356","3356"],"Coordinates":[0.7521799422090808,0.47274070129414913,0.620701932995977],"Categories":["Candida buenavistaensis","Candida buenavistaensis","Candida","","Saccharomycetales"],"Properties":[7,3,5]}}

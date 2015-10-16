@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4103,0.47362185055333877,0.62909631070997918,0.55321755269264439,"Schizosaccharomyces cryophilus","Schizosaccharomyces cryophilus","Schizosaccharomyces","Schizosaccharomycetaceae","Schizosaccharomycetales",4,5,4]]}
+{"4103":{"Path":["0","0","4103","4103"],"Coordinates":[0.16320055726185923,0.40374660363093257,0.42284270372714117],"Categories":["Schizosaccharomyces cryophilus","Schizosaccharomyces cryophilus","Schizosaccharomyces","Schizosaccharomycetaceae","Schizosaccharomycetales"],"Properties":[1,3,3]}}

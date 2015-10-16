@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3939,0.71470484115397537,0.29498132494377333,0.25983412685280516,"Candida awuaii","Candida awuaii","Candida","","Saccharomycetales",7,2,2]]}
+{"3939":{"Path":["0","0","3939","3939"],"Coordinates":[0.1247758650995667,0.47925409879375047,0.38365580291344431],"Categories":["Candida awuaii","Candida awuaii","Candida","","Saccharomycetales"],"Properties":[1,3,3]}}

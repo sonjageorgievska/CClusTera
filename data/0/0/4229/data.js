@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4229,0.65054949535103679,0.88228591138852008,0.34500689539999896,"Diddensiella caesifluorescens","Diddensiella caesifluorescens","Diddensiella","Trichomonascaceae","Saccharomycetales",6,7,3]]}
+{"4229":{"Path":["0","0","4229","4229"],"Coordinates":[0.66099648143319256,0.733080632029447,0.85524557447321758],"Categories":["Diddensiella caesifluorescens","Diddensiella caesifluorescens","Diddensiella","Trichomonascaceae","Saccharomycetales"],"Properties":[6,5,7]}}

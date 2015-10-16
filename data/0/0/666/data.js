@@ -1,1 +1,1 @@
-{"titles":null,"points":[[666,0.38926637936330061,0.49791189857097823,0.826125999429899,"Kazachstania transvaalensis","Kazachstania transvaalensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",3,3,7]]}
+{"666":{"Path":["0","0","666","666"],"Coordinates":[0.33152156547778233,0.42515352466861472,0.47958293531470708],"Categories":["Kazachstania transvaalensis","Kazachstania transvaalensis","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,4]}}

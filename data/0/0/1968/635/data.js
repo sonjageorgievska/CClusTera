@@ -1,1 +1,1 @@
-{"titles":null,"points":[[635,0.6795360766537496,0.48477587247320469,0.28864272096054122,"Myxozyma melibiosi","Myxozyma melibiosi","Myxozyma","Lipomycetaceae","Saccharomycetales",6,3,2]]}
+{"635":{"Path":["0","0","1968","635"],"Coordinates":[0.45873169626895244,0.58565976468702174,0.69108765948387041],"Categories":["Myxozyma melibiosi","Myxozyma melibiosi","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[4,4,6]}}

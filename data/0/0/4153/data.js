@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4153,0.74931858995555378,0.16849860400098241,0.40474300391062523,"Candida tocantinsensis","Candida tocantinsensis","Candida","","Saccharomycetales",7,1,3]]}
+{"4153":{"Path":["0","0","4153","4153"],"Coordinates":[0.13384959457918236,0.33355986813465688,0.5898188117985762],"Categories":["Candida tocantinsensis","Candida tocantinsensis","Candida","","Saccharomycetales"],"Properties":[1,2,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1770,0.51788436455669673,0.34934754222828462,0.53049335250996132,"Candida auringiensis","Candida auringiensis","Candida","","Saccharomycetales",5,2,4]]}
+{"1770":{"Path":["0","0","1770","1770"],"Coordinates":[0.47951248295747856,0.62608653375672962,0.64420904716443683],"Categories":["Candida auringiensis","Candida auringiensis","Candida","","Saccharomycetales"],"Properties":[4,5,5]}}

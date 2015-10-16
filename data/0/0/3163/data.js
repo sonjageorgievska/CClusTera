@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3163,0.6000893626334125,0.44430777254152271,0.28102590423064583,"Candida galli","Candida galli","Candida","","Saccharomycetales",6,3,2]]}
+{"3163":{"Path":["0","0","3163","3163"],"Coordinates":[0.50566129242720759,0.40744159094935817,0.70172833847289973],"Categories":["Candida galli","Candida galli","Candida","","Saccharomycetales"],"Properties":[5,3,6]}}

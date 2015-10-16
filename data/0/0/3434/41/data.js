@@ -1,1 +1,1 @@
-{"titles":null,"points":[[41,0.44359134808276807,0.58769458415026421,0.51238056505439145,"Kuraishia molischiana","Kuraishia molischiana","Kuraishia","Saccharomycetaceae","Saccharomycetales",4,4,4]]}
+{"41":{"Path":["0","0","3434","41"],"Coordinates":[0.57210389794459127,0.48004779040082768,0.52414242103722786],"Categories":["Kuraishia molischiana","Kuraishia molischiana","Kuraishia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,3,4]}}

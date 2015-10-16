@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1723,0.41986763638105556,0.93974246254280047,0.77005332803195847,"Candida sonorensis","Candida sonorensis","Candida","","Saccharomycetales",4,7,6]]}
+{"1723":{"Path":["0","0","1723","1723"],"Coordinates":[0.81855334383803036,0.88971523068425817,0.42834689217667948],"Categories":["Candida sonorensis","Candida sonorensis","Candida","","Saccharomycetales"],"Properties":[8,7,3]}}

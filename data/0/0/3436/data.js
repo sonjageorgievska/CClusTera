@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3436,0.49715684142160677,0.22490404561878261,0.34091965688232329,"Candida hispaniensis","Candida hispaniensis","Candida","","Saccharomycetales",4,1,3]]}
+{"3436":{"Path":["0","0","3436","3436"],"Coordinates":[0.30209442137121828,0.46573878125839913,0.43034843585558957],"Categories":["Candida hispaniensis","Candida hispaniensis","Candida","","Saccharomycetales"],"Properties":[3,3,3]}}

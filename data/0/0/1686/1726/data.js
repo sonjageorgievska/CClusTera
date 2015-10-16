@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1726,0.73520934841982732,0.51004654697727358,0.5694572917702192,"Candida buinensis","Candida buinensis","Candida","","Saccharomycetales",7,4,5]]}
+{"1726":{"Path":["0","0","1686","1726"],"Coordinates":[0.64545640334441479,0.66462660280044916,0.59275878329946186],"Categories":["Candida buinensis","Candida buinensis","Candida","","Saccharomycetales"],"Properties":[6,5,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1853,0.514511998657608,0.34300715016172167,0.65329834572021961,"Saccharomycodes sinensis","Saccharomycodes sinensis","Saccharomycodes","Saccharomycodaceae","Saccharomycetales",5,2,5]]}
+{"1853":{"Path":["0","0","1853","1853"],"Coordinates":[0.607629837242957,0.5517357828339956,0.43126708663275082],"Categories":["Saccharomycodes sinensis","Saccharomycodes sinensis","Saccharomycodes","Saccharomycodaceae","Saccharomycetales"],"Properties":[6,4,3]}}

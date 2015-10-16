@@ -1,1 +1,1 @@
-{"titles":null,"points":[[458,0.8810406982091924,0.1798876426005947,0.38381893353054786,"Saturnispora dispora","Saturnispora dispora","Saturnispora","Saccharomycetaceae","Saccharomycetales",8,1,3]]}
+{"458":{"Path":["0","0","458","458"],"Coordinates":[0.22869956693347829,0.71899212182890015,0.80643838276962176],"Categories":["Saturnispora dispora","Saturnispora dispora","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,5,7]}}

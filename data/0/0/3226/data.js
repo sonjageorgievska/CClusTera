@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3226,0.48383160747956749,0.53827181645152145,0.62973420722086781,"Candida asparagi","Candida asparagi","Candida","","Saccharomycetales",4,4,5]]}
+{"3226":{"Path":["0","0","3226","3226"],"Coordinates":[0.20160979742827334,0.37765680353965025,0.46824757945195888],"Categories":["Candida asparagi","Candida asparagi","Candida","","Saccharomycetales"],"Properties":[2,3,4]}}

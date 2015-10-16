@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1228,0.65400719005473917,0.72733953782322525,0.80866557520968885,"Nakazawaea peltata","Nakazawaea peltata","Nakazawaea","Saccharomycetaceae","Saccharomycetales",6,5,7]]}
+{"1228":{"Path":["0","0","1228","1228"],"Coordinates":[0.68094608323702233,0.79187669869342725,0.34116713863281189],"Categories":["Nakazawaea peltata","Nakazawaea peltata","Nakazawaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,6,3]}}

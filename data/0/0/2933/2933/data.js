@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2933,1.22006329378935,0.43847150692559234,0.31836474096314682,"Candida prunicola","Candida prunicola","Candida","","Saccharomycetales",2,3,2]]}
+{"2933":{"Path":["0","0","2933","2933"],"Coordinates":[-0.14927803543191331,0.80977747287659074,0.64603221570415914],"Categories":["Candida prunicola","Candida prunicola","Candida","","Saccharomycetales"],"Properties":[-1,6,5]}}

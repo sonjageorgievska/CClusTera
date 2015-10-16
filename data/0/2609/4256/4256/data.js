@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4256,0.29428652461708349,0.37661952844818442,0.65120770650191362,"Pseudozyma vetiver","Pseudozyma vetiver","Pseudozyma","Ustilaginaceae","Ustilaginales",2,3,5]]}
+{"4256":{"Path":["0","2609","4256","4256"],"Coordinates":[0.48614508671556533,0.42845055857700182,0.43415176383478404],"Categories":["Pseudozyma vetiver","Pseudozyma vetiver","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[4,3,3]}}

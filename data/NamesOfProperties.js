@@ -1,0 +1,1 @@
+["Property1", "Property2", "Property3"]

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3253,0.41598007995583436,0.19610184775422349,0.42785799517145,"Candida guaymorum","Candida guaymorum","Candida","","Saccharomycetales",4,1,3]]}
+{"3253":{"Path":["0","0","3253","3253"],"Coordinates":[0.51041993545622266,0.39939061795894315,0.661266226337259],"Categories":["Candida guaymorum","Candida guaymorum","Candida","","Saccharomycetales"],"Properties":[5,3,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4144,0.42425340911563825,0.7436015529821518,0.60151351409983489,"Ogataea phyllophila","Ogataea phyllophila","Ogataea","Saccharomycetaceae","Saccharomycetales",4,5,5]]}
+{"4144":{"Path":["0","0","4143","4144"],"Coordinates":[0.72559307539252915,0.58366375164499606,0.569002496527351],"Categories":["Ogataea phyllophila","Ogataea phyllophila","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,4,5]}}

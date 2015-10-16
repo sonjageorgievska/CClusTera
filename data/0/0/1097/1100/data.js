@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1100,0.18046257685162734,0.3589541229267425,0.57665180193546373,"Cryptococcus skinneri","Cryptococcus skinneri","Cryptococcus","Tremellaceae","Tremellales",1,2,5]]}
+{"1100":{"Path":["0","0","1097","1100"],"Coordinates":[0.56154953229155236,0.6142457163978533,0.43046856579418835],"Categories":["Cryptococcus skinneri","Cryptococcus skinneri","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,4,3]}}

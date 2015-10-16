@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3992,0.36877196744143531,0.59575317302935671,-0.060938925690041092,"Kazachstania taianensis","Kazachstania taianensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",3,4,0]]}
+{"3992":{"Path":["0","3992","3992","3992"],"Coordinates":[1.0881251938409582,0.36516273182569592,0.32794624442454295],"Categories":["Kazachstania taianensis","Kazachstania taianensis","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[0,2,2]}}

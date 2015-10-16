@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4208,0.42067925861002731,0.32525737396525145,0.51390402352871445,"Bandoniozyma aquatica","Bandoniozyma aquatica","Bandoniozyma","","Tremellales",4,2,4]]}
+{"4208":{"Path":["0","0","2401","4208"],"Coordinates":[0.30771291388888139,0.31944145311847272,0.4791643376317426],"Categories":["Bandoniozyma aquatica","Bandoniozyma aquatica","Bandoniozyma","","Tremellales"],"Properties":[3,2,4]}}

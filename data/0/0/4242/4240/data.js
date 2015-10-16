@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4240,0.85794025298295962,0.21131310663215502,0.5637884417607788,"Naumovozyma baii","Naumovozyma baii","Naumovozyma","Saccharomycetaceae","Saccharomycetales",8,1,5]]}
+{"4240":{"Path":["0","0","4242","4240"],"Coordinates":[0.1057981994460689,0.36714656776845267,0.40472442292497707],"Categories":["Naumovozyma baii","Naumovozyma baii","Naumovozyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[1,2,3]}}

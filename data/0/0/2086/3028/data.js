@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3028,0.51719691327120931,0.3458772202621106,0.54753004777426784,"Bulleribasidium oberjochense","Bulleribasidium oberjochense","Bulleribasidium","Tremellaceae","Tremellales",5,2,4]]}
+{"3028":{"Path":["0","0","2086","3028"],"Coordinates":[0.74597484409879444,0.47492929606119738,0.89945775350354606],"Categories":["Bulleribasidium oberjochense","Bulleribasidium oberjochense","Bulleribasidium","Tremellaceae","Tremellales"],"Properties":[7,3,8]}}

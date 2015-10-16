@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2151,0.3932554476495751,0.66659584610579681,0.21706241991359898,"Myxozyma udenii","Myxozyma udenii","Myxozyma","Lipomycetaceae","Saccharomycetales",3,5,1]]}
+{"2151":{"Path":["0","0","2151","2151"],"Coordinates":[0.32505227540076931,0.56230734900955126,0.22591280490678661],"Categories":["Myxozyma udenii","Myxozyma udenii","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[3,4,2]}}

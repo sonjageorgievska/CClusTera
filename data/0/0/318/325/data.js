@@ -1,1 +1,1 @@
-{"titles":null,"points":[[325,0.25241232360369686,0.667161316627425,0.62573869131131543,"Cryptococcus humicola","Cryptococcus humicola","Cryptococcus","Tremellaceae","Tremellales",2,5,5]]}
+{"325":{"Path":["0","0","318","325"],"Coordinates":[0.4888068698073344,0.48027108009943742,0.43451344055731284],"Categories":["Cryptococcus humicola","Cryptococcus humicola","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,3,3]}}

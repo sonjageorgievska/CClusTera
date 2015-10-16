@@ -1,1 +1,1 @@
-{"titles":null,"points":[[623,0.41854954420817514,0.56713204839375808,0.50169218247202341,"Trichosporon porosum","Trichosporon porosum","Trichosporon","Trichosporonaceae","Tremellales",4,4,4]]}
+{"623":{"Path":["0","0","37","623"],"Coordinates":[0.4447302351662718,0.63288251972136977,0.44569178948078836],"Categories":["Trichosporon porosum","Trichosporon porosum","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[4,5,4]}}

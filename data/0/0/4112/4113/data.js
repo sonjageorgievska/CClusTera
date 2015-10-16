@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4113,0.25456938898297726,0.400957493584694,0.39998451961950937,"Wickerhamomyces ochangensis","Wickerhamomyces ochangensis","Wickerhamomyces","","Saccharomycetales",2,3,3]]}
+{"4113":{"Path":["0","0","4112","4113"],"Coordinates":[0.82360712336268183,0.789408774535768,0.87162223148388751],"Categories":["Wickerhamomyces ochangensis","Wickerhamomyces ochangensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[8,6,7]}}

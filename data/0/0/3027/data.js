@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3027,0.46281350426261569,0.53825256434252389,0.19076324809770409,"Fibulobasidium murrhardtense","Fibulobasidium murrhardtense","Fibulobasidium","Sirobasidiaceae","Tremellales",4,4,1]]}
+{"3027":{"Path":["0","0","3027","3027"],"Coordinates":[0.60430823322300808,0.34274458978685157,0.439083349597366],"Categories":["Fibulobasidium murrhardtense","Fibulobasidium murrhardtense","Fibulobasidium","Sirobasidiaceae","Tremellales"],"Properties":[6,2,3]}}

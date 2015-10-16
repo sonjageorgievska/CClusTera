@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4133,0.55571580857141112,0.358933980195207,0.48444581959895988,"Cryptococcus cyanovorans","Cryptococcus cyanovorans","Cryptococcus","Tremellaceae","Tremellales",5,2,4]]}
+{"4133":{"Path":["0","0","308","4133"],"Coordinates":[0.45555790983279282,0.22759522168947804,0.50726026456562245],"Categories":["Cryptococcus cyanovorans","Cryptococcus cyanovorans","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,1,4]}}

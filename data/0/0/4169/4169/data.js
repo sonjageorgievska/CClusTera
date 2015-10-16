@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4169,0.93219038424464973,0.38443425307454765,0.5181235453008135,"Candida hungchunana","Candida hungchunana","Candida","","Saccharomycetales",9,3,4]]}
+{"4169":{"Path":["0","0","4169","4169"],"Coordinates":[0.54591223946080514,0.74949276621037531,0.60633688067220126],"Categories":["Candida hungchunana","Candida hungchunana","Candida","","Saccharomycetales"],"Properties":[5,5,5]}}

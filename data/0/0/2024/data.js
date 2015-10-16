@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2024,0.58317988079605365,0.451306164996841,0.53367140607115016,"Bensingtonia subrosea","Bensingtonia subrosea","Bensingtonia","Agaricostilbaceae","Agaricostilbales",5,3,4]]}
+{"2024":{"Path":["0","0","2024","2024"],"Coordinates":[0.67815123390686638,0.58161843376468192,0.46179091860076876],"Categories":["Bensingtonia subrosea","Bensingtonia subrosea","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[6,4,4]}}

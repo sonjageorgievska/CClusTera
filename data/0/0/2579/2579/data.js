@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2579,0.69120111402948847,0.63318841349676336,0.77627751864530525,"Debaryomyces mycophilus","Debaryomyces mycophilus","Debaryomyces","Saccharomycetaceae","Saccharomycetales",6,5,6]]}
+{"2579":{"Path":["0","0","2579","2579"],"Coordinates":[0.47837814397671341,0.84182386301681433,0.43680803503297394],"Categories":["Debaryomyces mycophilus","Debaryomyces mycophilus","Debaryomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,6,3]}}

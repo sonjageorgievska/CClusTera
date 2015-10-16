@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3554,0.33199769982953864,0.29609355558852257,0.39777866466706513,"Cryptococcus randhawai","Cryptococcus randhawai","Cryptococcus","Tremellaceae","Tremellales",3,2,3]]}
+{"3554":{"Path":["0","0","1630","3554"],"Coordinates":[0.64617977236079194,0.34099380860759637,0.4498792008736261],"Categories":["Cryptococcus randhawai","Cryptococcus randhawai","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,2,4]}}

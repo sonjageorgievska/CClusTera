@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2165,0.65747967945196784,0.56339259218025062,0.586886657760344,"Bensingtonia ciliata","Bensingtonia ciliata","Bensingtonia","Agaricostilbaceae","Agaricostilbales",6,4,5]]}
+{"2165":{"Path":["0","2165","2165","2165"],"Coordinates":[0.53821575436318092,0.43273054997783822,0.46918213728766284],"Categories":["Bensingtonia ciliata","Bensingtonia ciliata","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[5,3,4]}}

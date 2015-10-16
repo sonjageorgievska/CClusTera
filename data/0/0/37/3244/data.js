@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3244,0.45994900231492553,0.69053374516634369,0.17330626808081504,"Kockovaella barringtoniae","Kockovaella barringtoniae","Kockovaella","Cuniculitremaceae","Tremellales",4,5,1]]}
+{"3244":{"Path":["0","0","37","3244"],"Coordinates":[0.73846214480854977,0.66766299873682844,0.4321013697520612],"Categories":["Kockovaella barringtoniae","Kockovaella barringtoniae","Kockovaella","Cuniculitremaceae","Tremellales"],"Properties":[7,5,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1275,0.24129155464506849,0.46327467340229794,0.36088901652116634,"Kazachstania barnettii","Kazachstania barnettii","Kazachstania","Saccharomycetaceae","Saccharomycetales",2,3,3]]}
+{"1275":{"Path":["0","0","1275","1275"],"Coordinates":[0.61090286818895712,0.31983076695314716,0.24006299559177138],"Categories":["Kazachstania barnettii","Kazachstania barnettii","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,2,2]}}

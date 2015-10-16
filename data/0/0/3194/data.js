@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3194,0.66585366022143377,0.42501766092840371,0.33581498330881393,"Metschnikowia colocasiae","Metschnikowia colocasiae","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,3,3]]}
+{"3194":{"Path":["0","0","3194","3194"],"Coordinates":[0.52208977004420087,0.44998058141766906,0.56345775882987126],"Categories":["Metschnikowia colocasiae","Metschnikowia colocasiae","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,3,5]}}

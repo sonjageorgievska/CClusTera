@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1191,0.4794028439848837,0.81169800834664141,0.22693320178320314,"Mrakiella aquatica","Mrakiella aquatica","Mrakiella","","Cystofilobasidiales",4,6,2]]}
+{"1191":{"Path":["0","0","1191","1191"],"Coordinates":[0.57077538756926094,0.35823290903500726,0.4212520815330596],"Categories":["Mrakiella aquatica","Mrakiella aquatica","Mrakiella","","Cystofilobasidiales"],"Properties":[5,2,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4172,0.462636929374575,0.35473085304608681,0.83515549250094168,"Candida takata","Candida takata","Candida","","Saccharomycetales",4,2,7]]}
+{"4172":{"Path":["0","0","4172","4172"],"Coordinates":[0.35887517603836838,0.54967957800265144,0.56268783634495911],"Categories":["Candida takata","Candida takata","Candida","","Saccharomycetales"],"Properties":[3,4,5]}}

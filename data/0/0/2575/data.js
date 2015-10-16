@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2575,0.43654375994336525,0.3699588691320978,0.50555632806441153,"Cryptococcus pseudolongus","Cryptococcus pseudolongus","Cryptococcus","Tremellaceae","Tremellales",4,2,4]]}
+{"2575":{"Path":["0","0","2575","2575"],"Coordinates":[0.8294661072917483,0.38943737600843087,0.369360552474586],"Categories":["Cryptococcus pseudolongus","Cryptococcus pseudolongus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[8,3,3]}}

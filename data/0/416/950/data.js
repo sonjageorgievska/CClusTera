@@ -1,1 +1,1 @@
-{"titles":null,"points":[[950,0.59129238739772871,0.76499332025159739,0.57146979691884014,"Zygotorulaspora mrakii","Zygotorulaspora mrakii","Zygotorulaspora","Saccharomycetaceae","Saccharomycetales",5,6,5]]}
+{"950":{"Path":["0","416","950","950"],"Coordinates":[0.6265780397050249,0.41808733773013251,0.4182183885112713],"Categories":["Zygotorulaspora mrakii","Zygotorulaspora mrakii","Zygotorulaspora","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,3,3]}}

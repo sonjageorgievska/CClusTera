@@ -1,1 +1,1 @@
-{"titles":null,"points":[[610,0.81143494040750175,0.72290873636026332,0.4800055241424972,"Candida nitratophila","Candida nitratophila","Candida","","Saccharomycetales",8,5,4]]}
+{"610":{"Path":["0","0","610","610"],"Coordinates":[0.5598854159824912,0.56091439008381527,0.578863750657884],"Categories":["Candida nitratophila","Candida nitratophila","Candida","","Saccharomycetales"],"Properties":[5,4,5]}}

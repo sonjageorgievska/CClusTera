@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3269,0.649377299769497,0.40420351909176755,0.33319302045578558,"Candida bolitotheri","Candida bolitotheri","Candida","","Saccharomycetales",6,3,2]]}
+{"3269":{"Path":["0","0","3269","3269"],"Coordinates":[0.25319527067970615,0.44435387182830988,0.59226027222397748],"Categories":["Candida bolitotheri","Candida bolitotheri","Candida","","Saccharomycetales"],"Properties":[2,3,5]}}

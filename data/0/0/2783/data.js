@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2783,0.38748107199579129,0.60008613770818053,0.45809116510335296,"Cryptococcus cylindricus","Cryptococcus cylindricus","Cryptococcus","Tremellaceae","Tremellales",3,4,4]]}
+{"2783":{"Path":["0","0","2783","2783"],"Coordinates":[0.52294987153155481,0.34994597977327496,0.3632352118058087],"Categories":["Cryptococcus cylindricus","Cryptococcus cylindricus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,2,3]}}

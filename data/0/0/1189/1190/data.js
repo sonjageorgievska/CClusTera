@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1190,0.56998843475165906,0.21859354585790938,0.5647319060637892,"Kodamaea ohmeri","Kodamaea ohmeri","Kodamaea","Saccharomycetaceae","Saccharomycetales",5,1,5]]}
+{"1190":{"Path":["0","0","1189","1190"],"Coordinates":[0.34306415904749121,0.37656827390019554,0.61096293025957815],"Categories":["Kodamaea ohmeri","Kodamaea ohmeri","Kodamaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,5]}}

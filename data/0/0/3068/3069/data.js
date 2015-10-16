@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3069,0.56245546812911085,0.510644778976509,0.12124418092929597,"Candida kipukae","Candida kipukae","Candida","","Saccharomycetales",5,4,1]]}
+{"3069":{"Path":["0","0","3068","3069"],"Coordinates":[0.46969853426682373,0.1909283810346219,0.24539549796743876],"Categories":["Candida kipukae","Candida kipukae","Candida","","Saccharomycetales"],"Properties":[4,1,2]}}

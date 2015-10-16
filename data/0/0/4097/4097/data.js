@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4097,0.38763666072762437,0.77254250950574888,0.19105125251924435,"Cystobasidium psychroaquaticum","Cystobasidium psychroaquaticum","Cystobasidium","Platygloeaceae","Platygloeales",3,6,1]]}
+{"4097":{"Path":["0","0","4097","4097"],"Coordinates":[0.59671339952451941,0.12373864531292601,0.47292314980461853],"Categories":["Cystobasidium psychroaquaticum","Cystobasidium psychroaquaticum","Cystobasidium","Platygloeaceae","Platygloeales"],"Properties":[5,0,4]}}

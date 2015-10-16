@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3726,0.28155458014643081,0.24635006964425471,0.14321796398634271,"Candida floris","Candida floris","Candida","","Saccharomycetales",2,1,1]]}
+{"3726":{"Path":["0","0","3726","3726"],"Coordinates":[0.37263678852368581,0.05635485273924154,0.69058193959364067],"Categories":["Candida floris","Candida floris","Candida","","Saccharomycetales"],"Properties":[3,0,6]}}

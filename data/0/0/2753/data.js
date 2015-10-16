@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2753,0.57179716146166348,0.443225513447983,0.43960968735396622,"Kockovaella sacchari","Kockovaella sacchari","Kockovaella","Cuniculitremaceae","Tremellales",5,3,3]]}
+{"2753":{"Path":["0","0","2753","2753"],"Coordinates":[0.46845822426856359,0.5479889215358964,0.46635413200967873],"Categories":["Kockovaella sacchari","Kockovaella sacchari","Kockovaella","Cuniculitremaceae","Tremellales"],"Properties":[4,4,4]}}

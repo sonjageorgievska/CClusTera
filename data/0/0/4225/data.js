@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4225,0.75401060241419215,0.311898981958184,0.30568524283773585,"Spencermartinsiella ligniputrida","Spencermartinsiella ligniputrida","","","",7,2,2]]}
+{"4225":{"Path":["0","0","4225","4225"],"Coordinates":[0.26764955361909409,0.744064449934433,0.69503197363389324],"Categories":["Spencermartinsiella ligniputrida","Spencermartinsiella ligniputrida","","",""],"Properties":[2,5,6]}}

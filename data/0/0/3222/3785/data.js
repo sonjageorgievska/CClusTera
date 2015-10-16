@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3785,0.58202810647100489,0.4823752389355927,0.50662330703636793,"Candida jaroonii","Candida jaroonii","Candida","","Saccharomycetales",5,3,4]]}
+{"3785":{"Path":["0","0","3222","3785"],"Coordinates":[0.651524503913825,0.66755947886187161,0.41663907872892486],"Categories":["Candida jaroonii","Candida jaroonii","Candida","","Saccharomycetales"],"Properties":[6,5,3]}}

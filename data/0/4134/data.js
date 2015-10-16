@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4134,0.11949823349634429,0.37124226932500992,0.58189624650965022,"Candida hasegawae","Candida hasegawae","Candida","","Saccharomycetales",1,2,5]]}
+{"4134":{"Path":["0","4134","4134","4134"],"Coordinates":[0.691784562686323,0.85658788825832077,0.40143200218780334],"Categories":["Candida hasegawae","Candida hasegawae","Candida","","Saccharomycetales"],"Properties":[6,6,3]}}

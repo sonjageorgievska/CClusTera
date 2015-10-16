@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1381,0.45289282032123718,0.34496018393464728,0.48437387895695394,"Candida fennica","Candida fennica","Candida","","Saccharomycetales",4,2,4]]}
+{"1381":{"Path":["0","0","1381","1381"],"Coordinates":[0.45637070950052872,0.4824985948764603,0.56366020030246677],"Categories":["Candida fennica","Candida fennica","Candida","","Saccharomycetales"],"Properties":[4,3,5]}}

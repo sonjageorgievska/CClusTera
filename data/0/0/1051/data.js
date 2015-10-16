@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1051,0.4664805214023291,0.50800372102243674,0.39043434241087593,"Sterigmatomyces halophilus","Sterigmatomyces halophilus","Sterigmatomyces","Agaricostilbaceae","Agaricostilbales",4,4,3]]}
+{"1051":{"Path":["0","0","1051","1051"],"Coordinates":[0.63031230572231067,0.37499351674763659,0.50181418570320713],"Categories":["Sterigmatomyces halophilus","Sterigmatomyces halophilus","Sterigmatomyces","Agaricostilbaceae","Agaricostilbales"],"Properties":[6,2,4]}}

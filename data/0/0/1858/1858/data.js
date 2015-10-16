@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1858,0.73617880282202175,0.5322390500880575,0.41576941401577483,"Cyberlindnera meyerae","Cyberlindnera meyerae","Cyberlindnera","","Saccharomycetales",7,4,3]]}
+{"1858":{"Path":["0","0","1858","1858"],"Coordinates":[0.6327780911725559,0.89527548395765266,0.56991103005592336],"Categories":["Cyberlindnera meyerae","Cyberlindnera meyerae","Cyberlindnera","","Saccharomycetales"],"Properties":[6,7,5]}}

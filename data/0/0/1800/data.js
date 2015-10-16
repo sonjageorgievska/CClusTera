@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1800,0.41916357796872161,0.50396317281560188,0.63817726137527664,"Wickerhamomyces alni","Wickerhamomyces alni","Wickerhamomyces","","Saccharomycetales",4,4,5]]}
+{"1800":{"Path":["0","0","1800","1800"],"Coordinates":[0.49002317038620113,0.72788508721524725,0.40618588249920373],"Categories":["Wickerhamomyces alni","Wickerhamomyces alni","Wickerhamomyces","","Saccharomycetales"],"Properties":[4,5,3]}}

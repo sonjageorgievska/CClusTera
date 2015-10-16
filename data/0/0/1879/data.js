@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1879,0.093303443092306648,0.26275940824719696,0.64053783938084274,"Pichia deserticola","Pichia deserticola","Pichia","Saccharomycetaceae","Saccharomycetales",0,2,5]]}
+{"1879":{"Path":["0","0","1879","1879"],"Coordinates":[0.45347748355315209,0.3018148560279128,0.078307497756395325],"Categories":["Pichia deserticola","Pichia deserticola","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,2,0]}}

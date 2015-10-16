@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1291,0.35160813196800039,0.4057937916980362,0.80391569719907063,"Candida chilensis","Candida chilensis","Candida","","Saccharomycetales",3,3,7]]}
+{"1291":{"Path":["0","0","1291","1291"],"Coordinates":[0.58861546608127124,0.5440615703778755,0.56813784100869458],"Categories":["Candida chilensis","Candida chilensis","Candida","","Saccharomycetales"],"Properties":[5,4,5]}}

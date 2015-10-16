@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4178,0.56678184573987156,0.56357227635905072,0.29715181736487239,"Candida sakaeoensis","Candida sakaeoensis","Candida","","Saccharomycetales",5,4,2]]}
+{"4178":{"Path":["0","0","4178","4178"],"Coordinates":[0.41014499349971506,0.55791471032324857,0.24543575691143718],"Categories":["Candida sakaeoensis","Candida sakaeoensis","Candida","","Saccharomycetales"],"Properties":[4,4,2]}}

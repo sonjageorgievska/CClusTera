@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2861,0.72510578363926159,1.141512242198641,0.65496338527689379,"Danielozyma litseae","Danielozyma litseae","Danielozyma","","",7,1,5]]}
+{"2861":{"Path":["2861","2861","2861","2861"],"Coordinates":[0.31508825953150343,0.90249264665128914,1.0218862330037242],"Categories":["Danielozyma litseae","Danielozyma litseae","Danielozyma","",""],"Properties":[3,7,0]}}

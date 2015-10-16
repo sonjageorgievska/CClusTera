@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3574,0.79060438128893606,0.17137449165861773,0.45805980650267658,"Candida tibetensis","Candida tibetensis","Candida","","Saccharomycetales",7,1,4]]}
+{"3574":{"Path":["0","0","3574","3574"],"Coordinates":[0.577688087183642,0.42823569031935588,0.38598523182737976],"Categories":["Candida tibetensis","Candida tibetensis","Candida","","Saccharomycetales"],"Properties":[5,3,3]}}

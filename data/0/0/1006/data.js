@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1006,0.59325486455530929,0.30621245443008177,0.512684914290378,"Candida castellii","Candida castellii","Candida","","Saccharomycetales",5,2,4]]}
+{"1006":{"Path":["0","0","1006","1006"],"Coordinates":[0.2850145365148265,0.59786774974346057,0.5001906690388046],"Categories":["Candida castellii","Candida castellii","Candida","","Saccharomycetales"],"Properties":[2,4,4]}}

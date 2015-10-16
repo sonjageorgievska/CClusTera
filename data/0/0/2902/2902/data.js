@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2902,0.53066012798759177,0.89734631883889293,0.33170037738715424,"Saccharomyces mikatae","Saccharomyces mikatae","Saccharomyces","Saccharomycetaceae","Saccharomycetales",5,7,2]]}
+{"2902":{"Path":["0","0","2902","2902"],"Coordinates":[0.37806489269130972,0.53810233813108765,0.45426546312783656],"Categories":["Saccharomyces mikatae","Saccharomyces mikatae","Saccharomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,4,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4098,0.45470155260664813,0.48055288639975319,0.60363465677312844,"Candida sphagnicola","Candida sphagnicola","Candida","","Saccharomycetales",4,3,5]]}
+{"4098":{"Path":["0","0","1722","4098"],"Coordinates":[0.62836551924431994,0.44074742943004908,0.57053284478128663],"Categories":["Candida sphagnicola","Candida sphagnicola","Candida","","Saccharomycetales"],"Properties":[6,3,5]}}

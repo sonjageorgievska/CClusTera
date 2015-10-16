@@ -1,1 +1,1 @@
-{"titles":null,"points":[[918,0.37844217720933093,0.54409663482416237,0.4096799395659555,"Rhodotorula bogoriensis","Rhodotorula bogoriensis","Rhodotorula","","Sporidiobolales",3,4,3]]}
+{"918":{"Path":["0","0","918","918"],"Coordinates":[0.74477266155859878,0.45061913414680105,0.34116790355892951],"Categories":["Rhodotorula bogoriensis","Rhodotorula bogoriensis","Rhodotorula","","Sporidiobolales"],"Properties":[7,3,3]}}

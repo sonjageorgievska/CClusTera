@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4019,0.55539545576926685,0.21519747863577537,0.26565166442537913,"Prototheca stagnorum","Prototheca stagnorum","Prototheca","","",5,1,2]]}
+{"4019":{"Path":["4019","4019","4019","4019"],"Coordinates":[0.49561690761578492,0.24778548214552681,0.26568258904311526],"Categories":["Prototheca stagnorum","Prototheca stagnorum","Prototheca","",""],"Properties":[4,1,2]}}

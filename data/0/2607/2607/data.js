@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2607,0.77247754979173255,0.576362741153883,0.69970822468734029,"Kurtzmanomyces insolitus","Kurtzmanomyces insolitus","Kurtzmanomyces","Chionosphaeraceae","Agaricostilbales",7,4,6]]}
+{"2607":{"Path":["0","2607","2607","2607"],"Coordinates":[0.48265324281397448,0.34950380729505393,0.43547343706701674],"Categories":["Kurtzmanomyces insolitus","Kurtzmanomyces insolitus","Kurtzmanomyces","Chionosphaeraceae","Agaricostilbales"],"Properties":[4,2,3]}}

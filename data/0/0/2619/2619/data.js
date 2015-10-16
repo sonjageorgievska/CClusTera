@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2619,0.13157021178894171,0.61479628358926286,0.45673928312526557,"Tausonia pamirica","Tausonia pamirica","Tausonia","","Tremellales",1,4,4]]}
+{"2619":{"Path":["0","0","2619","2619"],"Coordinates":[0.83385487724716578,0.31758702958883323,0.43844983150642369],"Categories":["Tausonia pamirica","Tausonia pamirica","Tausonia","","Tremellales"],"Properties":[8,2,3]}}

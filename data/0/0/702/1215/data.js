@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1215,0.42103754810136035,0.37614070040281306,0.538699347886597,"Priceomyces medius","Priceomyces medius","Priceomyces","Debaryomycetaceae","Saccharomycetales",4,3,4]]}
+{"1215":{"Path":["0","0","702","1215"],"Coordinates":[0.485174674613378,0.36976523609013812,0.3914441678453161],"Categories":["Priceomyces medius","Priceomyces medius","Priceomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[4,2,3]}}

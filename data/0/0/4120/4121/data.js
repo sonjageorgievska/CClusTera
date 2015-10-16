@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4121,0.67869401244760708,0.52552689670762609,0.63640054966361514,"Candida citri","Candida citri","Candida","","Saccharomycetales",6,4,5]]}
+{"4121":{"Path":["0","0","4120","4121"],"Coordinates":[0.23551540574249621,0.66712036757821391,0.76560657176345037],"Categories":["Candida citri","Candida citri","Candida","","Saccharomycetales"],"Properties":[2,5,6]}}

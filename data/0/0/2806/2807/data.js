@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2807,0.50260571003160637,0.5442225781968334,0.89110652832986492,"Nakazawaea wyomingensis","Nakazawaea wyomingensis","Nakazawaea","Saccharomycetaceae","Saccharomycetales",5,4,8]]}
+{"2807":{"Path":["0","0","2806","2807"],"Coordinates":[0.77342527085463375,0.49990200607036039,0.33708915791747796],"Categories":["Nakazawaea wyomingensis","Nakazawaea wyomingensis","Nakazawaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,3,3]}}

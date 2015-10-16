@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4157,0.80835591590671352,0.36065014840752552,0.50747734015856338,"Cyberlindnera xylebori","Cyberlindnera xylebori","Cyberlindnera","","Saccharomycetales",8,2,4]]}
+{"4157":{"Path":["0","0","4157","4157"],"Coordinates":[0.3868136948328591,0.36601073266618883,0.56210818352127745],"Categories":["Cyberlindnera xylebori","Cyberlindnera xylebori","Cyberlindnera","","Saccharomycetales"],"Properties":[3,2,5]}}

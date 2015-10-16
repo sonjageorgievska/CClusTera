@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2663,0.45126363119896085,0.91217901140542335,0.5530728864441905,"Candida arabinofermentans","Candida arabinofermentans","Candida","","Saccharomycetales",4,7,4]]}
+{"2663":{"Path":["0","0","2663","2663"],"Coordinates":[0.80816154583385691,0.66238465397737478,0.3840534463585964],"Categories":["Candida arabinofermentans","Candida arabinofermentans","Candida","","Saccharomycetales"],"Properties":[8,5,3]}}

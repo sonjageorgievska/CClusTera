@@ -1,1 +1,1 @@
-{"titles":null,"points":[[774,0.46252538342531607,0.38279095801654089,0.46207855562182032,"Peterozyma toletana","Peterozyma toletana","Peterozyma","","Saccharomycetales",4,3,4]]}
+{"774":{"Path":["0","0","707","774"],"Coordinates":[0.31750059038043704,0.50580159143811987,0.52217188989017282],"Categories":["Peterozyma toletana","Peterozyma toletana","Peterozyma","","Saccharomycetales"],"Properties":[3,4,4]}}

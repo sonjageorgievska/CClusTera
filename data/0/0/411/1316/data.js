@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1316,0.72930703490724935,0.67100581719332653,0.68355508489594918,"Ogataea henricii","Ogataea henricii","Ogataea","Saccharomycetaceae","Saccharomycetales",7,5,6]]}
+{"1316":{"Path":["0","0","411","1316"],"Coordinates":[0.58507392666932545,0.56555951785129954,0.54359177971192119],"Categories":["Ogataea henricii","Ogataea henricii","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,4]}}

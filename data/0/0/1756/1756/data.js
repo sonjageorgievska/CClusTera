@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1756,0.18000679271885961,0.27224013693459709,0.5967028015938548,"Candida spandovensis","Candida spandovensis","Candida","","Saccharomycetales",1,2,5]]}
+{"1756":{"Path":["0","0","1756","1756"],"Coordinates":[0.76156749557595371,0.48603015330930083,0.3489270795930306],"Categories":["Candida spandovensis","Candida spandovensis","Candida","","Saccharomycetales"],"Properties":[7,3,3]}}

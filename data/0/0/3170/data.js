@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3170,0.75390643860201789,0.6966569443835986,0.26189557667812763,"Candida aurita","Candida aurita","Candida","","Saccharomycetales",7,5,2]]}
+{"3170":{"Path":["0","0","3170","3170"],"Coordinates":[0.64364704890249758,0.54814858342823769,0.31957128656730105],"Categories":["Candida aurita","Candida aurita","Candida","","Saccharomycetales"],"Properties":[6,4,2]}}

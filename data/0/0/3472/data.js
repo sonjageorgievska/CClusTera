@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3472,0.19401193329623032,0.38125390368256007,0.53419854503962538,"Dioszegia fristingensis","Dioszegia fristingensis","Dioszegia","Tremellaceae","Tremellales",1,3,4]]}
+{"3472":{"Path":["0","0","3472","3472"],"Coordinates":[0.55006317551393225,0.43063049511045759,0.55046860957012733],"Categories":["Dioszegia fristingensis","Dioszegia fristingensis","Dioszegia","Tremellaceae","Tremellales"],"Properties":[5,3,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3573,0.64726519708301378,0.388178580687435,0.40315714278843146,"Metschnikowia shivogae","Metschnikowia shivogae","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,3,3]]}
+{"3573":{"Path":["0","0","3573","3573"],"Coordinates":[0.59820715327400442,0.6285733392885462,0.40572585335355921],"Categories":["Metschnikowia shivogae","Metschnikowia shivogae","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,5,3]}}

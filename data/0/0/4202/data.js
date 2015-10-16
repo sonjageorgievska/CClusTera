@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4202,0.67381186923637171,0.91202310468132575,0.53121915505613482,"Kuraishia borneana","Kuraishia borneana","Kuraishia","Saccharomycetaceae","Saccharomycetales",6,7,4]]}
+{"4202":{"Path":["0","0","4202","4202"],"Coordinates":[0.63013766962259965,0.9183123157770896,0.40363749322443643],"Categories":["Kuraishia borneana","Kuraishia borneana","Kuraishia","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,7,3]}}

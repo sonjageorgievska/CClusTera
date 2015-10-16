@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3074,0.55344806026583926,0.4925387474507712,0.74948953546258879,"Pichia dianae","Pichia dianae","Pichia","Saccharomycetaceae","Saccharomycetales",5,3,6]]}
+{"3074":{"Path":["0","0","143","3074"],"Coordinates":[0.59190126846344215,0.59189973280913966,0.46444811772804456],"Categories":["Pichia dianae","Pichia dianae","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,4]}}

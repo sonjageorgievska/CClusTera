@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4074,0.54788910153655324,0.847007574754892,0.51158042253620906,"Malassezia cuniculi","Malassezia cuniculi","Malassezia","","Malasseziales",5,6,4]]}
+{"4074":{"Path":["4073","4073","4073","4074"],"Coordinates":[0.41165104765853855,0.40920242099248844,0.3405079020624347],"Categories":["Malassezia cuniculi","Malassezia cuniculi","Malassezia","","Malasseziales"],"Properties":[4,3,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3184,0.1326967792988771,0.41256760999205838,0.87752538577993577,"Kazachstania bovina","Kazachstania bovina","Kazachstania","Saccharomycetaceae","Saccharomycetales",1,3,7]]}
+{"3184":{"Path":["0","0","3184","3184"],"Coordinates":[0.73396223507296388,0.55807801182125716,0.0056989458872030614],"Categories":["Kazachstania bovina","Kazachstania bovina","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,4,0]}}

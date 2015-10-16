@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3761,0.73498843047967033,0.58503211828547308,0.43211525942887175,"Candida musiphila","Candida musiphila","Candida","","Saccharomycetales",7,4,3]]}
+{"3761":{"Path":["0","0","3761","3761"],"Coordinates":[0.32337433392071979,0.64106677456280958,0.85829886015317647],"Categories":["Candida musiphila","Candida musiphila","Candida","","Saccharomycetales"],"Properties":[3,5,7]}}

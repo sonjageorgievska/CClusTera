@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2850,0.29236596703570172,0.62154812991615882,0.46448580750851143,"Candida powellii","Candida powellii","Candida","","Saccharomycetales",2,4,4]]}
+{"2850":{"Path":["0","0","2051","2850"],"Coordinates":[0.49735809766432337,0.52248748657947808,0.53036924480794456],"Categories":["Candida powellii","Candida powellii","Candida","","Saccharomycetales"],"Properties":[4,4,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1222,0.67401708825506512,0.48474762268052912,0.72371284395084545,"Cyberlindnera petersonii","Cyberlindnera petersonii","Cyberlindnera","","Saccharomycetales",6,3,6]]}
+{"1222":{"Path":["0","0","1222","1222"],"Coordinates":[0.47486336217489139,0.72408573476427607,0.590988878099375],"Categories":["Cyberlindnera petersonii","Cyberlindnera petersonii","Cyberlindnera","","Saccharomycetales"],"Properties":[4,5,5]}}

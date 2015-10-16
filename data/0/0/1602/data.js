@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1602,0.44668444202199331,0.45912165501618968,0.37957643648380318,"Rhodotorula auriculariae","Rhodotorula auriculariae","Rhodotorula","","Sporidiobolales",4,3,3]]}
+{"1602":{"Path":["0","0","1602","1602"],"Coordinates":[0.60808325353545445,0.48983786321259953,0.30668145101727379],"Categories":["Rhodotorula auriculariae","Rhodotorula auriculariae","Rhodotorula","","Sporidiobolales"],"Properties":[6,3,2]}}

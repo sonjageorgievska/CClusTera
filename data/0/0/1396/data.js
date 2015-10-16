@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1396,-0.025575906041867824,0.099357471950845391,0.62219001402127228,"Metschnikowia lunata","Metschnikowia lunata","Metschnikowia","Metschnikowiaceae","Saccharomycetales",0,0,5]]}
+{"1396":{"Path":["0","0","1396","1396"],"Coordinates":[0.28926349503405963,0.07611366457363776,0.01055493666562661],"Categories":["Metschnikowia lunata","Metschnikowia lunata","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[2,0,0]}}

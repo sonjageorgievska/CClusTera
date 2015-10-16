@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3594,0.49279648387559394,0.48869796907666468,0.58458134574008047,"Kazachstania gamospora","Kazachstania gamospora","Kazachstania","Saccharomycetaceae","Saccharomycetales",4,3,5]]}
+{"3594":{"Path":["0","0","3594","3594"],"Coordinates":[0.61171866012148124,0.34657556492722885,0.42731661184442066],"Categories":["Kazachstania gamospora","Kazachstania gamospora","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,2,3]}}

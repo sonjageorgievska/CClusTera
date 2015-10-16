@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3480,0.4431406996366849,0.37677892892095532,0.32490252486612631,"Metschnikowia kamakouana","Metschnikowia kamakouana","Metschnikowia","Metschnikowiaceae","Saccharomycetales",4,3,2]]}
+{"3480":{"Path":["0","0","3480","3480"],"Coordinates":[0.32876301778156741,0.52140551749848818,0.81868265404120688],"Categories":["Metschnikowia kamakouana","Metschnikowia kamakouana","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[3,4,7]}}

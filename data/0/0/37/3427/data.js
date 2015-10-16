@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3427,0.50119768572016121,0.65450947790768765,0.45923225749718394,"Trichosporon cavernicola","Trichosporon cavernicola","Trichosporon","Trichosporonaceae","Tremellales",5,5,4]]}
+{"3427":{"Path":["0","0","37","3427"],"Coordinates":[0.40974462591743471,0.55115919396053259,0.39177832690475262],"Categories":["Trichosporon cavernicola","Trichosporon cavernicola","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[4,4,3]}}

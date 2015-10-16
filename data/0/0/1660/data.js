@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1660,0.67276817501439634,0.49245019238042842,0.57083541039155294,"Pichia norvegensis","Pichia norvegensis","Pichia","Saccharomycetaceae","Saccharomycetales",6,3,5]]}
+{"1660":{"Path":["0","0","1660","1660"],"Coordinates":[0.51611497544372464,0.63913482126044041,0.55297737140543912],"Categories":["Pichia norvegensis","Pichia norvegensis","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

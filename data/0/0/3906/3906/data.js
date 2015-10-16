@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3906,-0.014404213419753823,0.54156194314877493,0.53121306354347575,"Jaminaea angkorensis","Jaminaea angkorensis","Jaminaea","","Microstromatales",0,4,4]]}
+{"3906":{"Path":["0","0","3906","3906"],"Coordinates":[0.4660718532163946,0.23959064929736026,0.080578510585541843],"Categories":["Jaminaea angkorensis","Jaminaea angkorensis","Jaminaea","","Microstromatales"],"Properties":[4,1,0]}}

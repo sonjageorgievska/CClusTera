@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3272,0.7073042982621095,0.41983736157571805,0.29625658571115787,"Candida atakaporum","Candida atakaporum","Candida","","Saccharomycetales",7,3,2]]}
+{"3272":{"Path":["0","0","3270","3272"],"Coordinates":[0.44943346021005193,0.53222578179813584,0.65371921710395786],"Categories":["Candida atakaporum","Candida atakaporum","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

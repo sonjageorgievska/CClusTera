@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3451,0.45857757708601754,0.19356441119495307,0.22415286124368763,"Candida ubatubensis","Candida ubatubensis","Candida","","Saccharomycetales",4,1,2]]}
+{"3451":{"Path":["0","0","3451","3451"],"Coordinates":[0.041984372466528273,0.40245125368291296,0.762740777770947],"Categories":["Candida ubatubensis","Candida ubatubensis","Candida","","Saccharomycetales"],"Properties":[0,3,6]}}

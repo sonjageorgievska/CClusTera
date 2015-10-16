@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2500,0.67399122082863172,0.54484396724466122,0.44151848326992815,"Scheffersomyces coipomoensis","Scheffersomyces coipomoensis","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",6,4,3]]}
+{"2500":{"Path":["0","0","1513","2500"],"Coordinates":[0.6283012014343804,0.68226438717481874,0.44724972042011274],"Categories":["Scheffersomyces coipomoensis","Scheffersomyces coipomoensis","Scheffersomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[6,5,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3940,0.48177741169680666,0.054665905831593753,0.1547783476255489,"Yarrowia divulgata","Yarrowia divulgata","Yarrowia","","Saccharomycetales",4,0,1]]}
+{"3940":{"Path":["0","0","3940","3940"],"Coordinates":[0.42158836009007039,0.27140897100843,1.0054280821993298],"Categories":["Yarrowia divulgata","Yarrowia divulgata","Yarrowia","","Saccharomycetales"],"Properties":[4,2,0]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1186,0.50873342819482992,0.66635350281981742,0.54539819118143129,"Ogataea trehalophila","Ogataea trehalophila","Ogataea","Saccharomycetaceae","Saccharomycetales",5,5,4]]}
+{"1186":{"Path":["0","0","1186","1186"],"Coordinates":[0.37467861199862007,0.73621389905261514,0.5917856409263994],"Categories":["Ogataea trehalophila","Ogataea trehalophila","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,5,5]}}

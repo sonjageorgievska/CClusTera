@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3717,0.50300540307693631,0.50486322469140532,0.46126369073529949,"Pichia emeiensis","Pichia emeiensis","Pichia","Saccharomycetaceae","Saccharomycetales",5,4,4]]}
+{"3717":{"Path":["0","0","3717","3717"],"Coordinates":[0.59714678065893168,0.64264562441600137,0.44786343429462],"Categories":["Pichia emeiensis","Pichia emeiensis","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

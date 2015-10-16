@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1532,0.59208744611301056,0.38959490828310145,0.3908986128036866,"Rhodotorula philyla","Rhodotorula philyla","Rhodotorula","","Sporidiobolales",5,3,3]]}
+{"1532":{"Path":["0","0","1532","1532"],"Coordinates":[0.481856233780642,0.54113246467058118,0.25426450275215962],"Categories":["Rhodotorula philyla","Rhodotorula philyla","Rhodotorula","","Sporidiobolales"],"Properties":[4,4,2]}}

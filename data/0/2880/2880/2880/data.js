@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2880,0.77714557517739635,0.44575618950028184,-0.063740569267780142,"Metschnikowia lochheadii","Metschnikowia lochheadii","Metschnikowia","Metschnikowiaceae","Saccharomycetales",7,3,0]]}
+{"2880":{"Path":["0","2880","2880","2880"],"Coordinates":[0.72775767771002753,0.75625368449343744,-0.031319157149599763],"Categories":["Metschnikowia lochheadii","Metschnikowia lochheadii","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[7,6,0]}}

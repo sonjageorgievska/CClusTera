@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3425,0.50541937377022894,0.64379188373239848,0.48406022633212376,"Trichosporon middelhovenii","Trichosporon middelhovenii","Trichosporon","Trichosporonaceae","Tremellales",5,5,4]]}
+{"3425":{"Path":["0","0","37","3425"],"Coordinates":[0.39832636126479226,0.558243224834409,0.39382600652516364],"Categories":["Trichosporon middelhovenii","Trichosporon middelhovenii","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[3,4,3]}}

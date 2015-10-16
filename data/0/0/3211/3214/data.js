@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3214,0.40448050722514328,0.88092647280799341,0.5078654281229148,"Rhodotorula oryzae","Rhodotorula oryzae","Rhodotorula","","Sporidiobolales",4,7,4]]}
+{"3214":{"Path":["0","0","3211","3214"],"Coordinates":[0.48461655580708046,0.35395596551344577,0.23725959803912972],"Categories":["Rhodotorula oryzae","Rhodotorula oryzae","Rhodotorula","","Sporidiobolales"],"Properties":[4,2,2]}}

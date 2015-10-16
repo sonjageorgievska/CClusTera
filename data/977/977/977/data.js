@@ -1,1 +1,1 @@
-{"titles":null,"points":[[977,0.4614322877873161,0.2778887134657102,0.46587866149805629,"Candida vartiovaarae","Candida vartiovaarae","Candida","","Saccharomycetales",4,2,4]]}
+{"977":{"Path":["977","977","977","977"],"Coordinates":[0.26559883585328375,0.45396881392464561,0.62925995644393173],"Categories":["Candida vartiovaarae","Candida vartiovaarae","Candida","","Saccharomycetales"],"Properties":[2,3,5]}}

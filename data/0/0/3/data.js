@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3,0.21496453692872244,0.15462071390328033,0.28128080225366248,"Candida lactis-condensi","Candida lactis-condensi","Candida","","Saccharomycetales",2,1,2]]}
+{"3":{"Path":["0","0","3","3"],"Coordinates":[0.40124509586574686,0.14498330739795576,0.744552140389871],"Categories":["Candida lactis-condensi","Candida lactis-condensi","Candida","","Saccharomycetales"],"Properties":[4,1,6]}}

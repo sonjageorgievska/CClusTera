@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2422,0.3873218502938211,0.4302528083269036,0.559531000298672,"Rhodotorula phylloplana","Rhodotorula phylloplana","Rhodotorula","","Sporidiobolales",3,3,5]]}
+{"2422":{"Path":["0","0","2422","2422"],"Coordinates":[0.539043764019939,0.52729603555164339,0.24980329248539906],"Categories":["Rhodotorula phylloplana","Rhodotorula phylloplana","Rhodotorula","","Sporidiobolales"],"Properties":[5,4,2]}}

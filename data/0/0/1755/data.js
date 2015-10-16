@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1755,0.36320190693660054,0.28633954969694647,0.33594010570422717,"Candida geochares","Candida geochares","Candida","","Saccharomycetales",3,2,3]]}
+{"1755":{"Path":["0","0","1755","1755"],"Coordinates":[0.39805595031869911,0.30137366188992243,0.51440952299870768],"Categories":["Candida geochares","Candida geochares","Candida","","Saccharomycetales"],"Properties":[3,2,4]}}

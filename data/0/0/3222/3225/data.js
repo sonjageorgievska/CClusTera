@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3225,0.61033732829595655,0.790326110392868,0.39648626666015763,"Candida diospyri","Candida diospyri","Candida","","Saccharomycetales",6,6,3]]}
+{"3225":{"Path":["0","0","3222","3225"],"Coordinates":[0.63405148564916713,0.67283281755479085,0.74004311378276033],"Categories":["Candida diospyri","Candida diospyri","Candida","","Saccharomycetales"],"Properties":[6,5,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[27,0.26151321057588672,0.50918884722088542,0.54645811249787435,"Wickerhamomyces subpelliculosus","Wickerhamomyces subpelliculosus","Wickerhamomyces","","Saccharomycetales",2,4,4]]}
+{"27":{"Path":["0","0","27","27"],"Coordinates":[0.468091653522962,0.69024031286450327,0.61557114914695965],"Categories":["Wickerhamomyces subpelliculosus","Wickerhamomyces subpelliculosus","Wickerhamomyces","","Saccharomycetales"],"Properties":[4,5,5]}}

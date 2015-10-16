@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1361,0.64652185241814253,0.45091469355395092,0.37900836808262162,"Phaffia rhodozyma","Phaffia rhodozyma","Phaffia","Cystofilobasidiaceae","Cystofilobasidiales",6,3,3]]}
+{"1361":{"Path":["0","1358","1358","1361"],"Coordinates":[0.58947339681901,0.29577118363735011,0.59489129204979285],"Categories":["Phaffia rhodozyma","Phaffia rhodozyma","Phaffia","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[5,2,5]}}

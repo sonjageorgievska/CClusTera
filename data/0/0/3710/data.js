@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3710,0.33402593110222445,0.49678455767884167,0.2313677079392365,"Candida touchengensis","Candida touchengensis","Candida","","Saccharomycetales",3,3,2]]}
+{"3710":{"Path":["0","0","3710","3710"],"Coordinates":[0.23411440181573828,0.094946490852861179,0.34655851374524854],"Categories":["Candida touchengensis","Candida touchengensis","Candida","","Saccharomycetales"],"Properties":[2,0,3]}}

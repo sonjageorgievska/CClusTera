@@ -1,1 +1,1 @@
-{"titles":null,"points":[[644,0.31692921327897938,0.777655333485929,0.40034863121889508,"Schizoblastosporion starkeyi-henricii","Schizoblastosporion starkeyi-henricii","Schizoblastosporion","","Saccharomycetales",3,6,3]]}
+{"644":{"Path":["0","0","644","644"],"Coordinates":[0.63185361647866334,0.50679210732182356,0.78035349658474118],"Categories":["Schizoblastosporion starkeyi-henricii","Schizoblastosporion starkeyi-henricii","Schizoblastosporion","","Saccharomycetales"],"Properties":[6,4,7]}}

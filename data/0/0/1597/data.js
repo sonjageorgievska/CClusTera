@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1597,0.32555631272141028,0.16487605514278164,0.64237244537064608,"Pichia nakasei","Pichia nakasei","Pichia","Saccharomycetaceae","Saccharomycetales",3,1,5]]}
+{"1597":{"Path":["0","0","1597","1597"],"Coordinates":[0.59660498117357119,0.53790909464384606,0.93564856020269593],"Categories":["Pichia nakasei","Pichia nakasei","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,8]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3828,0.24923633111506938,0.31019132444797365,0.92813453010251945,"Kloeckera hatyaiensis","Kloeckera hatyaiensis","Kloeckera","Saccharomycodaceae","Saccharomycetales",2,2,8]]}
+{"3828":{"Path":["0","0","3828","3828"],"Coordinates":[0.6275178521243947,0.54676540881894531,-0.0039391486137203688],"Categories":["Kloeckera hatyaiensis","Kloeckera hatyaiensis","Kloeckera","Saccharomycodaceae","Saccharomycetales"],"Properties":[6,4,0]}}

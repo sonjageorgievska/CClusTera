@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3134,0.44827998024336813,0.53894003471708485,0.22823662083646149,"Cryptococcus allantoinivorans","Cryptococcus allantoinivorans","Cryptococcus","Tremellaceae","Tremellales",4,4,2]]}
+{"3134":{"Path":["0","0","3134","3134"],"Coordinates":[0.85927798132550692,0.30257348793552469,0.76899813848933873],"Categories":["Cryptococcus allantoinivorans","Cryptococcus allantoinivorans","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[8,2,6]}}

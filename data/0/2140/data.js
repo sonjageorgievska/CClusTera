@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2140,0.57996346007583877,0.70240529449436073,0.71409335094349413,"Chionosphaera apobasidialis","Chionosphaera apobasidialis","Chionosphaera","Chionosphaeraceae","Agaricostilbales",5,5,6]]}
+{"2140":{"Path":["0","2140","2140","2140"],"Coordinates":[0.3195108146647847,0.48081229052113206,0.38969791872103182],"Categories":["Chionosphaera apobasidialis","Chionosphaera apobasidialis","Chionosphaera","Chionosphaeraceae","Agaricostilbales"],"Properties":[3,3,3]}}

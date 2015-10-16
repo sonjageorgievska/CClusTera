@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1783,0.66187841810998616,0.51195380191639761,0.55754857171271643,"Pichia heedii","Pichia heedii","Pichia","Saccharomycetaceae","Saccharomycetales",6,4,5]]}
+{"1783":{"Path":["0","0","1784","1783"],"Coordinates":[0.47043159896586262,0.72374533385670636,0.87746077123942412],"Categories":["Pichia heedii","Pichia heedii","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,7]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4015,0.41949556059690818,0.440488001465121,0.6467963558685289,"Kloeckera taiwanica","Kloeckera taiwanica","Kloeckera","Saccharomycodaceae","Saccharomycetales",4,3,5]]}
+{"4015":{"Path":["0","0","4015","4015"],"Coordinates":[0.36987027279516121,0.40443962849079423,0.38144378117161537],"Categories":["Kloeckera taiwanica","Kloeckera taiwanica","Kloeckera","Saccharomycodaceae","Saccharomycetales"],"Properties":[3,3,3]}}

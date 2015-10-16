@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3972,0.61283460033345372,0.69110631459082239,0.88064558794330872,"Candida northwykensis","Candida northwykensis","Candida","","Saccharomycetales",6,5,7]]}
+{"3972":{"Path":["0","0","3972","3972"],"Coordinates":[0.60578945868792,0.89975510588990371,0.38505899704459884],"Categories":["Candida northwykensis","Candida northwykensis","Candida","","Saccharomycetales"],"Properties":[6,7,3]}}

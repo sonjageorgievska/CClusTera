@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1199,0.52211213423735414,0.48658269221652944,0.43476914517146009,"Sporidiobolus johnsonii","Sporidiobolus johnsonii","Sporidiobolus","Sporidiobolaceae","Sporidiobolales",5,3,3]]}
+{"1199":{"Path":["0","0","1199","1199"],"Coordinates":[0.56706138446041654,0.46500566847730385,0.5419968152546556],"Categories":["Sporidiobolus johnsonii","Sporidiobolus johnsonii","Sporidiobolus","Sporidiobolaceae","Sporidiobolales"],"Properties":[5,3,4]}}

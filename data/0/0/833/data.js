@@ -1,1 +1,1 @@
-{"titles":null,"points":[[833,0.48606880233329974,0.38280668168082105,0.44783002909940428,"Kluyveromyces wickerhamii","Kluyveromyces wickerhamii","Kluyveromyces","Saccharomycetaceae","Saccharomycetales",4,3,4]]}
+{"833":{"Path":["0","0","833","833"],"Coordinates":[0.69834305923899975,0.32853389935687294,0.439510000265037],"Categories":["Kluyveromyces wickerhamii","Kluyveromyces wickerhamii","Kluyveromyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,2,3]}}

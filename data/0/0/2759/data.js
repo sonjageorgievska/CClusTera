@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2759,0.59970517765323417,0.48992043023714638,0.61298795161816855,"Kazachstania bulderi","Kazachstania bulderi","Kazachstania","Saccharomycetaceae","Saccharomycetales",5,3,5]]}
+{"2759":{"Path":["0","0","2759","2759"],"Coordinates":[0.66097141277685412,0.57558314021988533,0.32707208763050055],"Categories":["Kazachstania bulderi","Kazachstania bulderi","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,4,2]}}

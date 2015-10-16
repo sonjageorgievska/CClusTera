@@ -1,1 +1,1 @@
-{"titles":null,"points":[[960,0.60023927854084358,0.10137934797372362,0.57523965008202627,"Candida norvegica","Candida norvegica","Candida","","Saccharomycetales",6,0,5]]}
+{"960":{"Path":["0","960","960","960"],"Coordinates":[0.35628325272248973,0.5022428414919573,0.54193782385733624],"Categories":["Candida norvegica","Candida norvegica","Candida","","Saccharomycetales"],"Properties":[3,4,4]}}

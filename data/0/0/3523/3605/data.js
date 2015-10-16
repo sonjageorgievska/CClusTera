@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3605,0.59867711745239838,0.25327098437802875,0.51938375075300891,"Blastobotrys muscicola","Blastobotrys muscicola","Blastobotrys","Trichomonascaceae","Saccharomycetales",5,2,4]]}
+{"3605":{"Path":["0","0","3523","3605"],"Coordinates":[0.59671987801415693,0.38385890820050617,0.40033376353038108],"Categories":["Blastobotrys muscicola","Blastobotrys muscicola","Blastobotrys","Trichomonascaceae","Saccharomycetales"],"Properties":[5,3,3]}}

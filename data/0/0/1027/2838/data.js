@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2838,0.57732375758549448,0.63408420018952216,0.62654634401418674,"Kluyveromyces nonfermentans","Kluyveromyces nonfermentans","Kluyveromyces","Saccharomycetaceae","Saccharomycetales",5,5,5]]}
+{"2838":{"Path":["0","0","1027","2838"],"Coordinates":[0.43576220383254427,0.64969571536722448,0.35809381411083158],"Categories":["Kluyveromyces nonfermentans","Kluyveromyces nonfermentans","Kluyveromyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,3]}}

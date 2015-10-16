@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3861,0.53954130613167428,0.67341418583641843,0.25385942437658993,"Rhodotorula cladiensis","Rhodotorula cladiensis","Rhodotorula","","Sporidiobolales",5,5,2]]}
+{"3861":{"Path":["0","0","3861","3861"],"Coordinates":[0.84582595397642946,0.15949479629731067,0.650377495041356],"Categories":["Rhodotorula cladiensis","Rhodotorula cladiensis","Rhodotorula","","Sporidiobolales"],"Properties":[8,1,5]}}

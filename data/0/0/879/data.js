@@ -1,1 +1,1 @@
-{"titles":null,"points":[[879,0.46260252004593627,0.50820624264542091,0.57590335604873877,"Kazachstania spencerorum","Kazachstania spencerorum","Kazachstania","Saccharomycetaceae","Saccharomycetales",4,4,5]]}
+{"879":{"Path":["0","0","879","879"],"Coordinates":[0.50152181853000821,0.58388305070055968,0.38231374679798874],"Categories":["Kazachstania spencerorum","Kazachstania spencerorum","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,3]}}

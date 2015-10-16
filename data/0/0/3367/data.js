@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3367,0.36441827404109056,0.87692762898829246,0.32890690556479646,"Rhodosporidium concentricum","Rhodosporidium concentricum","Rhodosporidium","","Sporidiales",3,7,2]]}
+{"3367":{"Path":["0","0","3367","3367"],"Coordinates":[0.70969956486456354,0.32351530431731074,0.11621378533349053],"Categories":["Rhodosporidium concentricum","Rhodosporidium concentricum","Rhodosporidium","","Sporidiales"],"Properties":[7,2,1]}}

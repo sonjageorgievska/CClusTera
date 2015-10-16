@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3886,0.75013008246249135,0.580166044541973,0.70954072078866981,"Ambrosiozyma pseudovanderkliftii","Ambrosiozyma pseudovanderkliftii","Ambrosiozyma","","Saccharomycetales",7,4,6]]}
+{"3886":{"Path":["0","0","3885","3886"],"Coordinates":[0.41275972402478683,0.4760247210708205,0.66042175461065811],"Categories":["Ambrosiozyma pseudovanderkliftii","Ambrosiozyma pseudovanderkliftii","Ambrosiozyma","","Saccharomycetales"],"Properties":[4,3,5]}}

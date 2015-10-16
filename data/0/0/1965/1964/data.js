@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1964,0.87975237465775835,0.24643367730459129,0.61255497988401275,"Wickerhamomyces hampshirensis","Wickerhamomyces hampshirensis","Wickerhamomyces","","Saccharomycetales",8,1,5]]}
+{"1964":{"Path":["0","0","1965","1964"],"Coordinates":[0.54606502846275462,0.589397998496758,0.57259389921442028],"Categories":["Wickerhamomyces hampshirensis","Wickerhamomyces hampshirensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[5,4,5]}}

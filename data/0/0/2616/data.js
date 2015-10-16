@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2616,0.40425920951452815,0.57534460708597646,0.4474213377953673,"Kazachstania yakushimaensis","Kazachstania yakushimaensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",4,4,4]]}
+{"2616":{"Path":["0","0","2616","2616"],"Coordinates":[0.47945524517204463,0.41155370468809427,0.52285344503957776],"Categories":["Kazachstania yakushimaensis","Kazachstania yakushimaensis","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,4]}}

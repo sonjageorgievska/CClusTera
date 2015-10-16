@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1334,0.38036841524774134,0.13462595127450125,0.70468802648847351,"Saturnispora zaruensis","Saturnispora zaruensis","Saturnispora","Saccharomycetaceae","Saccharomycetales",3,1,6]]}
+{"1334":{"Path":["0","0","1334","1334"],"Coordinates":[0.71006329449806682,0.33775187866549627,0.79471261317099751],"Categories":["Saturnispora zaruensis","Saturnispora zaruensis","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,2,7]}}

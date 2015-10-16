@@ -1,1 +1,1 @@
-{"titles":null,"points":[[782,0.52312758051106589,0.50727622063693634,0.6087996057077506,"Kazachstania africana","Kazachstania africana","Kazachstania","Saccharomycetaceae","Saccharomycetales",5,4,5]]}
+{"782":{"Path":["0","0","782","782"],"Coordinates":[0.77216171980416348,0.866357631250386,0.32327189951346197],"Categories":["Kazachstania africana","Kazachstania africana","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,2]}}

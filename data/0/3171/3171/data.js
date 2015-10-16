@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3171,0.48640615758860917,0.4288582651177863,0.3242785141227098,"Malassezia yamatoensis","Malassezia yamatoensis","Malassezia","","Malasseziales",4,3,2]]}
+{"3171":{"Path":["0","3171","3171","3171"],"Coordinates":[0.34027792199074508,0.402299116001615,0.0840239544784714],"Categories":["Malassezia yamatoensis","Malassezia yamatoensis","Malassezia","","Malasseziales"],"Properties":[3,3,0]}}

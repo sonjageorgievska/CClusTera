@@ -1,1 +1,1 @@
-{"titles":null,"points":[[58,0.74048667861230866,0.61659214082345626,0.18959624565895702,"Candida glabrata","Candida glabrata","Candida","","Saccharomycetales",7,4,1]]}
+{"58":{"Path":["0","0","58","58"],"Coordinates":[-0.13543245655138395,0.84094017572388835,0.70230164291684472],"Categories":["Candida glabrata","Candida glabrata","Candida","","Saccharomycetales"],"Properties":[-1,6,6]}}

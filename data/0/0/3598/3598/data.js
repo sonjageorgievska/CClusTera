@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3598,0.68345697546202977,0.097801296651017292,0.28394603255199291,"Metschnikowia orientalis","Metschnikowia orientalis","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,0,2]]}
+{"3598":{"Path":["0","0","3598","3598"],"Coordinates":[0.17611597431227175,0.38960217047108997,0.32577645765503593],"Categories":["Metschnikowia orientalis","Metschnikowia orientalis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[1,3,2]}}

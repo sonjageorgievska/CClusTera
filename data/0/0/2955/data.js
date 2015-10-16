@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2955,0.17826283140653218,0.81886689239837329,0.17720158679228121,"Sporobolomyces yunnanensis","Sporobolomyces yunnanensis","Sporobolomyces","","Sporidiobolales",1,6,1]]}
+{"2955":{"Path":["0","0","2955","2955"],"Coordinates":[0.69207627232350222,0.15872420478722948,0.48534745214774128],"Categories":["Sporobolomyces yunnanensis","Sporobolomyces yunnanensis","Sporobolomyces","","Sporidiobolales"],"Properties":[6,1,4]}}

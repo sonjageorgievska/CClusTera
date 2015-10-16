@@ -1,1 +1,1 @@
-{"titles":null,"points":[[785,0.880711358949907,0.4903143633962298,0.3299247546173949,"Saccharomycopsis capsularis","Saccharomycopsis capsularis","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",8,3,2]]}
+{"785":{"Path":["0","0","785","785"],"Coordinates":[0.38994208828384991,0.52301114286354733,0.50870663309034125],"Categories":["Saccharomycopsis capsularis","Saccharomycopsis capsularis","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[3,4,4]}}

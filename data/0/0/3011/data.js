@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3011,0.72902169788325544,0.24098791440583109,0.52573000560487637,"Candida davenportii","Candida davenportii","Candida","","Saccharomycetales",7,1,4]]}
+{"3011":{"Path":["0","0","3011","3011"],"Coordinates":[0.098265454251658224,0.25355718286345635,0.293637801475598],"Categories":["Candida davenportii","Candida davenportii","Candida","","Saccharomycetales"],"Properties":[0,2,2]}}

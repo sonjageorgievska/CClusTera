@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1056,0.597902267351742,0.504613275070681,0.59251346162856011,"Scheffersomyces lignosus","Scheffersomyces lignosus","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",5,4,5]]}
+{"1056":{"Path":["0","0","974","1056"],"Coordinates":[0.503103170222623,0.53417135430317564,0.650164920182465],"Categories":["Scheffersomyces lignosus","Scheffersomyces lignosus","Scheffersomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[5,4,5]}}

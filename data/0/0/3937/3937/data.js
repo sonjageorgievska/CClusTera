@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3937,0.35441438550449644,0.15961101857077284,0.50174157588638768,"Geotrichum ghanense","Geotrichum ghanense","Geotrichum","Dipodascaceae","Saccharomycetales",3,1,4]]}
+{"3937":{"Path":["0","0","3937","3937"],"Coordinates":[0.32272951758372792,0.22088486017012909,0.36976020877578963],"Categories":["Geotrichum ghanense","Geotrichum ghanense","Geotrichum","Dipodascaceae","Saccharomycetales"],"Properties":[3,1,3]}}

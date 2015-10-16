@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1499,0.57106506308302662,0.6215255673089356,0.11251235695749699,"Ambrosiozyma cicatricosa","Ambrosiozyma cicatricosa","Ambrosiozyma","","Saccharomycetales",5,4,1]]}
+{"1499":{"Path":["0","793","1499","1499"],"Coordinates":[0.33856629097538077,0.30419228507963997,0.7538050032195095],"Categories":["Ambrosiozyma cicatricosa","Ambrosiozyma cicatricosa","Ambrosiozyma","","Saccharomycetales"],"Properties":[3,2,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3094,0.59083312906981522,0.90750430521978354,0.73942445508375365,"Ogataea pilisensis","Ogataea pilisensis","Ogataea","Saccharomycetaceae","Saccharomycetales",5,7,6]]}
+{"3094":{"Path":["0","0","3094","3094"],"Coordinates":[0.7318485909375021,0.91424716368837977,0.62811012813952216],"Categories":["Ogataea pilisensis","Ogataea pilisensis","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,7,5]}}

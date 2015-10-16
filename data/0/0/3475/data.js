@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3475,0.23305864991084338,0.45267749618890463,0.53972396239609755,"Dioszegia buhagiarii","Dioszegia buhagiarii","Dioszegia","Tremellaceae","Tremellales",2,3,4]]}
+{"3475":{"Path":["0","0","3475","3475"],"Coordinates":[0.30616735376560611,0.36746306925755184,0.77402637448497935],"Categories":["Dioszegia buhagiarii","Dioszegia buhagiarii","Dioszegia","Tremellaceae","Tremellales"],"Properties":[3,2,6]}}

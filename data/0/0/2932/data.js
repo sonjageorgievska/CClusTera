@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2932,0.18864989355575559,0.3061231365806622,0.62558623762743681,"Candida caryicola","Candida caryicola","Candida","","Saccharomycetales",1,2,5]]}
+{"2932":{"Path":["0","0","2932","2932"],"Coordinates":[0.538874807038907,0.35549719287030423,0.68736796773896325],"Categories":["Candida caryicola","Candida caryicola","Candida","","Saccharomycetales"],"Properties":[5,2,6]}}

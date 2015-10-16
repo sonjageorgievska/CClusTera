@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3582,0.70441407466544081,0.64195733510896669,0.50769281672799316,"Kuraishia floccosa","Kuraishia floccosa","Kuraishia","Saccharomycetaceae","Saccharomycetales",7,5,4]]}
+{"3582":{"Path":["0","0","3581","3582"],"Coordinates":[0.76944058642354252,0.81958490998202493,0.53979647345078],"Categories":["Kuraishia floccosa","Kuraishia floccosa","Kuraishia","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,4]}}

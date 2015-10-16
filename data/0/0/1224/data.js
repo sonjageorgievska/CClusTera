@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1224,0.52755125353001264,0.86109165719828917,0.78401807010303948,"Ambrosiozyma oregonensis","Ambrosiozyma oregonensis","Ambrosiozyma","","Saccharomycetales",5,6,7]]}
+{"1224":{"Path":["0","0","1224","1224"],"Coordinates":[0.73495287414329846,0.94364606174726973,0.52527200270390562],"Categories":["Ambrosiozyma oregonensis","Ambrosiozyma oregonensis","Ambrosiozyma","","Saccharomycetales"],"Properties":[7,7,4]}}

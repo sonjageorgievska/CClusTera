@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1939,0.57567361775929771,0.49943970845512115,0.46987664345409141,"Hannaella oryzae","Hannaella oryzae","Hannaella","","Tremellales",5,3,4]]}
+{"1939":{"Path":["0","0","1939","1939"],"Coordinates":[0.65999139815176111,0.59709268798186332,0.58812777609437272],"Categories":["Hannaella oryzae","Hannaella oryzae","Hannaella","","Tremellales"],"Properties":[6,4,5]}}

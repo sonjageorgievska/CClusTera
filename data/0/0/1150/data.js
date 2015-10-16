@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1150,0.51001548923393414,0.46875595648190016,0.60923079541703329,"Rhodotorula diffluens","Rhodotorula diffluens","Rhodotorula","","Sporidiobolales",5,3,5]]}
+{"1150":{"Path":["0","0","1150","1150"],"Coordinates":[0.49036481781588276,0.2804301178322246,0.49818822100180138],"Categories":["Rhodotorula diffluens","Rhodotorula diffluens","Rhodotorula","","Sporidiobolales"],"Properties":[4,2,4]}}

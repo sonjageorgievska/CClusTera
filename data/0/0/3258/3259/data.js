@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3259,0.35309772520509508,0.58366967720849428,0.547719865218701,"Candida emberorum","Candida emberorum","Candida","","Saccharomycetales",3,4,4]]}
+{"3259":{"Path":["0","0","3258","3259"],"Coordinates":[0.22633320786020139,0.29292621372891747,0.8457461480437477],"Categories":["Candida emberorum","Candida emberorum","Candida","","Saccharomycetales"],"Properties":[2,2,7]}}

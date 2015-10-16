@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2870,0.8832888241635678,0.280670781565235,0.77496869159715032,"Candida ponderosae","Candida ponderosae","Candida","","Saccharomycetales",8,2,6]]}
+{"2870":{"Path":["0","0","3084","2870"],"Coordinates":[0.63328460813717724,0.67443757561922191,0.24272404745226803],"Categories":["Candida ponderosae","Candida ponderosae","Candida","","Saccharomycetales"],"Properties":[6,5,2]}}

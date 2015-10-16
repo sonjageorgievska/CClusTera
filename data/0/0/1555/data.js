@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1555,0.54016214130995932,0.40346842510012848,0.25665430133334965,"Candida homilentoma","Candida homilentoma","Candida","","Saccharomycetales",5,3,2]]}
+{"1555":{"Path":["0","0","1555","1555"],"Coordinates":[0.38193642916047776,0.74805020585557169,0.60110604592237826],"Categories":["Candida homilentoma","Candida homilentoma","Candida","","Saccharomycetales"],"Properties":[3,5,5]}}

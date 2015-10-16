@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1598,0.43481306296503863,0.68576008789497955,0.26763512326603833,"Candida rugopelliculosa","Candida rugopelliculosa","Candida","","Saccharomycetales",4,5,2]]}
+{"1598":{"Path":["0","0","1598","1598"],"Coordinates":[0.66567737773214064,0.38667728425288872,0.71660732087990375],"Categories":["Candida rugopelliculosa","Candida rugopelliculosa","Candida","","Saccharomycetales"],"Properties":[6,3,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1585,0.067864967844902591,0.58865030849080413,0.52974378019788382,"Cystofilobasidium bisporidii","Cystofilobasidium bisporidii","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales",0,4,4]]}
+{"1585":{"Path":["0","0","1585","1585"],"Coordinates":[0.51276474238078174,0.14925162111440318,0.17694083973546523],"Categories":["Cystofilobasidium bisporidii","Cystofilobasidium bisporidii","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[5,1,1]}}

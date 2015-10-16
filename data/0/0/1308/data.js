@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1308,0.6535304808715876,0.516506317671923,0.59879038024242393,"Wickerhamomyces anomalus","Wickerhamomyces anomalus","Wickerhamomyces","","Saccharomycetales",6,4,5]]}
+{"1308":{"Path":["0","0","1308","1308"],"Coordinates":[0.60797023300788289,0.46750249282315576,0.56421293778478732],"Categories":["Wickerhamomyces anomalus","Wickerhamomyces anomalus","Wickerhamomyces","","Saccharomycetales"],"Properties":[6,3,5]}}

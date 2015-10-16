@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3424,0.52595280506455921,0.5798451574027309,0.53444908820641424,"Trichosporon otae","Trichosporon otae","Trichosporon","Trichosporonaceae","Tremellales",5,4,4]]}
+{"3424":{"Path":["0","0","37","3424"],"Coordinates":[0.360240416336828,0.57119493200711413,0.471673141775272],"Categories":["Trichosporon otae","Trichosporon otae","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[3,4,4]}}

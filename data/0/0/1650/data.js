@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1650,0.44460835923091724,0.4117727990578377,0.44172346302281096,"Rhodotorula pustula","Rhodotorula pustula","Rhodotorula","","Sporidiobolales",4,3,3]]}
+{"1650":{"Path":["0","0","1650","1650"],"Coordinates":[0.39573445742656893,0.46222577340138327,0.33172506085284015],"Categories":["Rhodotorula pustula","Rhodotorula pustula","Rhodotorula","","Sporidiobolales"],"Properties":[3,3,2]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2963,0.468354662511285,0.534974864638211,0.78579589673404815,"Tetrapisispora fleetii","Tetrapisispora fleetii","Tetrapisispora","Saccharomycetaceae","Saccharomycetales",4,4,7]]}
+{"2963":{"Path":["0","0","2963","2963"],"Coordinates":[0.47254170752008873,0.84749229581209407,0.22064571510303863],"Categories":["Tetrapisispora fleetii","Tetrapisispora fleetii","Tetrapisispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,6,1]}}

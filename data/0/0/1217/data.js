@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1217,0.572031045305062,0.22782540541833088,0.48007364377054212,"Candida vanderwaltii","Candida vanderwaltii","Candida","","Saccharomycetales",5,1,4]]}
+{"1217":{"Path":["0","0","1217","1217"],"Coordinates":[0.32292681277054563,0.4864832156703614,0.429718968559822],"Categories":["Candida vanderwaltii","Candida vanderwaltii","Candida","","Saccharomycetales"],"Properties":[3,3,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4066,0.31817238870617309,0.5298740753219513,0.7440011324362743,"Candida easanensis","Candida easanensis","Candida","","Saccharomycetales",3,4,6]]}
+{"4066":{"Path":["0","0","4066","4066"],"Coordinates":[0.78022579573019368,0.8268716511916876,0.22982173518164603],"Categories":["Candida easanensis","Candida easanensis","Candida","","Saccharomycetales"],"Properties":[7,6,2]}}

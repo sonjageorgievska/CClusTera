@@ -1,1 +1,1 @@
-{"titles":null,"points":[[549,0.42086337003550428,0.47596125479185913,0.42777893007408724,"Trichosporon debeurmannianum","Trichosporon debeurmannianum","Trichosporon","Trichosporonaceae","Tremellales",4,3,3]]}
+{"549":{"Path":["0","0","549","549"],"Coordinates":[0.36313162663623411,0.49524706938296525,0.58660723900599943],"Categories":["Trichosporon debeurmannianum","Trichosporon debeurmannianum","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[3,3,5]}}

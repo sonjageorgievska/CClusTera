@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2045,0.45036200703961832,0.5834690968527011,0.4390080847272676,"Bensingtonia naganoensis","Bensingtonia naganoensis","Bensingtonia","Agaricostilbaceae","Agaricostilbales",4,4,3]]}
+{"2045":{"Path":["0","2045","2045","2045"],"Coordinates":[0.42535601732402,0.69387318499940887,0.62002527014079112],"Categories":["Bensingtonia naganoensis","Bensingtonia naganoensis","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[4,5,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3418,0.316864064361806,0.44021313324391675,0.46675312918024991,"Pseudozyma alboarmeniaca","Pseudozyma alboarmeniaca","Pseudozyma","Ustilaginaceae","Ustilaginales",3,3,4]]}
+{"3418":{"Path":["0","2609","3418","3418"],"Coordinates":[0.61205118829728333,0.39759255692797885,0.590122954784356],"Categories":["Pseudozyma alboarmeniaca","Pseudozyma alboarmeniaca","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[6,3,5]}}

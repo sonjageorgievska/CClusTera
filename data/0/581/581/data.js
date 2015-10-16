@@ -1,1 +1,1 @@
-{"titles":null,"points":[[581,0.18369558677578005,0.49059624063105639,0.42855325830881857,"Brettanomyces nanus","Brettanomyces nanus","Brettanomyces","Pichiaceae","Saccharomycetales",1,3,3]]}
+{"581":{"Path":["0","581","581","581"],"Coordinates":[0.4891305319523383,0.68236763081114049,0.80231959945821074],"Categories":["Brettanomyces nanus","Brettanomyces nanus","Brettanomyces","Pichiaceae","Saccharomycetales"],"Properties":[4,5,7]}}

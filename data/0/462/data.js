@@ -1,1 +1,1 @@
-{"titles":null,"points":[[462,0.439930394394964,0.47863746956832076,0.53895102600970068,"Saccharomycodes ludwigii","Saccharomycodes ludwigii","Saccharomycodes","Saccharomycodaceae","Saccharomycetales",4,3,4]]}
+{"462":{"Path":["0","462","462","462"],"Coordinates":[0.48926141808530621,0.39194137602451284,0.26861623455683165],"Categories":["Saccharomycodes ludwigii","Saccharomycodes ludwigii","Saccharomycodes","Saccharomycodaceae","Saccharomycetales"],"Properties":[4,3,2]}}

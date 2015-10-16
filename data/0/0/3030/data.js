@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3030,0.32973851558601353,0.49280726269636088,0.0632528148877878,"Starmerella meliponinorum","Starmerella meliponinorum","Starmerella","Saccharomycetaceae","Saccharomycetales",3,3,0]]}
+{"3030":{"Path":["0","0","3030","3030"],"Coordinates":[0.26810546274015179,0.11479869645220327,0.73262625877393783],"Categories":["Starmerella meliponinorum","Starmerella meliponinorum","Starmerella","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,0,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1143,0.864410217970043,0.67699147395236381,0.39175182740091297,"Candida allociferrii","Candida allociferrii","Candida","","Saccharomycetales",8,5,3]]}
+{"1143":{"Path":["0","0","1143","1143"],"Coordinates":[0.27070937796320027,0.75453857760659448,0.6678275080249878],"Categories":["Candida allociferrii","Candida allociferrii","Candida","","Saccharomycetales"],"Properties":[2,6,6]}}

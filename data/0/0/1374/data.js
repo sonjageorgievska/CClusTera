@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1374,0.5764709098211751,0.65035957624143548,0.52154675758353619,"Sterigmatomyces elviae","Sterigmatomyces elviae","Sterigmatomyces","Agaricostilbaceae","Agaricostilbales",5,5,4]]}
+{"1374":{"Path":["0","0","1374","1374"],"Coordinates":[0.92218140044715247,0.65058149725278958,0.36541112799946979],"Categories":["Sterigmatomyces elviae","Sterigmatomyces elviae","Sterigmatomyces","Agaricostilbaceae","Agaricostilbales"],"Properties":[9,5,3]}}

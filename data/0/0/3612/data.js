@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3612,0.35974987347412346,0.557173410292912,0.7250566532999061,"Candida boreocaroliniensis","Candida boreocaroliniensis","Candida","","Saccharomycetales",3,4,6]]}
+{"3612":{"Path":["0","0","3612","3612"],"Coordinates":[0.39077291565447869,0.35663981415682583,0.46400732085406238],"Categories":["Candida boreocaroliniensis","Candida boreocaroliniensis","Candida","","Saccharomycetales"],"Properties":[3,2,4]}}

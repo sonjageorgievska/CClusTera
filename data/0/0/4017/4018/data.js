@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4018,0.57888440019626819,0.48496027334194247,0.29004202692081604,"Candida kaohsiungensis","Candida kaohsiungensis","Candida","","Saccharomycetales",5,3,2]]}
+{"4018":{"Path":["0","0","4017","4018"],"Coordinates":[0.34133451407269821,0.46984443778123725,0.84485615304468886],"Categories":["Candida kaohsiungensis","Candida kaohsiungensis","Candida","","Saccharomycetales"],"Properties":[3,3,7]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2255,0.58984909675270925,0.31152043921658767,0.59618618199464946,"Starmera caribaea","Starmera caribaea","Starmera","Phaffomycetaceae","Saccharomycetales",5,2,5]]}
+{"2255":{"Path":["0","0","2255","2255"],"Coordinates":[0.50559612620047656,0.43035869110473446,0.76207029559535966],"Categories":["Starmera caribaea","Starmera caribaea","Starmera","Phaffomycetaceae","Saccharomycetales"],"Properties":[5,3,6]}}

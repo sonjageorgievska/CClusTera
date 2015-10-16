@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3892,0.55139936305521831,0.60454102583616287,0.52871441910916139,"Candida orthopsilosis","Candida orthopsilosis","Candida","","Saccharomycetales",5,4,4]]}
+{"3892":{"Path":["0","0","331","3892"],"Coordinates":[0.49344476787465286,0.4521519756857959,0.78657130669964992],"Categories":["Candida orthopsilosis","Candida orthopsilosis","Candida","","Saccharomycetales"],"Properties":[4,3,7]}}

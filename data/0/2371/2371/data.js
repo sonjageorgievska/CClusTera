@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2371,0.38566203453176562,0.66450637720615169,0.48648235531770079,"Malassezia globosa","Malassezia globosa","Malassezia","","Malasseziales",3,5,4]]}
+{"2371":{"Path":["0","2371","2371","2371"],"Coordinates":[0.51736554803297741,0.31538025969777872,0.32788713247777984],"Categories":["Malassezia globosa","Malassezia globosa","Malassezia","","Malasseziales"],"Properties":[5,2,2]}}

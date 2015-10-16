@@ -1,1 +1,1 @@
-{"titles":null,"points":[[122,0.578726036159908,0.31736213174330841,0.65128065849626182,"Pichia punctispora","Pichia punctispora","Pichia","Saccharomycetaceae","Saccharomycetales",5,2,5]]}
+{"122":{"Path":["0","0","121","122"],"Coordinates":[0.41234732462389612,0.6632264819838305,0.55531687620658865],"Categories":["Pichia punctispora","Pichia punctispora","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,4]}}

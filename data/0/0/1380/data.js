@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1380,0.48667883489079111,0.38074371197000589,0.48782989753710421,"Candida grinbergsii","Candida grinbergsii","Candida","","Saccharomycetales",4,3,4]]}
+{"1380":{"Path":["0","0","1380","1380"],"Coordinates":[0.21695581929165267,0.37219884140714626,0.77477584921349274],"Categories":["Candida grinbergsii","Candida grinbergsii","Candida","","Saccharomycetales"],"Properties":[2,2,6]}}

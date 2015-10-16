@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3543,0.689968586288298,0.40098088153795119,0.30413953218392192,"Candida alimentaria","Candida alimentaria","Candida","","Saccharomycetales",6,3,2]]}
+{"3543":{"Path":["0","0","3543","3543"],"Coordinates":[0.57393551684811139,0.42510905323194659,0.52302392016114452],"Categories":["Candida alimentaria","Candida alimentaria","Candida","","Saccharomycetales"],"Properties":[5,3,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3948,0.60804163273317147,0.53039912020526614,0.45476283247742177,"Candida olivae","Candida olivae","Candida","","Saccharomycetales",6,4,4]]}
+{"3948":{"Path":["0","0","3948","3948"],"Coordinates":[0.5508970590518053,0.65071220978980993,0.3171650284028808],"Categories":["Candida olivae","Candida olivae","Candida","","Saccharomycetales"],"Properties":[5,5,2]}}

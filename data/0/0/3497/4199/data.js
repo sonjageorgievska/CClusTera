@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4199,0.47875689509109137,0.7314756649405566,0.54808562305314146,"Candida adriatica","Candida adriatica","Candida","","Saccharomycetales",4,5,4]]}
+{"4199":{"Path":["0","0","3497","4199"],"Coordinates":[0.56741204871990669,0.67353799622162536,0.684490520084228],"Categories":["Candida adriatica","Candida adriatica","Candida","","Saccharomycetales"],"Properties":[5,5,6]}}

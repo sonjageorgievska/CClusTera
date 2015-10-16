@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2110,0.13293361428236211,0.33379978167865954,0.57157028369362939,"Lipomyces smithiae","Lipomyces smithiae","Lipomyces","Lipomycetaceae","Saccharomycetales",1,2,5]]}
+{"2110":{"Path":["0","0","2110","2110"],"Coordinates":[0.78453854200424644,0.50217837370652729,0.78321659278185241],"Categories":["Lipomyces smithiae","Lipomyces smithiae","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[7,4,7]}}

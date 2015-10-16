@@ -1,1 +1,1 @@
-{"titles":null,"points":[[384,0.68112571360788587,0.25098220913260777,0.39543688239943242,"Komagataella pastoris","Komagataella pastoris","Komagataella","Saccharomycetaceae","Saccharomycetales",6,2,3]]}
+{"384":{"Path":["0","0","384","384"],"Coordinates":[0.37969042113606849,0.6991326459709124,0.77570859881566467],"Categories":["Komagataella pastoris","Komagataella pastoris","Komagataella","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,5,6]}}

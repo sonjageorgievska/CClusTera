@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2882,0.66578426999261875,0.51772495490936044,0.54337623634771959,"Metschnikowia drosophilae","Metschnikowia drosophilae","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,4,4]]}
+{"2882":{"Path":["0","0","2882","2882"],"Coordinates":[0.40794926522851649,0.27690137742977616,0.41732055805293161],"Categories":["Metschnikowia drosophilae","Metschnikowia drosophilae","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,2,3]}}

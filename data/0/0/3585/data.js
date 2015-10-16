@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3585,0.42917764372836376,0.40558950666890858,0.7979943506843451,"Candida aglyptini","Candida aglyptini","Candida","","Saccharomycetales",4,3,7]]}
+{"3585":{"Path":["0","0","3585","3585"],"Coordinates":[0.47318638097538274,0.50000140495578838,0.57651731869971112],"Categories":["Candida aglyptini","Candida aglyptini","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

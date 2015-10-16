@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2305,0.40690672418759039,0.50319365214510536,0.754266247511741,"Malassezia obtusa","Malassezia obtusa","Malassezia","","Malasseziales",4,4,6]]}
+{"2305":{"Path":["2305","2305","2305","2305"],"Coordinates":[0.49760681053970551,0.48338134245054115,0.444848435098322],"Categories":["Malassezia obtusa","Malassezia obtusa","Malassezia","","Malasseziales"],"Properties":[4,3,4]}}

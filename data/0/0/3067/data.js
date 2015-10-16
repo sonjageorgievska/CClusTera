@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3067,0.50818556407440441,0.24892008163103779,0.558490999091343,"Candida hawaiiana","Candida hawaiiana","Candida","","Saccharomycetales",5,1,5]]}
+{"3067":{"Path":["0","0","3067","3067"],"Coordinates":[0.43069577145064875,0.5309884010345558,0.52749465882670188],"Categories":["Candida hawaiiana","Candida hawaiiana","Candida","","Saccharomycetales"],"Properties":[4,4,4]}}

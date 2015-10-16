@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1648,0.62315064825167377,0.65876089926690962,0.79833585012609432,"Candida multigemmis","Candida multigemmis","Candida","","Saccharomycetales",6,5,7]]}
+{"1648":{"Path":["0","0","1648","1648"],"Coordinates":[0.61102828711153223,0.81771768288146518,0.33534307527426865],"Categories":["Candida multigemmis","Candida multigemmis","Candida","","Saccharomycetales"],"Properties":[6,6,3]}}

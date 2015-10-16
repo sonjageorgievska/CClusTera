@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2084,0.21593870966980694,0.36210583681837832,0.67949451632781321,"Myxozyma kluyveri","Myxozyma kluyveri","Myxozyma","Lipomycetaceae","Saccharomycetales",2,2,6]]}
+{"2084":{"Path":["0","0","2084","2084"],"Coordinates":[0.66308134115316453,0.62270811955549754,0.16052114015302266],"Categories":["Myxozyma kluyveri","Myxozyma kluyveri","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[6,4,1]}}

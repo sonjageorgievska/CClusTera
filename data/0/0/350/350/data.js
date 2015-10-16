@@ -1,1 +1,1 @@
-{"titles":null,"points":[[350,0.33324929735699033,0.48278353176387895,0.39150342075497119,"Metschnikowia pulcherrima","Metschnikowia pulcherrima","Metschnikowia","Metschnikowiaceae","Saccharomycetales",3,3,3]]}
+{"350":{"Path":["0","0","350","350"],"Coordinates":[0.50270761315294044,0.59229204949307557,0.41435447561046662],"Categories":["Metschnikowia pulcherrima","Metschnikowia pulcherrima","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,4,3]}}

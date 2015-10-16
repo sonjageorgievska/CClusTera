@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1025,0.52841513154446418,0.52472633882655062,0.51447148267413167,"Tetrapisispora phaffii","Tetrapisispora phaffii","Tetrapisispora","Saccharomycetaceae","Saccharomycetales",5,4,4]]}
+{"1025":{"Path":["0","0","1025","1025"],"Coordinates":[0.46046667964215604,0.64421088742827681,0.41762956344355906],"Categories":["Tetrapisispora phaffii","Tetrapisispora phaffii","Tetrapisispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,3]}}

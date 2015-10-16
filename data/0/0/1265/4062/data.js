@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4062,0.63659632516897469,0.68614282653005687,0.23557168015598573,"Candida nakhonratchasimensis","Candida nakhonratchasimensis","Candida","","Saccharomycetales",6,5,2]]}
+{"4062":{"Path":["0","0","1265","4062"],"Coordinates":[0.60472135144636829,0.56575786573755671,0.38887081095897952],"Categories":["Candida nakhonratchasimensis","Candida nakhonratchasimensis","Candida","","Saccharomycetales"],"Properties":[6,4,3]}}

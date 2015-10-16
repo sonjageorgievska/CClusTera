@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4148,0.0945563090342131,0.48083457580456046,0.32974028631625468,"Trichosporon vanderwaltii","Trichosporon vanderwaltii","Trichosporon","Trichosporonaceae","Tremellales",0,3,2]]}
+{"4148":{"Path":["0","0","4148","4148"],"Coordinates":[0.8174700252260404,0.19120191083334606,0.45443448754652893],"Categories":["Trichosporon vanderwaltii","Trichosporon vanderwaltii","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[8,1,4]}}

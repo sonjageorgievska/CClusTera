@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4181,0.46162985732260453,0.68839998050930407,0.42800586174823685,"Cystobasidium ritchiei","Cystobasidium ritchiei","Cystobasidium","Platygloeaceae","Platygloeales",4,5,3]]}
+{"4181":{"Path":["0","0","159","4181"],"Coordinates":[0.45477285595977662,0.375049540271669,0.52699921629594837],"Categories":["Cystobasidium ritchiei","Cystobasidium ritchiei","Cystobasidium","Platygloeaceae","Platygloeales"],"Properties":[4,3,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2487,0.79496637943196924,0.6521229411323034,0.41597668889455974,"Candida castrensis","Candida castrensis","Candida","","Saccharomycetales",7,5,3]]}
+{"2487":{"Path":["0","0","2487","2487"],"Coordinates":[0.40731429958289012,0.60843355521392761,0.44245730338132133],"Categories":["Candida castrensis","Candida castrensis","Candida","","Saccharomycetales"],"Properties":[4,4,3]}}

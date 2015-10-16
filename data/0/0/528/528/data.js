@@ -1,1 +1,1 @@
-{"titles":null,"points":[[528,0.4678788591676411,0.19372353478418253,0.23967302712195918,"Candida versatilis","Candida versatilis","Candida","","Saccharomycetales",4,1,2]]}
+{"528":{"Path":["0","0","528","528"],"Coordinates":[0.46404037711445406,0.591810349720206,0.756267271831423],"Categories":["Candida versatilis","Candida versatilis","Candida","","Saccharomycetales"],"Properties":[4,4,6]}}

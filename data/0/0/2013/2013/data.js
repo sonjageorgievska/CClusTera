@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2013,0.2550829412832587,0.28960459604699812,0.5199417831105192,"Lipomyces suomiensis","Lipomyces suomiensis","Lipomyces","Lipomycetaceae","Saccharomycetales",2,2,4]]}
+{"2013":{"Path":["0","0","2013","2013"],"Coordinates":[0.59808154862073715,0.60255181271942926,0.84502273665554],"Categories":["Lipomyces suomiensis","Lipomyces suomiensis","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[5,4,7]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[649,0.42619022753139052,0.27641679677520259,0.81064363168884235,"Vanderwaltozyma polyspora","Vanderwaltozyma polyspora","Vanderwaltozyma","Saccharomycetaceae","Saccharomycetales",4,2,7]]}
+{"649":{"Path":["0","0","646","649"],"Coordinates":[0.53641343936532238,0.73105322171306286,0.3166487984295589],"Categories":["Vanderwaltozyma polyspora","Vanderwaltozyma polyspora","Vanderwaltozyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,2]}}

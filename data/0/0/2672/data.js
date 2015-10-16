@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2672,0.24571205960342071,0.39971977244496959,0.74424334910976175,"Kodamaea anthophila","Kodamaea anthophila","Kodamaea","Saccharomycetaceae","Saccharomycetales",2,3,6]]}
+{"2672":{"Path":["0","0","2672","2672"],"Coordinates":[0.44754467317165164,0.65832736631209521,0.55087003701953474],"Categories":["Kodamaea anthophila","Kodamaea anthophila","Kodamaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,4]}}

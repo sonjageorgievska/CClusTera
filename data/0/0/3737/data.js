@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3737,0.34504259592743936,0.49059060968027579,0.61025727206245417,"Glaciozyma martinii","Glaciozyma martinii","Glaciozyma","","",3,3,5]]}
+{"3737":{"Path":["0","0","3737","3737"],"Coordinates":[0.56146662382494761,0.36622689139111025,0.31354257601584179],"Categories":["Glaciozyma martinii","Glaciozyma martinii","Glaciozyma","",""],"Properties":[5,2,2]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3974,0.49424873471122666,0.54327492111043263,0.66526374593847437,"Nakazawaea laoshanensis","Nakazawaea laoshanensis","Nakazawaea","Saccharomycetaceae","Saccharomycetales",4,4,5]]}
+{"3974":{"Path":["0","0","3974","3974"],"Coordinates":[0.43684941203698685,0.37594530673880067,0.31622292959226189],"Categories":["Nakazawaea laoshanensis","Nakazawaea laoshanensis","Nakazawaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,2]}}

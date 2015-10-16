@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3096,0.4949641080701031,0.90698002375691134,0.30033983512732548,"Ogataea zsoltii","Ogataea zsoltii","Ogataea","Saccharomycetaceae","Saccharomycetales",4,7,2]]}
+{"3096":{"Path":["0","0","2902","3096"],"Coordinates":[0.37976215268065983,0.49093844299325529,0.44191961964892595],"Categories":["Ogataea zsoltii","Ogataea zsoltii","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,3]}}

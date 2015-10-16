@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1713,0.47072478485583158,0.54342712895199741,0.5488051729496275,"Trichosporon montevideense","Trichosporon montevideense","Trichosporon","Trichosporonaceae","Tremellales",4,4,4]]}
+{"1713":{"Path":["0","0","37","1713"],"Coordinates":[0.39414910957759181,0.637860748134769,0.48858647818947182],"Categories":["Trichosporon montevideense","Trichosporon montevideense","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[3,5,4]}}

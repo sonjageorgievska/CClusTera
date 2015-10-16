@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3917,0.25624868010025553,0.23552698136940461,0.49259328334902092,"Geotrichum siamensis","Geotrichum siamensis","Geotrichum","Dipodascaceae","Saccharomycetales",2,1,4]]}
+{"3917":{"Path":["0","0","3917","3917"],"Coordinates":[0.54976036904134506,0.4233335437456488,0.854050884383938],"Categories":["Geotrichum siamensis","Geotrichum siamensis","Geotrichum","Dipodascaceae","Saccharomycetales"],"Properties":[5,3,7]}}

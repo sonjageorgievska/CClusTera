@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2670,0.67916770108677549,0.47106831061254673,0.7177883615569125,"Candida restingae","Candida restingae","Candida","","Saccharomycetales",6,3,6]]}
+{"2670":{"Path":["0","0","2666","2670"],"Coordinates":[0.49112892008338127,0.3050452422167787,0.765345353394019],"Categories":["Candida restingae","Candida restingae","Candida","","Saccharomycetales"],"Properties":[4,2,6]}}

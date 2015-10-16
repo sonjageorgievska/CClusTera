@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1397,0.22493805490407304,0.43188201985912089,0.44033627231516376,"Pseudozyma antarctica","Pseudozyma antarctica","Pseudozyma","Ustilaginaceae","Ustilaginales",2,3,3]]}
+{"1397":{"Path":["0","2609","1397","1397"],"Coordinates":[0.59343927894763593,0.60972884869720112,0.48789034869631848],"Categories":["Pseudozyma antarctica","Pseudozyma antarctica","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[5,4,4]}}

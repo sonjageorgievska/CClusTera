@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3876,0.69821874055785615,0.5512954423836367,0.34208549170303632,"Candida spencermartinsiae","Candida spencermartinsiae","Candida","","Saccharomycetales",6,4,3]]}
+{"3876":{"Path":["0","0","1175","3876"],"Coordinates":[0.44133951469268817,0.51654430746679325,0.3163674316160443],"Categories":["Candida spencermartinsiae","Candida spencermartinsiae","Candida","","Saccharomycetales"],"Properties":[4,4,2]}}

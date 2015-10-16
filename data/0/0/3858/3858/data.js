@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3858,0.58081731414015714,0.67829787085973825,0.18069875473974867,"Cryptococcus ibericus","Cryptococcus ibericus","Cryptococcus","Tremellaceae","Tremellales",5,5,1]]}
+{"3858":{"Path":["0","0","3858","3858"],"Coordinates":[0.36398742370340026,0.29347730466925243,0.27337595987535224],"Categories":["Cryptococcus ibericus","Cryptococcus ibericus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[3,2,2]}}

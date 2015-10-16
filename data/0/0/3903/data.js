@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3903,0.43975741299470378,0.61708131299854208,0.63358474683451949,"Candida tumulicola","Candida tumulicola","Candida","","Saccharomycetales",4,4,5]]}
+{"3903":{"Path":["0","0","3903","3903"],"Coordinates":[0.47627401730580587,0.6048559348725564,0.64286834738388687],"Categories":["Candida tumulicola","Candida tumulicola","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

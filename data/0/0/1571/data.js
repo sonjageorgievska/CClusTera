@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1571,0.34898328962772368,0.34480165374426425,0.754400860161604,"Wickerhamomyces mucosus","Wickerhamomyces mucosus","Wickerhamomyces","","Saccharomycetales",3,2,6]]}
+{"1571":{"Path":["0","0","1571","1571"],"Coordinates":[0.46090441785080472,0.72910235282503122,0.344213464403178],"Categories":["Wickerhamomyces mucosus","Wickerhamomyces mucosus","Wickerhamomyces","","Saccharomycetales"],"Properties":[4,5,3]}}

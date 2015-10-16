@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3210,-0.046662809433260337,0.61634436477776378,0.63473634632268161,"Derxomyces cylindrica","Derxomyces cylindrica","Derxomyces","","Tremellales",0,4,5]]}
+{"3210":{"Path":["0","0","3210","3210"],"Coordinates":[1.1031571341810276,0.43350873805535484,0.47320031427826176],"Categories":["Derxomyces cylindrica","Derxomyces cylindrica","Derxomyces","","Tremellales"],"Properties":[1,3,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[134,0.58335840983297427,0.29127409464280396,0.45244738535739409,"Kloeckera lindneri","Kloeckera lindneri","Kloeckera","Saccharomycodaceae","Saccharomycetales",5,2,4]]}
+{"134":{"Path":["0","0","134","134"],"Coordinates":[0.52232356564126936,0.80427398274350426,0.56862884221594878],"Categories":["Kloeckera lindneri","Kloeckera lindneri","Kloeckera","Saccharomycodaceae","Saccharomycetales"],"Properties":[5,6,5]}}

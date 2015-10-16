@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3855,0.42491764154338357,-0.075771090313347778,0.63107254867550966,"Candida sanitii","Candida sanitii","Candida","","Saccharomycetales",4,0,5]]}
+{"3855":{"Path":["0","0","3855","3855"],"Coordinates":[0.042769471437477474,0.23387819409148167,0.30003776849989666],"Categories":["Candida sanitii","Candida sanitii","Candida","","Saccharomycetales"],"Properties":[0,1,2]}}

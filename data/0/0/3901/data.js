@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3901,0.37642630531772947,0.57248469362865417,0.72378012040507034,"Candida takamatsuzukensis","Candida takamatsuzukensis","Candida","","Saccharomycetales",3,4,6]]}
+{"3901":{"Path":["0","0","3901","3901"],"Coordinates":[0.68396326793327855,0.49195530805877452,0.68153836314234351],"Categories":["Candida takamatsuzukensis","Candida takamatsuzukensis","Candida","","Saccharomycetales"],"Properties":[6,3,6]}}

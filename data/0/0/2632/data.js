@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2632,0.538466753537381,0.55943343680926294,0.66307123954634128,"Rhodotorula terpenoidalis","Rhodotorula terpenoidalis","Rhodotorula","","Sporidiobolales",5,4,5]]}
+{"2632":{"Path":["0","0","2632","2632"],"Coordinates":[0.6033698636220709,0.50309158826444256,0.52021803100104336],"Categories":["Rhodotorula terpenoidalis","Rhodotorula terpenoidalis","Rhodotorula","","Sporidiobolales"],"Properties":[6,4,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1419,0.60854003450956939,0.55449582992857283,0.40959551456021076,"Nakazawaea ishiwadae","Nakazawaea ishiwadae","Nakazawaea","Saccharomycetaceae","Saccharomycetales",6,4,3]]}
+{"1419":{"Path":["0","0","1419","1419"],"Coordinates":[0.36765252170575341,0.59385237764203169,0.46251960173452611],"Categories":["Nakazawaea ishiwadae","Nakazawaea ishiwadae","Nakazawaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,4,4]}}

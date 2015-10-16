@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1576,0.49833136010325435,0.39462546596622378,0.29783521779786887,"Cyberlindnera sargentensis","Cyberlindnera sargentensis","Cyberlindnera","","Saccharomycetales",4,3,2]]}
+{"1576":{"Path":["0","0","1265","1576"],"Coordinates":[0.317522534109097,0.51746681391149885,0.53189757375438951],"Categories":["Cyberlindnera sargentensis","Cyberlindnera sargentensis","Cyberlindnera","","Saccharomycetales"],"Properties":[3,4,4]}}

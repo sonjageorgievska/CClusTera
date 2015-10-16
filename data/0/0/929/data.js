@@ -1,1 +1,1 @@
-{"titles":null,"points":[[929,0.739209428904269,0.51715443157290586,0.59110586165197831,"Saccharomycopsis vini","Saccharomycopsis vini","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",7,4,5]]}
+{"929":{"Path":["0","0","929","929"],"Coordinates":[0.48548254479860092,0.76984424528976791,0.42396657331146376],"Categories":["Saccharomycopsis vini","Saccharomycopsis vini","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[4,6,3]}}

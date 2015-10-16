@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2200,0.2754235181269718,0.40652514013615271,0.48196404924213604,"Lipomyces doorenjongii","Lipomyces doorenjongii","Lipomyces","Lipomycetaceae","Saccharomycetales",2,3,4]]}
+{"2200":{"Path":["0","0","1363","2200"],"Coordinates":[0.59205674814178721,0.66126495710456079,0.47028998492405028],"Categories":["Lipomyces doorenjongii","Lipomyces doorenjongii","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

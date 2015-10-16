@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4257,0.35184519560166183,0.38084466638409975,0.86565329262205248,"Yamadazyma ubonensis","Yamadazyma ubonensis","Yamadazyma","Saccharomycetaceae","Saccharomycetales",3,3,7]]}
+{"4257":{"Path":["0","0","4218","4257"],"Coordinates":[0.78794381906110467,0.874004036332936,0.475702790725765],"Categories":["Yamadazyma ubonensis","Yamadazyma ubonensis","Yamadazyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,4]}}

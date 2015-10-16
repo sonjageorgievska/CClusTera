@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3541,0.73119787836752848,0.12755274303509082,0.4333415824939435,"Candida oslonensis","Candida oslonensis","Candida","","Saccharomycetales",7,1,3]]}
+{"3541":{"Path":["0","0","3541","3541"],"Coordinates":[0.61633349554401984,0.48599475680751764,0.55469882442446217],"Categories":["Candida oslonensis","Candida oslonensis","Candida","","Saccharomycetales"],"Properties":[6,3,4]}}

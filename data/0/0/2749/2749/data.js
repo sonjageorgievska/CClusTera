@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2749,0.099575610254704336,0.51988067068258881,0.65785405582163448,"Bullera penniseticola","Bullera penniseticola","Bullera","Tremellaceae","Tremellales",0,4,5]]}
+{"2749":{"Path":["0","0","2749","2749"],"Coordinates":[0.47305884609759785,0.67798615623148728,0.61865728542433018],"Categories":["Bullera penniseticola","Bullera penniseticola","Bullera","Tremellaceae","Tremellales"],"Properties":[4,5,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2211,0.29229740039301338,0.52994359928840951,0.4401331585386154,"Kockovaella imperatae","Kockovaella imperatae","Kockovaella","Cuniculitremaceae","Tremellales",2,4,3]]}
+{"2211":{"Path":["0","0","2211","2211"],"Coordinates":[0.563899240855294,0.40962996974629606,0.59870749628194775],"Categories":["Kockovaella imperatae","Kockovaella imperatae","Kockovaella","Cuniculitremaceae","Tremellales"],"Properties":[5,3,5]}}

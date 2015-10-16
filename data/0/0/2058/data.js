@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2058,0.48592441376785173,0.49642539606676556,0.33724121871791024,"Saitoella complicata","Saitoella complicata","Saitoella","Protomycetaceae","Taphrinales",4,3,3]]}
+{"2058":{"Path":["0","0","2058","2058"],"Coordinates":[0.47696264254421744,0.65730031708283021,0.1870963884903688],"Categories":["Saitoella complicata","Saitoella complicata","Saitoella","Protomycetaceae","Taphrinales"],"Properties":[4,5,1]}}

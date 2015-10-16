@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1112,0.64409433209844047,0.4903650819281633,0.80107824578521147,"Candida maritima","Candida maritima","Candida","","Saccharomycetales",6,3,7]]}
+{"1112":{"Path":["0","0","1112","1112"],"Coordinates":[0.40155684588107754,0.75224402933229573,0.33293883989046369],"Categories":["Candida maritima","Candida maritima","Candida","","Saccharomycetales"],"Properties":[4,6,2]}}

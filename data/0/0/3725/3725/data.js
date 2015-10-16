@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3725,0.42882750714686291,0.60022145477462874,0.74711888773957991,"Candida jianshihensis","Candida jianshihensis","Candida","","Saccharomycetales",4,4,6]]}
+{"3725":{"Path":["0","0","3725","3725"],"Coordinates":[0.65231113597200785,0.7496930215243,0.53162089380710831],"Categories":["Candida jianshihensis","Candida jianshihensis","Candida","","Saccharomycetales"],"Properties":[6,5,4]}}

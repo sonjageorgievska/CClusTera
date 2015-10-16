@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2718,0.17928683412197483,0.36344577141557377,0.72330806837215689,"Candida pseudoflosculorum","Candida pseudoflosculorum","Candida","","Saccharomycetales",1,2,6]]}
+{"2718":{"Path":["0","0","2718","2718"],"Coordinates":[0.42993454197317788,0.6942836213444884,0.8021731095032909],"Categories":["Candida pseudoflosculorum","Candida pseudoflosculorum","Candida","","Saccharomycetales"],"Properties":[4,5,7]}}

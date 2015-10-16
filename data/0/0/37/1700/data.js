@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1700,0.71188575077178762,0.47626390003491975,0.34958449198565222,"Dioszegia crocea","Dioszegia crocea","Dioszegia","Tremellaceae","Tremellales",7,3,3]]}
+{"1700":{"Path":["0","0","37","1700"],"Coordinates":[0.45685873448050024,0.30192900615002694,0.5281860808363682],"Categories":["Dioszegia crocea","Dioszegia crocea","Dioszegia","Tremellaceae","Tremellales"],"Properties":[4,2,4]}}

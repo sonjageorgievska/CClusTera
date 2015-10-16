@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3973,0.24506852905296639,0.47756489512752087,0.18346004308397329,"Cryptococcus shivajii","Cryptococcus shivajii","Cryptococcus","Tremellaceae","Tremellales",2,3,1]]}
+{"3973":{"Path":["0","0","3973","3973"],"Coordinates":[0.77431927143458978,0.24140233429065836,0.46601159127604891],"Categories":["Cryptococcus shivajii","Cryptococcus shivajii","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,1,4]}}

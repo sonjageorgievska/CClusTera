@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3003,0.54154320193474836,0.58921099735048943,0.39500635667707867,"Metschnikowia dekortorum","Metschnikowia dekortorum","Metschnikowia","Metschnikowiaceae","Saccharomycetales",5,4,3]]}
+{"3003":{"Path":["0","0","3003","3003"],"Coordinates":[0.46523391775633777,0.18427162076261777,0.24065504303795793],"Categories":["Metschnikowia dekortorum","Metschnikowia dekortorum","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,1,2]}}

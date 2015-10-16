@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3776,0.64896686540826853,0.53657975548610681,0.17356159688557238,"Bullera setariae","Bullera setariae","Bullera","Tremellaceae","Tremellales",6,4,1]]}
+{"3776":{"Path":["0","0","3776","3776"],"Coordinates":[0.349320694524284,0.27058406297218346,0.46711370803294766],"Categories":["Bullera setariae","Bullera setariae","Bullera","Tremellaceae","Tremellales"],"Properties":[3,2,4]}}

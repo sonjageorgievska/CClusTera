@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3648,0.382673092726831,0.51676188207832907,0.5860175773958417,"Debaryomyces singareniensis","Debaryomyces singareniensis","Debaryomyces","Saccharomycetaceae","Saccharomycetales",3,4,5]]}
+{"3648":{"Path":["0","0","3648","3648"],"Coordinates":[0.58571771011165674,0.31443306546531657,0.29411687141305082],"Categories":["Debaryomyces singareniensis","Debaryomyces singareniensis","Debaryomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,2,2]}}

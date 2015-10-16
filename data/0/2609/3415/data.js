@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3415,0.57413226862767786,0.31863692354243117,0.28853237531164233,"Pseudozyma siamensis","Pseudozyma siamensis","Pseudozyma","Ustilaginaceae","Ustilaginales",5,2,2]]}
+{"3415":{"Path":["0","2609","3415","3415"],"Coordinates":[0.624147627559752,0.45652409277444134,0.4578954065584212],"Categories":["Pseudozyma siamensis","Pseudozyma siamensis","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[6,3,4]}}

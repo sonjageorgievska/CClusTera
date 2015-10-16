@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2501,0.67747342520843223,0.8909835160229771,0.72574245198286225,"Ambrosiozyma llanquihuensis","Ambrosiozyma llanquihuensis","Ambrosiozyma","","Saccharomycetales",6,7,6]]}
+{"2501":{"Path":["0","0","2501","2501"],"Coordinates":[0.64119869236831073,0.986601993984788,0.56448907839283646],"Categories":["Ambrosiozyma llanquihuensis","Ambrosiozyma llanquihuensis","Ambrosiozyma","","Saccharomycetales"],"Properties":[6,7,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3680,0.28985602344936334,0.37758202114860245,0.16256718587418781,"Cryptococcus arboriformis","Cryptococcus arboriformis","Cryptococcus","Tremellaceae","Tremellales",2,3,1]]}
+{"3680":{"Path":["0","0","3682","3680"],"Coordinates":[0.91159728718589994,0.43415198125880489,0.68047556979634571],"Categories":["Cryptococcus arboriformis","Cryptococcus arboriformis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[9,3,6]}}

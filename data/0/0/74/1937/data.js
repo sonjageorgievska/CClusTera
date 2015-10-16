@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1937,0.56465821641248937,0.697317974260737,0.67752620078327264,"Cryptococcus fuscescens","Cryptococcus fuscescens","Cryptococcus","Tremellaceae","Tremellales",5,5,6]]}
+{"1937":{"Path":["0","0","74","1937"],"Coordinates":[0.70251325004866383,0.62709343675903451,0.50887031053794307],"Categories":["Cryptococcus fuscescens","Cryptococcus fuscescens","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,5,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3119,0.453281259360809,0.61788763385731349,0.0798546075488956,"Bensingtonia sorbi","Bensingtonia sorbi","Bensingtonia","Agaricostilbaceae","Agaricostilbales",4,4,0]]}
+{"3119":{"Path":["0","0","3119","3119"],"Coordinates":[0.16036069207680398,0.60941265534210143,0.55503227646485],"Categories":["Bensingtonia sorbi","Bensingtonia sorbi","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[1,4,4]}}

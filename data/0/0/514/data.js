@@ -1,1 +1,1 @@
-{"titles":null,"points":[[514,0.60095334489112939,0.62994128823133744,0.40620804259965676,"Filobasidium uniguttulatum","Filobasidium uniguttulatum","Filobasidium","Filobasidiaceae","Filobasidiales",6,5,3]]}
+{"514":{"Path":["0","0","514","514"],"Coordinates":[0.39960210752851949,0.54554759660033136,0.51692801602901062],"Categories":["Filobasidium uniguttulatum","Filobasidium uniguttulatum","Filobasidium","Filobasidiaceae","Filobasidiales"],"Properties":[3,4,4]}}

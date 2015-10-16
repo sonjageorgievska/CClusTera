@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1240,0.543252705499535,0.48429401642990039,0.68157767865504293,"Wickerhamomyces onychis","Wickerhamomyces onychis","Wickerhamomyces","","Saccharomycetales",5,3,6]]}
+{"1240":{"Path":["0","0","1240","1240"],"Coordinates":[0.21298832116878316,0.50633142414674837,0.19309368390660725],"Categories":["Wickerhamomyces onychis","Wickerhamomyces onychis","Wickerhamomyces","","Saccharomycetales"],"Properties":[2,4,1]}}

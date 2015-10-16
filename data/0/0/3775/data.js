@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3775,0.41348529803334488,0.43822779335562168,0.15880837264190326,"Mingxiaea begoniae","Mingxiaea begoniae","Mingxiaea","","Tremellales",4,3,1]]}
+{"3775":{"Path":["0","0","3775","3775"],"Coordinates":[0.65253728563831181,0.29723778958564911,0.77552675594861642],"Categories":["Mingxiaea begoniae","Mingxiaea begoniae","Mingxiaea","","Tremellales"],"Properties":[6,2,6]}}

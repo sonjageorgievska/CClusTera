@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4147,0.6835402964048326,0.496260142568547,0.70587689234058937,"Candida mattraensis","Candida mattraensis","Candida","","Saccharomycetales",6,3,6]]}
+{"4147":{"Path":["0","0","4146","4147"],"Coordinates":[0.34813164321901563,0.57878144863714176,0.66712296077454658],"Categories":["Candida mattraensis","Candida mattraensis","Candida","","Saccharomycetales"],"Properties":[3,4,6]}}

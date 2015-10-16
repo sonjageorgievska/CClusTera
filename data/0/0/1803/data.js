@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1803,0.40216622411435465,0.59600461359781054,0.51373297584494237,"Malassezia furfur","Malassezia furfur","Malassezia","","Malasseziales",4,4,4]]}
+{"1803":{"Path":["0","0","1803","1803"],"Coordinates":[0.44667447790894871,0.40790561491024491,0.69217319940090127],"Categories":["Malassezia furfur","Malassezia furfur","Malassezia","","Malasseziales"],"Properties":[4,3,6]}}

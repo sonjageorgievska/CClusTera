@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2779,0.7366241567801709,0.48630340009777556,0.48088521076032509,"Cryptococcus arrabidensis","Cryptococcus arrabidensis","Cryptococcus","Tremellaceae","Tremellales",7,3,4]]}
+{"2779":{"Path":["0","0","2779","2779"],"Coordinates":[0.62055285079867784,0.42030758074161761,0.47851629554620045],"Categories":["Cryptococcus arrabidensis","Cryptococcus arrabidensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,3,4]}}

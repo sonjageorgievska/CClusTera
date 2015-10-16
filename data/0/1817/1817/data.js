@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1817,0.17189628374582519,0.64057651135029259,0.566273354064301,"Myxozyma lipomycoides","Myxozyma lipomycoides","Myxozyma","Lipomycetaceae","Saccharomycetales",1,5,5]]}
+{"1817":{"Path":["0","1817","1817","1817"],"Coordinates":[0.599357435182862,0.766308744929372,0.54224293268996326],"Categories":["Myxozyma lipomycoides","Myxozyma lipomycoides","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[5,6,4]}}

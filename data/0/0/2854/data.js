@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2854,0.47272249073072148,0.24066821926053,0.47338992029668625,"Kazachstania naganishii","Kazachstania naganishii","Kazachstania","Saccharomycetaceae","Saccharomycetales",4,1,4]]}
+{"2854":{"Path":["0","0","2854","2854"],"Coordinates":[0.37567465555111607,0.39676842988165067,0.39779075976841738],"Categories":["Kazachstania naganishii","Kazachstania naganishii","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,3]}}

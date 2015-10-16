@@ -1,1 +1,1 @@
-{"titles":null,"points":[[483,0.62825317536979464,0.75275286754008131,0.58216559025464287,"Trigonopsis variabilis","Trigonopsis variabilis","Trigonopsis","","Saccharomycetales",6,6,5]]}
+{"483":{"Path":["0","0","483","483"],"Coordinates":[0.16370677395138716,0.60920776425006185,0.24173335015756819],"Categories":["Trigonopsis variabilis","Trigonopsis variabilis","Trigonopsis","","Saccharomycetales"],"Properties":[1,4,2]}}

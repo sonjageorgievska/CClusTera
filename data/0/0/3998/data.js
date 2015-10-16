@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3998,0.796646036333584,0.35422616613722208,0.45485029033028546,"Mingxiaea wuzhishanensis","Mingxiaea wuzhishanensis","Mingxiaea","","Tremellales",7,2,4]]}
+{"3998":{"Path":["0","0","3998","3998"],"Coordinates":[0.66173911400386309,0.51178296454097,0.63913914765255531],"Categories":["Mingxiaea wuzhishanensis","Mingxiaea wuzhishanensis","Mingxiaea","","Tremellales"],"Properties":[6,4,5]}}

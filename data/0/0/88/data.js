@@ -1,1 +1,1 @@
-{"titles":null,"points":[[88,0.71160488464055294,0.379888269116214,0.4539182049251661,"Candida sake","Candida sake","Candida","","Saccharomycetales",7,3,4]]}
+{"88":{"Path":["0","0","88","88"],"Coordinates":[0.611962818275396,0.43001801433613818,0.68368121596413467],"Categories":["Candida sake","Candida sake","Candida","","Saccharomycetales"],"Properties":[6,3,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2832,0.29473483688433977,0.15751844574906598,0.21857621659058313,"Candida sorbosivorans","Candida sorbosivorans","Candida","","Saccharomycetales",2,1,1]]}
+{"2832":{"Path":["0","0","2832","2832"],"Coordinates":[0.35826524468790832,0.034597082751692508,0.56742437761320663],"Categories":["Candida sorbosivorans","Candida sorbosivorans","Candida","","Saccharomycetales"],"Properties":[3,0,5]}}

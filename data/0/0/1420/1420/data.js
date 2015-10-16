@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1420,0.62010190198032145,0.62211964332073932,0.74448461561146806,"Candida odintsovae","Candida odintsovae","Candida","","Saccharomycetales",6,4,6]]}
+{"1420":{"Path":["0","0","1420","1420"],"Coordinates":[0.60402440342708907,0.7584855573939282,0.38405075477460704],"Categories":["Candida odintsovae","Candida odintsovae","Candida","","Saccharomycetales"],"Properties":[6,6,3]}}

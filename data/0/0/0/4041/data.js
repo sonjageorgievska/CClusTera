@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4041,0.737322944485061,0.44939735958520055,0.57467098997498944,"Leucosporidium drummii","Leucosporidium drummii","Leucosporidium","Sporidiobolaceae","Sporidiobolales",7,3,5]]}
+{"4041":{"Path":["0","0","0","4041"],"Coordinates":[0.44990917195183783,0.23677843172490404,0.66397982149310553],"Categories":["Leucosporidium drummii","Leucosporidium drummii","Leucosporidium","Sporidiobolaceae","Sporidiobolales"],"Properties":[4,1,5]}}

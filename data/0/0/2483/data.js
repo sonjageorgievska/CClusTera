@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2483,0.39205749334049872,0.5930200805419521,0.72298451640177808,"Sugiyamaella chiloensis","Sugiyamaella chiloensis","Sugiyamaella","Trichomonascaceae","Saccharomycetales",3,4,6]]}
+{"2483":{"Path":["0","0","2483","2483"],"Coordinates":[0.56381181836221583,0.617831179042708,0.26984152592588584],"Categories":["Sugiyamaella chiloensis","Sugiyamaella chiloensis","Sugiyamaella","Trichomonascaceae","Saccharomycetales"],"Properties":[5,4,2]}}

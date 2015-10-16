@@ -1,1 +1,1 @@
-{"titles":null,"points":[[975,0.51375287530889879,0.32395580946435804,0.54436679215387274,"Scheffersomyces insectosa","Scheffersomyces insectosa","Scheffersomyces","Debaryomycetaceae","Saccharomycetales",5,2,4]]}
+{"975":{"Path":["0","0","696","975"],"Coordinates":[0.38679133363355805,0.49499642211205613,0.45726443206393658],"Categories":["Scheffersomyces insectosa","Scheffersomyces insectosa","Scheffersomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[3,3,4]}}

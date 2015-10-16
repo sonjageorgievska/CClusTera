@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3292,0.4352301215645602,0.54358480229031891,0.71876016231519768,"Candida elateridarum","Candida elateridarum","Candida","","Saccharomycetales",4,4,6]]}
+{"3292":{"Path":["0","0","3292","3292"],"Coordinates":[0.64771214353915141,0.48785971375038834,0.36839624908453106],"Categories":["Candida elateridarum","Candida elateridarum","Candida","","Saccharomycetales"],"Properties":[6,3,3]}}

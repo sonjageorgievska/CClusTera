@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2517,0.7461678091916174,0.56128250207406249,0.63117560218704394,"Eremothecium sinecaudum","Eremothecium sinecaudum","Eremothecium","Eremotheciaceae","Saccharomycetales",7,4,5]]}
+{"2517":{"Path":["0","0","2517","2517"],"Coordinates":[0.35986644867718204,0.80471158200824311,0.37476364364770642],"Categories":["Eremothecium sinecaudum","Eremothecium sinecaudum","Eremothecium","Eremotheciaceae","Saccharomycetales"],"Properties":[3,6,3]}}

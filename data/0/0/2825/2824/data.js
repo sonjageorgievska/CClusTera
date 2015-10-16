@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2824,0.79973278065252462,0.74205309468101788,0.25462168598026924,"Barnettozyma hawaiiensis","Barnettozyma hawaiiensis","Barnettozyma","","Saccharomycetales",7,5,2]]}
+{"2824":{"Path":["0","0","2825","2824"],"Coordinates":[0.20154049291790749,0.30803668996053607,0.23322802828880612],"Categories":["Barnettozyma hawaiiensis","Barnettozyma hawaiiensis","Barnettozyma","","Saccharomycetales"],"Properties":[2,2,2]}}

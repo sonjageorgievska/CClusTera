@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1747,0.56684237147372241,0.32411666685460894,0.19049440839194923,"Pichia exigua","Pichia exigua","Pichia","Saccharomycetaceae","Saccharomycetales",5,2,1]]}
+{"1747":{"Path":["0","0","1747","1747"],"Coordinates":[0.26824055932283875,0.29163046753017985,0.33026360196873783],"Categories":["Pichia exigua","Pichia exigua","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,2,2]}}

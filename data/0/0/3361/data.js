@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3361,0.69955248545420345,0.56477430004312223,0.69105591087187379,"Candida bohiensis","Candida bohiensis","Candida","","Saccharomycetales",6,4,6]]}
+{"3361":{"Path":["0","0","3361","3361"],"Coordinates":[0.50790387982029672,0.59505043024509285,0.69042651148799006],"Categories":["Candida bohiensis","Candida bohiensis","Candida","","Saccharomycetales"],"Properties":[5,4,6]}}

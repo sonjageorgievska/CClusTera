@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3987,0.55645146875332363,0.682168021169662,0.48783015758883608,"Torulaspora quercuum","Torulaspora quercuum","Torulaspora","Saccharomycetaceae","Saccharomycetales",5,5,4]]}
+{"3987":{"Path":["0","0","3987","3987"],"Coordinates":[0.4065030367928742,0.47319328566484326,0.26586304571627911],"Categories":["Torulaspora quercuum","Torulaspora quercuum","Torulaspora","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,2]}}

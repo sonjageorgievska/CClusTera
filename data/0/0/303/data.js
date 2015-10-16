@@ -1,1 +1,1 @@
-{"titles":null,"points":[[303,0.52291448428118026,0.48238056148615871,0.43847755921862819,"Cryptococcus heveanensis","Cryptococcus heveanensis","Cryptococcus","Tremellaceae","Tremellales",5,3,3]]}
+{"303":{"Path":["0","0","303","303"],"Coordinates":[0.49573464921899424,0.61105690517175937,0.6852511412722726],"Categories":["Cryptococcus heveanensis","Cryptococcus heveanensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,4,6]}}

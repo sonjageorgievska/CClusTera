@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1923,0.2961142190059266,0.5200628874880856,0.55981361970328924,"Bensingtonia phyllada","Bensingtonia phyllada","Bensingtonia","Agaricostilbaceae","Agaricostilbales",2,4,5]]}
+{"1923":{"Path":["0","1923","1923","1923"],"Coordinates":[0.51433741738460259,0.43187461737531135,0.57075909130494673],"Categories":["Bensingtonia phyllada","Bensingtonia phyllada","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[5,3,5]}}

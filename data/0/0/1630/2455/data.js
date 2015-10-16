@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2455,0.35718811043172105,0.35083765903436059,0.44106455328004918,"Cryptococcus vishniacii","Cryptococcus vishniacii","Cryptococcus","Tremellaceae","Tremellales",3,2,3]]}
+{"2455":{"Path":["0","0","1630","2455"],"Coordinates":[0.60155869606407453,0.39549339539821154,0.42459408765416906],"Categories":["Cryptococcus vishniacii","Cryptococcus vishniacii","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,3,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[722,0.37726860393097245,0.38305598499874655,0.49790371853328985,"Hyphopichia burtonii","Hyphopichia burtonii","Hyphopichia","Saccharomycetaceae","Saccharomycetales",3,3,4]]}
+{"722":{"Path":["0","0","722","722"],"Coordinates":[0.49079281173396794,0.43327236927685592,0.571574123998082],"Categories":["Hyphopichia burtonii","Hyphopichia burtonii","Hyphopichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2072,0.3516882186692632,0.45332153866499342,0.39647120512774742,"Lipomyces japonicus","Lipomyces japonicus","Lipomyces","Lipomycetaceae","Saccharomycetales",3,3,3]]}
+{"2072":{"Path":["0","0","2072","2072"],"Coordinates":[0.65769744410751918,0.42920038590283455,0.55937128847301265],"Categories":["Lipomyces japonicus","Lipomyces japonicus","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[6,3,5]}}

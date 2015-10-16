@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1864,0.73016611432718492,0.30816289376998252,0.4824693547179148,"Lipomyces oligophaga","Lipomyces oligophaga","Lipomyces","Lipomycetaceae","Saccharomycetales",7,2,4]]}
+{"1864":{"Path":["0","0","1863","1864"],"Coordinates":[0.56990755867692577,0.41053959300846049,0.49522448148011489],"Categories":["Lipomyces oligophaga","Lipomyces oligophaga","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[5,3,4]}}

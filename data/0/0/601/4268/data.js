@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4268,0.56765905372936232,0.87514794612832369,0.36861994688638189,"Cryptococcus vaughanmartiniae","Cryptococcus vaughanmartiniae","Cryptococcus","Tremellaceae","Tremellales",5,7,3]]}
+{"4268":{"Path":["0","0","601","4268"],"Coordinates":[0.66617444627415856,0.57054700386198465,0.42816705612396444],"Categories":["Cryptococcus vaughanmartiniae","Cryptococcus vaughanmartiniae","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,4,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3105,0.6078485654388045,0.35762060724318667,0.43557969427978727,"Malassezia japonica","Malassezia japonica","Malassezia","","Malasseziales",6,2,3]]}
+{"3105":{"Path":["0","0","3105","3105"],"Coordinates":[0.4049375545961067,0.3841737735481664,0.51784131466077987],"Categories":["Malassezia japonica","Malassezia japonica","Malassezia","","Malasseziales"],"Properties":[4,3,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2949,0.39326076971304946,0.41120826719494019,0.38370362643229516,"Cryptococcus haglerorum","Cryptococcus haglerorum","Cryptococcus","Tremellaceae","Tremellales",3,3,3]]}
+{"2949":{"Path":["0","0","2949","2949"],"Coordinates":[0.74811078852291291,0.54336027831112321,0.73466635532316538],"Categories":["Cryptococcus haglerorum","Cryptococcus haglerorum","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,4,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[328,0.47992628584171138,0.04932420169909419,0.49147421187370033,"Candida mesenterica","Candida mesenterica","Candida","","Saccharomycetales",4,0,4]]}
+{"328":{"Path":["0","0","328","328"],"Coordinates":[0.3725058960120578,0.404458055906719,0.93611501987592349],"Categories":["Candida mesenterica","Candida mesenterica","Candida","","Saccharomycetales"],"Properties":[3,3,8]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3640,0.52390718973910966,0.82688757692484671,0.46182532659080233,"Ogataea chonburiensis","Ogataea chonburiensis","Ogataea","Saccharomycetaceae","Saccharomycetales",5,6,4]]}
+{"3640":{"Path":["0","0","3640","3640"],"Coordinates":[0.59721059043073887,0.69843992513952446,0.37021966606270523],"Categories":["Ogataea chonburiensis","Ogataea chonburiensis","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,3]}}

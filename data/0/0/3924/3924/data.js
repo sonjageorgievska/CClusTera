@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3924,0.63444584260083958,0.38625687787194207,0.76753701260431717,"Candida jalapaonensis","Candida jalapaonensis","Candida","","Saccharomycetales",6,3,6]]}
+{"3924":{"Path":["0","0","3924","3924"],"Coordinates":[0.41320577135357095,0.68447472983099866,0.50383419769294147],"Categories":["Candida jalapaonensis","Candida jalapaonensis","Candida","","Saccharomycetales"],"Properties":[4,5,4]}}

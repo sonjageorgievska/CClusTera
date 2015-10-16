@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2391,0.39606579064971464,0.57800795843647457,0.59682281105157853,"Rhodotorula cresolica","Rhodotorula cresolica","Rhodotorula","","Sporidiobolales",3,4,5]]}
+{"2391":{"Path":["0","0","2391","2391"],"Coordinates":[0.66390429523210981,0.56596622367350524,0.38752122598089234],"Categories":["Rhodotorula cresolica","Rhodotorula cresolica","Rhodotorula","","Sporidiobolales"],"Properties":[6,4,3]}}

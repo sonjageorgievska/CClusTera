@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3654,0.46278668299847464,0.33251918939514868,0.343839857270115,"Candida phangngaensis","Candida phangngaensis","Candida","","Saccharomycetales",4,2,3]]}
+{"3654":{"Path":["0","0","3654","3654"],"Coordinates":[0.46444143557867268,0.2508378753677043,0.67329653562125469],"Categories":["Candida phangngaensis","Candida phangngaensis","Candida","","Saccharomycetales"],"Properties":[4,2,6]}}

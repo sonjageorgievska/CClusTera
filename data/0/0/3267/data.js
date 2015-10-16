@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3267,0.72700491620414054,0.5608716675455887,0.29521556346447575,"Candida choctaworum","Candida choctaworum","Candida","","Saccharomycetales",7,4,2]]}
+{"3267":{"Path":["0","0","3267","3267"],"Coordinates":[0.34702611272978168,0.58955953463109734,0.79254652214073007],"Categories":["Candida choctaworum","Candida choctaworum","Candida","","Saccharomycetales"],"Properties":[3,4,7]}}

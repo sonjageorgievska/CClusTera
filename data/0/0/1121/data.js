@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1121,0.3158596990786296,0.44776845701937285,0.56452729781652711,"Middelhovenomyces tepae","Middelhovenomyces tepae","Middelhovenomyces","","",3,3,5]]}
+{"1121":{"Path":["0","0","1121","1121"],"Coordinates":[0.50187915001666217,0.51576779551698626,0.59709259316622831],"Categories":["Middelhovenomyces tepae","Middelhovenomyces tepae","Middelhovenomyces","",""],"Properties":[5,4,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1557,0.63731339296580491,0.46676699028945479,0.52483444700449433,"Kazachstania martiniae","Kazachstania martiniae","Kazachstania","Saccharomycetaceae","Saccharomycetales",6,3,4]]}
+{"1557":{"Path":["0","0","1557","1557"],"Coordinates":[0.36517103485867591,0.57952468751716713,0.39695668009408419],"Categories":["Kazachstania martiniae","Kazachstania martiniae","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,4,3]}}

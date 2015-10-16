@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4054,0.030595050532710916,0.4582155272827238,0.53406305742683191,"Sympodiomycopsis kandeliae","Sympodiomycopsis kandeliae","Sympodiomycopsis","Microstromataceae","Microstromatales",0,3,4]]}
+{"4054":{"Path":["0","0","4054","4054"],"Coordinates":[0.9586983223182427,0.45339402680092417,0.410814259364882],"Categories":["Sympodiomycopsis kandeliae","Sympodiomycopsis kandeliae","Sympodiomycopsis","Microstromataceae","Microstromatales"],"Properties":[9,3,3]}}

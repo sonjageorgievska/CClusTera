@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2646,0.68530932425398,0.076857801865648737,0.67652590474242358,"Wickerhamiella australiensis","Wickerhamiella australiensis","Wickerhamiella","","Saccharomycetales",6,0,6]]}
+{"2646":{"Path":["0","0","2646","2646"],"Coordinates":[0.43261938740168021,0.41043415689992513,0.36223834479829681],"Categories":["Wickerhamiella australiensis","Wickerhamiella australiensis","Wickerhamiella","","Saccharomycetales"],"Properties":[4,3,3]}}

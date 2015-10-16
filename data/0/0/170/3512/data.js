@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3512,0.24557648232099627,0.47219157743213469,0.3997831681951553,"Cryptococcus paraflavus","Cryptococcus paraflavus","Cryptococcus","Tremellaceae","Tremellales",2,3,3]]}
+{"3512":{"Path":["0","0","170","3512"],"Coordinates":[0.41440994398761877,0.28586277895675127,0.7673350155976002],"Categories":["Cryptococcus paraflavus","Cryptococcus paraflavus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,2,6]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1984,0.50439231867132528,0.63594196922931823,0.32569418694739771,"Mastigobasidium intermedium","Mastigobasidium intermedium","Mastigobasidium","Leucosporidiaceae","Leucosporidiales",5,5,2]]}
+{"1984":{"Path":["0","0","1984","1984"],"Coordinates":[0.64640708289879623,0.47294417777598696,0.44184151568606622],"Categories":["Mastigobasidium intermedium","Mastigobasidium intermedium","Mastigobasidium","Leucosporidiaceae","Leucosporidiales"],"Properties":[6,3,3]}}

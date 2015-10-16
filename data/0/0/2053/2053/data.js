@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2053,0.48871364838015319,0.88893226176584772,0.84507618657898431,"Candida ovalis","Candida ovalis","Candida","","Saccharomycetales",4,7,7]]}
+{"2053":{"Path":["0","0","2053","2053"],"Coordinates":[0.84776782615799462,0.89043138087368467,0.63196501045759557],"Categories":["Candida ovalis","Candida ovalis","Candida","","Saccharomycetales"],"Properties":[8,7,5]}}

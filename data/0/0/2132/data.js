@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2132,0.40378313173303781,0.41019124408867225,0.43784647061218862,"Bensingtonia ingoldii","Bensingtonia ingoldii","Bensingtonia","Agaricostilbaceae","Agaricostilbales",4,3,3]]}
+{"2132":{"Path":["0","0","2132","2132"],"Coordinates":[0.53849761300770782,0.57192143221146163,0.57612735368983148],"Categories":["Bensingtonia ingoldii","Bensingtonia ingoldii","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[5,4,5]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3859,0.76291301733623029,0.38571439831648435,0.40463892662614209,"Cryptococcus aciditolerans","Cryptococcus aciditolerans","Cryptococcus","Tremellaceae","Tremellales",7,3,3]]}
+{"3859":{"Path":["0","0","3859","3859"],"Coordinates":[0.50572131412888977,0.11103928768883403,0.2050903750307323],"Categories":["Cryptococcus aciditolerans","Cryptococcus aciditolerans","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,0,1]}}

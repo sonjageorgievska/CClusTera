@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1101,0.46187140600620341,0.42705261906714304,0.363189932826145,"Candida pyralidae","Candida pyralidae","Candida","","Saccharomycetales",4,3,3]]}
+{"1101":{"Path":["0","0","1101","1101"],"Coordinates":[0.37302899509292831,0.31360297282768912,0.77932771774844745],"Categories":["Candida pyralidae","Candida pyralidae","Candida","","Saccharomycetales"],"Properties":[3,2,7]}}

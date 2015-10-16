@@ -1,1 +1,1 @@
-{"titles":null,"points":[[26,0.58035368273883192,0.5717537642744478,0.4198581390576327,"Pichia membranifaciens","Pichia membranifaciens","Pichia","Saccharomycetaceae","Saccharomycetales",5,4,3]]}
+{"26":{"Path":["0","0","26","26"],"Coordinates":[0.48231988701778394,0.549026488436152,0.66446341745917359],"Categories":["Pichia membranifaciens","Pichia membranifaciens","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,4,5]}}

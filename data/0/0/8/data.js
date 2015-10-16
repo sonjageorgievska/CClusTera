@@ -1,1 +1,1 @@
-{"titles":null,"points":[[8,0.35794804142743386,0.61579490471655052,0.66881617120989278,"Dekkera bruxellensis","Dekkera bruxellensis","Dekkera","Saccharomycetaceae","Saccharomycetales",3,4,6]]}
+{"8":{"Path":["0","0","8","8"],"Coordinates":[0.52033805783303244,0.56387055746084014,0.55873631120289613],"Categories":["Dekkera bruxellensis","Dekkera bruxellensis","Dekkera","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,5]}}

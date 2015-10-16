@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3032,0.27781210332488182,0.669292585992144,0.48798111680828304,"Udeniomyces pannonicus","Udeniomyces pannonicus","Udeniomyces","","Cystofilobasidiales",2,5,4]]}
+{"3032":{"Path":["0","0","3032","3032"],"Coordinates":[0.50007013593983651,0.54164184755796141,0.45188719255557691],"Categories":["Udeniomyces pannonicus","Udeniomyces pannonicus","Udeniomyces","","Cystofilobasidiales"],"Properties":[5,4,4]}}

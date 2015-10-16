@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4071,0.51334337757447235,0.54210221582551443,0.91856079294621762,"Lachancea mirantina","Lachancea mirantina","Lachancea","Saccharomycetaceae","Saccharomycetales",5,4,8]]}
+{"4071":{"Path":["0","0","4071","4071"],"Coordinates":[0.66950007531922817,0.70431878145253979,0.16221895707057121],"Categories":["Lachancea mirantina","Lachancea mirantina","Lachancea","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,5,1]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4201,0.405403580466901,0.31442965321417293,0.57684637662208571,"Bandoniozyma visegradensis","Bandoniozyma visegradensis","Bandoniozyma","","Tremellales",4,2,5]]}
+{"4201":{"Path":["0","0","2401","4201"],"Coordinates":[0.34231911415195576,0.26726589689595992,0.45997374251102896],"Categories":["Bandoniozyma visegradensis","Bandoniozyma visegradensis","Bandoniozyma","","Tremellales"],"Properties":[3,2,4]}}

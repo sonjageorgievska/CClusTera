@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3616,0.52762913207564233,0.61188097380952988,0.580634950610622,"Candida marilandica","Candida marilandica","Candida","","Saccharomycetales",5,4,5]]}
+{"3616":{"Path":["0","0","3616","3616"],"Coordinates":[0.65493581066581819,0.48857291589844964,0.59684143229964937],"Categories":["Candida marilandica","Candida marilandica","Candida","","Saccharomycetales"],"Properties":[6,3,5]}}

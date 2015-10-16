@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1049,0.70286676684618044,0.46260646484430118,0.58794195122600845,"Lachancea cidri","Lachancea cidri","Lachancea","Saccharomycetaceae","Saccharomycetales",7,3,5]]}
+{"1049":{"Path":["0","0","393","1049"],"Coordinates":[0.50481188759144735,0.62328778816681818,0.64271081376930717],"Categories":["Lachancea cidri","Lachancea cidri","Lachancea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,5]}}

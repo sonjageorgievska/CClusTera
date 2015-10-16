@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1657,0.55649853810296579,0.51085783176769728,0.43653917242980539,"Candida savonica","Candida savonica","Candida","","Saccharomycetales",5,4,3]]}
+{"1657":{"Path":["0","0","1657","1657"],"Coordinates":[0.51366150904632946,0.54480756073734127,0.6389460374438134],"Categories":["Candida savonica","Candida savonica","Candida","","Saccharomycetales"],"Properties":[5,4,5]}}

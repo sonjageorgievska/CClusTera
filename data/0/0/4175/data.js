@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4175,0.49285203730206056,0.40282855059586514,0.62712710390127979,"Candida middelhoveniana","Candida middelhoveniana","Candida","","Saccharomycetales",4,3,5]]}
+{"4175":{"Path":["0","0","4175","4175"],"Coordinates":[0.64073876479747027,0.39221967420132769,0.83947011403577532],"Categories":["Candida middelhoveniana","Candida middelhoveniana","Candida","","Saccharomycetales"],"Properties":[6,3,7]}}

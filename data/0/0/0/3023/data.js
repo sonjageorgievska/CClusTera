@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3023,0.44514756939176331,0.54030398002900637,0.56153059444328568,"Sporobolomyces poonsookiae","Sporobolomyces poonsookiae","Sporobolomyces","","Sporidiobolales",4,4,5]]}
+{"3023":{"Path":["0","0","0","3023"],"Coordinates":[0.59870911498546486,0.4194012872169649,0.47451166275658324],"Categories":["Sporobolomyces poonsookiae","Sporobolomyces poonsookiae","Sporobolomyces","","Sporidiobolales"],"Properties":[5,3,4]}}

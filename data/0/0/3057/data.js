@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3057,0.40712640233308167,0.73989922293799171,0.66728288906534694,"Derxomyces waltii","Derxomyces waltii","Derxomyces","","Tremellales",4,5,6]]}
+{"3057":{"Path":["0","0","3057","3057"],"Coordinates":[0.58672966168186413,0.24718945197218575,0.49247054063997142],"Categories":["Derxomyces waltii","Derxomyces waltii","Derxomyces","","Tremellales"],"Properties":[5,1,4]}}

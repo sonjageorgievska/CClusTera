@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3929,0.3199128793680695,0.91421094290771754,0.48518476352702677,"Rhodotorula straminea","Rhodotorula straminea","Rhodotorula","","Sporidiobolales",3,7,4]]}
+{"3929":{"Path":["0","0","3928","3929"],"Coordinates":[0.71786979568199394,0.24403541640801404,0.18791953367205186],"Categories":["Rhodotorula straminea","Rhodotorula straminea","Rhodotorula","","Sporidiobolales"],"Properties":[7,1,1]}}

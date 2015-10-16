@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3638,0.432714265988574,0.3391652425882139,1.0124014862531845,"Kazachstania siamensis","Kazachstania siamensis","Kazachstania","Saccharomycetaceae","Saccharomycetales",4,2,0]]}
+{"3638":{"Path":["0","0","3638","3638"],"Coordinates":[0.54595468131163272,0.75126894400328359,-0.003448354478800846],"Categories":["Kazachstania siamensis","Kazachstania siamensis","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,6,0]}}

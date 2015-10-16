@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3762,0.45702700835016663,0.72615054183979155,0.6197260562021778,"Candida alocasiicola","Candida alocasiicola","Candida","","Saccharomycetales",4,5,5]]}
+{"3762":{"Path":["0","3762","3762","3762"],"Coordinates":[0.23335792914066,0.43310718833680972,0.78790955984037858],"Categories":["Candida alocasiicola","Candida alocasiicola","Candida","","Saccharomycetales"],"Properties":[2,3,7]}}

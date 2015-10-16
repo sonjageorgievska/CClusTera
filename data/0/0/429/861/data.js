@@ -1,1 +1,1 @@
-{"titles":null,"points":[[861,0.54826037414527307,0.32619582598458652,0.36535805209508038,"Torulaspora franciscae","Torulaspora franciscae","Torulaspora","Saccharomycetaceae","Saccharomycetales",5,2,3]]}
+{"861":{"Path":["0","0","429","861"],"Coordinates":[0.34085639589376054,0.43503391819349935,0.49538476447243451],"Categories":["Torulaspora franciscae","Torulaspora franciscae","Torulaspora","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,4]}}

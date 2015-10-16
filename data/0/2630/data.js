@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2630,0.20615756516973846,0.581109428639387,0.4671996207840553,"Metschnikowia hibisci","Metschnikowia hibisci","Metschnikowia","Metschnikowiaceae","Saccharomycetales",2,4,4]]}
+{"2630":{"Path":["0","2630","2630","2630"],"Coordinates":[0.45752091458951788,0.53386231012354957,0.493016011695562],"Categories":["Metschnikowia hibisci","Metschnikowia hibisci","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,4,4]}}

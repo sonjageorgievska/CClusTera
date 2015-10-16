@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3923,0.62990351968906988,0.26276178837125475,0.65537128880495876,"Candida uthaithanina","Candida uthaithanina","Candida","","Saccharomycetales",6,2,5]]}
+{"3923":{"Path":["0","0","3923","3923"],"Coordinates":[0.746274569929015,0.45011338627137759,0.40056743723133115],"Categories":["Candida uthaithanina","Candida uthaithanina","Candida","","Saccharomycetales"],"Properties":[7,3,3]}}

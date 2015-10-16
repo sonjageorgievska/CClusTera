@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4151,0.49837325358529683,0.370881595937022,0.54627378572294982,"Wickerhamomyces tratensis","Wickerhamomyces tratensis","Wickerhamomyces","","Saccharomycetales",4,2,4]]}
+{"4151":{"Path":["0","0","4149","4151"],"Coordinates":[0.24537524024030519,0.48540311205593989,0.49781207523268739],"Categories":["Wickerhamomyces tratensis","Wickerhamomyces tratensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[2,3,4]}}

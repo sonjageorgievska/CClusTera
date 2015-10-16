@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2618,0.81963594803096151,0.68664724367675489,0.32756475052513534,"Candida novakii","Candida novakii","Candida","","Saccharomycetales",8,5,2]]}
+{"2618":{"Path":["0","0","2618","2618"],"Coordinates":[0.49461551202483817,0.71044096717794369,0.4515898213971794],"Categories":["Candida novakii","Candida novakii","Candida","","Saccharomycetales"],"Properties":[4,5,4]}}

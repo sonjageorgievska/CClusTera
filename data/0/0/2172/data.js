@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2172,0.27747068758572141,0.39470448049201817,0.47469108565286139,"Fellomyces horovitziae","Fellomyces horovitziae","Fellomyces","Cuniculitremaceae","Tremellales",2,3,4]]}
+{"2172":{"Path":["0","0","2172","2172"],"Coordinates":[0.67257807047926388,0.43318242540863583,0.36424297242591608],"Categories":["Fellomyces horovitziae","Fellomyces horovitziae","Fellomyces","Cuniculitremaceae","Tremellales"],"Properties":[6,3,3]}}

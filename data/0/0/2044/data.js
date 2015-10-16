@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2044,0.30697250735725634,0.6490829133026883,0.56734769069973823,"Sporobolomyces sasicola","Sporobolomyces sasicola","Sporobolomyces","","Sporidiobolales",3,5,5]]}
+{"2044":{"Path":["0","0","2044","2044"],"Coordinates":[0.71551624329703289,0.40695746647347242,0.42864499421583641],"Categories":["Sporobolomyces sasicola","Sporobolomyces sasicola","Sporobolomyces","","Sporidiobolales"],"Properties":[7,3,3]}}

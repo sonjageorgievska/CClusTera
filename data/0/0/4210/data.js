@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4210,0.91457890841028422,0.36743302986762522,0.50821705137992257,"Cyberlindnera samutprakarnensis","Cyberlindnera samutprakarnensis","Cyberlindnera","","Saccharomycetales",9,2,4]]}
+{"4210":{"Path":["0","0","4210","4210"],"Coordinates":[0.077909078065916515,0.53399178350544352,0.18969905392053491],"Categories":["Cyberlindnera samutprakarnensis","Cyberlindnera samutprakarnensis","Cyberlindnera","","Saccharomycetales"],"Properties":[0,4,1]}}

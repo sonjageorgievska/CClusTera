@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1083,0.626951940404523,0.31710222004299787,0.49298911806296819,"Candida hollandica","Candida hollandica","Candida","","Saccharomycetales",6,2,4]]}
+{"1083":{"Path":["0","0","1083","1083"],"Coordinates":[0.54602260704734074,0.4424359700304023,0.44653662051469284],"Categories":["Candida hollandica","Candida hollandica","Candida","","Saccharomycetales"],"Properties":[5,3,4]}}

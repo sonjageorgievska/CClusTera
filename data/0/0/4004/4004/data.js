@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4004,0.28716935396425664,0.98564125662913027,0.65257286993832764,"Rhodotorula silvestris","Rhodotorula silvestris","Rhodotorula","","Sporidiobolales",2,7,5]]}
+{"4004":{"Path":["0","0","4004","4004"],"Coordinates":[0.60917376685232139,0.34502908361060208,0.57675183058368618],"Categories":["Rhodotorula silvestris","Rhodotorula silvestris","Rhodotorula","","Sporidiobolales"],"Properties":[6,2,5]}}

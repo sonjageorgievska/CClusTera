@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4030,0.68602226194267923,0.49370877566977378,0.37654503343034529,"Candida palmyrensis","Candida palmyrensis","Candida","","Saccharomycetales",6,3,3]]}
+{"4030":{"Path":["0","0","4030","4030"],"Coordinates":[0.44150775056902847,0.75380636176800431,0.53242069792905833],"Categories":["Candida palmyrensis","Candida palmyrensis","Candida","","Saccharomycetales"],"Properties":[4,6,4]}}

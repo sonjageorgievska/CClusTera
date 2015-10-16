@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3499,0.31824382241650717,0.60131679267025129,0.56793229992782857,"Pseudozyma graminicola","Pseudozyma graminicola","Pseudozyma","Ustilaginaceae","Ustilaginales",3,4,5]]}
+{"3499":{"Path":["0","2609","3499","3499"],"Coordinates":[0.64624031516568647,0.39951074679568827,0.59366127224316723],"Categories":["Pseudozyma graminicola","Pseudozyma graminicola","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[6,3,5]}}

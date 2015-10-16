@@ -1,1 +1,1 @@
-{"titles":null,"points":[[631,0.80579739156035768,0.41499458396225858,0.13458081830143048,"Candida pseudolambica","Candida pseudolambica","Candida","","Saccharomycetales",8,3,1]]}
+{"631":{"Path":["0","0","631","631"],"Coordinates":[0.44361332984981688,0.71026142478818,0.48460213307775929],"Categories":["Candida pseudolambica","Candida pseudolambica","Candida","","Saccharomycetales"],"Properties":[4,5,4]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3257,0.40365915199542957,0.2622247873704181,0.36345593739953314,"Candida terraborum","Candida terraborum","Candida","","Saccharomycetales",4,2,3]]}
+{"3257":{"Path":["0","0","3257","3257"],"Coordinates":[0.30802485383084471,0.25649862259161144,0.5833825851421458],"Categories":["Candida terraborum","Candida terraborum","Candida","","Saccharomycetales"],"Properties":[3,2,5]}}

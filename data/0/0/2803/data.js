@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2803,0.522741310266271,0.61302821024760734,0.721109245489855,"Ogataea ramenticola","Ogataea ramenticola","Ogataea","Saccharomycetaceae","Saccharomycetales",5,4,6]]}
+{"2803":{"Path":["0","0","2803","2803"],"Coordinates":[0.83371951186544868,0.72830517666839745,0.26663585614732332],"Categories":["Ogataea ramenticola","Ogataea ramenticola","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[8,5,2]}}

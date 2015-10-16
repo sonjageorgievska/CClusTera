@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2680,0.35969648600801929,0.38525899119818541,0.48026707991108747,"Danielozyma ontarioensis","Danielozyma ontarioensis","Danielozyma","","",3,3,4]]}
+{"2680":{"Path":["0","0","2678","2680"],"Coordinates":[0.35901078198002206,0.14707522409124146,0.32323019362901578],"Categories":["Danielozyma ontarioensis","Danielozyma ontarioensis","Danielozyma","",""],"Properties":[3,1,2]}}

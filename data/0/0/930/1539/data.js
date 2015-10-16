@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1539,0.58703720827550043,0.61078463872529742,0.655896025035208,"Ambrosiozyma philentoma","Ambrosiozyma philentoma","Ambrosiozyma","","Saccharomycetales",5,4,5]]}
+{"1539":{"Path":["0","0","930","1539"],"Coordinates":[0.86232646066456231,0.58012121710758779,0.64492535210256052],"Categories":["Ambrosiozyma philentoma","Ambrosiozyma philentoma","Ambrosiozyma","","Saccharomycetales"],"Properties":[8,4,5]}}

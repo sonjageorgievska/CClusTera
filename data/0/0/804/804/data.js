@@ -1,1 +1,1 @@
-{"titles":null,"points":[[804,0.67723964183033125,0.84136495897607888,0.60838819144407419,"Lodderomyces elongisporus","Lodderomyces elongisporus","Lodderomyces","Saccharomycetaceae","Saccharomycetales",6,6,5]]}
+{"804":{"Path":["0","0","804","804"],"Coordinates":[0.72030297316472269,0.52142786106157235,0.68399254994954928],"Categories":["Lodderomyces elongisporus","Lodderomyces elongisporus","Lodderomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,4,6]}}

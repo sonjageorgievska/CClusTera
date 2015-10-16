@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3853,0.51471134886815328,0.47886439698371985,0.5399752812655092,"Candida asiatica","Candida asiatica","Candida","","Saccharomycetales",5,3,4]]}
+{"3853":{"Path":["0","0","3853","3853"],"Coordinates":[0.254344875311421,0.2740992644218988,0.643783381568436],"Categories":["Candida asiatica","Candida asiatica","Candida","","Saccharomycetales"],"Properties":[2,2,5]}}

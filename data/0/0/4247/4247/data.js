@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4247,0.86353219473815446,0.55121598459576415,0.63915245751274041,"Wickerhamomyces mori","Wickerhamomyces mori","","","",8,4,5]]}
+{"4247":{"Path":["0","0","4247","4247"],"Coordinates":[0.28405866066141006,0.77150423619337938,0.433411116792313],"Categories":["Wickerhamomyces mori","Wickerhamomyces mori","","",""],"Properties":[2,6,3]}}

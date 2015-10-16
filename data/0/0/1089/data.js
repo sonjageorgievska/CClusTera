@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1089,0.33513665991972813,0.430291162556774,0.22614425653996154,"Saturnispora saitoi","Saturnispora saitoi","Saturnispora","Saccharomycetaceae","Saccharomycetales",3,3,2]]}
+{"1089":{"Path":["0","0","1089","1089"],"Coordinates":[0.44867390712617206,0.72697170330103911,0.81711833112846832],"Categories":["Saturnispora saitoi","Saturnispora saitoi","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,7]}}

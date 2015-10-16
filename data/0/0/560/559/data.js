@@ -1,1 +1,1 @@
-{"titles":null,"points":[[559,0.47266253813464809,0.61408079151703532,0.613007489889846,"Wickerhamomyces chambardii","Wickerhamomyces chambardii","Wickerhamomyces","","Saccharomycetales",4,4,5]]}
+{"559":{"Path":["0","0","560","559"],"Coordinates":[0.32769067737608903,0.83229215097446252,0.59097001320960385],"Categories":["Wickerhamomyces chambardii","Wickerhamomyces chambardii","Wickerhamomyces","","Saccharomycetales"],"Properties":[3,6,5]}}

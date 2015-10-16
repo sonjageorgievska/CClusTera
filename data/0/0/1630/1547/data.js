@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1547,0.32082731139021636,0.33150079155219536,0.44287826232912336,"Cryptococcus bhutanensis","Cryptococcus bhutanensis","Cryptococcus","Tremellaceae","Tremellales",3,2,3]]}
+{"1547":{"Path":["0","0","1630","1547"],"Coordinates":[0.59925230597960444,0.37530370038901079,0.45980419251839588],"Categories":["Cryptococcus bhutanensis","Cryptococcus bhutanensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,3,4]}}

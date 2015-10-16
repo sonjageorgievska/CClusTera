@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2280,0.47572505217101685,0.641357840032419,0.34419031818032775,"Agaricostilbum hyphaenes","Agaricostilbum hyphaenes","Agaricostilbum","Agaricostilbaceae","Agaricostilbales",4,5,3]]}
+{"2280":{"Path":["0","0","2280","2280"],"Coordinates":[0.59107925464797328,0.32838630031304072,0.54430594384597875],"Categories":["Agaricostilbum hyphaenes","Agaricostilbum hyphaenes","Agaricostilbum","Agaricostilbaceae","Agaricostilbales"],"Properties":[5,2,4]}}

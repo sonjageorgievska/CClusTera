@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2519,0.49228422962200685,0.67637490305707781,0.84059360047708986,"Vanderwaltozyma yarrowii","Vanderwaltozyma yarrowii","Vanderwaltozyma","Saccharomycetaceae","Saccharomycetales",4,5,7]]}
+{"2519":{"Path":["0","0","2519","2519"],"Coordinates":[0.34645750161331068,0.39796465783494422,0.62127597706403981],"Categories":["Vanderwaltozyma yarrowii","Vanderwaltozyma yarrowii","Vanderwaltozyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,5]}}

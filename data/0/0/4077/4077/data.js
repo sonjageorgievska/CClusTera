@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4077,0.48313566947159925,0.052127907558420034,0.45494079648727864,"Candida nongkhaiensis","Candida nongkhaiensis","Candida","","Saccharomycetales",4,0,4]]}
+{"4077":{"Path":["0","0","4077","4077"],"Coordinates":[0.35209498495320785,0.39766996164551072,0.93015455328847385],"Categories":["Candida nongkhaiensis","Candida nongkhaiensis","Candida","","Saccharomycetales"],"Properties":[3,3,8]}}

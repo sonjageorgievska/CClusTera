@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2287,0.45023132773745045,0.77657114147107764,0.41524099107710583,"Candida stellimalicola","Candida stellimalicola","Candida","","Saccharomycetales",4,6,3]]}
+{"2287":{"Path":["0","2287","2287","2287"],"Coordinates":[0.79009505474034947,0.75053186292796226,0.61173672205429408],"Categories":["Candida stellimalicola","Candida stellimalicola","Candida","","Saccharomycetales"],"Properties":[7,6,5]}}

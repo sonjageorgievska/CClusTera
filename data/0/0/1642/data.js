@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1642,0.60050384716844363,0.5517214329466289,0.59298275574726567,"Candida kruisii","Candida kruisii","Candida","","Saccharomycetales",6,4,5]]}
+{"1642":{"Path":["0","0","1642","1642"],"Coordinates":[0.69117891658851316,0.45372731066507549,0.41344688529240148],"Categories":["Candida kruisii","Candida kruisii","Candida","","Saccharomycetales"],"Properties":[6,3,3]}}

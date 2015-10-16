@@ -1,5 +1,5 @@
 ﻿<html>
-<head>   
+<head>
     <style>
 
 
@@ -10,39 +10,28 @@
              left: 285;
              right: 0;
              z-index: 0;
-         }
+         }         
 
-
-         #label {
+           #sliderObj {
              position: absolute;
-             top: 80;
+             top: 200;
              left: 15;
              z-index: 1;
-             color: black;
-             font-family: sans-serif;
-         }
-
-         #label2 {
-             position: absolute;
-             top: 80;
-             left: 60;
-             z-index: 1;
-             color: black;
-             font-family: sans-serif;
-         }
-
-         #labelcolor {
-             position: absolute;
-             top: 220;
-             left: 15;
-             z-index: 1;
-             color: black;
              font-family: sans-serif;
          }
 
           #labelproperty {
              position: absolute;
-             top: 155;
+             top: 235;
+             left: 15;
+             z-index: 1;
+             color: black;
+             font-family: sans-serif;
+         }
+
+          #labelcolor {
+             position: absolute;
+             top: 300;
              left: 15;
              z-index: 1;
              color: black;
@@ -66,39 +55,26 @@
              font-family: sans-serif;
          }
 
-         #labelnode {
+         #comboObj {
              position: absolute;
-             top: 10;
+             top: 260;
              left: 15;
              z-index: 1;
-             color: black;
              font-family: sans-serif;
          }
 
-         /*#sliderObj {
-             position: absolute;
-             top: 110;
-             left: 15;
-             z-index: 1;
-             font-family: sans-serif;
-         }*/
+       
 
 
           #colortable {
              position: absolute;
-             top: 240;
+             top: 320;
              left: 15;
              z-index: 1;
              font-family: sans-serif;
          }
 
-         #comboObj {
-             position: absolute;
-             top: 180;
-             left: 15;
-             z-index: 1;
-             font-family: sans-serif;
-         }
+        
 
           /*#comboObj2 {
              position: absolute;
@@ -111,46 +87,132 @@
 </head>
 
 <body>
-
+    <!--UI components-->
     <input type="text" name="search" id="search" class="textbox" />
-    <button style="background-color:white" onclick="searchSequence()" name="button">Search</button>
+    <button style="background-color:white; font: 14px Arial" onclick="searchSequence()" name="button" >Search</button>
     <p> </p>
-    <button style="background-color:white" onclick="fastLoadAllData()" name="button">Load all data</button>
+    <button style="background-color:white ; font: 14px Arial" onclick="fastLoadAllData()" name="button">Load all data</button>
+    <p> </p>
+    <button style="background-color:white ; font: 14px Arial" onclick="ReturnAllColors()" name="button">Resume colors</button>
+    <p> </p>
+    <button style="background-color:white ; font: 14px Arial" onclick="ShowExpandableNodes()" name="button">Show expandable</button>
     <p> </p>
     <input type="checkbox" name="showedges" id="showedges" />
-
-    <label> Show edges</label> 
-    
+    <label style=" font: 15px Arial"> Show edges</label>
     <div id="frame"></div>
-    <!--<div id="graph"></div>-->
-    <!--<div id="sliderObj" min="0" max="4" step="1" value="0" vertical="false" size="245"></div>-->
-    <!--<div id="label">Level: </div>-->
-    <!--<div id="labelnode">Sequence id: </div>-->
-    <!--<div id="label2">0</div>-->
-
-    <div id="labelproperty">Colorize by a numerical property:</div>
+    <div id="sliderObj" min="0" step="1" value="0" vertical="false" size="245"></div>
+    <div id="labelproperty" style=" font: 15px Arial">Colorize by a numerical property:</div>
     <!--<div id="labelproperty2">Colorize by family, type, etc:</div>-->
-    <div id="labelcolor">Click inside to select a color:</div>
+    <div id="labelcolor" style=" font: 15px Arial" >Click inside to select a color:</div>
     <div id="comboObj" width="245"></div>
     <!--<div id="comboObj2" width="245"></div>-->
     <!--<div id="colorpickerObj"></div>-->
+   
+   
+    
 
     <table cellspacing="2" cellpadding="2" border="0" id="colortable">
-        <tr><td><input type="text" id="inputcolor" colorbox="true"></td></tr>
+        <tr>
+            <td><input type="text" id="inputcolor" colorbox="true"></td>
+        </tr>
     </table>
 
     <link rel="stylesheet" type="text/css" href="src/dhtmlx.css">
     <script src="src/dhtmlx.js"></script>
     <script src="dist/graphosaurus.js"></script>
-    <script src="src/uifunctions.js"></script>    
-    <script src="data/smalldata.js"></script><!--use this if you want to include a js file (with data e.g.) before loading the page. Great for small data sitting on the server-->
-    <script src="data/level.js"></script>
-
-    <!--<script src="data/smalldata.js"></script>-->
+    <script src="src/uifunctions.js"></script>      
+    <script src="data/MetaData.js"></script>      
     <script charset="4">
+                
+        //global variables definitions start here    
+        var frameStartsAt = 285;
+        var edgesShow = document.getElementById("showedges");            
+        var myColorpicker;       
+        var cursorX;
+        var cursorY;       
+        var mySlider;   
+        var myPop = new dhtmlXPopup();
+        var myPopSlider;
+        var pointsSet;
+        var previousNumberOfNodes = []; //is used in ctrl+z, for every click
+        var previousNumberOfEdges = []; //is used in ctrl+z, for every click
+        var clicked = 0; //is used in ctrl+z
+        var lastOpenNode = [];//is used in ctrl+z, for every click
+        var nodesColor = "yellow";
+        var CurrentDir = [];//for every nodeID. should be actually a property of the node, move it if you have time.
+        var CurrentLevel = [];//also
+        var edges = [];//edges is a backup of the current edges in the graph, regardless of whether they are shown or not  . should be a backupEdges property of the graph
+        var previoslyhoveredNode;//hovering changes temporarily the color of a node to white, therefore we need to remember this
+        var previosHoveredcolor;//the color of previoslyhoveredNode
+        var smallData;
+        var graph = InitializeGraph(); 
+        var renderFrame;
+        var totalNumberOfLevels;
+        var selectedPropertyIndex;
+        var previousColor = [];
+        //global variables definitions end here 
 
-      //for asynchronously downloading a file from the server. do not change it
-        function fetchJSONFile(path, callback) {
+        //global code starts here
+        if ( bigData == false) {
+            mySlider = new dhtmlXSlider("sliderObj");
+            myPopSlider = new dhtmlXPopup({ slider: mySlider });
+            defineSlider();
+            updateSliderPopupValue(mySlider.getValue());
+        }
+        defineCombo();
+        // defineCombo2();
+        defineColorPicker2();
+        document.onmousemove = function (e) {//we have to track where the mouse is for the pop-up message
+
+            cursorX = e.clientX;
+            cursorY = e.clientY;
+        }
+        document.onclick = function (e) {
+            myPop.hide();
+        }      
+
+        //this requests the file and executes a callback with the parsed result once
+        // it is available. Calling the level zero
+        fetchJSONFile("data/data.js", function (data) {
+            // do something with your data
+            totalNumberOfLevels = FindTotalNumberOfLevels(data);
+            if (bigData == false) { mySlider.setMax(totalNumberOfLevels - 1); }
+            AddLevelZero(data);
+            renderFrame = graph.renderIn("frame");
+            renderFrame.reDrawMe();
+
+        });
+
+        document.onkeydown = KeyPress;//see src/uifunctions.js. This function is for handling ctrl+z events
+        edgesShow.checked = false; //hide edges by default
+        edgesShow.onchange = function () {
+            redrawSameScene();
+        }
+
+        //global code ends here 
+
+        //the functions definitions start here
+        
+        function InitializeGraph()
+        {
+            return G.graph({
+                sizeAttenuation: true,//whether to change the size of the nodes for a 3D effect or not
+                nodeImage: "examples/eve-universe/disc.png",
+                nodeImageTransparent: true,
+                antialias: true,
+                bgColor: 'lightgrey',//'lightskyblue',
+                nodeSize: 0.016,//change to 1 if sizeAttenuation = false, otherwise the nodes are too small and not visible
+                edgeWidth: 0.005,//change to 1 if sizeAttenuation = false
+                hover: function (node) {//what should happen when a user hovers over a node with the mouse
+                    HandleNodeHovering(node);
+                },
+                mousedown: function (node) {//what should happen when a user clicks on a node
+                    HandleNodeClicking(node);
+                }
+            });
+        }
+       
+        function fetchJSONFile(path, callback) { //for asynchronously downloading a file from the server. do not change it
             var httpRequest = new XMLHttpRequest();
             httpRequest.onreadystatechange = function () {
                 if (httpRequest.readyState === 4) {
@@ -163,212 +225,97 @@
             httpRequest.open('GET', path);
             httpRequest.send();
         }
-        
-        
-
-        document.onkeydown = KeyPress;//see src/uifunctions.js. This function is for handling ctrl+z events
-        var edgesShow = document.getElementById("showedges");
-
-        edgesShow.checked = true; //show edges by default
-
-        edgesShow.onchange = function () {
-            redrawSameScene();
-        }
-        
-        defineCombo();      
-       // defineCombo2();        
-        var myColorpicker;
-        defineColorPicker2();
-
-        var cursorX;
-        var cursorY;
-        document.onmousemove = function (e) {//we have to track where the mouse is for the pop-up message
-
-            cursorX = e.clientX;
-            cursorY = e.clientY;
-        }
-
-        document.onclick = function (e) {
-            myPop.hide();
-        }
-        
-        //var mySlider = new dhtmlXSlider("sliderObj");
-        //defineSlider();
-
-        var myPop = new dhtmlXPopup();
-        //var myPopSlider = new dhtmlXPopup({ slider: mySlider });
-
-        //updateSliderPopupValue(mySlider.getValue())
-
-        var pointsSet;
-        var previousNumberOfNodes = []; //is used in ctrl+z, for every click
-        var previousNumberOfEdges = []; //is used in ctrl+z, for every click
-        var clicked = 0; //is used in ctrl+z
-        var lastOpenNode = [];//is used in ctrl+z, for every click
-        var nodesColor = "white";
-
-        var CurrentDir = [];//for every nodeID. should be actually a property of the node, move it if you have time.
-        var CurrentLevel = [];//also
-
-        var edges = [];//edges is a backup of the current edges in the graph, regardless of whether they are shown or not  . should be a backupEdges property of the graph      
-        var labelPositionX = [];//leftover from when I was trying to put labels on the expandable nodes. not used
-        var labelPositionY = [];
-        //for debugging
-        var previoslyhoveredNode;
-        var previoscolor;
-        //endfordebugging
-
-        var graph = G.graph({
-            sizeAttenuation:true,
-            nodeImage: "examples/eve-universe/disc.png",
-            nodeImageTransparent: true,
-            antialias: true,
-            bgColor: 'lightgrey',//'lightskyblue',
-            edgeWidth: 1,
-            nodeSize: 0.016,
-            edgeWidth: 0.005,
-            hover: function (node) {//what should happen when a user hovers over a node with the mouse                             
-                ////for debugging
-                if (previoslyhoveredNode != undefined)
-                {
-                    var stringColor = "#" + previoscolor;                    
-                    previoslyhoveredNode.setColorHex(stringColor);
-                }
-                previoscolor = node.getColor();
-                previoslyhoveredNode = node;
-                node.setColor("rgb(255,255,255)");
-                redrawSameScene();
-                ////endfordebugging
-                var props = node._propertiesValues;
-                var text = node.getId() + "<br>" + props[0] + "<br>" + props[2] +  "<br>" + props[4]
-              
-                if (node._expandable) { text = "Click me! <br> " + text; }
-                myPop.attachHTML(text);
-               
-                myPop.show(cursorX, cursorY, 2, 3); //params are: x, y, width, height. 3 and 5 are number of pixels relative to the node where the message should appear(you can play with these numbers)
-            },
-            mousedown: function (node) {//what should happen when a user clicks on a node
-                if (node._expandable) {
-                    clicked++;
-                    lastOpenNode[clicked] = node;
-
-                    previousNumberOfNodes[clicked] = graph.getNodes().length;
-                    if (edges.length == 0)
-                    { previousNumberOfEdges[clicked] = 0; }
-                    else
-                    {
-                        previousNumberOfEdges[clicked] = edges.length;
-                    }
-                    AddNextLevelForNode(node.getId());
-                   
-                }
-            }
-        });
-    
-        var renderFrame;
-
-
-        //this requests the file and executes a callback with the parsed result once
-        // it is available. Calling the level zero
-        fetchJSONFile("data/data.js", function (data) {
-            // do something with your data
-            
-            AddLevelZero(data.points);
-           
-            renderFrame = graph.renderIn("frame");
-            renderFrame.reDrawMe();
-            //alert(data[0]);
-        });
-
-               
-        function AddLevelZero(data) //data is a list of lists. The latter has 4 numbers: id,  and 3 cooordinates
-        {
-            for (var i = 0; i < data.length; i++) {
-                var point = data[i];
-                var pointid = point[0];
-                var coords = point.slice(1, 4);
-                var red = Math.floor((coords[0] * coords[0] * 1643 % 256) + 1);
-                var green = Math.floor((coords[1] * coords[1] * 328 % 256) + 1);
-                var blue = Math.floor((coords[2] * coords[2] * 487 % 256) + 1);
-                var properties = point.slice(4, point.length);
-
-                var node = G.node(coords, {
-                    id: pointid,
-                    propertiesValues: properties,
-                    //expandable: CheckIfNodeIsExpandable(pointid, "data"),
-                });
-                node.setColor("rgb(" + red + "," + green + "," + blue + ")");
-                node.name = pointid;
-                node.addTo(graph);
-                CheckIfNodeIsExpandable(pointid, "data");
-                
-                CurrentDir[pointid] = "data";
-                CurrentLevel[pointid] = 0;
-            }
-
-        }
-
        
+        function HandleNodeHovering(node) {
+            if (previoslyhoveredNode != undefined)//if some node was hovered before, return its color
+            { previoslyhoveredNode.setColorHex("#" + previosHoveredcolor); }
+            previosHoveredcolor = node.getColor();
+            previoslyhoveredNode = node;
+            node.setColor("white");//make hovered node white
+            redrawSameScene();
+            var categories = node._categoriesValues;
+            var text = node.getId(); //+ "<br>" + props[0] + "<br>" + props[2] + "<br>" + props[4]
+            for (var i = 0; i < categories.length; i++) { text += "<br>" + categories[i]; }
+            if (node._expandable) { text = "Click me! <br> " + text; }
+            myPop.attachHTML(text);
+            myPop.show(cursorX, cursorY, 2, 3); //params are: x, y, width, height. 3 and 5 are number of pixels relative to the node where the message should appear(you can play with these numbers)
+        }
 
-        function AddNextLevelForNode(nodeId)
+        function HandleNodeClicking(node) {
+            if (node._expandable) {
+                clicked++;
+                lastOpenNode[clicked] = node;
+                previousNumberOfNodes[clicked] = graph.getNodes().length;
+                if (edges.length == 0)
+                { previousNumberOfEdges[clicked] = 0; }
+                else
+                { previousNumberOfEdges[clicked] = edges.length; }
+                AddNextLevelForNode(node.getId());
+            }
+        }
+
+        function AddLevelZero(data) //adds all data in 'data', the latter should contain only the zero level
         {
+            for (var key in data) {
+                AddNodeAtLevelZero(data, key);
+                CheckIfNodeIsExpandable(key, "data");
+            }
+        }
+
+        function PrepareColorZero(coords) {
+            var red = Math.floor((coords[0] * coords[0] * 1643 % 256) + 1);
+            var green = Math.floor((coords[1] * coords[1] * 328 % 256) + 1);
+            var blue = Math.floor((coords[2] * coords[2] * 487 % 256) + 1);
+            return "rgb(" + red + "," + green + "," + blue + ")";
+        }
+
+        function AddNextLevelForNode(nodeId) {
             //this requests the file and executes a callback with the parsed result once
             // it is available
             var path = CurrentDir[nodeId] + "/" + nodeId + "/data.js";
-            CurrentLevel[nodeId]++;             
+
             fetchJSONFile(path, function (data) {
                 var dir = CurrentDir[nodeId];
-                AddPointsFromList(data.points, nodeId, CurrentLevel[nodeId], dir);                               
+                AddPointsFromList(data, nodeId, CurrentLevel[nodeId], dir);
                 redrawSameScene();
-                
-            });          
-        }
-      
-        function AddLevelForNodeIfNotAdded(nodeId, level)
-        {
-           // if (CurrentLevel[nodeId] < level) {
-                AddNextLevelForNode(nodeId);
-           // }
+            });
         }
 
-       
-
-        function CheckIfNodeIsExpandable(nodeId, startdir)
-        {
-            var node = graph._nodeIds[nodeId];
+        function CheckIfNodeIsExpandable(nodeId, startdir) {
+            var node = graph._nodeIds[nodeId];            
             if (node != undefined) {
                 node._expandable = false;
-                //var nodeId = node.getId();
-                var path = startdir + "/" + nodeId + "/data.js";
-
-                fetchJSONFile(path, function (data) {
-                    if (data.points.length > 1) {
-                        node._expandable = true;
-                        return;
-                    }
-                    else {
-                        CheckIfNodeIsExpandable(nodeId, startdir + "/" + nodeId);
-                    }
-                });
+                if (NumberOfLevels(startdir) < totalNumberOfLevels - 1) {                    
+                    var file = startdir + "/" + nodeId + "/data.js";
+                    fetchJSONFile(file, function (data) {
+                        if (Object.keys(data).length > 1) {
+                            node._expandable = true;                            
+                        }
+                        else {
+                            CheckIfNodeIsExpandable(nodeId, startdir + "/" + nodeId);
+                        }
+                    });
+                }
             }
-            
         }
 
-        function AddPointsFromList(data, parentid, level, dir) //data is a list of a list. The latter has 4 numbers: id,  and 3 cooordinates
+        function NumberOfLevels(startdir)
         {
-            var y = parentid;
+            var r = (startdir.split("/").length - 1)
+            return r; 
+        }
 
-            var colorPoint = PrepareColor(level, parentid);
-
-            for (var i = 0; i < data.length; i++) {
-                PrepareNodeAndAddIt(data, i, colorPoint);
-                var pointid = data[i][0]; 
+        function AddPointsFromList(data, parentid, level, dir) {
+            var colorPoint = PrepareColor(level + 1, parentid);
+            for (var key in data) {
+                PrepareNodeAndAddIt(data, key, colorPoint);
+                var pointid = key;
                 CurrentDir[pointid] = dir + "/" + parentid;
+                CurrentLevel[pointid]++;
+                
                 CheckIfNodeIsExpandable(pointid, CurrentDir[pointid]);
-
-                AddNewEdge(y, pointid, colorPoint);
-            }                                
-            
+                AddNewEdge(parentid, pointid, colorPoint);
+            }
         }
 
         function PrepareColor(level, parentId)// a unique color per parent and level
@@ -377,153 +324,153 @@
             return "rgb(" + 111 * (level + 1) * (y + 1) % 256 + "," + 20 * (level + 1) * (y + 1) % 256 + "," + 50 * (level + 1) * (y + 1) % 256 + ")";
         }
 
-        function PrepareNodeAndAddIt (data, i, colorPoint )
-        {
-            var point = data[i];
-            var pointid = point[0];
-            var coords = point.slice(1, 4);
-            var nodeproperties = point.slice(4, point.length);
-
+        function PrepareNodeAndAddIt(data, key, colorPoint) {
+            var point = data[key];
+            var pointid = key;
+            var coords = point.Coordinates;
+            var nodecategories = point.Categories;
+            var nodeProperties = point.Properties;
             var node = G.node(coords, {
                 id: pointid,
-                propertiesValues: nodeproperties,
+                categoriesValues: nodecategories,
+                propertiesValues: nodeProperties,
                 color: colorPoint,
             });
-
             node.addTo(graph);
-            
+            var node = graph.getNode(key);
+            node.setColor(colorPoint);
         }
-      
-        
 
-        
-        function fastLoadAllData()
-        {
-            if (eve == undefined || eve.length == 0 || lev == undefined)
+        function fastLoadAllData() {
+            if (bigData == true)
             {
-                alert("All data cannot be loaded. Please click on nodes or use the slidebar");
+                alert("There is too much data, please click on nodes to expand their clusters");
+            }
+            else
+            {
+                fastLoadUpToLevel(totalNumberOfLevels - 1);
+            }
+        }
+
+        function fastLoadUpToLevel(level) {
+            if (smallData == undefined) {
+                fetchJSONFile("data/smalldata.js", function (data) {
+                    smallData = data;
+                    FastImportData(smallData, level);
+                });
             }
             else {
-
-                fetchJSONFile("data/data.js", function (data) {
-                    // do something with your data
-                    RemoveAllEdges();
-                    RemoveAllNodes();
-                    AddLevelZero(data.points);
-                    AddUpToLevel(lev.length-1);
-                    redrawSameScene();
-                });
-
+                FastImportData(smallData, level);
             }
         }
 
-
-        function LoadUpToLevel(sliderlevel) {//if you have cashed data in one file on the server, you can add an if-statement here to call that data instead
-           
-                //I am removing everything first because data was loaded asynchronously (out of order). Synchronous loading degrades user experience. Probably this (async) can be optimized anyway, but I don't have time
-                RemoveAllEdges();
-                RemoveAllNodes();
-                var level = 0;
-                var dir = "data";
-              
-                AddDataFromFiles(dir, level, sliderlevel, "t");
-           
-            
-   
+        function FastImportData(data, level) {
+            RemoveAllEdges();
+            RemoveAllNodes();
+            FastAddUpToLevel(level, totalNumberOfLevels, data);
+            redrawSameScene();
         }
 
-        function AddUpToLevel(sliderlevel) {
-            for (var level = 1; level <= sliderlevel; level++) {
-                if ( level < lev.length ) {
-                    for (var i = 0; i < eve.points.length; i++) {
-                        var system = eve.points[i];
-                        var systemId = system[0];
+        function FindTotalNumberOfLevels(data) {
+            var levels = 0;
+            for (var key in data) {
+                var path = data[key].Path;
+                levels = path.length + 1;
+                return levels;
+            }
+            return levels;
+        }
 
-                        if (graph._nodeIds[systemId] == undefined) {
-                            var x = lev[level];
-                            var y = x[systemId];
-                            var colorPoint = PrepareColor(level, y);
-                            if (y != "f" && y != "t") {
-                                PrepareNodeAndAddIt(eve.points, i, colorPoint);
-                                if (level > 0) {
-                                    AddNewEdge(y, systemId, colorPoint);
+        function FastAddUpToLevel(sliderlevel, total, data) {
+            if (sliderlevel < total) {
+                FastLoadLevelZero(data, sliderlevel);                             
+                for (var level = 1; level <= sliderlevel; level++) {
+                    for (var key in data) {
+                        var system = data[key];
+                        var path = system.Path;
+                        if (level < total - 1) {
+                            if (path[level] == key) {
+                                FastAddNode(path, level, data, key);
+                                var node = graph.getNode(key);
+                                if (level == sliderlevel) {                                    
+                                    CheckIfNodeIsExpandable(key, CurrentDir[key]);
                                 }
-                                var node = graph.getNode(systemId);
-                                node._expandable = false;
                             }
+                        }
+                        else {
+                            FastAddNode(path, level, data, key);
+                            var node = graph.getNode(key);
+                            node._expandable = false;                      
                         }
                     }
                 }
-            }
-
+            }            
         }
-       
-      
 
-        function AddDataFromFiles(dir, level, sliderlevel, parentId)
+        function FastAddNode(path, level, data, key)
         {
-           
-            if (level <= sliderlevel) {
-                var path = dir + "/data.js";
+            var systemId = key;
+            var parent = path[level - 1];
+            var colorPoint = PrepareColor(level, parent);
+            PrepareNodeAndAddIt(data, key, colorPoint);
+            if (level > 0 && parent != systemId) {
+                AddNewEdge(parent, systemId, colorPoint);
+            }
+            var node = graph.getNode(systemId);
+            if (CurrentDir[systemId] == undefined && CurrentLevel[parent] == level) //if node systemId appears for the first time
+                {
+                    CurrentDir[systemId] = CurrentDir[parent];
+                }
+                else { CurrentDir[systemId] = CurrentDir[parent] + "/" + parent; }
+            
+            CurrentLevel[systemId]++;            
+        }
 
-                fetchJSONFile(path, function (data) {
-                    
-                    var listOfFolders = [];
-                    if (level == 0) { y = 1; }
-                    else { y = parentId; }
-                    var colorPoint = PrepareColor(level, y);
-                    for (var i = 0; i < data.points.length; i++) {
-                        PrepareNodeAndAddIt(data.points, i, colorPoint);
-                        var pointId = data.points[i][0];
-                        CheckIfNodeIsExpandable(pointId, dir);
-
-                        if (CurrentDir[pointId] == undefined ||  dir.length > CurrentDir[pointId].length) {
-                            CurrentDir[pointId] = dir;//regardless of whether the node was already in the graph
+        function FastLoadLevelZero(data, sliderlevel) {
+            var level = 0;
+            for (var key in data) {
+                var point = data[key];
+                CurrentLevel[key] = undefined;
+                CurrentDir[key] = undefined;
+                var path = point.Path;
+                if (graph._nodeIds[key] == undefined) {
+                    if (path[level] == key) {
+                        AddNodeAtLevelZero(data, key);
+                        graph.getNode(key)._expandable = false;
+                        if (sliderlevel == 0) {
+                            CheckIfNodeIsExpandable(key, "data");
                         }
-                        if ( CurrentLevel[pointId] == undefined ||  level > CurrentLevel[pointId])
-                        {
-                            CurrentLevel[pointId] = level; 
-                        }
-                        listOfFolders.push(dir + "/" + pointId);
-                        if (level > 0) {
-                            AddNewEdge(parentId, pointId, colorPoint);
-                        }
-                        
                     }
-                    
-                    listOfFolders.forEach(function (entry) {
-                        var n = entry.lastIndexOf("/");
-                        var parent  = entry.substring(n+1, entry.length);
-                        AddDataFromFiles(entry, level + 1, sliderlevel, parent);
-                       
-                    });
-                    redrawSameScene();
-                });
+                }
+               
             }
         }
 
-        function AddNewEdge(parentId, pointId, colorPoint)
-        {
+        function AddNodeAtLevelZero(data, key) {
+            var point = data[key];
+            var coords = point.Coordinates;
+            var colorNode = PrepareColorZero(coords);
+            PrepareNodeAndAddIt(data, key, colorNode);
+            var node = graph.getNode(key);
+            
+            CurrentDir[key] = "data";
+            CurrentLevel[key] = 0;
+        }
+
+        function AddNewEdge(parentId, pointId, colorPoint) {
             var y = parentId;
             var newedge = G.edge([y, pointId], {
                 color: colorPoint,
             });
-
             newedge.addTo(graph);
-
-            if (edges.length == 0) {
-                edges = graph._edges.slice();
-            }
-            else {
-                edges.push(newedge)
-            }
+            edges.push(newedge);
         }
 
-        function RemoveAllEdges() {       //not used at the moment 
-            edges = [];
+        function RemoveAllEdges() {
+            edges.splice(0, edges.length);
         }
 
-        function RemoveAllNodes() {//not used at the moment
+        function RemoveAllNodes() {
             var numberOfNodes = graph.getNodes().length;
             for (var i = 0; i < numberOfNodes; i++) {
                 graph.removeLastNode();
@@ -537,46 +484,27 @@
             }
         }
 
-        function RemoveLastEdges() {//when the user has asked to close an open node           
+        function RemoveLastEdges() {//when the user has asked to close an open node
             edges.splice(previousNumberOfEdges[clicked], edges.length - previousNumberOfEdges[clicked]);
-        }
-      
-        function RemoveAllEdgesStartingFromIndex(index)//not used
-        {
-            edges.splice(index, edges.length - index);
-        }
-
-        function RemoveAllNodesNodesStartingFromIndex(index)//not used
-        {
-            var numberOfNodes = graph.getNodes().length;
-            for (var i = 0; i < numberOfNodes - index - 1; i++) {
-                graph.removeLastNode();
-            }
         }
 
         function HideAllEdges() {//when the checkbox for show edges is unchecked
-            var numberOfEdges = graph._edges.length;         
+            var numberOfEdges = graph._edges.length;
             graph._edges.splice(0, numberOfEdges);
         }
-
-        // when the  checkbox for show edges is checked. edges is a backup of the current edges in the graph, regardless of whether they are shown or not
-        function ShowAllEdges() {
-            graph._edges = edges.slice();
-        }                
        
-
-
-        var selectedPropertyIndex;
-        function Colorize (col, indexOfProperty)//colorizes the nodes that are already loaded in the graph. Means if you color while still loading data, the new data will not be colored
+        function ShowAllEdges() {// when the  checkbox for show edges is checked. edges is a backup of the current edges in the graph, regardless of whether they are shown or not
+            graph._edges = edges.slice();
+        }
+       
+        function Colorize(col, indexOfProperty)//colorizes the nodes that are already loaded in the graph. Means if you color while still loading data, the new data will not be colored
         {
-            indexOfProperty += 5;//because the first 5 are names
             var max = graph._nodes[0]._propertiesValues[indexOfProperty];
             var min = max;
-            for (var i = 0; i < graph._nodes.length; i++)
-            {
+            for (var i = 0; i < graph._nodes.length; i++) {
                 var value = graph._nodes[i]._propertiesValues[indexOfProperty];
-                if (value > max) { max = value;}
-                if (value < min) { min = value;}
+                if (value > max) { max = value; }
+                if (value < min) { min = value; }
             }
 
             var range = max - min;
@@ -588,74 +516,107 @@
 
             var redNew = col[1][0];
             var greenNew = col[1][1];
-            var blueNew =  col[1][2];
 
-            if (maxColor > 0)
-            {
-                 var factor = 255 / maxColor;
-                 redNew = factor * col[1][0];
-                 greenNew = factor * col[1][1];
-                 blueNew = factor * col[1][2];
+            if (maxColor > 0) {
+                var factor = 255 / maxColor;
+                redNew = factor * col[1][0];
+                greenNew = factor * col[1][1];
+                blueNew = factor * col[1][2];
             }
-
-            for (var i = 0; i < graph._nodes.length; i++ )
-            {
+            for (var i = 0; i < graph._nodes.length; i++) {
                 var node = graph._nodes[i];
                 var value = node._propertiesValues[indexOfProperty];
-
                 var red = col[1][0];
                 var green = col[1][1];
                 var blue = col[1][2];
-
-                if (range > 0)
-                {
+                if (range > 0) {
                     red = Math.floor(redNew * (value - min) / range);
                     green = Math.floor(greenNew * (value - min) / range);
                     blue = Math.floor(blueNew * (value - min) / range);
-                 }
-                node.setColor("rgb(" + red + "," + green + "," + blue + ")");               
+                }
+                var color = "rgb(" + red + "," + green + "," + blue + ")";
+                ChangeColor(node, color);
             }
             redrawSameScene();
         }
 
         function SearchAndColorizeByName(name)//searches the nodes that are already loaded in the graph. Means if you color while still loading data, the new data will not be colored
         {
+
             var nodes = graph.getNodes();
-            for (var i = 0; i < nodes.length; i++)
-            {
+            for (var i = 0; i < nodes.length; i++) {
                 var node = nodes[i];
-                var found = false; 
-                var properties = node._propertiesValues;
-                for (var j=0; j < 5; j++) // the first 5 properties are names 
-                {
-                    var prop = properties[j].toLowerCase();
-                    name = name.toLowerCase(); 
-                    if (prop.search(name) > -1) { found = true; }
+                var found = false;
+
+                if (node.getId() == name) {
+                    found = true;
+                }
+                else {
+                    var categories = node._categoriesValues;
+                    for (var j = 0; j < categories.length; j++) {
+                        var prop = categories[j].toLowerCase();
+                        name = name.toLowerCase();
+                        if (prop.search(name) > -1) { found = true; }
+                    }
                 }
                 if (found) {
-                    node.setColor("red");
+                    //node.setColor("red");
+                    ChangeColor(node, "red"); 
                 }
-                else { node.setColor("white");}
+                else { ChangeColor(node, "grey"); }
             }
             redrawSameScene();
         }
 
-        function redraw() {
-            renderFrame.reDrawMe();
-        }
-
         function redrawSameScene() {
-            if (edgesShow.checked)
-            {
+            if (edgesShow.checked) {
                 ShowAllEdges();
             }
-            else
-            {
-                HideAllEdges(); 
+            else {
+                HideAllEdges();
             }
             renderFrame.reDrawMeInSameScene();
         }
 
+        function ChangeColor(node, color)
+        {
+            var id = node.getId();
+            previousColor[id] = node.getColor();
+            node.setColor(color);
+        }
+
+        function ReturnPreviousColor(node)
+        {
+            var id = node.getId();
+            var color = previousColor[id];
+            if (color != undefined) {                
+                node.setColorHex("#" + color);
+            }
+        }
+
+        function ReturnAllColors()
+        {
+            var nodes = graph.getNodes();
+            for (var i = 0; i < nodes.length; i++) 
+            {
+                ReturnPreviousColor(nodes[i]);
+            }
+            redrawSameScene();
+        }
+
+        function ShowExpandableNodes()
+        {
+            var nodes = graph.getNodes();
+            for (var i = 0; i < nodes.length; i++) {
+                var node = nodes[i];
+                if (node._expandable) {
+                    ChangeColor(node, "yellow");
+                }
+                else { ChangeColor(node, "grey") };
+            }
+            redrawSameScene();           
+        }
+        //the functions definitions end here
     </script>
 </body>
 </html>

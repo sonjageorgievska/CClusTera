@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2716,0.50053513044835263,0.51166014769703527,0.56130203241178378,"Candida vaughaniae","Candida vaughaniae","Candida","","Saccharomycetales",5,4,5]]}
+{"2716":{"Path":["0","0","687","2716"],"Coordinates":[0.68110819015689972,0.38763056897533116,0.26832566047571482],"Categories":["Candida vaughaniae","Candida vaughaniae","Candida","","Saccharomycetales"],"Properties":[6,3,2]}}

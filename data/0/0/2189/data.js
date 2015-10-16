@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2189,0.53389018735228544,0.72366529085362918,0.56889010613830127,"Sporobolomyces lactophilus","Sporobolomyces lactophilus","Sporobolomyces","","Sporidiobolales",5,5,5]]}
+{"2189":{"Path":["0","0","2189","2189"],"Coordinates":[0.57624415318348421,0.43527943333450742,0.4395086908839333],"Categories":["Sporobolomyces lactophilus","Sporobolomyces lactophilus","Sporobolomyces","","Sporidiobolales"],"Properties":[5,3,3]}}

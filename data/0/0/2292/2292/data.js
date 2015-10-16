@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2292,0.90368230493338608,0.69790934511542,0.64329910053484374,"Saccharomycopsis amapae","Saccharomycopsis amapae","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",9,5,5]]}
+{"2292":{"Path":["0","0","2292","2292"],"Coordinates":[0.15375854580701479,0.58970919145587908,0.40914524432418387],"Categories":["Saccharomycopsis amapae","Saccharomycopsis amapae","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[1,4,3]}}

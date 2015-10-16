@@ -1,1 +1,1 @@
-{"titles":null,"points":[[809,0.39021927110070043,0.45454728515705572,0.57581757103632925,"Kregervanrija delftensis","Kregervanrija delftensis","Kregervanrija","Saccharomycetaceae","Saccharomycetales",3,3,5]]}
+{"809":{"Path":["0","0","809","809"],"Coordinates":[0.65647389821417623,0.53590901680531089,0.52324219095158675],"Categories":["Kregervanrija delftensis","Kregervanrija delftensis","Kregervanrija","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,4,4]}}

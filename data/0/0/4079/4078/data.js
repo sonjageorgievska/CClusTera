@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4078,0.47392826917996755,0.50175986066185185,0.40594956022511541,"Candida inulinophila","Candida inulinophila","Candida","","Saccharomycetales",4,4,3]]}
+{"4078":{"Path":["0","0","4079","4078"],"Coordinates":[0.15741938843502715,0.30320276056985312,0.54911003549693094],"Categories":["Candida inulinophila","Candida inulinophila","Candida","","Saccharomycetales"],"Properties":[1,2,4]}}

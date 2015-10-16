@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2927,0.24798884448639449,0.502252612624343,0.43704458808790381,"Candida ambrosiae","Candida ambrosiae","Candida","","Saccharomycetales",2,4,3]]}
+{"2927":{"Path":["0","0","2927","2927"],"Coordinates":[0.34871906876387321,0.43219350254203581,0.57108980288072042],"Categories":["Candida ambrosiae","Candida ambrosiae","Candida","","Saccharomycetales"],"Properties":[3,3,5]}}

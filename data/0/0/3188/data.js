@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3188,0.29926995879163321,0.16518875422950324,0.6177306547366721,"Candida leandrae","Candida leandrae","Candida","","Saccharomycetales",2,1,5]]}
+{"3188":{"Path":["0","0","3188","3188"],"Coordinates":[0.28072530551839542,0.29642814248515786,0.34477871369263957],"Categories":["Candida leandrae","Candida leandrae","Candida","","Saccharomycetales"],"Properties":[2,2,3]}}

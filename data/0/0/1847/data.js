@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1847,0.49626018547046463,0.1856581365281392,0.47110670372865115,"Clavispora opuntiae","Clavispora opuntiae","Clavispora","Metschnikowiaceae","Saccharomycetales",4,1,4]]}
+{"1847":{"Path":["0","0","1847","1847"],"Coordinates":[0.36810411966539169,0.4553907404677135,0.72396766162902992],"Categories":["Clavispora opuntiae","Clavispora opuntiae","Clavispora","Metschnikowiaceae","Saccharomycetales"],"Properties":[3,3,6]}}

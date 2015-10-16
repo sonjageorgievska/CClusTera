@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3110,0.66988966507819725,0.26611143918374397,0.54267809192154248,"Candida cretensis","Candida cretensis","Candida","","Saccharomycetales",6,2,4]]}
+{"3110":{"Path":["0","0","3107","3110"],"Coordinates":[0.32583980224354148,0.52192528306542363,0.78407839353986108],"Categories":["Candida cretensis","Candida cretensis","Candida","","Saccharomycetales"],"Properties":[3,4,7]}}

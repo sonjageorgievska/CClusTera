@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3435,0.24326995903168289,0.15570876279180346,0.14977134003884574,"Candida bentonensis","Candida bentonensis","Candida","","Saccharomycetales",2,1,1]]}
+{"3435":{"Path":["3435","3435","3435","3435"],"Coordinates":[0.64269637004500835,-0.042101902194714672,0.45503283827630125],"Categories":["Candida bentonensis","Candida bentonensis","Candida","","Saccharomycetales"],"Properties":[6,0,4]}}

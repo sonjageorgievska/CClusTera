@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3488,0.24093309264682772,0.19883108465588734,0.26240022851928063,"Pseudozyma shanxiensis","Pseudozyma shanxiensis","Pseudozyma","Ustilaginaceae","Ustilaginales",2,1,2]]}
+{"3488":{"Path":["0","2609","3488","3488"],"Coordinates":[0.48698212330581897,0.27274515366909546,0.43938416371533717],"Categories":["Pseudozyma shanxiensis","Pseudozyma shanxiensis","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[4,2,3]}}

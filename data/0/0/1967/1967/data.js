@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1967,0.65023198011478622,0.585172913654625,0.34876012709972082,"Cyberlindnera japonica","Cyberlindnera japonica","Cyberlindnera","","Saccharomycetales",6,4,3]]}
+{"1967":{"Path":["0","0","1967","1967"],"Coordinates":[0.534087013437027,0.535439963905578,0.3763939943634923],"Categories":["Cyberlindnera japonica","Cyberlindnera japonica","Cyberlindnera","","Saccharomycetales"],"Properties":[5,4,3]}}

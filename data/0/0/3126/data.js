@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3126,0.50763281492838042,0.58165963018879663,0.26787089870252939,"Rhodotorula lamellibrachii","Rhodotorula lamellibrachii","Rhodotorula","","Sporidiobolales",5,4,2]]}
+{"3126":{"Path":["0","0","3126","3126"],"Coordinates":[0.47750638364226394,0.42569034656192006,0.52772520618240226],"Categories":["Rhodotorula lamellibrachii","Rhodotorula lamellibrachii","Rhodotorula","","Sporidiobolales"],"Properties":[4,3,4]}}

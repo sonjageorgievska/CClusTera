@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3809,0.60796028680933678,0.64150337693000825,0.74583581675743049,"Mrakia psychrophila","Mrakia psychrophila","Mrakia","Cystofilobasidiaceae","Cystofilobasidiales",6,5,6]]}
+{"3809":{"Path":["0","1761","3809","3809"],"Coordinates":[0.39473555339875832,0.35106185934640632,0.66318529401204973],"Categories":["Mrakia psychrophila","Mrakia psychrophila","Mrakia","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[3,2,5]}}

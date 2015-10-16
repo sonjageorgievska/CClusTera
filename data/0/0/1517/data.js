@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1517,0.545703098653562,0.68786309743207985,0.44962168457910995,"Leucosporidiella fragaria","Leucosporidiella fragaria","Leucosporidiella","Leucosporidiaceae","Leucosporidiales",5,5,4]]}
+{"1517":{"Path":["0","0","1517","1517"],"Coordinates":[0.53893038657130965,0.30111647662999,0.61012292446128114],"Categories":["Leucosporidiella fragaria","Leucosporidiella fragaria","Leucosporidiella","Leucosporidiaceae","Leucosporidiales"],"Properties":[5,2,5]}}

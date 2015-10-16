@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1961,0.33878061141326965,0.45479737644603807,0.39899807710874829,"Cystofilobasidium ferigula","Cystofilobasidium ferigula","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales",3,3,3]]}
+{"1961":{"Path":["0","0","1961","1961"],"Coordinates":[0.69197710923694877,0.5696217449888169,0.61172598538821932],"Categories":["Cystofilobasidium ferigula","Cystofilobasidium ferigula","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[6,4,5]}}

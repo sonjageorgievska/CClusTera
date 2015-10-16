@@ -1,1 +1,1 @@
-{"titles":null,"points":[[4226,0.65489863878849,0.12583028106876532,0.80689122386162138,"Wickerhamiella cachassae","Wickerhamiella cachassae","Wickerhamiella","","Saccharomycetales",6,1,7]]}
+{"4226":{"Path":["0","0","4226","4226"],"Coordinates":[0.35577356242484631,0.87078783476181876,0.86291720185428211],"Categories":["Wickerhamiella cachassae","Wickerhamiella cachassae","Wickerhamiella","","Saccharomycetales"],"Properties":[3,6,7]}}

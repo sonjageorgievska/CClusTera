@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3990,0.60554998603550225,0.66160101206494348,0.53174156384251514,"Candida pseudohumilis","Candida pseudohumilis","Candida","","Saccharomycetales",6,5,4]]}
+{"3990":{"Path":["0","0","3990","3990"],"Coordinates":[0.31503742821300418,0.42084715458328187,0.43839888040227437],"Categories":["Candida pseudohumilis","Candida pseudohumilis","Candida","","Saccharomycetales"],"Properties":[3,3,3]}}

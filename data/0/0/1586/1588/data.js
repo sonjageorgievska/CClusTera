@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1588,0.6436097935144468,0.56691338178254991,0.32076158219772438,"Sakaguchia dacryoidea","Sakaguchia dacryoidea","Sakaguchia","Sporidiobolaceae","Sporidiobolales",6,4,2]]}
+{"1588":{"Path":["0","0","1586","1588"],"Coordinates":[0.75279186429682288,0.17806053459500637,0.39479955316957965],"Categories":["Sakaguchia dacryoidea","Sakaguchia dacryoidea","Sakaguchia","Sporidiobolaceae","Sporidiobolales"],"Properties":[7,1,3]}}

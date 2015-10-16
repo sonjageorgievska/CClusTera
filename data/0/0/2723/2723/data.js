@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2723,0.41445885121841775,0.82528123206729942,0.19404454261051424,"Rhodotorula orientis","Rhodotorula orientis","Rhodotorula","","Sporidiobolales",4,6,1]]}
+{"2723":{"Path":["0","0","2723","2723"],"Coordinates":[0.564773265899766,0.1999711273060461,0.19837547025438246],"Categories":["Rhodotorula orientis","Rhodotorula orientis","Rhodotorula","","Sporidiobolales"],"Properties":[5,1,1]}}

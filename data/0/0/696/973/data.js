@@ -1,1 +1,1 @@
-{"titles":null,"points":[[973,0.54942428388107523,0.32489515356418575,0.51390876831717114,"Candida anglica","Candida anglica","Candida","","Saccharomycetales",5,2,4]]}
+{"973":{"Path":["0","0","696","973"],"Coordinates":[0.3502862522341943,0.51612356692319628,0.44894262773991522],"Categories":["Candida anglica","Candida anglica","Candida","","Saccharomycetales"],"Properties":[3,4,4]}}

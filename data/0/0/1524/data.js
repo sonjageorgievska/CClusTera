@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1524,0.92919858394288324,0.66928326119118953,0.539583807040671,"Saccharomycopsis malanga","Saccharomycopsis malanga","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",9,5,4]]}
+{"1524":{"Path":["0","0","1524","1524"],"Coordinates":[0.16676722649451553,0.5902384917921647,0.21390424667371094],"Categories":["Saccharomycopsis malanga","Saccharomycopsis malanga","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[1,4,1]}}

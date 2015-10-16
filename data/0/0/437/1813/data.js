@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1813,0.47398255963545943,0.48086477565229951,0.48023974747071491,"Schwanniomyces yamadae","Schwanniomyces yamadae","Schwanniomyces","Saccharomycetaceae","Saccharomycetales",4,3,4]]}
+{"1813":{"Path":["0","0","437","1813"],"Coordinates":[0.41097552673867366,0.38616988098020033,0.53554771715656391],"Categories":["Schwanniomyces yamadae","Schwanniomyces yamadae","Schwanniomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,4]}}

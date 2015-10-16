@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1895,0.34797184727471314,0.45350733237348079,0.48763492728274271,"Rhodotorula buffonii","Rhodotorula buffonii","Rhodotorula","","Sporidiobolales",3,3,4]]}
+{"1895":{"Path":["0","0","1895","1895"],"Coordinates":[0.41999223674251163,0.34451055281990134,0.44807897131933494],"Categories":["Rhodotorula buffonii","Rhodotorula buffonii","Rhodotorula","","Sporidiobolales"],"Properties":[4,2,4]}}

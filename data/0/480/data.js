@@ -1,1 +1,1 @@
-{"titles":null,"points":[[480,0.30763456147443108,0.45767712612237821,0.51509135219974522,"Candida pararugosa","Candida pararugosa","Candida","","Saccharomycetales",3,3,4]]}
+{"480":{"Path":["0","480","480","480"],"Coordinates":[0.507203301551258,0.50375400415704541,0.73137671549910388],"Categories":["Candida pararugosa","Candida pararugosa","Candida","","Saccharomycetales"],"Properties":[5,4,6]}}

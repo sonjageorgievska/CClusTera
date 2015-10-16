@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1120,0.78407491210838909,0.62465063465024473,0.34512669782392313,"Sporobolomyces singularis","Sporobolomyces singularis","Sporobolomyces","","Sporidiobolales",7,4,3]]}
+{"1120":{"Path":["0","0","0","1120"],"Coordinates":[0.22974334072976688,0.40618761305390205,0.64016187271933311],"Categories":["Sporobolomyces singularis","Sporobolomyces singularis","Sporobolomyces","","Sporidiobolales"],"Properties":[2,3,5]}}

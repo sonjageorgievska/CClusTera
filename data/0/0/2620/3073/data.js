@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3073,0.62272894982196225,0.36820763652440613,0.5955805847851503,"Metschnikowia santaceciliae","Metschnikowia santaceciliae","Metschnikowia","Metschnikowiaceae","Saccharomycetales",6,2,5]]}
+{"3073":{"Path":["0","0","2620","3073"],"Coordinates":[0.48936612900703685,0.34447537716599341,0.4013599735187473],"Categories":["Metschnikowia santaceciliae","Metschnikowia santaceciliae","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,2,3]}}

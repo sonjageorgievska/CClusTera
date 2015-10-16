@@ -1,1 +1,1 @@
-{"titles":null,"points":[[1979,0.39504869465818415,0.61409065482191727,0.61496355069787711,"Saccharomycopsis schoenii","Saccharomycopsis schoenii","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales",3,4,5]]}
+{"1979":{"Path":["0","794","1979","1979"],"Coordinates":[0.35090896074898442,0.46062764118263921,0.431914877384684],"Categories":["Saccharomycopsis schoenii","Saccharomycopsis schoenii","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[3,3,3]}}

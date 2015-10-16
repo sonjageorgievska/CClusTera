@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3095,0.6204398242096546,0.910950702012224,0.68015187321420822,"Ogataea dorogensis","Ogataea dorogensis","Ogataea","Saccharomycetaceae","Saccharomycetales",6,7,6]]}
+{"3095":{"Path":["0","0","3095","3095"],"Coordinates":[0.70897591601415622,0.90570849864217906,0.69728563336266458],"Categories":["Ogataea dorogensis","Ogataea dorogensis","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,7,6]}}

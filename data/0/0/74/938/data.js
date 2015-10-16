@@ -1,1 +1,1 @@
-{"titles":null,"points":[[938,0.59896884242473569,0.71719787219215814,0.7192358615651836,"Cryptococcus aerius","Cryptococcus aerius","Cryptococcus","Tremellaceae","Tremellales",5,5,6]]}
+{"938":{"Path":["0","0","74","938"],"Coordinates":[0.69747974722558148,0.56920971492196115,0.51560192942508565],"Categories":["Cryptococcus aerius","Cryptococcus aerius","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,4,4]}}

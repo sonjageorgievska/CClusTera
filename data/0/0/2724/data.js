@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2724,0.475516748858055,0.581025137491032,0.3419780774672882,"Rhodotorula bloemfonteinensis","Rhodotorula bloemfonteinensis","Rhodotorula","","Sporidiobolales",4,4,3]]}
+{"2724":{"Path":["0","0","2724","2724"],"Coordinates":[0.67327396613398127,0.46718314345722284,0.578904768556225],"Categories":["Rhodotorula bloemfonteinensis","Rhodotorula bloemfonteinensis","Rhodotorula","","Sporidiobolales"],"Properties":[6,3,5]}}

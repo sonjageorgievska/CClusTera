@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3423,0.4120358553595877,0.55754174876944773,0.56219563341400891,"Trichosporon chiropterorum","Trichosporon chiropterorum","Trichosporon","Trichosporonaceae","Tremellales",4,4,5]]}
+{"3423":{"Path":["0","0","37","3423"],"Coordinates":[0.412314059734973,0.65317774122642824,0.50886563206207769],"Categories":["Trichosporon chiropterorum","Trichosporon chiropterorum","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[4,5,4]}}

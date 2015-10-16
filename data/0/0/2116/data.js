@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2116,0.59325833723053556,0.81474196073342819,0.6093063410787174,"Rhodotorula yarrowii","Rhodotorula yarrowii","Rhodotorula","","Sporidiobolales",5,6,5]]}
+{"2116":{"Path":["0","0","2116","2116"],"Coordinates":[0.7872159397802152,0.260293047378481,0.39226723629204269],"Categories":["Rhodotorula yarrowii","Rhodotorula yarrowii","Rhodotorula","","Sporidiobolales"],"Properties":[7,2,3]}}

@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3685,0.48767235709974893,0.28193578700715571,0.35591530473949273,"Pichia cecembensis","Pichia cecembensis","Pichia","Saccharomycetaceae","Saccharomycetales",4,2,3]]}
+{"3685":{"Path":["0","0","1126","3685"],"Coordinates":[0.2637532563207472,0.52751510644565769,0.72664660989588081],"Categories":["Pichia cecembensis","Pichia cecembensis","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,4,6]}}

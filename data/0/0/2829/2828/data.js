@@ -1,1 +1,1 @@
-{"titles":null,"points":[[2828,0.47663179910992526,0.314940895564455,0.57859090446452033,"Tetrapisispora nanseiensis","Tetrapisispora nanseiensis","Tetrapisispora","Saccharomycetaceae","Saccharomycetales",4,2,5]]}
+{"2828":{"Path":["0","0","2829","2828"],"Coordinates":[0.45718625024565762,0.40889951560098386,0.33338948353731973],"Categories":["Tetrapisispora nanseiensis","Tetrapisispora nanseiensis","Tetrapisispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,3]}}

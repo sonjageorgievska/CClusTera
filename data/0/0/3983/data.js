@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3983,0.83238551994549348,0.44472466014731937,0.45515851985943623,"Wickerhamomyces patagonicus","Wickerhamomyces patagonicus","Wickerhamomyces","","Saccharomycetales",8,3,4]]}
+{"3983":{"Path":["0","0","3983","3983"],"Coordinates":[0.23587864381145166,0.65578903430383939,0.52449840700188988],"Categories":["Wickerhamomyces patagonicus","Wickerhamomyces patagonicus","Wickerhamomyces","","Saccharomycetales"],"Properties":[2,5,4]}}

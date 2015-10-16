@@ -1,1 +1,1 @@
-{"titles":null,"points":[[3791,0.56699892521432338,0.51187331397079117,0.71161080979535374,"Ogataea nitratoaversa","Ogataea nitratoaversa","Ogataea","Saccharomycetaceae","Saccharomycetales",5,4,6]]}
+{"3791":{"Path":["0","0","3791","3791"],"Coordinates":[0.54973306470400662,0.70182212215632578,0.38908813072422493],"Categories":["Ogataea nitratoaversa","Ogataea nitratoaversa","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,3]}}
