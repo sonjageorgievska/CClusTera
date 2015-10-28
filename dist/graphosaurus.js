@@ -71664,7 +71664,6 @@ module.exports = (function () {
         this._initNodes(this.graph.getNodes());
         //this._normalizeNodes();
         this._initEdges(this.graph.getEdges());
-
         this._initCamera(this.aspectRatio);
         this.positionCamera();
         this.forceRerender();
@@ -71672,14 +71671,8 @@ module.exports = (function () {
 
     //added by sonja
 	Frame.prototype.reDrawMe = function() {
-		//this._initScene();
-        //this._initRenderer(this.width, this.height, this.elem);
-	    this._initNodes(this.graph.getNodes());
-	    
-        //this._normalizeNodes();
+	    this._initNodes(this.graph.getNodes());	    
         this._initEdges(this.graph.getEdges());
-
-        //this._initCamera(this.aspectRatio);
         this.positionCamera();
         this._initLabelPositions();
         this.forceRerender();
@@ -71687,16 +71680,9 @@ module.exports = (function () {
 
     //added by sonja
 	Frame.prototype.reDrawMeInSameScene = function () {
-	    //this._initScene();
-	    //this._initRenderer(this.width, this.height, this.elem);
 	    var nodes = this.graph.getNodes(); 
-	    this._initNodes(nodes);
-	    //this._normalizeNodes();
-	    this._initEdges(this.graph.getEdges());
-
-	    //this._initCamera(this.aspectRatio);
-	    //this.positionCamera();
-	    //this._initLabelPositions();
+	    this._initNodes(nodes);   
+	    this._initEdges(this.graph.getEdges());	   
 	    this.forceRerender();
 	};
 
@@ -71741,21 +71727,7 @@ module.exports = (function () {
             sizeAttenuation: this.graph._sizeAttenuation,
             depthWrite: false,
         });
-
-
-        //var material = new THREE.ShaderMaterial({
-
-        //    uniforms: {
-        //        color: { type: "c", value: new THREE.Color(0xffffff) },
-        //        texture: { type: "t", value: THREE.ImageUtils.loadTexture("examples/eve-universe/disc.png") }
-        //    },
-        //    vertexShader: document.getElementById('vertexshader').textContent,
-        //    fragmentShader: document.getElementById('fragmentshader').textContent,
-
-        //    vertexColors: true,
-        //    alphaTest: 0.9,
-
-        //});
+       
 
         if (this.graph._nodeImage !== undefined) {
             var texture = THREE.ImageUtils.loadTexture(

@@ -1,4 +1,6 @@
- function KeyPress(e) {//if the key combination is ctrl+z, then it will close the node that was last open. Can be called multiple times
+//functions for defining UI components and handling their events
+
+function KeyPress(e) {//if the key combination is ctrl+z, then it will close the node that was last open. Can be called multiple times
             var evtobj = window.event ? event : e
             if (evtobj.keyCode == 90 && evtobj.ctrlKey) {////if the key combination is ctrl+z
                 handleCtrlz(); 

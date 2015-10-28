@@ -1,82 +1,81 @@
 ﻿<html>
 <head>
     <style>
+        #frame {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 285;
+            right: 0;
+            z-index: 0;
+        }
+
+        #sliderObj {
+            position: absolute;
+            top: 200;
+            left: 15;
+            z-index: 1;
+            font-family: sans-serif;
+        }
+
+        #labelproperty {
+            position: absolute;
+            top: 235;
+            left: 15;
+            z-index: 1;
+            color: black;
+            font-family: sans-serif;
+        }
+
+        #labelcolor {
+            position: absolute;
+            top: 300;
+            left: 15;
+            z-index: 1;
+            color: black;
+            font-family: sans-serif;
+        }
+
+        #labelproperty2 {
+            position: absolute;
+            top: 5;
+            left: 305;
+            z-index: 1;
+            color: black;
+            font-family: sans-serif;
+        }
+
+        #title {
+            position: absolute;
+            top: 15;
+            right: 15;
+            z-index: 1;
+            color: white;
+            font-family: sans-serif;
+        }
+
+        #comboObj {
+            position: absolute;
+            top: 260;
+            left: 15;
+            z-index: 1;
+            font-family: sans-serif;
+        }
 
 
-         #frame {
-             position: absolute;
-             top: 0;
-             bottom: 0;
-             left: 285;
-             right: 0;
-             z-index: 0;
-         }         
-
-           #sliderObj {
-             position: absolute;
-             top: 200;
-             left: 15;
-             z-index: 1;
-             font-family: sans-serif;
-         }
-
-          #labelproperty {
-             position: absolute;
-             top: 235;
-             left: 15;
-             z-index: 1;
-             color: black;
-             font-family: sans-serif;
-         }
-
-          #labelcolor {
-             position: absolute;
-             top: 300;
-             left: 15;
-             z-index: 1;
-             color: black;
-             font-family: sans-serif;
-         }
-
-        /*#labelproperty2 {
-             position: absolute;
-             top: 330;
-             left: 15;
-             z-index: 1;
-             color: black;
-             font-family: sans-serif;
-         }*/
-         #title {
-             position: absolute;
-             top: 15;
-             right: 15;
-             z-index: 1;
-             color: white;
-             font-family: sans-serif;
-         }
-
-         #comboObj {
-             position: absolute;
-             top: 260;
-             left: 15;
-             z-index: 1;
-             font-family: sans-serif;
-         }
-
-       
 
 
-          #colortable {
-             position: absolute;
-             top: 320;
-             left: 15;
-             z-index: 1;
-             font-family: sans-serif;
-         }
+        #colortable {
+            position: absolute;
+            top: 320;
+            left: 15;
+            z-index: 1;
+            font-family: sans-serif;
+        }
 
-        
 
-          /*#comboObj2 {
+
+        /*#comboObj2 {
              position: absolute;
              top: 350;
              left: 15;
@@ -89,9 +88,9 @@
 <body>
     <!--UI components-->
     <input type="text" name="search" id="search" class="textbox" />
-    <button style="background-color:white; font: 14px Arial" onclick="searchSequence()" name="button" >Search</button>
-    <p> </p>
-    <button style="background-color:white ; font: 14px Arial" onclick="fastLoadAllData()" name="button">Load all data</button>
+    <button style="background-color:white; font: 14px Arial" onclick="searchSequence()" name="button">Search</button>
+    <!--<p> </p>
+    <button style="background-color:white ; font: 14px Arial" onclick="fastLoadAllData()" name="button">Load all data</button>-->
     <p> </p>
     <button style="background-color:white ; font: 14px Arial" onclick="ReturnAllColors()" name="button">Resume colors</button>
     <p> </p>
@@ -102,14 +101,14 @@
     <div id="frame"></div>
     <div id="sliderObj" min="0" step="1" value="0" vertical="false" size="245"></div>
     <div id="labelproperty" style=" font: 15px Arial">Colorize by a numerical property:</div>
-    <!--<div id="labelproperty2">Colorize by family, type, etc:</div>-->
-    <div id="labelcolor" style=" font: 15px Arial" >Click inside to select a color:</div>
+    <div id="labelproperty2" style=" font: 15px Arial">Press Ctrl+z to close the last open node</div>
+    <div id="labelcolor" style=" font: 15px Arial">Click inside to select a color:</div>
     <div id="comboObj" width="245"></div>
     <!--<div id="comboObj2" width="245"></div>-->
     <!--<div id="colorpickerObj"></div>-->
-   
-   
-    
+
+
+
 
     <table cellspacing="2" cellpadding="2" border="0" id="colortable">
         <tr>
@@ -120,40 +119,44 @@
     <link rel="stylesheet" type="text/css" href="src/dhtmlx.css">
     <script src="src/dhtmlx.js"></script>
     <script src="dist/graphosaurus.js"></script>
-    <script src="src/uifunctions.js"></script>      
-    <script src="data/MetaData.js"></script>      
+    <script src="src/uifunctions.js"></script>
+    <script src="data/MetaData.js"></script>
     <script charset="4">
-                
-        //global variables definitions start here    
+
+        //################# global variables definitions start here
+
         var frameStartsAt = 285;
-        var edgesShow = document.getElementById("showedges");            
-        var myColorpicker;       
+        var edgesShow = document.getElementById("showedges");
+        var myColorpicker;
         var cursorX;
-        var cursorY;       
-        var mySlider;   
+        var cursorY;
+        var mySlider;
         var myPop = new dhtmlXPopup();
         var myPopSlider;
         var pointsSet;
-        var previousNumberOfNodes = []; //is used in ctrl+z, for every click
-        var previousNumberOfEdges = []; //is used in ctrl+z, for every click
-        var clicked = 0; //is used in ctrl+z
-        var lastOpenNode = [];//is used in ctrl+z, for every click
+        var previousNumberOfNodes = []; //is used in ctrl+z, holds the previous number of nodes for every click
+        var previousNumberOfEdges = []; //is used in ctrl+z, holds the previous number of edges for every click
+        var clicked = 0; //counter of node clicks, is used in ctrl+z
+        var lastOpenNode = [];//is used in ctrl+z, holds the open node for every click
         var nodesColor = "yellow";
-        var CurrentDir = [];//for every nodeID. should be actually a property of the node, move it if you have time.
+        var CurrentDir = [];//for every nodeID
         var CurrentLevel = [];//also
-        var edges = [];//edges is a backup of the current edges in the graph, regardless of whether they are shown or not  . should be a backupEdges property of the graph
+        var edges = [];//edges is a backup of the current edges in the graph, regardless of whether they are shown or not.
         var previoslyhoveredNode;//hovering changes temporarily the color of a node to white, therefore we need to remember this
         var previosHoveredcolor;//the color of previoslyhoveredNode
-        var smallData;
-        var graph = InitializeGraph(); 
+        var smallData; // would hold all data in case bigdata == false
+        var graph = InitializeGraph();
         var renderFrame;
-        var totalNumberOfLevels;
-        var selectedPropertyIndex;
-        var previousColor = [];
-        //global variables definitions end here 
+        var totalNumberOfLevels;// in the hierarchical clustering
+        var selectedPropertyIndex;//holds the index of the most recently selected numerical property (by the user)
+        var previousColor = [];//used in resume colors
+        var expandable = new Object();//expandable[5987][3] is true if and only if node with id 5987 is expandable at level 3
 
-        //global code starts here
-        if ( bigData == false) {
+        //################# global variables definitions end here
+
+        //################# global code starts here
+
+        if (bigData == false) {//bigData is defined in "data/MetaData.js"
             mySlider = new dhtmlXSlider("sliderObj");
             myPopSlider = new dhtmlXPopup({ slider: mySlider });
             defineSlider();
@@ -162,39 +165,52 @@
         defineCombo();
         // defineCombo2();
         defineColorPicker2();
-        document.onmousemove = function (e) {//we have to track where the mouse is for the pop-up message
 
+        document.onmousemove = function (e) {//we have to track where the mouse is for the pop-up message
             cursorX = e.clientX;
             cursorY = e.clientY;
         }
         document.onclick = function (e) {
             myPop.hide();
-        }      
-
-        //this requests the file and executes a callback with the parsed result once
-        // it is available. Calling the level zero
-        fetchJSONFile("data/data.js", function (data) {
-            // do something with your data
-            totalNumberOfLevels = FindTotalNumberOfLevels(data);
-            if (bigData == false) { mySlider.setMax(totalNumberOfLevels - 1); }
-            AddLevelZero(data);
-            renderFrame = graph.renderIn("frame");
-            renderFrame.reDrawMe();
-
-        });
-
-        document.onkeydown = KeyPress;//see src/uifunctions.js. This function is for handling ctrl+z events
-        edgesShow.checked = false; //hide edges by default
-        edgesShow.onchange = function () {
-            redrawSameScene();
         }
 
-        //global code ends here 
+        if (bigData == false) {
+            fetchJSONFile("data/smalldata.js", function (datasmall) {
+                smallData = datasmall;
+                totalNumberOfLevels = FindTotalNumberOfLevels(datasmall);
+                ComputeExpandables(datasmall);
+                InitDrawing();
+            });
+        }
+        else {
+            InitDrawing();
+        }
+       
+        //################## global code ends here
 
-        //the functions definitions start here
-        
-        function InitializeGraph()
-        {
+        //################## the functions definitions start here
+
+        function InitDrawing() {
+            //this requests the file and executes a callback with the parsed result once
+            // it is available. Calling the level zero
+            fetchJSONFile("data/data.js", function (data) {
+                // do something with your data
+                totalNumberOfLevels = FindTotalNumberOfLevels(data);
+                if (bigData == false) {
+                    mySlider.setMax(totalNumberOfLevels - 1);
+                }
+                AddLevelZero(data);
+                renderFrame = graph.renderIn("frame");
+                renderFrame.reDrawMe();
+            });
+            document.onkeydown = KeyPress;//see src/uifunctions.js. This function is for handling ctrl+z events
+            edgesShow.checked = false; //hide edges by default
+            edgesShow.onchange = function () {
+                redrawSameScene();
+            }
+        }
+
+        function InitializeGraph() {
             return G.graph({
                 sizeAttenuation: true,//whether to change the size of the nodes for a 3D effect or not
                 nodeImage: "examples/eve-universe/disc.png",
@@ -211,8 +227,9 @@
                 }
             });
         }
-       
-        function fetchJSONFile(path, callback) { //for asynchronously downloading a file from the server. do not change it
+
+        function fetchJSONFile(path, callback)  //for asynchronously downloading a file from the server. do not change it
+        {
             var httpRequest = new XMLHttpRequest();
             httpRequest.onreadystatechange = function () {
                 if (httpRequest.readyState === 4) {
@@ -225,7 +242,30 @@
             httpRequest.open('GET', path);
             httpRequest.send();
         }
-       
+        
+        function ComputeExpandables(data)//is called in case of small data. Parameter data contains all (small) data. Computes the global double array expandable
+        {
+           
+            for (var key in data) {
+                expandable[key] = [];
+                for (var i = 0; i < totalNumberOfLevels; i++) {
+                    expandable[key][i] = false;
+                }
+            }
+            for (var key in data) {
+                var path = data[key].Path.slice();
+                path.push(key);
+                for (var i = 0; i < path.length; i++) {
+                    var tempKey = path[i];
+                    for (var j = i + 1; j < path.length; j++) {
+                        if (path[j] != tempKey) {
+                            expandable[tempKey][i] = true;
+                        }
+                    }
+                }
+            }
+        }
+
         function HandleNodeHovering(node) {
             if (previoslyhoveredNode != undefined)//if some node was hovered before, return its color
             { previoslyhoveredNode.setColorHex("#" + previosHoveredcolor); }
@@ -282,27 +322,33 @@
         }
 
         function CheckIfNodeIsExpandable(nodeId, startdir) {
-            var node = graph._nodeIds[nodeId];            
-            if (node != undefined) {
-                node._expandable = false;
-                if (NumberOfLevels(startdir) < totalNumberOfLevels - 1) {                    
-                    var file = startdir + "/" + nodeId + "/data.js";
-                    fetchJSONFile(file, function (data) {
-                        if (Object.keys(data).length > 1) {
-                            node._expandable = true;                            
-                        }
-                        else {
-                            CheckIfNodeIsExpandable(nodeId, startdir + "/" + nodeId);
-                        }
-                    });
+            var level = NumberOfLevels(startdir);
+            var node = graph._nodeIds[nodeId];
+            if (bigData == false) {
+                node._expandable = expandable[nodeId][level];
+            }
+            else {
+
+                if (node != undefined) {
+                    node._expandable = false;
+                    if (level < totalNumberOfLevels - 1) {
+                        var file = startdir + "/" + nodeId + "/data.js";
+                        fetchJSONFile(file, function (data) {
+                            if (Object.keys(data).length > 1) {
+                                node._expandable = true;
+                            }
+                            else {
+                                CheckIfNodeIsExpandable(nodeId, startdir + "/" + nodeId);
+                            }
+                        });
+                    }
                 }
             }
         }
 
-        function NumberOfLevels(startdir)
-        {
+        function NumberOfLevels(startdir) {
             var r = (startdir.split("/").length - 1)
-            return r; 
+            return r;
         }
 
         function AddPointsFromList(data, parentid, level, dir) {
@@ -312,7 +358,7 @@
                 var pointid = key;
                 CurrentDir[pointid] = dir + "/" + parentid;
                 CurrentLevel[pointid]++;
-                
+
                 CheckIfNodeIsExpandable(pointid, CurrentDir[pointid]);
                 AddNewEdge(parentid, pointid, colorPoint);
             }
@@ -342,12 +388,10 @@
         }
 
         function fastLoadAllData() {
-            if (bigData == true)
-            {
+            if (bigData == true) {
                 alert("There is too much data, please click on nodes to expand their clusters");
             }
-            else
-            {
+            else {
                 fastLoadUpToLevel(totalNumberOfLevels - 1);
             }
         }
@@ -383,7 +427,7 @@
 
         function FastAddUpToLevel(sliderlevel, total, data) {
             if (sliderlevel < total) {
-                FastLoadLevelZero(data, sliderlevel);                             
+                FastLoadLevelZero(data, sliderlevel);
                 for (var level = 1; level <= sliderlevel; level++) {
                     for (var key in data) {
                         var system = data[key];
@@ -392,7 +436,7 @@
                             if (path[level] == key) {
                                 FastAddNode(path, level, data, key);
                                 var node = graph.getNode(key);
-                                if (level == sliderlevel) {                                    
+                                if (level == sliderlevel) {
                                     CheckIfNodeIsExpandable(key, CurrentDir[key]);
                                 }
                             }
@@ -400,15 +444,14 @@
                         else {
                             FastAddNode(path, level, data, key);
                             var node = graph.getNode(key);
-                            node._expandable = false;                      
+                            node._expandable = false;
                         }
                     }
                 }
-            }            
+            }
         }
 
-        function FastAddNode(path, level, data, key)
-        {
+        function FastAddNode(path, level, data, key) {
             var systemId = key;
             var parent = path[level - 1];
             var colorPoint = PrepareColor(level, parent);
@@ -417,13 +460,13 @@
                 AddNewEdge(parent, systemId, colorPoint);
             }
             var node = graph.getNode(systemId);
-            if (CurrentDir[systemId] == undefined && CurrentLevel[parent] == level) //if node systemId appears for the first time
-                {
-                    CurrentDir[systemId] = CurrentDir[parent];
-                }
-                else { CurrentDir[systemId] = CurrentDir[parent] + "/" + parent; }
-            
-            CurrentLevel[systemId]++;            
+
+            var currentDir = "data";
+            for (var i = 0; i < level; i++) {
+                currentDir = currentDir + "/" + parseInt(path[i]);
+            }
+            CurrentDir[systemId] = currentDir;           
+            CurrentLevel[systemId]++;
         }
 
         function FastLoadLevelZero(data, sliderlevel) {
@@ -442,7 +485,7 @@
                         }
                     }
                 }
-               
+
             }
         }
 
@@ -452,7 +495,7 @@
             var colorNode = PrepareColorZero(coords);
             PrepareNodeAndAddIt(data, key, colorNode);
             var node = graph.getNode(key);
-            
+
             CurrentDir[key] = "data";
             CurrentLevel[key] = 0;
         }
@@ -492,15 +535,17 @@
             var numberOfEdges = graph._edges.length;
             graph._edges.splice(0, numberOfEdges);
         }
-       
+
         function ShowAllEdges() {// when the  checkbox for show edges is checked. edges is a backup of the current edges in the graph, regardless of whether they are shown or not
             graph._edges = edges.slice();
         }
-       
+
         function Colorize(col, indexOfProperty)//colorizes the nodes that are already loaded in the graph. Means if you color while still loading data, the new data will not be colored
         {
+            // init max and min value of property accross nodes
             var max = graph._nodes[0]._propertiesValues[indexOfProperty];
             var min = max;
+
             for (var i = 0; i < graph._nodes.length; i++) {
                 var value = graph._nodes[i]._propertiesValues[indexOfProperty];
                 if (value > max) { max = value; }
@@ -514,6 +559,7 @@
             if (col[1][1] > maxColor) { maxColor = col[1][1]; }
             if (col[1][2] > maxColor) { maxColor = col[1][2]; }
 
+            //adjust the RGB components
             var redNew = col[1][0];
             var greenNew = col[1][1];
 
@@ -523,6 +569,8 @@
                 greenNew = factor * col[1][1];
                 blueNew = factor * col[1][2];
             }
+
+            //colorize the nodes with different shades of the color, according to the selecgted property intensity
             for (var i = 0; i < graph._nodes.length; i++) {
                 var node = graph._nodes[i];
                 var value = node._propertiesValues[indexOfProperty];
@@ -542,7 +590,8 @@
 
         function SearchAndColorizeByName(name)//searches the nodes that are already loaded in the graph. Means if you color while still loading data, the new data will not be colored
         {
-
+            var count = 0;
+            var singleNode;
             var nodes = graph.getNodes();
             for (var i = 0; i < nodes.length; i++) {
                 var node = nodes[i];
@@ -560,12 +609,24 @@
                     }
                 }
                 if (found) {
-                    //node.setColor("red");
-                    ChangeColor(node, "red"); 
+                    ChangeColor(node, "red");
+                    singleNode = node;
+                    count++;
                 }
                 else { ChangeColor(node, "grey"); }
             }
             redrawSameScene();
+
+            if (count == 1) {
+                //var categories = singleNode._categoriesValues;
+                //var text = singleNode.getId();
+                //for (var i = 0; i < categories.length; i++) { text += "<br>" + categories[i]; }
+                //if (singleNode._expandable) { text = "Click me! <br> " + text; }
+                //myPop.attachHTML(text);
+                //myPop.show(cursorX, cursorY, 2, 3); //params are: x, y, width, height. 3 and 5 are number of pixels relative to the node where the message should appear(you can play with these numbers)
+                ////cursorX and cursorY  should be computed from the position of the node
+            }
+
         }
 
         function redrawSameScene() {
@@ -578,34 +639,29 @@
             renderFrame.reDrawMeInSameScene();
         }
 
-        function ChangeColor(node, color)
-        {
+        function ChangeColor(node, color) {
             var id = node.getId();
             previousColor[id] = node.getColor();
             node.setColor(color);
         }
 
-        function ReturnPreviousColor(node)
-        {
+        function ReturnPreviousColor(node) {
             var id = node.getId();
             var color = previousColor[id];
-            if (color != undefined) {                
+            if (color != undefined) {
                 node.setColorHex("#" + color);
             }
         }
 
-        function ReturnAllColors()
-        {
+        function ReturnAllColors() {
             var nodes = graph.getNodes();
-            for (var i = 0; i < nodes.length; i++) 
-            {
+            for (var i = 0; i < nodes.length; i++) {
                 ReturnPreviousColor(nodes[i]);
             }
             redrawSameScene();
         }
 
-        function ShowExpandableNodes()
-        {
+        function ShowExpandableNodes() {
             var nodes = graph.getNodes();
             for (var i = 0; i < nodes.length; i++) {
                 var node = nodes[i];
@@ -614,9 +670,9 @@
                 }
                 else { ChangeColor(node, "grey") };
             }
-            redrawSameScene();           
+            redrawSameScene();
         }
-        //the functions definitions end here
+        //################## the functions definitions end here
     </script>
 </body>
 </html>
