@@ -30,54 +30,54 @@ module.exports = (function () {
         var distances = [],
             tmpPos = new THREE.Vector3(0, 0, 0),
             currFrame = 0;  // This will result in the first frame getting sorted
-        ////removed by sonja: buggy and not needed. buggy because it changes the positions to NaN
-        //return function (bufferGeomAttributes, cameraPosition) {
-        //    if (currFrame > 0) {
-        //        if (currFrame > this.frameSkip) {
-        //            // Render next frame
-        //            currFrame = 0;
-        //        } else {
-        //            currFrame += 1;
-        //        }
-        //        return;
-        //    }
-        //    currFrame += 1;
+     
+        return function (bufferGeomAttributes, cameraPosition) {
+            if (currFrame > 0) {
+                if (currFrame > this.frameSkip) {
+                    // Render next frame
+                    currFrame = 0;
+                } else {
+                    currFrame += 1;
+                }
+                return;
+            }
+            currFrame += 1;
 
-        //    var attributes = bufferGeomAttributes,
-        //        numPoints = attributes.position.length / 3;
+            var attributes = bufferGeomAttributes,
+                numPoints = attributes.position.length / 3;
 
-        //    for (var i = 0; i < numPoints; ++i) {
-        //        tmpPos.set(
-        //            attributes.position.array[i * 3],
-        //            attributes.position.array[i * 3 + 1],
-        //            attributes.position.array[i * 3 + 2]
-        //        );
-        //        distances[i] = [
-        //            cameraPosition.distanceTo(tmpPos), i];
-        //    }
-        //    distances.sort(function(a, b) {
-        //        return b[0] - a[0];
-        //    });
+            for (var i = 0; i < numPoints; ++i) {
+                tmpPos.set(
+                    attributes.position.array[i * 3],
+                    attributes.position.array[i * 3 + 1],
+                    attributes.position.array[i * 3 + 2]
+                );
+                distances[i] = [
+                    cameraPosition.distanceTo(tmpPos), i];
+            }
+            distances.sort(function(a, b) {
+                return b[0] - a[0];
+            });
 
-        //    for (var val in attributes) {
-        //        if (!attributes.hasOwnProperty(val)) { continue; }
+            for (var val in attributes) {
+                if (!attributes.hasOwnProperty(val)) { continue; }
 
-        //        var itemSize = attributes[val].itemSize;
-        //        var newArray = new Float32Array(itemSize * numPoints);
+                var itemSize = attributes[val].itemSize;
+                var newArray = new Float32Array(itemSize * numPoints);
 
-        //        for (i = 0; i < numPoints; ++i){
-        //            var index = distances[i][1];
-        //            for (var j = 0; j < itemSize; ++j) {
-        //                var srcIndex = index * itemSize + j;
-        //                var dstIndex = i * itemSize + j;
-        //                newArray[dstIndex] = attributes[val].array[srcIndex];
-        //            }
-        //        }
+                for (i = 0; i < numPoints; ++i){
+                    var index = distances[i][1];
+                    for (var j = 0; j < itemSize; ++j) {
+                        var srcIndex = index * itemSize + j;
+                        var dstIndex = i * itemSize + j;
+                        newArray[dstIndex] = attributes[val].array[srcIndex];
+                    }
+                }
 
-        //        attributes[val].array = newArray;
-        //        attributes[val].needsUpdate = true;
-        //    }
-        //};
+                attributes[val].array = newArray;
+                attributes[val].needsUpdate = true;
+            }
+        };
     }());
 
     return BufferGeometrySorter;
@@ -71667,23 +71667,29 @@ module.exports = (function () {
         this._initCamera(this.aspectRatio);
         this.positionCamera();
         this.forceRerender();
+
     };
 
     //added by sonja
-	Frame.prototype.reDrawMe = function() {
+    Frame.prototype.reDrawMe = function () {
+       
 	    this._initNodes(this.graph.getNodes());	    
         this._initEdges(this.graph.getEdges());
         this.positionCamera();
-        this._initLabelPositions();
         this.forceRerender();
+ 
+        //this._animateAgain();
 	};
 
     //added by sonja
-	Frame.prototype.reDrawMeInSameScene = function () {
+    Frame.prototype.reDrawMeInSameScene = function () {
+  
 	    var nodes = this.graph.getNodes(); 
 	    this._initNodes(nodes);   
 	    this._initEdges(this.graph.getEdges());	   
 	    this.forceRerender();
+
+	    //this._animateAgain();
 	};
 
     Frame.prototype._initControls = function (elem) {
@@ -71728,7 +71734,6 @@ module.exports = (function () {
             depthWrite: false,
         });
        
-
         if (this.graph._nodeImage !== undefined) {
             var texture = THREE.ImageUtils.loadTexture(
                 this.graph._nodeImage, undefined, function () {
@@ -71758,13 +71763,13 @@ module.exports = (function () {
             positions.setXYZ(i, pos.x, pos.y, pos.z);
             colors.setXYZ(i, color.r, color.g, color.b);
             ids.setX(i, i);
-            sizes[i] = i % 20;
+            //sizes[i] = i % 20;
         }
         this.points = new THREE.BufferGeometry();
         this.points.addAttribute('position', positions);
         this.points.addAttribute('color', colors);
         this.points.addAttribute('id', ids);
-        this.points.addAttribute('size', new THREE.BufferAttribute(sizes, 1));
+        //this.points.addAttribute('size', new THREE.BufferAttribute(sizes, 1));
 
         pointsSet = this.points; 
 
@@ -71846,10 +71851,7 @@ module.exports = (function () {
         this.scene.add(this.line);
     }; 
 
-    Frame.prototype._initLabelPositions = function () {//from sonja: I was trying to add labels to the expandable nodes
-
-        
-    }
+   
 
     Frame.prototype._initMouseEvents = function (elem) {
         var self = this;
@@ -71897,7 +71899,7 @@ module.exports = (function () {
                 var intersects = raycaster.intersectObject(self.pointCloud, true);
                 if (intersects.length) {                    
                     var firstIndex = intersects[0].index;
-                    var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];                     
+                    //var nodeIndex = self.pointCloud.geometry.attributes.id.array[firstIndex];                     
                     callback(self.graph._nodes[firstIndex]);                    
                 }
             };
@@ -71952,6 +71954,18 @@ module.exports = (function () {
         (function animate() {
             self._updateCameraBounds();
             //sorter.sort(self.points.attributes, self.controls.object.position);      
+            window.requestAnimationFrame(animate);
+            self.controls.update();
+        }());
+    };
+
+    Frame.prototype._animateAgain = function () {
+        var self = this,
+            sorter = new BufferGeometrySorter(5);
+        // Update near/far camera range
+        (function animate() {
+            //self._updateCameraBounds();
+            sorter.sort(self.points.attributes, self.controls.object.position);
             window.requestAnimationFrame(animate);
             self.controls.update();
         }());

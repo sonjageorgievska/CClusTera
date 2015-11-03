@@ -1,5 +1,6 @@
 ﻿<html>
 <head>
+    <title>Hierarchical data visualization</title>
     <style>
         #frame {
             position: absolute;
@@ -12,27 +13,9 @@
 
         #sliderObj {
             position: absolute;
-            top: 200;
-            left: 15;
+            top: 35;
+            left: 305;
             z-index: 1;
-            font-family: sans-serif;
-        }
-
-        #labelproperty {
-            position: absolute;
-            top: 235;
-            left: 15;
-            z-index: 1;
-            color: black;
-            font-family: sans-serif;
-        }
-
-        #labelcolor {
-            position: absolute;
-            top: 300;
-            left: 15;
-            z-index: 1;
-            color: black;
             font-family: sans-serif;
         }
 
@@ -62,9 +45,6 @@
             font-family: sans-serif;
         }
 
-
-
-
         #colortable {
             position: absolute;
             top: 320;
@@ -72,50 +52,56 @@
             z-index: 1;
             font-family: sans-serif;
         }
-
-
-
-        /*#comboObj2 {
-             position: absolute;
-             top: 350;
-             left: 15;
-             z-index: 1;
-             font-family: sans-serif;
-         }*/
     </style>
+    <style type="text/css">
+        .fieldset-auto-width {
+            display: inline-block;
+        }
+    </style>
+
 </head>
 
 <body>
+    <h1 style=" font: 20px Arial ; color: darkblue">Hierarchical data visualization</h1>
+
+    <p> </p>
+    <p> </p>
+    <p> </p>
     <!--UI components-->
-    <input type="text" name="search" id="search" class="textbox" />
-    <button style="background-color:white; font: 14px Arial" onclick="searchSequence()" name="button">Search</button>
-    <!--<p> </p>
-    <button style="background-color:white ; font: 14px Arial" onclick="fastLoadAllData()" name="button">Load all data</button>-->
+    <fieldset class="fieldset-auto-width" style="font: 15px Arial">
+        <legend style=" font: 15px Arial">Search by id, name, category, etc... </legend>
+        <p> </p>
+        <input type="text" name="search" id="search" class="textbox" />
+        <button style=" font: 14px Arial" onclick="searchSequence()" name="button">Search</button>
+    </fieldset>
+    <p> </p> <p> </p>
+    <fieldset class="fieldset-auto-width" style="font: 15px Arial">
+        <legend style=" font: 15px Arial">Visualization options</legend>
+        <p> </p>
+        <input type="checkbox" name="showedges" id="showedges" />
+        <label style=" font: 15px Arial"> Show edges</label>
+
+        <p> </p>
+        <button style=" font: 14px Arial" onclick="ShowExpandableNodes()" name="button">Show expandable</button>
+        <button style=" font: 14px Arial" onclick="ReturnAllColors()" name="button">Resume colors</button>
+    </fieldset>
     <p> </p>
-    <button style="background-color:white ; font: 14px Arial" onclick="ReturnAllColors()" name="button">Resume colors</button>
-    <p> </p>
-    <button style="background-color:white ; font: 14px Arial" onclick="ShowExpandableNodes()" name="button">Show expandable</button>
-    <p> </p>
-    <input type="checkbox" name="showedges" id="showedges" />
-    <label style=" font: 15px Arial"> Show edges</label>
     <div id="frame"></div>
     <div id="sliderObj" min="0" step="1" value="0" vertical="false" size="245"></div>
-    <div id="labelproperty" style=" font: 15px Arial">Colorize by a numerical property:</div>
-    <div id="labelproperty2" style=" font: 15px Arial">Press Ctrl+z to close the last open node</div>
-    <div id="labelcolor" style=" font: 15px Arial">Click inside to select a color:</div>
-    <div id="comboObj" width="245"></div>
-    <!--<div id="comboObj2" width="245"></div>-->
-    <!--<div id="colorpickerObj"></div>-->
+    <div id="labelproperty2" style=" font: 15px Arial">Hover over a node to see its information. Press Ctrl+z to close the last open node.</div>
 
-
-
-
-    <table cellspacing="2" cellpadding="2" border="0" id="colortable">
-        <tr>
-            <td><input type="text" id="inputcolor" colorbox="true"></td>
-        </tr>
-    </table>
-
+    <div>
+        <fieldset class="fieldset-auto-width" style="font: 15px Arial">
+            <legend style=" font: 15px Arial">Coloring</legend>
+            <p> Select a property: </p>
+            <select name="combo" id="combo"></select>
+            <p> Click inside the field to select a color: </p>
+            <input type="text" id="inputcolor" colorbox="true">
+            <p>
+                <button style=" font: 14px Arial" onclick="ReturnAllColors()" name="button">Resume colors</button>
+            </p>
+        </fieldset>
+    </div>
     <link rel="stylesheet" type="text/css" href="src/dhtmlx.css">
     <script src="src/dhtmlx.js"></script>
     <script src="dist/graphosaurus.js"></script>
@@ -132,6 +118,7 @@
         var cursorY;
         var mySlider;
         var myPop = new dhtmlXPopup();
+
         var myPopSlider;
         var pointsSet;
         var previousNumberOfNodes = []; //is used in ctrl+z, holds the previous number of nodes for every click
@@ -185,7 +172,7 @@
         else {
             InitDrawing();
         }
-       
+
         //################## global code ends here
 
         //################## the functions definitions start here
@@ -242,10 +229,10 @@
             httpRequest.open('GET', path);
             httpRequest.send();
         }
-        
+
         function ComputeExpandables(data)//is called in case of small data. Parameter data contains all (small) data. Computes the global double array expandable
         {
-           
+
             for (var key in data) {
                 expandable[key] = [];
                 for (var i = 0; i < totalNumberOfLevels; i++) {
@@ -276,7 +263,7 @@
             var categories = node._categoriesValues;
             var text = node.getId(); //+ "<br>" + props[0] + "<br>" + props[2] + "<br>" + props[4]
             for (var i = 0; i < categories.length; i++) { text += "<br>" + categories[i]; }
-            if (node._expandable) { text = "Click me! <br> " + text; }
+            if (node._expandable) { text = "Click to open! <br> " + text; }
             myPop.attachHTML(text);
             myPop.show(cursorX, cursorY, 2, 3); //params are: x, y, width, height. 3 and 5 are number of pixels relative to the node where the message should appear(you can play with these numbers)
         }
@@ -465,7 +452,7 @@
             for (var i = 0; i < level; i++) {
                 currentDir = currentDir + "/" + parseInt(path[i]);
             }
-            CurrentDir[systemId] = currentDir;           
+            CurrentDir[systemId] = currentDir;
             CurrentLevel[systemId]++;
         }
 

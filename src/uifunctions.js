@@ -41,33 +41,53 @@ function KeyPress(e) {//if the key combination is ctrl+z, then it will close the
      mySlider.enable();
  };
 
+ //function defineCombo() {
+ //    var myCombo = new dhtmlXCombo("comboObj");
+ //    var listOfProperties; 
+ //    fetchJSONFile("data/NamesOfProperties.js", function (data) {
+ //        listOfProperties = data;
+ //        var len = listOfProperties.length;
+ //        listOfProperties = listOfProperties.slice(0, len);
+     
+ //    var list = [];
+
+ //    for (var i = 0; i < listOfProperties.length; i++)
+ //    {
+ //        list.push([i, listOfProperties[i]]);
+ //    }
+
+
+ //    myCombo.addOption(list);
+
+    
+
+ //    myCombo.attachEvent("onChange", function () {
+ //        selectedPropertyIndex = myCombo.getSelectedValue();         
+ //    });
+ //    //myCombo.filter = true;
+ //    myCombo.setSize(245);
+
+ //    myCombo.enable();
+ //    });
+ //}
+
  function defineCombo() {
-     var myCombo = new dhtmlXCombo("comboObj");
-     var listOfProperties; 
+     var myCombo = document.getElementById("combo");
+     var listOfProperties;
      fetchJSONFile("data/NamesOfProperties.js", function (data) {
          listOfProperties = data;
          var len = listOfProperties.length;
          listOfProperties = listOfProperties.slice(0, len);
-     
-     var list = [];
-
-     for (var i = 0; i < listOfProperties.length; i++)
-     {
-         list.push([i, listOfProperties[i]]);
-     }
-
-
-     myCombo.addOption(list);
-
-    
-
-     myCombo.attachEvent("onChange", function () {
-         selectedPropertyIndex = myCombo.getSelectedValue();         
-     });
-     //myCombo.filter = true;
-     myCombo.setSize(245);
-
-     myCombo.enable();
+         for (var i = 0; i < listOfProperties.length; i++) {
+             var option = document.createElement("option");
+             option.text = listOfProperties[i];
+             option.value = i;
+             try {
+                 combo.add(option, null); //Standard 
+             } catch (error) {
+                 combo.add(option); // IE only
+             }           
+         }
      });
  }
 
@@ -108,7 +128,9 @@ function KeyPress(e) {//if the key combination is ctrl+z, then it will close the
 
      myColorpicker.attachEvent("onSelect", function (color, node) {
          var col = myColorpicker.getSelectedColor();
-         
+         var myCombo = document.getElementById("combo");
+         var selectedPropertyIndex = myCombo.options[myCombo.selectedIndex].value;
+
          Colorize(col, selectedPropertyIndex);
          //$("#label2").text(color);
      });
