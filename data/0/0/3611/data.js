@@ -1,1 +1,0 @@
-{"3611":{"Path":["0","0","3611","3611"],"Coordinates":[0.11051875177783474,0.60014378218371722,0.68989119914609531],"Categories":["Blastobotrys peoriensis","Blastobotrys peoriensis","Blastobotrys","Trichomonascaceae","Saccharomycetales"],"Properties":[1,4,6]}}

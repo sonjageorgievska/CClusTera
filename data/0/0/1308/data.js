@@ -1,1 +1,0 @@
-{"1308":{"Path":["0","0","1308","1308"],"Coordinates":[0.60797023300788289,0.46750249282315576,0.56421293778478732],"Categories":["Wickerhamomyces anomalus","Wickerhamomyces anomalus","Wickerhamomyces","","Saccharomycetales"],"Properties":[6,3,5]}}

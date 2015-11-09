@@ -1,1 +1,0 @@
-{"3119":{"Path":["0","0","3119","3119"],"Coordinates":[0.16036069207680398,0.60941265534210143,0.55503227646485],"Categories":["Bensingtonia sorbi","Bensingtonia sorbi","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[1,4,4]}}

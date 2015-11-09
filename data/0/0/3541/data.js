@@ -1,1 +1,0 @@
-{"3541":{"Path":["0","0","3541","3541"],"Coordinates":[0.61633349554401984,0.48599475680751764,0.55469882442446217],"Categories":["Candida oslonensis","Candida oslonensis","Candida","","Saccharomycetales"],"Properties":[6,3,4]}}

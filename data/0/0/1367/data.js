@@ -1,1 +1,0 @@
-{"1367":{"Path":["0","0","1367","1367"],"Coordinates":[0.58845961807504343,0.76725928733708093,0.556804539048445],"Categories":["Cryptococcus longus","Cryptococcus longus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,6,5]}}

@@ -1,1 +1,0 @@
-{"2413":{"Path":["0","1324","2413","2413"],"Coordinates":[0.707978407756927,0.35393707611585118,0.44470172481205011],"Categories":["Sporopachydermia quercuum","Sporopachydermia quercuum","Sporopachydermia","","Saccharomycetales"],"Properties":[7,2,4]}}

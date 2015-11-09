@@ -1,1 +1,0 @@
-{"1072":{"Path":["0","0","1072","1072"],"Coordinates":[0.27745874803985576,0.1600372489201928,0.2693858696633083],"Categories":["Metschnikowia zobellii","Metschnikowia zobellii","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[2,1,2]}}

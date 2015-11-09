@@ -1,1 +1,0 @@
-{"1141":{"Path":["0","0","1141","1141"],"Coordinates":[0.75534807061115994,0.32330426272977575,0.77677083425366011],"Categories":["Candida torresii","Candida torresii","Candida","","Saccharomycetales"],"Properties":[7,2,6]}}

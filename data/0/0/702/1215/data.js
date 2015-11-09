@@ -1,1 +1,0 @@
-{"1215":{"Path":["0","0","702","1215"],"Coordinates":[0.485174674613378,0.36976523609013812,0.3914441678453161],"Categories":["Priceomyces medius","Priceomyces medius","Priceomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[4,2,3]}}

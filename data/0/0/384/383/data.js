@@ -1,1 +1,0 @@
-{"383":{"Path":["0","0","384","383"],"Coordinates":[0.42345703771074045,0.704973185751527,0.75207591974997978],"Categories":["Komagataella pastoris","Komagataella pastoris","Komagataella","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,6]}}

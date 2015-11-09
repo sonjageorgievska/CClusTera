@@ -1,1 +1,0 @@
-{"2611":{"Path":["0","0","2611","2611"],"Coordinates":[0.45376394619251,0.235233914673882,0.54944555477765678],"Categories":["Kriegeria eriophori","Kriegeria eriophori","Kriegeria","Platygloeaceae","Platygloeales"],"Properties":[4,1,4]}}

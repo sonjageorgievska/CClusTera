@@ -1,1 +1,0 @@
-{"4142":{"Path":["0","0","4142","4142"],"Coordinates":[0.34748370848119231,0.10823064191644194,0.46970744756546945],"Categories":["Candida sirachaensis","Candida sirachaensis","Candida","","Saccharomycetales"],"Properties":[3,0,4]}}

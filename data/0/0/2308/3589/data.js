@@ -1,1 +1,0 @@
-{"3589":{"Path":["0","0","2308","3589"],"Coordinates":[0.4439263380510321,0.54100271284555435,0.56920053128193093],"Categories":["Candida dosseyi","Candida dosseyi","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

@@ -1,1 +1,0 @@
-{"2085":{"Path":["0","0","2085","2085"],"Coordinates":[0.72526346436766176,0.59043568225043208,0.78887264599615581],"Categories":["Lipomyces arxii","Lipomyces arxii","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[7,4,7]}}

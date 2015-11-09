@@ -1,1 +1,0 @@
-{"2355":{"Path":["0","0","2355","2355"],"Coordinates":[0.580774595059527,0.45850723528171261,0.67750803768102463],"Categories":["Candida infanticola","Candida infanticola","Candida","","Saccharomycetales"],"Properties":[5,3,6]}}

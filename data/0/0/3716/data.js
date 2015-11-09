@@ -1,1 +1,0 @@
-{"3716":{"Path":["0","0","3716","3716"],"Coordinates":[0.3223877154950488,0.72842936311386908,0.35444978751411521],"Categories":["Kazachstania jiainicus","Kazachstania jiainicus","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,5,3]}}

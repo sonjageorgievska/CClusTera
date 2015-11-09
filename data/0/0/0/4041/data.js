@@ -1,1 +1,0 @@
-{"4041":{"Path":["0","0","0","4041"],"Coordinates":[0.44990917195183783,0.23677843172490404,0.66397982149310553],"Categories":["Leucosporidium drummii","Leucosporidium drummii","Leucosporidium","Sporidiobolaceae","Sporidiobolales"],"Properties":[4,1,5]}}

@@ -1,1 +1,0 @@
-{"3364":{"Path":["0","0","3364","3364"],"Coordinates":[0.28850551940660363,0.61875952672653833,0.27997003187950953],"Categories":["Candida alai","Candida alai","Candida","","Saccharomycetales"],"Properties":[2,4,2]}}

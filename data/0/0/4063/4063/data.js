@@ -1,1 +1,0 @@
-{"4063":{"Path":["0","0","4063","4063"],"Coordinates":[0.37529559802901513,0.46758771417827144,0.63275956672682487],"Categories":["Candida pattaniensis","Candida pattaniensis","Candida","","Saccharomycetales"],"Properties":[3,3,5]}}

@@ -1,1 +1,0 @@
-{"3841":{"Path":["0","0","3841","3841"],"Coordinates":[0.38818117071537828,0.37275647039524362,0.46791767666012662],"Categories":["Sympodiomycopsis lanaiensis","Sympodiomycopsis lanaiensis","Sympodiomycopsis","Microstromataceae","Microstromatales"],"Properties":[3,2,4]}}

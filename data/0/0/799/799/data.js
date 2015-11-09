@@ -1,1 +1,0 @@
-{"799":{"Path":["0","0","799","799"],"Coordinates":[0.73201489221738536,0.63112932815185763,0.53629633900886986],"Categories":["Saccharomycopsis selenospora","Saccharomycopsis selenospora","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[7,5,4]}}

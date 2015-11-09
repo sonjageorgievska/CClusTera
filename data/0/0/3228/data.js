@@ -1,1 +1,0 @@
-{"3228":{"Path":["0","0","3228","3228"],"Coordinates":[0.60409866483750518,0.5677473418407204,0.56253377265235238],"Categories":["Candida khmerensis","Candida khmerensis","Candida","","Saccharomycetales"],"Properties":[6,4,5]}}

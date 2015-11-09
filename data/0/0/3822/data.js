@@ -1,1 +1,0 @@
-{"3822":{"Path":["0","0","3822","3822"],"Coordinates":[0.64515057969431,0.35343705791288438,0.61614458169656439],"Categories":["Candida khaoyaiensis","Candida khaoyaiensis","Candida","","Saccharomycetales"],"Properties":[6,2,5]}}

@@ -1,1 +1,0 @@
-{"3548":{"Path":["0","0","3548","3548"],"Coordinates":[0.4104253335917431,0.61543941311617167,0.31715456277016169],"Categories":["Candida ascalaphidarum","Candida ascalaphidarum","Candida","","Saccharomycetales"],"Properties":[4,4,2]}}

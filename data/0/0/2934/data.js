@@ -1,1 +1,0 @@
-{"2934":{"Path":["0","0","2934","2934"],"Coordinates":[0.55474968432122529,0.45702952361149535,0.91869972067832018],"Categories":["Candida prunicola","Candida prunicola","Candida","","Saccharomycetales"],"Properties":[5,3,8]}}

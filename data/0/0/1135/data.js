@@ -1,1 +1,0 @@
-{"1135":{"Path":["0","0","1135","1135"],"Coordinates":[0.52570153997785252,0.43716612717225395,0.6182078502180125],"Categories":["Candida haemulonis","Candida haemulonis","Candida","","Saccharomycetales"],"Properties":[5,3,5]}}

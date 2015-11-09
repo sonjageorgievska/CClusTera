@@ -1,1 +1,0 @@
-{"3256":{"Path":["0","0","3256","3256"],"Coordinates":[0.10285145530897326,0.27940128642539325,0.73120116427583337],"Categories":["Candida kunorum","Candida kunorum","Candida","","Saccharomycetales"],"Properties":[1,2,6]}}

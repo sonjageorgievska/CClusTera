@@ -1,1 +1,0 @@
-{"2391":{"Path":["0","0","2391","2391"],"Coordinates":[0.66390429523210981,0.56596622367350524,0.38752122598089234],"Categories":["Rhodotorula cresolica","Rhodotorula cresolica","Rhodotorula","","Sporidiobolales"],"Properties":[6,4,3]}}

@@ -1,1 +1,0 @@
-{"2537":{"Path":["0","0","37","2537"],"Coordinates":[0.44554761094416195,0.66355766641473657,0.45336378468218935],"Categories":["Trichosporon sporotrichoides","Trichosporon sporotrichoides","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[4,5,4]}}

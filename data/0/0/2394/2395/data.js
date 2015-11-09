@@ -1,1 +1,0 @@
-{"2395":{"Path":["0","0","2394","2395"],"Coordinates":[0.50366006876105085,0.43685395089383727,0.407680671654155],"Categories":["Candida succiphila","Candida succiphila","Candida","","Saccharomycetales"],"Properties":[5,3,3]}}

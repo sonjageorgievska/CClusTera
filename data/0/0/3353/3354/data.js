@@ -1,1 +1,0 @@
-{"3354":{"Path":["0","0","3353","3354"],"Coordinates":[0.597947281734944,0.38432694139261514,0.40478639844639497],"Categories":["Geotrichum cucujoidarum","Geotrichum cucujoidarum","Geotrichum","Dipodascaceae","Saccharomycetales"],"Properties":[5,3,3]}}

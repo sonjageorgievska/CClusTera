@@ -1,1 +1,0 @@
-{"809":{"Path":["0","0","809","809"],"Coordinates":[0.65647389821417623,0.53590901680531089,0.52324219095158675],"Categories":["Kregervanrija delftensis","Kregervanrija delftensis","Kregervanrija","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,4,4]}}

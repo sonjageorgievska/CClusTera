@@ -1,1 +1,0 @@
-{"1057":{"Path":["0","0","974","1057"],"Coordinates":[0.537199965390439,0.66297284232383624,0.64915967426684018],"Categories":["Scheffersomyces lignosus","Scheffersomyces lignosus","Scheffersomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[5,5,5]}}

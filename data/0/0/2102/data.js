@@ -1,1 +1,0 @@
-{"2102":{"Path":["0","0","2102","2102"],"Coordinates":[0.63389825489460472,0.26983106786795036,0.33292763765712219],"Categories":["Sporobolomyces falcatus","Sporobolomyces falcatus","Sporobolomyces","","Sporidiobolales"],"Properties":[6,2,2]}}

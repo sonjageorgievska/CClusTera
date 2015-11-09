@@ -1,1 +1,0 @@
-{"2880":{"Path":["0","2880","2880","2880"],"Coordinates":[0.72775767771002753,0.75625368449343744,-0.031319157149599763],"Categories":["Metschnikowia lochheadii","Metschnikowia lochheadii","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[7,6,0]}}

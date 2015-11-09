@@ -1,1 +1,0 @@
-{"2410":{"Path":["0","0","2408","2410"],"Coordinates":[0.40032192903858321,0.48977949327972331,0.57602419384456183],"Categories":["Candida kofuensis","Candida kofuensis","Candida","","Saccharomycetales"],"Properties":[4,3,5]}}

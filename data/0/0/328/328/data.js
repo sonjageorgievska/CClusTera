@@ -1,1 +1,0 @@
-{"328":{"Path":["0","0","328","328"],"Coordinates":[0.3725058960120578,0.404458055906719,0.93611501987592349],"Categories":["Candida mesenterica","Candida mesenterica","Candida","","Saccharomycetales"],"Properties":[3,3,8]}}

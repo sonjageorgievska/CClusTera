@@ -1,1 +1,0 @@
-{"3250":{"Path":["0","0","3506","3250"],"Coordinates":[0.48166504688224193,0.29486507759545527,0.47324964918479712],"Categories":["Bullera taiwanensis","Bullera taiwanensis","Bullera","Tremellaceae","Tremellales"],"Properties":[4,2,4]}}

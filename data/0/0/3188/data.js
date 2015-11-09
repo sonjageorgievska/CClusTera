@@ -1,1 +1,0 @@
-{"3188":{"Path":["0","0","3188","3188"],"Coordinates":[0.28072530551839542,0.29642814248515786,0.34477871369263957],"Categories":["Candida leandrae","Candida leandrae","Candida","","Saccharomycetales"],"Properties":[2,2,3]}}

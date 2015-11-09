@@ -1,1 +1,0 @@
-{"1293":{"Path":["0","0","1294","1293"],"Coordinates":[0.17784951272432639,0.24323688424593123,0.19733877379549691],"Categories":["Candida valdiviana","Candida valdiviana","Candida","","Saccharomycetales"],"Properties":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"2838":{"Path":["0","0","1027","2838"],"Coordinates":[0.43576220383254427,0.64969571536722448,0.35809381411083158],"Categories":["Kluyveromyces nonfermentans","Kluyveromyces nonfermentans","Kluyveromyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,3]}}

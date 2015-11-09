@@ -1,1 +1,0 @@
-{"3465":{"Path":["0","0","3465","3465"],"Coordinates":[0.61212504712574789,0.58080015023217224,0.76237861062521239],"Categories":["Cryptococcus armeniacus","Cryptococcus armeniacus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,4,6]}}

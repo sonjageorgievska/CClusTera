@@ -1,1 +1,0 @@
-{"3833":{"Path":["0","0","3833","3833"],"Coordinates":[0.31141710154443425,0.50677056013537425,0.62728642475728214],"Categories":["Candida oxycetoniae","Candida oxycetoniae","Candida","","Saccharomycetales"],"Properties":[3,4,5]}}

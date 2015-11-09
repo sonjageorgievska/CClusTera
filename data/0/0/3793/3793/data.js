@@ -1,1 +1,0 @@
-{"3793":{"Path":["0","0","3793","3793"],"Coordinates":[0.85356085837484241,0.24933428638042562,0.734283940069326],"Categories":["Cryptococcus agrionensis","Cryptococcus agrionensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[8,1,6]}}

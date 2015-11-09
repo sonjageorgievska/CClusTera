@@ -1,1 +1,0 @@
-{"2579":{"Path":["0","0","2579","2579"],"Coordinates":[0.47837814397671341,0.84182386301681433,0.43680803503297394],"Categories":["Debaryomyces mycophilus","Debaryomyces mycophilus","Debaryomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,6,3]}}

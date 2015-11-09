@@ -1,1 +1,0 @@
-{"3292":{"Path":["0","0","3292","3292"],"Coordinates":[0.64771214353915141,0.48785971375038834,0.36839624908453106],"Categories":["Candida elateridarum","Candida elateridarum","Candida","","Saccharomycetales"],"Properties":[6,3,3]}}

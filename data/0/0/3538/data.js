@@ -1,1 +1,0 @@
-{"3538":{"Path":["0","0","3538","3538"],"Coordinates":[0.73224872988523848,0.68516403273276816,0.46295998232552488],"Categories":["Dioszegia butyracea","Dioszegia butyracea","Dioszegia","Tremellaceae","Tremellales"],"Properties":[7,5,4]}}

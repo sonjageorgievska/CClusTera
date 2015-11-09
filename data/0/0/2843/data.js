@@ -1,1 +1,0 @@
-{"2843":{"Path":["0","0","2843","2843"],"Coordinates":[0.25691755288115464,0.39119375959626984,0.36521286401922115],"Categories":["Candida anutae","Candida anutae","Candida","","Saccharomycetales"],"Properties":[2,3,3]}}

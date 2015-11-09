@@ -1,1 +1,0 @@
-{"743":{"Path":["0","0","743","743"],"Coordinates":[0.57217488586867193,0.68703486226271626,0.36279605835340045],"Categories":["Hyphopichia pseudoburtonii","Hyphopichia pseudoburtonii","Hyphopichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,3]}}

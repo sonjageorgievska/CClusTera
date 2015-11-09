@@ -1,1 +1,0 @@
-{"3893":{"Path":["0","0","331","3893"],"Coordinates":[0.492707810861185,0.445462096618889,0.76852802089729855],"Categories":["Candida orthopsilosis","Candida orthopsilosis","Candida","","Saccharomycetales"],"Properties":[4,3,6]}}

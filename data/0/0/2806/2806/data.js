@@ -1,1 +1,0 @@
-{"2806":{"Path":["0","0","2806","2806"],"Coordinates":[0.75974165263665128,0.54059918603350154,0.35049182219314123],"Categories":["Nakazawaea wyomingensis","Nakazawaea wyomingensis","Nakazawaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,4,3]}}

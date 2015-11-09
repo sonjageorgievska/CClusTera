@@ -1,1 +1,0 @@
-{"115":{"Path":["0","0","115","115"],"Coordinates":[0.41392970392675016,0.47078999971355534,0.74172700138992365],"Categories":["Pichia fermentans","Pichia fermentans","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,6]}}

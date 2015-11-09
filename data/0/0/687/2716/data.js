@@ -1,1 +1,0 @@
-{"2716":{"Path":["0","0","687","2716"],"Coordinates":[0.68110819015689972,0.38763056897533116,0.26832566047571482],"Categories":["Candida vaughaniae","Candida vaughaniae","Candida","","Saccharomycetales"],"Properties":[6,3,2]}}

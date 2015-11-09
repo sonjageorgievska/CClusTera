@@ -1,1 +1,0 @@
-{"4030":{"Path":["0","0","4030","4030"],"Coordinates":[0.44150775056902847,0.75380636176800431,0.53242069792905833],"Categories":["Candida palmyrensis","Candida palmyrensis","Candida","","Saccharomycetales"],"Properties":[4,6,4]}}

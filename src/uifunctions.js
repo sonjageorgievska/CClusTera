@@ -30,7 +30,7 @@ function KeyPress(e) {//if the key combination is ctrl+z, then it will close the
 
 
  function defineSlider() {
-     mySlider.enableTooltip(true);
+     mySlider.enableTooltip(true);    
      mySlider.attachEvent("onChange", function () {               
          var sliderval = mySlider.getValue();       
          fastLoadUpToLevel(sliderval);
@@ -40,41 +40,12 @@ function KeyPress(e) {//if the key combination is ctrl+z, then it will close the
      });
      mySlider.enable();
  };
-
- //function defineCombo() {
- //    var myCombo = new dhtmlXCombo("comboObj");
- //    var listOfProperties; 
- //    fetchJSONFile("data/NamesOfProperties.js", function (data) {
- //        listOfProperties = data;
- //        var len = listOfProperties.length;
- //        listOfProperties = listOfProperties.slice(0, len);
-     
- //    var list = [];
-
- //    for (var i = 0; i < listOfProperties.length; i++)
- //    {
- //        list.push([i, listOfProperties[i]]);
- //    }
-
-
- //    myCombo.addOption(list);
-
-    
-
- //    myCombo.attachEvent("onChange", function () {
- //        selectedPropertyIndex = myCombo.getSelectedValue();         
- //    });
- //    //myCombo.filter = true;
- //    myCombo.setSize(245);
-
- //    myCombo.enable();
- //    });
- //}
+  
 
  function defineCombo() {
      var myCombo = document.getElementById("combo");
      var listOfProperties;
-     fetchJSONFile("data/NamesOfProperties.js", function (data) {
+     fetchJSONFile("data/NamesOfProperties.json", function (data) {
          listOfProperties = data;
          var len = listOfProperties.length;
          listOfProperties = listOfProperties.slice(0, len);
@@ -90,30 +61,6 @@ function KeyPress(e) {//if the key combination is ctrl+z, then it will close the
          }
      });
  }
-
-
- //function defineCombo2() {
- //    var myCombo2 = new dhtmlXCombo("comboObj2");
-
-
- ////    myCombo2.addOption([
- ////["a", "family"],
- ////["aa", "class"],
- ////["b", "type"]
- ////    ]);
-
-
- //    myCombo2.attachEvent("onChange", function () {
- //        var comboval2 = myCombo2.getSelectedValue();
-         
- //        // $("#label2").text(comboval);
- //    });
- //    //myCombo.filter = true;
- //    myCombo2.setSize(245);
-
- //    myCombo2.enable();
- //}
-
  
 
  function defineColorPicker2() {

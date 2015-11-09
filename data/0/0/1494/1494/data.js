@@ -1,1 +1,0 @@
-{"1494":{"Path":["0","0","1494","1494"],"Coordinates":[0.37695690199577953,0.33827585359361145,0.27105961769976977],"Categories":["Blastobotrys parvus","Blastobotrys parvus","Blastobotrys","Trichomonascaceae","Saccharomycetales"],"Properties":[3,2,2]}}

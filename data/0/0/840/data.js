@@ -1,1 +1,0 @@
-{"840":{"Path":["0","0","840","840"],"Coordinates":[0.51776167045762667,0.55162854922539917,0.54769404957500012],"Categories":["Citeromyces matritensis","Citeromyces matritensis","Citeromyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,4]}}

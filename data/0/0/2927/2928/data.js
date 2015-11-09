@@ -1,1 +1,0 @@
-{"2928":{"Path":["0","0","2927","2928"],"Coordinates":[0.33915401576063609,0.4409713195578312,0.557216818721482],"Categories":["Candida ambrosiae","Candida ambrosiae","Candida","","Saccharomycetales"],"Properties":[3,3,5]}}

@@ -1,1 +1,0 @@
-{"3347":{"Path":["0","0","3347","3347"],"Coordinates":[0.36756569909178388,0.47703276228884606,0.5474408920346453],"Categories":["Candida plutei","Candida plutei","Candida","","Saccharomycetales"],"Properties":[3,3,4]}}

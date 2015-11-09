@@ -1,1 +1,0 @@
-{"3144":{"Path":["0","0","3144","3144"],"Coordinates":[0.57709380574100755,0.43061657989211866,0.45604366528739926],"Categories":["Derxomyces anomala","Derxomyces anomala","Derxomyces","","Tremellales"],"Properties":[5,3,4]}}

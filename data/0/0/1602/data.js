@@ -1,1 +1,0 @@
-{"1602":{"Path":["0","0","1602","1602"],"Coordinates":[0.60808325353545445,0.48983786321259953,0.30668145101727379],"Categories":["Rhodotorula auriculariae","Rhodotorula auriculariae","Rhodotorula","","Sporidiobolales"],"Properties":[6,3,2]}}

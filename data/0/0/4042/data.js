@@ -1,1 +1,0 @@
-{"4042":{"Path":["0","0","4042","4042"],"Coordinates":[0.32076039947010471,0.4448393443506426,0.3651146056033544],"Categories":["Candida parazyma","Candida parazyma","Candida","","Saccharomycetales"],"Properties":[3,3,3]}}

@@ -1,1 +1,0 @@
-{"3275":{"Path":["0","0","3275","3275"],"Coordinates":[0.4969838332035586,0.48021630546490934,0.83678166627222816],"Categories":["Candida bribrorum","Candida bribrorum","Candida","","Saccharomycetales"],"Properties":[4,3,7]}}

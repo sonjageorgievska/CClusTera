@@ -1,1 +1,0 @@
-{"834":{"Path":["0","0","834","834"],"Coordinates":[0.6088736270180114,0.60471230423089073,0.35265011642308314],"Categories":["Kazachstania lodderae","Kazachstania lodderae","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,4,3]}}

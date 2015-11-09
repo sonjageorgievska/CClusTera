@@ -1,1 +1,0 @@
-{"2846":{"Path":["0","0","2260","2846"],"Coordinates":[0.6000307094032542,0.40973854563777617,0.65630038004766145],"Categories":["Kurtzmaniella cleridarum","Kurtzmaniella cleridarum","Kurtzmaniella","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,3,5]}}

@@ -1,1 +1,0 @@
-{"969":{"Path":["0","0","970","969"],"Coordinates":[0.29168007475259305,0.85438199710510887,0.44673531759505236],"Categories":["Kuraishia cidri","Kuraishia cidri","Kuraishia","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,6,4]}}

@@ -1,1 +1,0 @@
-{"4145":{"Path":["0","0","4145","4145"],"Coordinates":[0.64212195127163174,0.88120403100164291,0.51334670518618275],"Categories":["Candida chumphonensis","Candida chumphonensis","Candida","","Saccharomycetales"],"Properties":[6,7,4]}}

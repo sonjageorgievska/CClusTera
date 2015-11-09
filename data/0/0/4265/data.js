@@ -1,1 +1,0 @@
-{"4265":{"Path":["0","0","4265","4265"],"Coordinates":[0.64465132176735218,0.33279304211371047,0.81128284254068028],"Categories":["Wickerhamiella siamensis","Wickerhamiella siamensis","Wickerhamiella","","Saccharomycetales"],"Properties":[6,2,7]}}

@@ -1,1 +1,0 @@
-{"3504":{"Path":["0","0","3504","3504"],"Coordinates":[0.655263492983032,0.83617793027538079,0.78504442734675584],"Categories":["Candida krabiensis","Candida krabiensis","Candida","","Saccharomycetales"],"Properties":[6,6,7]}}

@@ -1,1 +1,0 @@
-{"2547":{"Path":["0","0","2547","2547"],"Coordinates":[0.589130088070565,0.17857744681463206,0.53166777005184951],"Categories":["Fellomyces mexicanus","Fellomyces mexicanus","Fellomyces","Cuniculitremaceae","Tremellales"],"Properties":[5,1,4]}}

@@ -1,1 +1,0 @@
-{"1248":{"Path":["0","0","1248","1248"],"Coordinates":[0.17184962329294762,0.27602759744926714,0.57871475153286589],"Categories":["Candida incommunis","Candida incommunis","Candida","","Saccharomycetales"],"Properties":[1,2,5]}}

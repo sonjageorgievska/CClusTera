@@ -1,1 +1,0 @@
-{"3435":{"Path":["3435","3435","3435","3435"],"Coordinates":[0.64269637004500835,-0.042101902194714672,0.45503283827630125],"Categories":["Candida bentonensis","Candida bentonensis","Candida","","Saccharomycetales"],"Properties":[6,0,4]}}

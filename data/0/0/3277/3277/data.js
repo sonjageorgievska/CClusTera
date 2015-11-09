@@ -1,1 +1,0 @@
-{"3277":{"Path":["0","0","3277","3277"],"Coordinates":[0.51949342154060485,0.39269976894532649,0.37837289318179357],"Categories":["Candida anneliseae","Candida anneliseae","Candida","","Saccharomycetales"],"Properties":[5,3,3]}}

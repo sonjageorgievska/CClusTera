@@ -1,1 +1,0 @@
-{"3006":{"Path":["0","0","3006","3006"],"Coordinates":[0.29100560986460328,0.42223030091727487,0.20561056203844233],"Categories":["Metschnikowia arizonensis","Metschnikowia arizonensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[2,3,1]}}

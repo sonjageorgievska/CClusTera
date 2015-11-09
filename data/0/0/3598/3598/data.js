@@ -1,1 +1,0 @@
-{"3598":{"Path":["0","0","3598","3598"],"Coordinates":[0.17611597431227175,0.38960217047108997,0.32577645765503593],"Categories":["Metschnikowia orientalis","Metschnikowia orientalis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[1,3,2]}}

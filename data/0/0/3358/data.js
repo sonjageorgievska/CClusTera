@@ -1,1 +1,0 @@
-{"3358":{"Path":["0","0","3358","3358"],"Coordinates":[0.64567080105138375,0.34891192587039516,0.50796269934372018],"Categories":["Candida gigantensis","Candida gigantensis","Candida","","Saccharomycetales"],"Properties":[6,2,4]}}

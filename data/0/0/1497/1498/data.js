@@ -1,1 +1,0 @@
-{"1498":{"Path":["0","0","1497","1498"],"Coordinates":[0.55482619318667437,0.56178398213778991,0.67348987981644448],"Categories":["Starmera dryadoides","Starmera dryadoides","Starmera","Phaffomycetaceae","Saccharomycetales"],"Properties":[5,4,6]}}

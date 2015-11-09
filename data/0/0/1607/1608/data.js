@@ -1,1 +1,0 @@
-{"1608":{"Path":["0","0","1607","1608"],"Coordinates":[0.7084186610002865,0.64754124400420332,0.44898159102538782],"Categories":["Candida musae","Candida musae","Candida","","Saccharomycetales"],"Properties":[7,5,4]}}

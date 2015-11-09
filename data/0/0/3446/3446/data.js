@@ -1,1 +1,0 @@
-{"3446":{"Path":["0","0","3446","3446"],"Coordinates":[0.52434072871860737,0.85820279928851528,0.43050926211283008],"Categories":["Candida heliconiae","Candida heliconiae","Candida","","Saccharomycetales"],"Properties":[5,6,3]}}

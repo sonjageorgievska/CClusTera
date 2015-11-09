@@ -1,1 +1,0 @@
-{"2076":{"Path":["0","0","2076","2076"],"Coordinates":[0.4664498679611826,0.29498665164977345,0.52916892132177429],"Categories":["Bensingtonia yuccicola","Bensingtonia yuccicola","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[4,2,4]}}

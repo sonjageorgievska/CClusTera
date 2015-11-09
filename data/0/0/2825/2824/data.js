@@ -1,1 +1,0 @@
-{"2824":{"Path":["0","0","2825","2824"],"Coordinates":[0.20154049291790749,0.30803668996053607,0.23322802828880612],"Categories":["Barnettozyma hawaiiensis","Barnettozyma hawaiiensis","Barnettozyma","","Saccharomycetales"],"Properties":[2,2,2]}}

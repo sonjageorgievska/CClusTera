@@ -1,1 +1,0 @@
-{"4208":{"Path":["0","0","2401","4208"],"Coordinates":[0.30771291388888139,0.31944145311847272,0.4791643376317426],"Categories":["Bandoniozyma aquatica","Bandoniozyma aquatica","Bandoniozyma","","Tremellales"],"Properties":[3,2,4]}}

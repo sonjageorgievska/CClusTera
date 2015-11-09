@@ -1,1 +1,0 @@
-{"2994":{"Path":["0","2134","2134","2994"],"Coordinates":[0.52420984579331564,0.4737103888386256,0.701835152891264],"Categories":["Botryozyma mucatilis","Botryozyma mucatilis","Botryozyma","","Saccharomycetales"],"Properties":[5,3,6]}}

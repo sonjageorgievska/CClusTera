@@ -1,1 +1,0 @@
-{"2292":{"Path":["0","0","2292","2292"],"Coordinates":[0.15375854580701479,0.58970919145587908,0.40914524432418387],"Categories":["Saccharomycopsis amapae","Saccharomycopsis amapae","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[1,4,3]}}

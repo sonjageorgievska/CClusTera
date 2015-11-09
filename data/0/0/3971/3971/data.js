@@ -1,1 +1,0 @@
-{"3971":{"Path":["0","0","3971","3971"],"Coordinates":[0.87960749827883589,0.85029612287259915,0.52309867781152775],"Categories":["Ogataea populialbae","Ogataea populialbae","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[8,6,4]}}

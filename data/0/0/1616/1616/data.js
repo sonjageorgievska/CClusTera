@@ -1,1 +1,0 @@
-{"1616":{"Path":["0","0","1616","1616"],"Coordinates":[0.33538586037230927,0.613407508998472,0.23524868915000319],"Categories":["Saccharomycopsis microspora","Saccharomycopsis microspora","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[3,4,2]}}

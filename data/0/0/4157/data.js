@@ -1,1 +1,0 @@
-{"4157":{"Path":["0","0","4157","4157"],"Coordinates":[0.3868136948328591,0.36601073266618883,0.56210818352127745],"Categories":["Cyberlindnera xylebori","Cyberlindnera xylebori","Cyberlindnera","","Saccharomycetales"],"Properties":[3,2,5]}}

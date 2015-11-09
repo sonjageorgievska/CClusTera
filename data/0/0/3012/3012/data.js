@@ -1,1 +1,0 @@
-{"3012":{"Path":["0","0","3012","3012"],"Coordinates":[0.06560650819351857,0.64437972379501,0.54293462080335542],"Categories":["Candida davenportii","Candida davenportii","Candida","","Saccharomycetales"],"Properties":[0,5,4]}}

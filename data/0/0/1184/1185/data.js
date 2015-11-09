@@ -1,1 +1,0 @@
-{"1185":{"Path":["0","0","1184","1185"],"Coordinates":[0.72385660867693358,0.72435604414056243,0.68543924801498712],"Categories":["Candida intermedia","Candida intermedia","Candida","","Saccharomycetales"],"Properties":[7,5,6]}}

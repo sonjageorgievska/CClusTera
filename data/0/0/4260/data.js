@@ -1,1 +1,0 @@
-{"4260":{"Path":["0","0","4260","4260"],"Coordinates":[0.34344093259103348,0.54397312348601057,0.71037835121230186],"Categories":["Yarrowia bubula","Yarrowia bubula","Yarrowia","","Saccharomycetales"],"Properties":[3,4,6]}}

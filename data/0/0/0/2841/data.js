@@ -1,1 +1,0 @@
-{"2841":{"Path":["0","0","0","2841"],"Coordinates":[0.39768550843898176,0.33874140649960305,0.40792255354718343],"Categories":["Leucosporidium fasciculatum","Leucosporidium fasciculatum","Leucosporidium","Sporidiobolaceae","Sporidiobolales"],"Properties":[3,2,3]}}

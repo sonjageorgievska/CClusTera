@@ -1,1 +1,0 @@
-{"1864":{"Path":["0","0","1863","1864"],"Coordinates":[0.56990755867692577,0.41053959300846049,0.49522448148011489],"Categories":["Lipomyces oligophaga","Lipomyces oligophaga","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[5,3,4]}}

@@ -1,1 +1,0 @@
-{"805":{"Path":["0","0","805","805"],"Coordinates":[0.57030159433871375,0.39332714616992964,0.40212284625543665],"Categories":["Eremothecium coryli","Eremothecium coryli","Eremothecium","Eremotheciaceae","Saccharomycetales"],"Properties":[5,3,3]}}

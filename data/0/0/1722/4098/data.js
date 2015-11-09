@@ -1,1 +1,0 @@
-{"4098":{"Path":["0","0","1722","4098"],"Coordinates":[0.62836551924431994,0.44074742943004908,0.57053284478128663],"Categories":["Candida sphagnicola","Candida sphagnicola","Candida","","Saccharomycetales"],"Properties":[6,3,5]}}

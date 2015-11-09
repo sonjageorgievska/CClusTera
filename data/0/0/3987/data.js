@@ -1,1 +1,0 @@
-{"3987":{"Path":["0","0","3987","3987"],"Coordinates":[0.4065030367928742,0.47319328566484326,0.26586304571627911],"Categories":["Torulaspora quercuum","Torulaspora quercuum","Torulaspora","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,2]}}

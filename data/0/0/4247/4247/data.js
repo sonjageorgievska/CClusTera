@@ -1,1 +1,0 @@
-{"4247":{"Path":["0","0","4247","4247"],"Coordinates":[0.28405866066141006,0.77150423619337938,0.433411116792313],"Categories":["Wickerhamomyces mori","Wickerhamomyces mori","","",""],"Properties":[2,6,3]}}

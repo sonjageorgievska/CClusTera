@@ -1,1 +1,0 @@
-{"3107":{"Path":["0","0","3107","3107"],"Coordinates":[0.33419234670307291,0.515615051917013,0.74636321759171975],"Categories":["Candida cretensis","Candida cretensis","Candida","","Saccharomycetales"],"Properties":[3,4,6]}}

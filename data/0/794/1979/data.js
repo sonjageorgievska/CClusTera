@@ -1,1 +1,0 @@
-{"1979":{"Path":["0","794","1979","1979"],"Coordinates":[0.35090896074898442,0.46062764118263921,0.431914877384684],"Categories":["Saccharomycopsis schoenii","Saccharomycopsis schoenii","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[3,3,3]}}

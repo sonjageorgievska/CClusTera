@@ -1,1 +1,0 @@
-{"4059":{"Path":["0","0","4059","4059"],"Coordinates":[0.58798785398192088,0.65626222378327292,0.74439638082419168],"Categories":["Candida saraburiensis","Candida saraburiensis","Candida","","Saccharomycetales"],"Properties":[5,5,6]}}

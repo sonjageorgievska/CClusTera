@@ -1,1 +1,0 @@
-{"3105":{"Path":["0","0","3105","3105"],"Coordinates":[0.4049375545961067,0.3841737735481664,0.51784131466077987],"Categories":["Malassezia japonica","Malassezia japonica","Malassezia","","Malasseziales"],"Properties":[4,3,4]}}

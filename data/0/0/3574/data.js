@@ -1,1 +1,0 @@
-{"3574":{"Path":["0","0","3574","3574"],"Coordinates":[0.577688087183642,0.42823569031935588,0.38598523182737976],"Categories":["Candida tibetensis","Candida tibetensis","Candida","","Saccharomycetales"],"Properties":[5,3,3]}}

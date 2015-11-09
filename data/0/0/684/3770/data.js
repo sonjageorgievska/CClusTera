@@ -1,1 +1,0 @@
-{"3770":{"Path":["0","0","684","3770"],"Coordinates":[0.45598951252512482,0.50864467121543244,0.59963012464541776],"Categories":["Cystofilobasidium macerans","Cystofilobasidium macerans","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[4,4,5]}}

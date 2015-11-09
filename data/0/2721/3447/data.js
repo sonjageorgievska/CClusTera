@@ -1,1 +1,0 @@
-{"3447":{"Path":["0","2721","3447","3447"],"Coordinates":[0.44650341157831819,0.50351558239623706,0.51002425089797732],"Categories":["Candida bromeliacearum","Candida bromeliacearum","Candida","","Saccharomycetales"],"Properties":[4,4,4]}}

@@ -1,1 +1,0 @@
-{"3568":{"Path":["0","0","3568","3568"],"Coordinates":[0.13739257474863703,0.29496793995796494,0.300182118532663],"Categories":["Metschnikowia aberdeeniae","Metschnikowia aberdeeniae","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[1,2,2]}}

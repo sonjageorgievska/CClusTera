@@ -1,1 +1,0 @@
-{"2016":{"Path":["0","0","120","2016"],"Coordinates":[0.4281828095465795,0.41876325366590428,0.38989413434892767],"Categories":["Pichia eremophila","Pichia eremophila","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,3]}}

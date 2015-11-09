@@ -1,1 +1,0 @@
-{"1615":{"Path":["0","1615","1615","1615"],"Coordinates":[0.25118699467310113,0.19342996257449691,0.0952527848535475],"Categories":["Farysizyma acheniorum","Farysizyma acheniorum","Farysizyma","","Ustilaginales"],"Properties":[2,1,0]}}

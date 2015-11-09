@@ -1,1 +1,0 @@
-{"2632":{"Path":["0","0","2632","2632"],"Coordinates":[0.6033698636220709,0.50309158826444256,0.52021803100104336],"Categories":["Rhodotorula terpenoidalis","Rhodotorula terpenoidalis","Rhodotorula","","Sporidiobolales"],"Properties":[6,4,4]}}

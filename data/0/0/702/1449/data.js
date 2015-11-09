@@ -1,1 +1,0 @@
-{"1449":{"Path":["0","0","702","1449"],"Coordinates":[0.49414512411167444,0.3622001800296481,0.43621341431747962],"Categories":["Priceomyces castillae","Priceomyces castillae","Priceomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[4,2,3]}}

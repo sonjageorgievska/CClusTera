@@ -1,1 +1,0 @@
-{"2955":{"Path":["0","0","2955","2955"],"Coordinates":[0.69207627232350222,0.15872420478722948,0.48534745214774128],"Categories":["Sporobolomyces yunnanensis","Sporobolomyces yunnanensis","Sporobolomyces","","Sporidiobolales"],"Properties":[6,1,4]}}

@@ -1,1 +1,0 @@
-{"1649":{"Path":["0","0","1649","1649"],"Coordinates":[1.0456795404755102,0.4947759297388119,0.56377097827425637],"Categories":["Rhodotorula bacarum","Rhodotorula bacarum","Rhodotorula","","Sporidiobolales"],"Properties":[0,3,5]}}

@@ -1,1 +1,0 @@
-{"1636":{"Path":["0","0","1636","1636"],"Coordinates":[0.69599901880637016,0.52539618490398055,0.48620799103052464],"Categories":["Saccharomycopsis crataegensis","Saccharomycopsis crataegensis","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[6,4,4]}}

@@ -1,1 +1,0 @@
-{"2783":{"Path":["0","0","2783","2783"],"Coordinates":[0.52294987153155481,0.34994597977327496,0.3632352118058087],"Categories":["Cryptococcus cylindricus","Cryptococcus cylindricus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,2,3]}}

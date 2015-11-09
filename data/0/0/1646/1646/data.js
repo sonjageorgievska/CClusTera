@@ -1,1 +1,0 @@
-{"1646":{"Path":["0","0","1646","1646"],"Coordinates":[0.56715352477146685,0.88611533345006355,0.64444453761583975],"Categories":["Ogataea methanolica","Ogataea methanolica","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,7,5]}}

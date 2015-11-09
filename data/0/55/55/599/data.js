@@ -1,1 +1,0 @@
-{"599":{"Path":["0","55","55","599"],"Coordinates":[0.51845705077392368,0.1822122629718933,0.56858412152682136],"Categories":["Debaryomyces marama","Debaryomyces marama","Debaryomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,1,5]}}

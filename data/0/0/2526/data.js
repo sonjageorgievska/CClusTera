@@ -1,1 +1,0 @@
-{"2526":{"Path":["0","0","2526","2526"],"Coordinates":[0.60851369060849969,0.52759591987479026,0.46577461061887454],"Categories":["Blastobotrys adeninivorans","Blastobotrys adeninivorans","Blastobotrys","Trichomonascaceae","Saccharomycetales"],"Properties":[6,4,4]}}

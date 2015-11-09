@@ -1,1 +1,0 @@
-{"1348":{"Path":["0","0","350","1348"],"Coordinates":[0.5116923325280327,0.62113633106682142,0.3961019968694694],"Categories":["Metschnikowia pulcherrima","Metschnikowia pulcherrima","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,4,3]}}

@@ -1,1 +1,0 @@
-{"3415":{"Path":["0","2609","3415","3415"],"Coordinates":[0.624147627559752,0.45652409277444134,0.4578954065584212],"Categories":["Pseudozyma siamensis","Pseudozyma siamensis","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[6,3,4]}}

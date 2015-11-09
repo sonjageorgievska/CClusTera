@@ -1,1 +1,0 @@
-{"3674":{"Path":["0","0","3674","3674"],"Coordinates":[0.73597249787162744,0.15660325651194323,0.20978023629021275],"Categories":["Rhodotorula psychrophenolica","Rhodotorula psychrophenolica","Rhodotorula","","Sporidiobolales"],"Properties":[7,1,1]}}

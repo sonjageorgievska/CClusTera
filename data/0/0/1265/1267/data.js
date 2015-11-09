@@ -1,1 +1,0 @@
-{"1267":{"Path":["0","0","1265","1267"],"Coordinates":[0.4043399706909776,0.59311993487533132,0.39995554591004023],"Categories":["Cyberlindnera americana","Cyberlindnera americana","Cyberlindnera","","Saccharomycetales"],"Properties":[4,4,3]}}

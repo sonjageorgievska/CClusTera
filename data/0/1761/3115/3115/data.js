@@ -1,1 +1,0 @@
-{"3115":{"Path":["0","1761","3115","3115"],"Coordinates":[0.56324861914513,0.30271265282654591,0.66675579397206486],"Categories":["Candida davisiana","Candida davisiana","Candida","","Saccharomycetales"],"Properties":[5,2,6]}}

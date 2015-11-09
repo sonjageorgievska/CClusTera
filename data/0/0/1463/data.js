@@ -1,1 +1,0 @@
-{"1463":{"Path":["0","0","1463","1463"],"Coordinates":[0.43279587967269761,0.29706161699098005,0.43028472973031767],"Categories":["Bullera dendrophila","Bullera dendrophila","Bullera","Tremellaceae","Tremellales"],"Properties":[4,2,3]}}

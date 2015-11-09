@@ -1,1 +1,0 @@
-{"4251":{"Path":["0","0","4251","4251"],"Coordinates":[0.54537997606653943,0.7164312563639279,0.47998124007694348],"Categories":["Citeromyces nyonsensis","Citeromyces nyonsensis","Citeromyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

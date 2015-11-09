@@ -1,1 +1,0 @@
-{"3795":{"Path":["0","0","155","3795"],"Coordinates":[0.685785874528024,0.23466218085568269,0.81138181476706417],"Categories":["Cryptococcus terrestris","Cryptococcus terrestris","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,1,7]}}

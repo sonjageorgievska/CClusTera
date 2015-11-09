@@ -1,1 +1,0 @@
-{"3908":{"Path":["0","0","3908","3908"],"Coordinates":[0.32727955676460596,0.61481116299629079,0.58088038965123434],"Categories":["Trichomonascus apis","Trichomonascus apis","Trichomonascus","Endomycetaceae","Saccharomycetales"],"Properties":[3,4,5]}}

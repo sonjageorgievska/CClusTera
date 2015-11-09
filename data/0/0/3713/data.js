@@ -1,1 +1,0 @@
-{"3713":{"Path":["0","0","3713","3713"],"Coordinates":[0.26114609188481686,0.7327224887385474,0.48872727439087854],"Categories":["Tetrapisispora taiwanensis","Tetrapisispora taiwanensis","Tetrapisispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,5,4]}}

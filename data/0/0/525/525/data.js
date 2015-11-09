@@ -1,1 +1,0 @@
-{"525":{"Path":["0","0","525","525"],"Coordinates":[0.49724560940385676,0.39900942849950061,0.44040283959233412],"Categories":["Candida etchellsii","Candida etchellsii","Candida","","Saccharomycetales"],"Properties":[4,3,3]}}

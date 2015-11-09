@@ -1,1 +1,0 @@
-{"3356":{"Path":["0","0","3356","3356"],"Coordinates":[0.7521799422090808,0.47274070129414913,0.620701932995977],"Categories":["Candida buenavistaensis","Candida buenavistaensis","Candida","","Saccharomycetales"],"Properties":[7,3,5]}}

@@ -1,1 +1,0 @@
-{"3725":{"Path":["0","0","3725","3725"],"Coordinates":[0.65231113597200785,0.7496930215243,0.53162089380710831],"Categories":["Candida jianshihensis","Candida jianshihensis","Candida","","Saccharomycetales"],"Properties":[6,5,4]}}

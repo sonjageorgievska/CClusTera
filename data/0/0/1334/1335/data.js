@@ -1,1 +1,0 @@
-{"1335":{"Path":["0","0","1334","1335"],"Coordinates":[0.71556348679551907,0.33012213611664043,0.78922331460110617],"Categories":["Saturnispora zaruensis","Saturnispora zaruensis","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,2,7]}}

@@ -1,1 +1,0 @@
-{"2496":{"Path":["0","0","2496","2496"],"Coordinates":[0.44497454097662503,0.67103919822560565,0.52654746092839921],"Categories":["Candida sophiae-reginae","Candida sophiae-reginae","Candida","","Saccharomycetales"],"Properties":[4,5,4]}}

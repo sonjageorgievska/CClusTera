@@ -1,1 +1,0 @@
-{"913":{"Path":["0","0","912","913"],"Coordinates":[0.6295474629804827,0.34938541108191473,0.3878206981253457],"Categories":["Trigonopsis vinaria","Trigonopsis vinaria","Trigonopsis","","Saccharomycetales"],"Properties":[6,2,3]}}

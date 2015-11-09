@@ -1,1 +1,0 @@
-{"4243":{"Path":["0","0","4243","4243"],"Coordinates":[0.362379630488523,0.067636786649535915,0.71672793142419966],"Categories":["Starmerella caucasica","Starmerella caucasica","Starmerella","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,0,6]}}

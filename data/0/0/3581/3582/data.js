@@ -1,1 +1,0 @@
-{"3582":{"Path":["0","0","3581","3582"],"Coordinates":[0.76944058642354252,0.81958490998202493,0.53979647345078],"Categories":["Kuraishia floccosa","Kuraishia floccosa","Kuraishia","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,4]}}

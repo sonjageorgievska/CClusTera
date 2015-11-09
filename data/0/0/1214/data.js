@@ -1,1 +1,0 @@
-{"1214":{"Path":["0","0","1214","1214"],"Coordinates":[0.23557313043501429,0.545258771140849,0.59318110859653],"Categories":["Candida silvae","Candida silvae","Candida","","Saccharomycetales"],"Properties":[2,4,5]}}

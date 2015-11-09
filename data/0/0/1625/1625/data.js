@@ -1,1 +1,0 @@
-{"1625":{"Path":["0","0","1625","1625"],"Coordinates":[0.79989024701732769,0.85967479806299,0.3799894626489484],"Categories":["Candida quercuum","Candida quercuum","Candida","","Saccharomycetales"],"Properties":[7,6,3]}}

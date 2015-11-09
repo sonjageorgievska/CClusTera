@@ -1,1 +1,0 @@
-{"2172":{"Path":["0","0","2172","2172"],"Coordinates":[0.67257807047926388,0.43318242540863583,0.36424297242591608],"Categories":["Fellomyces horovitziae","Fellomyces horovitziae","Fellomyces","Cuniculitremaceae","Tremellales"],"Properties":[6,3,3]}}

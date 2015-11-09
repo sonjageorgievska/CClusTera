@@ -1,1 +1,0 @@
-{"2406":{"Path":["0","2406","2406","2406"],"Coordinates":[0.87691085631123789,0.70992273730928057,0.45234913606514537],"Categories":["Candida montana","Candida montana","Candida","","Saccharomycetales"],"Properties":[8,5,4]}}

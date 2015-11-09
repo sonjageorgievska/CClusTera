@@ -1,1 +1,0 @@
-{"3426":{"Path":["0","0","37","3426"],"Coordinates":[0.40468081121607968,0.5755578555177534,0.38016623039802305],"Categories":["Trichosporon shinodae","Trichosporon shinodae","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[4,4,3]}}

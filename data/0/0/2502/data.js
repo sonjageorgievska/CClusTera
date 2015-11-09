@@ -1,1 +1,0 @@
-{"2502":{"Path":["0","0","2502","2502"],"Coordinates":[0.56848162676935343,1.0430255187847075,0.6563074226323321],"Categories":["Ambrosiozyma llanquihuensis","Ambrosiozyma llanquihuensis","Ambrosiozyma","","Saccharomycetales"],"Properties":[5,0,5]}}

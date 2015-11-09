@@ -1,1 +1,0 @@
-{"938":{"Path":["0","0","74","938"],"Coordinates":[0.69747974722558148,0.56920971492196115,0.51560192942508565],"Categories":["Cryptococcus aerius","Cryptococcus aerius","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,4,4]}}

@@ -1,1 +1,0 @@
-{"2520":{"Path":["0","0","2521","2520"],"Coordinates":[0.58994763894707347,0.193914008217837,0.73446066100793417],"Categories":["Fellomyces fuzhouensis","Fellomyces fuzhouensis","Fellomyces","Cuniculitremaceae","Tremellales"],"Properties":[5,1,6]}}

@@ -1,1 +1,0 @@
-{"1229":{"Path":["0","1229","1229","1229"],"Coordinates":[0.41788410060587516,0.94818090060111,0.43441023267704632],"Categories":["Aciculoconidium aculeatum","Aciculoconidium aculeatum","Aciculoconidium","","Saccharomycetales"],"Properties":[4,7,3]}}

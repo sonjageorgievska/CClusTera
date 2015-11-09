@@ -1,1 +1,0 @@
-{"12":{"Path":["0","0","12","12"],"Coordinates":[0.50622871680377379,0.50313523239168412,0.292413140369881],"Categories":["Dekkera anomala","Dekkera anomala","Dekkera","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,2]}}

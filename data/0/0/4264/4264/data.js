@@ -1,1 +1,0 @@
-{"4264":{"Path":["0","0","4264","4264"],"Coordinates":[0.55541971985202843,0.42016207071641209,0.99812186061612018],"Categories":["Starmerella aceti","Starmerella aceti","Starmerella","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,3,8]}}

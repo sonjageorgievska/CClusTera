@@ -1,1 +1,0 @@
-{"2083":{"Path":["0","0","2084","2083"],"Coordinates":[0.66830081232045413,0.63286044999481872,0.16674105232158804],"Categories":["Myxozyma kluyveri","Myxozyma kluyveri","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[6,5,1]}}

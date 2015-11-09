@@ -1,1 +1,0 @@
-{"218":{"Path":["0","0","218","218"],"Coordinates":[0.44242170899722266,0.48565757654070685,0.54023261073905116],"Categories":["Naumovozyma dairenensis","Naumovozyma dairenensis","Naumovozyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,4]}}

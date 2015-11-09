@@ -1,1 +1,0 @@
-{"4211":{"Path":["0","0","1451","4211"],"Coordinates":[0.63270362412245373,0.61939556625390635,0.26724421977832985],"Categories":["Candida thasaenensis","Candida thasaenensis","Candida","","Saccharomycetales"],"Properties":[6,4,2]}}

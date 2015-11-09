@@ -1,1 +1,0 @@
-{"2690":{"Path":["0","0","2690","2690"],"Coordinates":[0.35773465310727959,0.78073096553992316,0.31223835547615775],"Categories":["Candida taylorii","Candida taylorii","Candida","","Saccharomycetales"],"Properties":[3,6,2]}}

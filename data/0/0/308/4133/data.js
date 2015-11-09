@@ -1,1 +1,0 @@
-{"4133":{"Path":["0","0","308","4133"],"Coordinates":[0.45555790983279282,0.22759522168947804,0.50726026456562245],"Categories":["Cryptococcus cyanovorans","Cryptococcus cyanovorans","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,1,4]}}

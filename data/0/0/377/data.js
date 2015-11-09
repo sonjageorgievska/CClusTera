@@ -1,1 +1,0 @@
-{"377":{"Path":["0","0","377","377"],"Coordinates":[0.47402338137183914,0.51272495599876544,0.36968698139925305],"Categories":["Zygosaccharomyces bisporus","Zygosaccharomyces bisporus","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,4,3]}}

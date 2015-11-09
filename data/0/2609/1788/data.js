@@ -1,1 +1,0 @@
-{"1788":{"Path":["0","2609","1788","1788"],"Coordinates":[0.5578091280198384,0.32486804087626076,0.54315461952605792],"Categories":["Pseudozyma fusiformata","Pseudozyma fusiformata","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[5,2,4]}}

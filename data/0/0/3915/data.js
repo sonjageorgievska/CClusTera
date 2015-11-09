@@ -1,1 +1,0 @@
-{"3915":{"Path":["0","0","3915","3915"],"Coordinates":[0.54950041529837945,0.46531794285484473,0.58168556916949821],"Categories":["Candida suratensis","Candida suratensis","Candida","","Saccharomycetales"],"Properties":[5,3,5]}}

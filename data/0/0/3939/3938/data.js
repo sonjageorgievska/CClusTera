@@ -1,1 +1,0 @@
-{"3938":{"Path":["0","0","3939","3938"],"Coordinates":[0.12528105518906235,0.48214018054196522,0.36996583157979646],"Categories":["Candida awuaii","Candida awuaii","Candida","","Saccharomycetales"],"Properties":[1,3,3]}}

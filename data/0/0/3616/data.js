@@ -1,1 +1,0 @@
-{"3616":{"Path":["0","0","3616","3616"],"Coordinates":[0.65493581066581819,0.48857291589844964,0.59684143229964937],"Categories":["Candida marilandica","Candida marilandica","Candida","","Saccharomycetales"],"Properties":[6,3,5]}}

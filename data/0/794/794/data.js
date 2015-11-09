@@ -1,1 +1,0 @@
-{"794":{"Path":["0","794","794","794"],"Coordinates":[0.49195239188244988,0.37375348855697821,0.34899637507223369],"Categories":["Saccharomycopsis javanensis","Saccharomycopsis javanensis","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[4,2,3]}}

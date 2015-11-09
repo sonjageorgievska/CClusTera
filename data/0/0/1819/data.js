@@ -1,1 +1,0 @@
-{"1819":{"Path":["0","0","1819","1819"],"Coordinates":[0.41219582141369387,0.52279643163603862,0.54982396445544923],"Categories":["Rhodotorula pilati","Rhodotorula pilati","Rhodotorula","","Sporidiobolales"],"Properties":[4,4,4]}}

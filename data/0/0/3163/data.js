@@ -1,1 +1,0 @@
-{"3163":{"Path":["0","0","3163","3163"],"Coordinates":[0.50566129242720759,0.40744159094935817,0.70172833847289973],"Categories":["Candida galli","Candida galli","Candida","","Saccharomycetales"],"Properties":[5,3,6]}}

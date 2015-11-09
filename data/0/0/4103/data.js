@@ -1,1 +1,0 @@
-{"4103":{"Path":["0","0","4103","4103"],"Coordinates":[0.16320055726185923,0.40374660363093257,0.42284270372714117],"Categories":["Schizosaccharomyces cryophilus","Schizosaccharomyces cryophilus","Schizosaccharomyces","Schizosaccharomycetaceae","Schizosaccharomycetales"],"Properties":[1,3,3]}}

@@ -1,1 +1,0 @@
-{"813":{"Path":["0","0","813","813"],"Coordinates":[0.53170082414571862,0.73470585425228663,0.60270076888861868],"Categories":["Wickerhamomyces bovis","Wickerhamomyces bovis","Wickerhamomyces","","Saccharomycetales"],"Properties":[5,5,5]}}

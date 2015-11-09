@@ -1,1 +1,0 @@
-{"1350":{"Path":["0","0","1350","1350"],"Coordinates":[0.47289604006016978,0.39137185557653192,0.41914500777475616],"Categories":["Metschnikowia reukaufii","Metschnikowia reukaufii","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,3,3]}}

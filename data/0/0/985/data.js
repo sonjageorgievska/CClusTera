@@ -1,1 +1,0 @@
-{"985":{"Path":["0","0","985","985"],"Coordinates":[0.60838983503495458,0.47898881505598606,0.46409063951686863],"Categories":["Naumovozyma castellii","Naumovozyma castellii","Naumovozyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,3,4]}}

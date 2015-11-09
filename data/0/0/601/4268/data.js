@@ -1,1 +1,0 @@
-{"4268":{"Path":["0","0","601","4268"],"Coordinates":[0.66617444627415856,0.57054700386198465,0.42816705612396444],"Categories":["Cryptococcus vaughanmartiniae","Cryptococcus vaughanmartiniae","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,4,3]}}

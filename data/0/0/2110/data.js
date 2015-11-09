@@ -1,1 +1,0 @@
-{"2110":{"Path":["0","0","2110","2110"],"Coordinates":[0.78453854200424644,0.50217837370652729,0.78321659278185241],"Categories":["Lipomyces smithiae","Lipomyces smithiae","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[7,4,7]}}

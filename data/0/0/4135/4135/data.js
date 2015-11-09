@@ -1,1 +1,0 @@
-{"4135":{"Path":["0","0","4135","4135"],"Coordinates":[0.55528124970296866,0.49602275345905272,0.57190403787805777],"Categories":["Candida wancherniae","Candida wancherniae","Candida","","Saccharomycetales"],"Properties":[5,3,5]}}

@@ -1,1 +1,0 @@
-{"3983":{"Path":["0","0","3983","3983"],"Coordinates":[0.23587864381145166,0.65578903430383939,0.52449840700188988],"Categories":["Wickerhamomyces patagonicus","Wickerhamomyces patagonicus","Wickerhamomyces","","Saccharomycetales"],"Properties":[2,5,4]}}

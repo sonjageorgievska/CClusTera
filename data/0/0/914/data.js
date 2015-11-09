@@ -1,1 +1,0 @@
-{"914":{"Path":["0","0","914","914"],"Coordinates":[-0.14227661903399322,0.76413800226469342,0.62330330080493279],"Categories":["Yamadazyma triangularis","Yamadazyma triangularis","Yamadazyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[-1,6,5]}}

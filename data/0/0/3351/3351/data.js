@@ -1,1 +1,0 @@
-{"3351":{"Path":["0","0","3351","3351"],"Coordinates":[0.56697892069578726,0.31593871694508052,0.31685299432143677],"Categories":["Geotrichum carabidarum","Geotrichum carabidarum","Geotrichum","Dipodascaceae","Saccharomycetales"],"Properties":[5,2,2]}}

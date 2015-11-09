@@ -1,1 +1,0 @@
-{"2787":{"Path":["0","0","2787","2787"],"Coordinates":[0.729877248226487,0.1636062468420357,0.49426136280412652],"Categories":["Cryptococcus oeirensis","Cryptococcus oeirensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,1,4]}}

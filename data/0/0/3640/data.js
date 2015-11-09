@@ -1,1 +1,0 @@
-{"3640":{"Path":["0","0","3640","3640"],"Coordinates":[0.59721059043073887,0.69843992513952446,0.37021966606270523],"Categories":["Ogataea chonburiensis","Ogataea chonburiensis","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,3]}}

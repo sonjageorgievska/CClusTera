@@ -1,1 +1,0 @@
-{"1363":{"Path":["0","0","1363","1363"],"Coordinates":[0.5539070238967474,0.62500044744602556,0.518993811675602],"Categories":["Lipomyces tetrasporus","Lipomyces tetrasporus","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

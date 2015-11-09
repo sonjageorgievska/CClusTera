@@ -1,1 +1,0 @@
-{"2363":{"Path":["0","0","2363","2363"],"Coordinates":[0.76649445738220412,0.48113036673184123,0.68072928415829193],"Categories":["Bensingtonia musae","Bensingtonia musae","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[7,3,6]}}

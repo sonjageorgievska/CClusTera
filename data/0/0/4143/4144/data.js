@@ -1,1 +1,0 @@
-{"4144":{"Path":["0","0","4143","4144"],"Coordinates":[0.72559307539252915,0.58366375164499606,0.569002496527351],"Categories":["Ogataea phyllophila","Ogataea phyllophila","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,4,5]}}

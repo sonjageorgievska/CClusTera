@@ -1,1 +1,0 @@
-{"2289":{"Path":["0","0","2288","2289"],"Coordinates":[0.6705000457060174,0.76981302767544391,0.47526130862463367],"Categories":["Candida sojae","Candida sojae","Candida","","Saccharomycetales"],"Properties":[6,6,4]}}

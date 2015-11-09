@@ -1,1 +1,0 @@
-{"976":{"Path":["0","0","976","976"],"Coordinates":[0.26034329950040186,0.61595711451407309,0.6656740254008604],"Categories":["Candida vartiovaarae","Candida vartiovaarae","Candida","","Saccharomycetales"],"Properties":[2,4,5]}}

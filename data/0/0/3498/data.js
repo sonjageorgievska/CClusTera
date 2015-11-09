@@ -1,1 +1,0 @@
-{"3498":{"Path":["0","0","3498","3498"],"Coordinates":[0.27490906426033634,0.164770411575541,0.69329450584606522],"Categories":["Candida riodocensis","Candida riodocensis","Candida","","Saccharomycetales"],"Properties":[2,1,6]}}

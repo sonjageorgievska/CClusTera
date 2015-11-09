@@ -1,1 +1,0 @@
-{"786":{"Path":["0","0","786","786"],"Coordinates":[0.52573402204134112,0.42793750131209274,0.44905845299989411],"Categories":["Guehomyces pullulans","Guehomyces pullulans","Guehomyces","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[5,3,4]}}

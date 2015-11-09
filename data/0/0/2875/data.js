@@ -1,1 +1,0 @@
-{"2875":{"Path":["0","0","2875","2875"],"Coordinates":[0.53699881595604615,0.40841379931315241,0.4480764422632269],"Categories":["Pichia sporocuriosa","Pichia sporocuriosa","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,3,4]}}

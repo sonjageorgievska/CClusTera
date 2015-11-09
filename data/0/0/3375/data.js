@@ -1,1 +1,0 @@
-{"3375":{"Path":["0","0","3375","3375"],"Coordinates":[0.517031054362636,0.54187827906035169,0.48083845419158072],"Categories":["Cryptococcus foliicola","Cryptococcus foliicola","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,4,4]}}

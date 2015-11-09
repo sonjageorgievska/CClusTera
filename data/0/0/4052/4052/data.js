@@ -1,1 +1,0 @@
-{"4052":{"Path":["0","0","4052","4052"],"Coordinates":[0.83091570370250412,0.84841808312214706,0.60385863307889076],"Categories":["Candida rishirensis","Candida rishirensis","Candida","","Saccharomycetales"],"Properties":[8,6,5]}}

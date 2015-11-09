@@ -1,1 +1,0 @@
-{"1466":{"Path":["0","0","1466","1466"],"Coordinates":[0.58998135725664125,0.87238179564147833,0.626008949368715],"Categories":["Ogataea philodendra","Ogataea philodendra","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,6,5]}}

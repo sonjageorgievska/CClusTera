@@ -1,1 +1,0 @@
-{"930":{"Path":["0","0","930","930"],"Coordinates":[0.825705296566015,0.58843513206253528,0.63379223035328158],"Categories":["Ambrosiozyma platypodis","Ambrosiozyma platypodis","Ambrosiozyma","","Saccharomycetales"],"Properties":[8,4,5]}}

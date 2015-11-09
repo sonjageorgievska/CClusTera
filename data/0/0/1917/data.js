@@ -1,1 +1,0 @@
-{"1917":{"Path":["0","0","1917","1917"],"Coordinates":[0.64683706175807654,0.30946710348370138,0.56579920011646057],"Categories":["Sporobolomyces kluyveri-nielii","Sporobolomyces kluyveri-nielii","Sporobolomyces","","Sporidiobolales"],"Properties":[6,2,5]}}

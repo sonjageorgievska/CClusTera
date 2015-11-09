@@ -1,1 +1,0 @@
-{"2275":{"Path":["0","2275","2275","2275"],"Coordinates":[0.76346233657391183,0.26080164414666046,0.56096015095239116],"Categories":["Myxozyma monticola","Myxozyma monticola","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[7,2,5]}}

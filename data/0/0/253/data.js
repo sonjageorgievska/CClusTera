@@ -1,1 +1,0 @@
-{"253":{"Path":["0","0","253","253"],"Coordinates":[0.59730902514860273,0.623112392773437,0.7558656486641383],"Categories":["Hanseniaspora valbyensis","Hanseniaspora valbyensis","Hanseniaspora","Saccharomycodaceae","Saccharomycetales"],"Properties":[5,4,6]}}

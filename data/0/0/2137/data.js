@@ -1,1 +1,0 @@
-{"2137":{"Path":["0","0","2137","2137"],"Coordinates":[0.50632675548154149,0.580228642936943,0.41628502756408203],"Categories":["Sympodiomycopsis paphiopedili","Sympodiomycopsis paphiopedili","Sympodiomycopsis","Microstromataceae","Microstromatales"],"Properties":[5,4,3]}}

@@ -1,1 +1,0 @@
-{"2116":{"Path":["0","0","2116","2116"],"Coordinates":[0.7872159397802152,0.260293047378481,0.39226723629204269],"Categories":["Rhodotorula yarrowii","Rhodotorula yarrowii","Rhodotorula","","Sporidiobolales"],"Properties":[7,2,3]}}

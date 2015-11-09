@@ -1,1 +1,0 @@
-{"1727":{"Path":["0","0","1421","1727"],"Coordinates":[0.55992339087270182,0.50124650435569984,0.25949109902314638],"Categories":["Wickerhamomyces rabaulensis","Wickerhamomyces rabaulensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[5,4,2]}}

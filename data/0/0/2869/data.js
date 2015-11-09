@@ -1,1 +1,0 @@
-{"2869":{"Path":["0","0","2869","2869"],"Coordinates":[0.31728885293985765,0.62430064771417859,0.47690105879026418],"Categories":["Candida peoriaensis","Candida peoriaensis","Candida","","Saccharomycetales"],"Properties":[3,4,4]}}

@@ -1,1 +1,0 @@
-{"2971":{"Path":["0","2971","2971","2971"],"Coordinates":[0.15578001580090664,0.27958410542978246,0.66253709992761922],"Categories":["Bensingtonia thailandica","Bensingtonia thailandica","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[1,2,5]}}

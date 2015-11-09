@@ -1,1 +1,0 @@
-{"3516":{"Path":["0","0","3514","3516"],"Coordinates":[0.31481375019856844,0.48944895120018522,0.26936871086862374],"Categories":["Kazachstania aquatica","Kazachstania aquatica","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,2]}}

@@ -1,1 +1,0 @@
-{"3584":{"Path":["0","0","3584","3584"],"Coordinates":[0.83661115623380244,0.39564383747067361,0.6274428447120628],"Categories":["Cryptococcus cuniculi","Cryptococcus cuniculi","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[8,3,5]}}

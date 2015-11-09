@@ -1,1 +1,0 @@
-{"3114":{"Path":["0","0","3111","3114"],"Coordinates":[0.70680069568793069,0.743684893952961,0.42225605403374206],"Categories":["Candida vadensis","Candida vadensis","Candida","","Saccharomycetales"],"Properties":[7,5,3]}}

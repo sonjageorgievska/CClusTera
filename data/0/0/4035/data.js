@@ -1,1 +1,0 @@
-{"4035":{"Path":["0","0","4035","4035"],"Coordinates":[0.47891572978147917,0.76411886908715776,0.59801223647474577],"Categories":["Barnettozyma vustinii","Barnettozyma vustinii","Barnettozyma","","Saccharomycetales"],"Properties":[4,6,5]}}

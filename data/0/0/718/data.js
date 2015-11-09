@@ -1,1 +1,0 @@
-{"718":{"Path":["0","0","718","718"],"Coordinates":[0.49205537422439538,0.51397756515260906,0.46621449454304276],"Categories":["Cryptococcus gastricus","Cryptococcus gastricus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,4,4]}}

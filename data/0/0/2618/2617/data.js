@@ -1,1 +1,0 @@
-{"2617":{"Path":["0","0","2618","2617"],"Coordinates":[0.71465152456858683,0.69998615993406776,0.25908956107655645],"Categories":["Candida novakii","Candida novakii","Candida","","Saccharomycetales"],"Properties":[7,5,2]}}

@@ -1,1 +1,0 @@
-{"4158":{"Path":["0","0","4158","4158"],"Coordinates":[0.707619318912913,0.13977455908560998,0.60516421312986868],"Categories":["Derxomyces amylogenes","Derxomyces amylogenes","Derxomyces","","Tremellales"],"Properties":[7,1,5]}}

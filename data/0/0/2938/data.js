@@ -1,1 +1,0 @@
-{"2938":{"Path":["0","0","2938","2938"],"Coordinates":[-0.21897121148900325,0.74530568148157694,0.520469484068715],"Categories":["Metschnikowia koreensis","Metschnikowia koreensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[-2,5,4]}}

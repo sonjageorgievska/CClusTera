@@ -1,1 +1,0 @@
-{"1959":{"Path":["0","0","1959","1959"],"Coordinates":[0.373423789723506,0.59797717850984411,0.57389160796456451],"Categories":["Candida nanaspora","Candida nanaspora","Candida","","Saccharomycetales"],"Properties":[3,4,5]}}

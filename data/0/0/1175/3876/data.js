@@ -1,1 +1,0 @@
-{"3876":{"Path":["0","0","1175","3876"],"Coordinates":[0.44133951469268817,0.51654430746679325,0.3163674316160443],"Categories":["Candida spencermartinsiae","Candida spencermartinsiae","Candida","","Saccharomycetales"],"Properties":[4,4,2]}}

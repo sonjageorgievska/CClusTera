@@ -1,1 +1,0 @@
-{"3573":{"Path":["0","0","3573","3573"],"Coordinates":[0.59820715327400442,0.6285733392885462,0.40572585335355921],"Categories":["Metschnikowia shivogae","Metschnikowia shivogae","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,5,3]}}

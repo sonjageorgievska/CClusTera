@@ -1,1 +1,0 @@
-{"192":{"Path":["0","0","192","192"],"Coordinates":[0.4782390260403579,0.57208077048275718,0.42209938906925487],"Categories":["Kazachstania unispora","Kazachstania unispora","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,4,3]}}

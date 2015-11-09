@@ -1,1 +1,0 @@
-{"3517":{"Path":["0","0","3517","3517"],"Coordinates":[0.23422437596195245,0.2441330667615923,0.58796326828153267],"Categories":["Kregervanrija pseudodelftensis","Kregervanrija pseudodelftensis","Kregervanrija","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,1,5]}}

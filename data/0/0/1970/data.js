@@ -1,1 +1,0 @@
-{"1970":{"Path":["0","0","1970","1970"],"Coordinates":[0.55861975727784752,0.56221011306668622,0.53485344292809622],"Categories":["Malassezia sympodialis","Malassezia sympodialis","Malassezia","","Malasseziales"],"Properties":[5,4,4]}}

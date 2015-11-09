@@ -1,1 +1,0 @@
-{"4258":{"Path":["0","0","4258","4258"],"Coordinates":[0.34049017640910628,0.21788948381195683,0.88533782804282124],"Categories":["Yarrowia porcina","Yarrowia porcina","Yarrowia","","Saccharomycetales"],"Properties":[3,1,7]}}

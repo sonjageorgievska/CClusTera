@@ -1,1 +1,0 @@
-{"1240":{"Path":["0","0","1240","1240"],"Coordinates":[0.21298832116878316,0.50633142414674837,0.19309368390660725],"Categories":["Wickerhamomyces onychis","Wickerhamomyces onychis","Wickerhamomyces","","Saccharomycetales"],"Properties":[2,4,1]}}

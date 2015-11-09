@@ -1,1 +1,0 @@
-{"558":{"Path":["0","0","555","558"],"Coordinates":[0.37561598235827354,0.29562402361628237,0.31864230069110538],"Categories":["Candida blankii","Candida blankii","Candida","","Saccharomycetales"],"Properties":[3,2,2]}}

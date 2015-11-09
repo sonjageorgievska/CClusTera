@@ -1,1 +1,0 @@
-{"3702":{"Path":["0","0","3702","3702"],"Coordinates":[0.14839920188567427,0.3371336036198383,0.80036272431055822],"Categories":["Candida gelsemii","Candida gelsemii","Candida","","Saccharomycetales"],"Properties":[1,2,7]}}

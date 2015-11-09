@@ -1,1 +1,0 @@
-{"3464":{"Path":["0","0","3464","3464"],"Coordinates":[0.68847692104815783,0.35719952766441071,0.780881727939554],"Categories":["Cryptococcus cistialbidi","Cryptococcus cistialbidi","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,2,7]}}

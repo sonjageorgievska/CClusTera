@@ -1,1 +1,0 @@
-{"4106":{"Path":["0","0","4106","4106"],"Coordinates":[0.37646385989744846,0.19205762186354553,0.69061886266434436],"Categories":["Candida bullrunensis","Candida bullrunensis","Candida","","Saccharomycetales"],"Properties":[3,1,6]}}

@@ -1,1 +1,0 @@
-{"4053":{"Path":["0","0","4053","4053"],"Coordinates":[0.32116072321595224,0.2107693171788432,0.83601990882952348],"Categories":["Candida spenceri","Candida spenceri","Candida","","Saccharomycetales"],"Properties":[3,1,7]}}

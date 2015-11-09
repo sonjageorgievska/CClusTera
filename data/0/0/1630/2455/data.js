@@ -1,1 +1,0 @@
-{"2455":{"Path":["0","0","1630","2455"],"Coordinates":[0.60155869606407453,0.39549339539821154,0.42459408765416906],"Categories":["Cryptococcus vishniacii","Cryptococcus vishniacii","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,3,3]}}

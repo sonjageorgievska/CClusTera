@@ -1,1 +1,0 @@
-{"4112":{"Path":["0","0","4112","4112"],"Coordinates":[0.80066786144742708,0.77285813268174874,0.84777130871340889],"Categories":["Wickerhamomyces ochangensis","Wickerhamomyces ochangensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[8,6,7]}}

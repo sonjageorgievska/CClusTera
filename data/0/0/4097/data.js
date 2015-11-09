@@ -1,1 +1,0 @@
-{"4097":{"Path":["0","0","4097","4097"],"Coordinates":[0.59671339952451941,0.12373864531292601,0.47292314980461853],"Categories":["Cystobasidium psychroaquaticum","Cystobasidium psychroaquaticum","Cystobasidium","Platygloeaceae","Platygloeales"],"Properties":[5,0,4]}}

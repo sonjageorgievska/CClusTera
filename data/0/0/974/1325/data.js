@@ -1,1 +1,0 @@
-{"1325":{"Path":["0","0","974","1325"],"Coordinates":[0.539226062683164,0.58428308829243714,0.67602945867980324],"Categories":["Scheffersomyces stipitis","Scheffersomyces stipitis","Scheffersomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[5,4,6]}}

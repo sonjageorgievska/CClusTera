@@ -1,1 +1,0 @@
-{"814":{"Path":["0","0","814","814"],"Coordinates":[0.32478415121386423,0.60898836109219667,0.51168914712666969],"Categories":["Pichia terricola","Pichia terricola","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,4,4]}}

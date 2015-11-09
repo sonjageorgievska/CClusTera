@@ -1,1 +1,0 @@
-{"3442":{"Path":["0","0","3442","3442"],"Coordinates":[0.38361835997685223,0.14863226053170184,0.57652482406371],"Categories":["Candida picinguabensis","Candida picinguabensis","Candida","","Saccharomycetales"],"Properties":[3,1,5]}}

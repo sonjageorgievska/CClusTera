@@ -1,1 +1,0 @@
-{"2357":{"Path":["0","0","2357","2357"],"Coordinates":[0.35797903050563096,0.364795450381528,0.5478154431323673],"Categories":["Malassezia slooffiae","Malassezia slooffiae","Malassezia","","Malasseziales"],"Properties":[3,2,4]}}

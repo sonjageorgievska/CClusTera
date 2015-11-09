@@ -1,1 +1,0 @@
-{"3261":{"Path":["0","0","3262","3261"],"Coordinates":[0.40271734205391885,0.7593519592765926,0.71428977133665794],"Categories":["Candida wounanorum","Candida wounanorum","Candida","","Saccharomycetales"],"Properties":[4,6,6]}}

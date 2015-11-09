@@ -1,1 +1,0 @@
-{"2399":{"Path":["0","0","2399","2399"],"Coordinates":[0.5887279613877977,0.79970775154970175,0.39022151799706606],"Categories":["Babjeviella inositovora","Babjeviella inositovora","Babjeviella","Debaryomycetaceae","Saccharomycetales"],"Properties":[5,6,3]}}

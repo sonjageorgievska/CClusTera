@@ -1,1 +1,0 @@
-{"3543":{"Path":["0","0","3543","3543"],"Coordinates":[0.57393551684811139,0.42510905323194659,0.52302392016114452],"Categories":["Candida alimentaria","Candida alimentaria","Candida","","Saccharomycetales"],"Properties":[5,3,4]}}

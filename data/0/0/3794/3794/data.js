@@ -1,1 +1,0 @@
-{"3794":{"Path":["0","0","3794","3794"],"Coordinates":[0.62174924725615532,0.4833459683062804,0.55364893944759364],"Categories":["Hannaella zeae","Hannaella zeae","Hannaella","","Tremellales"],"Properties":[6,3,4]}}

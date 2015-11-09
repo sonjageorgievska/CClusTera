@@ -1,1 +1,0 @@
-{"578":{"Path":["0","0","578","578"],"Coordinates":[0.694825722071674,0.53657698324227587,0.45361549129758855],"Categories":["Cryptococcus wieringae","Cryptococcus wieringae","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,4,4]}}

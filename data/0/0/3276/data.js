@@ -1,1 +1,0 @@
-{"3276":{"Path":["0","0","3276","3276"],"Coordinates":[0.25179682463945263,0.46597774013401866,0.659180537363303],"Categories":["Candida maxii","Candida maxii","Candida","","Saccharomycetales"],"Properties":[2,3,5]}}

@@ -1,1 +1,0 @@
-{"3999":{"Path":["0","0","3999","3999"],"Coordinates":[0.537905588426781,0.50981289124000972,0.66491504634095855],"Categories":["Geotrichum phurueaensis","Geotrichum phurueaensis","Geotrichum","Dipodascaceae","Saccharomycetales"],"Properties":[5,4,5]}}

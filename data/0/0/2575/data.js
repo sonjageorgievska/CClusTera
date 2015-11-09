@@ -1,1 +1,0 @@
-{"2575":{"Path":["0","0","2575","2575"],"Coordinates":[0.8294661072917483,0.38943737600843087,0.369360552474586],"Categories":["Cryptococcus pseudolongus","Cryptococcus pseudolongus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[8,3,3]}}

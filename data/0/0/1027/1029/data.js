@@ -1,1 +1,0 @@
-{"1029":{"Path":["0","0","1027","1029"],"Coordinates":[0.49667883399758112,0.6456450856576168,0.3770890552952969],"Categories":["Kluyveromyces aestuarii","Kluyveromyces aestuarii","Kluyveromyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,3]}}

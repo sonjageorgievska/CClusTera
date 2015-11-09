@@ -1,1 +1,0 @@
-{"3853":{"Path":["0","0","3853","3853"],"Coordinates":[0.254344875311421,0.2740992644218988,0.643783381568436],"Categories":["Candida asiatica","Candida asiatica","Candida","","Saccharomycetales"],"Properties":[2,2,5]}}

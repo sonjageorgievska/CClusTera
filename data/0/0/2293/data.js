@@ -1,1 +1,0 @@
-{"2293":{"Path":["0","0","2293","2293"],"Coordinates":[0.67890805340677629,0.58634961927755458,0.502129367431786],"Categories":["Malassezia obtusa","Malassezia obtusa","Malassezia","","Malasseziales"],"Properties":[6,4,4]}}

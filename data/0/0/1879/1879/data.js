@@ -1,1 +1,0 @@
-{"1879":{"Path":["0","0","1879","1879"],"Coordinates":[0.45347748355315209,0.3018148560279128,0.078307497756395325],"Categories":["Pichia deserticola","Pichia deserticola","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,2,0]}}

@@ -1,1 +1,0 @@
-{"888":{"Path":["0","0","888","888"],"Coordinates":[0.63607833643773282,0.633367889163188,0.44881471784128446],"Categories":["Lachancea kluyveri","Lachancea kluyveri","Lachancea","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,5,4]}}

@@ -1,1 +1,0 @@
-{"3863":{"Path":["0","0","3863","3863"],"Coordinates":[0.45236180651647667,0.87716262924831867,0.097230806547554754],"Categories":["Kazachstania wufongensis","Kazachstania wufongensis","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,7,0]}}

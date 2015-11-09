@@ -1,1 +1,0 @@
-{"1068":{"Path":["0","1068","1068","1068"],"Coordinates":[0.38659675857052184,0.45484793415532021,0.6239281838685099],"Categories":["Brettanomyces custersianus","Brettanomyces custersianus","Brettanomyces","Pichiaceae","Saccharomycetales"],"Properties":[3,3,5]}}

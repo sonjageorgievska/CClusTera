@@ -1,1 +1,0 @@
-{"2610":{"Path":["0","2609","2610","2610"],"Coordinates":[0.79369567231391169,0.54355085088958222,0.31682825991465785],"Categories":["Pseudozyma abaconensis","Pseudozyma abaconensis","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[7,4,2]}}

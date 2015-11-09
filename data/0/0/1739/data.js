@@ -1,1 +1,0 @@
-{"1739":{"Path":["0","0","1739","1739"],"Coordinates":[0.63745619646347573,0.17801805355877021,0.33478543610982148],"Categories":["Cryptococcus podzolicus","Cryptococcus podzolicus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,1,3]}}

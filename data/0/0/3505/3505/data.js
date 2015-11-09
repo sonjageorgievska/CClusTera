@@ -1,1 +1,0 @@
-{"3505":{"Path":["0","0","3505","3505"],"Coordinates":[0.71132292321812018,0.9173174448212521,0.50424295140384512],"Categories":["Ogataea thermomethanolica","Ogataea thermomethanolica","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,7,4]}}

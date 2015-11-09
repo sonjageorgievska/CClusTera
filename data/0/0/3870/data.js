@@ -1,1 +1,0 @@
-{"3870":{"Path":["0","0","3870","3870"],"Coordinates":[0.75184569585287142,0.25471367592071764,0.49791880790412085],"Categories":["Asterotremella nantouana","Asterotremella nantouana","Asterotremella","Trichosporonaceae","Tremellales"],"Properties":[7,2,4]}}

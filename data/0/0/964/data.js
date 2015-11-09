@@ -1,1 +1,0 @@
-{"964":{"Path":["0","0","964","964"],"Coordinates":[0.36417401131997629,0.57385030611536358,0.35606582409294096],"Categories":["Rhodotorula ingeniosa","Rhodotorula ingeniosa","Rhodotorula","","Sporidiobolales"],"Properties":[3,4,3]}}

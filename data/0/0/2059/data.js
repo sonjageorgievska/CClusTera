@@ -1,1 +1,0 @@
-{"2059":{"Path":["0","0","2059","2059"],"Coordinates":[0.62057538303774373,0.51000952890491236,0.42133236787851791],"Categories":["Sporobolomyces inositophilus","Sporobolomyces inositophilus","Sporobolomyces","","Sporidiobolales"],"Properties":[6,4,3]}}

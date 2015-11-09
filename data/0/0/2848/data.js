@@ -1,1 +1,0 @@
-{"2848":{"Path":["0","0","2848","2848"],"Coordinates":[0.494034353188756,0.43039512394288465,0.70932926001735008],"Categories":["Candida tilneyi","Candida tilneyi","Candida","","Saccharomycetales"],"Properties":[4,3,6]}}

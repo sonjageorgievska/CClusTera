@@ -1,1 +1,0 @@
-{"1580":{"Path":["0","0","522","1580"],"Coordinates":[0.23941394896140619,0.50473656222939123,0.38105164390274282],"Categories":["Saturnispora besseyi","Saturnispora besseyi","Saturnispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[2,4,3]}}

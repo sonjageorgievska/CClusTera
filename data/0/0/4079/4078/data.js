@@ -1,1 +1,0 @@
-{"4078":{"Path":["0","0","4079","4078"],"Coordinates":[0.15741938843502715,0.30320276056985312,0.54911003549693094],"Categories":["Candida inulinophila","Candida inulinophila","Candida","","Saccharomycetales"],"Properties":[1,2,4]}}

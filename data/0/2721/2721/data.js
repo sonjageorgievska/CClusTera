@@ -1,1 +1,0 @@
-{"2721":{"Path":["0","2721","2721","2721"],"Coordinates":[0.58942971201342476,0.89661190619501052,0.54828188912859954],"Categories":["Candida eppingiae","Candida eppingiae","Candida","","Saccharomycetales"],"Properties":[5,7,4]}}

@@ -1,1 +1,0 @@
-{"4269":{"Path":["0","4269","4269","4269"],"Coordinates":[0.697809945011073,0.83128624523918426,0.94771234836924456],"Categories":["Saprochaete chiloensis","Saprochaete chiloensis","Saprochaete","Dipodascaceae","Saccharomycetales"],"Properties":[6,6,8]}}

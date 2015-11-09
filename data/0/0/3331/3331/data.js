@@ -1,1 +1,0 @@
-{"3331":{"Path":["0","0","3331","3331"],"Coordinates":[-0.1889979571070208,0.729666075607839,0.56175457211469115],"Categories":["Candida michaelii","Candida michaelii","Candida","","Saccharomycetales"],"Properties":[-1,5,5]}}

@@ -1,1 +1,0 @@
-{"2742":{"Path":["0","0","2741","2742"],"Coordinates":[0.87113225839670838,0.49273526901790815,0.694030620829444],"Categories":["Kodamaea kakaduensis","Kodamaea kakaduensis","Kodamaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[8,3,6]}}

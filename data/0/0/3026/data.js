@@ -1,1 +1,0 @@
-{"3026":{"Path":["0","0","3026","3026"],"Coordinates":[0.75201052257693857,0.17611208667336686,0.60799209161678558],"Categories":["Papiliotrema bandonii","Papiliotrema bandonii","Papiliotrema","","Tremellales"],"Properties":[7,1,5]}}

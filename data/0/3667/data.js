@@ -1,1 +1,0 @@
-{"3667":{"Path":["0","3667","3667","3667"],"Coordinates":[0.46961912979497461,0.82342979897674307,0.70867709956526781],"Categories":["Candida pseudorugosa","Candida pseudorugosa","Candida","","Saccharomycetales"],"Properties":[4,6,6]}}

@@ -1,1 +1,0 @@
-{"4255":{"Path":["0","0","4255","4255"],"Coordinates":[0.14860055983833026,0.63929113035137342,0.34211491218522139],"Categories":["Tetrapisispora pingtungensis","Tetrapisispora pingtungensis","Tetrapisispora","Saccharomycetaceae","Saccharomycetales"],"Properties":[1,5,3]}}

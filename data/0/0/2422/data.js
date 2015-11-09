@@ -1,1 +1,0 @@
-{"2422":{"Path":["0","0","2422","2422"],"Coordinates":[0.539043764019939,0.52729603555164339,0.24980329248539906],"Categories":["Rhodotorula phylloplana","Rhodotorula phylloplana","Rhodotorula","","Sporidiobolales"],"Properties":[5,4,2]}}

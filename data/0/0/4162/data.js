@@ -1,1 +1,0 @@
-{"4162":{"Path":["0","0","4162","4162"],"Coordinates":[0.73615920482550956,0.85264137154016384,0.58412831850020208],"Categories":["Candida stauntonica","Candida stauntonica","Candida","","Saccharomycetales"],"Properties":[7,6,5]}}

@@ -1,1 +1,0 @@
-{"1190":{"Path":["0","0","1189","1190"],"Coordinates":[0.34306415904749121,0.37656827390019554,0.61096293025957815],"Categories":["Kodamaea ohmeri","Kodamaea ohmeri","Kodamaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,5]}}

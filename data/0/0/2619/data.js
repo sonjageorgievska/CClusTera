@@ -1,1 +1,0 @@
-{"2619":{"Path":["0","0","2619","2619"],"Coordinates":[0.83385487724716578,0.31758702958883323,0.43844983150642369],"Categories":["Tausonia pamirica","Tausonia pamirica","Tausonia","","Tremellales"],"Properties":[8,2,3]}}

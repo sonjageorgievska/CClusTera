@@ -1,1 +1,0 @@
-{"2254":{"Path":["0","0","2255","2254"],"Coordinates":[0.51751012997464518,0.42300641438760983,0.76204703309490562],"Categories":["Starmera caribaea","Starmera caribaea","Starmera","Phaffomycetaceae","Saccharomycetales"],"Properties":[5,3,6]}}

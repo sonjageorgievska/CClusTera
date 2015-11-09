@@ -1,1 +1,0 @@
-{"3378":{"Path":["0","0","3378","3378"],"Coordinates":[0.80194171034116435,0.14284295636826616,0.57122196691621119],"Categories":["Cryptococcus taiwaniana","Cryptococcus taiwaniana","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[8,1,5]}}

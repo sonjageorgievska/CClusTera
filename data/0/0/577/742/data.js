@@ -1,1 +1,0 @@
-{"742":{"Path":["0","0","577","742"],"Coordinates":[0.81155632559755775,0.5202760220698246,0.52606509649383626],"Categories":["Candida boidinii","Candida boidinii","Candida","","Saccharomycetales"],"Properties":[8,4,4]}}

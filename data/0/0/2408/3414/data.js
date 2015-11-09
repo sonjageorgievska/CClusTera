@@ -1,1 +1,0 @@
-{"3414":{"Path":["0","0","2408","3414"],"Coordinates":[0.33669452640912917,0.39973395371615328,0.75757901495527114],"Categories":["Metschnikowia viticola","Metschnikowia viticola","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[3,3,6]}}

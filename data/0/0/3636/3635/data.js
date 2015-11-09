@@ -1,1 +1,0 @@
-{"3635":{"Path":["0","0","3636","3635"],"Coordinates":[0.38057613525584033,0.61141755737997,0.50059751647862616],"Categories":["Candida thaimueangensis","Candida thaimueangensis","Candida","","Saccharomycetales"],"Properties":[3,4,4]}}

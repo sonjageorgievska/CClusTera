@@ -1,1 +1,0 @@
-{"47":{"Path":["0","0","47","47"],"Coordinates":[0.55403016733015475,0.51782086262418348,0.54279772294233253],"Categories":["Candida glabrata","Candida glabrata","Candida","","Saccharomycetales"],"Properties":[5,4,4]}}

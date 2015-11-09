@@ -1,1 +1,0 @@
-{"3865":{"Path":["0","0","2519","3865"],"Coordinates":[0.37405630568868875,0.41617119059878022,0.58007611245288193],"Categories":["Vanderwaltozyma verrucispora","Vanderwaltozyma verrucispora","Vanderwaltozyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,5]}}

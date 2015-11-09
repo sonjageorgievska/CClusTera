@@ -1,1 +1,0 @@
-{"2270":{"Path":["0","0","2270","2270"],"Coordinates":[0.681162780024841,0.28234564009680863,0.35025474848575455],"Categories":["Tortispora caseinolytica","Tortispora caseinolytica","Tortispora","Trigonopsidaceae","Saccharomycetales"],"Properties":[6,2,3]}}

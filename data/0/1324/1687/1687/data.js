@@ -1,1 +1,0 @@
-{"1687":{"Path":["0","1324","1687","1687"],"Coordinates":[0.59561026425069841,0.43710472844148163,0.37450046531473175],"Categories":["Sporopachydermia cereana","Sporopachydermia cereana","Sporopachydermia","","Saccharomycetales"],"Properties":[5,3,3]}}

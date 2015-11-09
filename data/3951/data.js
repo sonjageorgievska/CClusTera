@@ -1,1 +1,0 @@
-{"3951":{"Path":["3951","3951","3951","3951"],"Coordinates":[1.0455524294514629,0.43086075392627349,0.24320774326298383],"Categories":["Prototheca cutis","Prototheca cutis","Prototheca","",""],"Properties":[0,3,2]}}

@@ -1,1 +1,0 @@
-{"1532":{"Path":["0","0","1532","1532"],"Coordinates":[0.481856233780642,0.54113246467058118,0.25426450275215962],"Categories":["Rhodotorula philyla","Rhodotorula philyla","Rhodotorula","","Sporidiobolales"],"Properties":[4,4,2]}}

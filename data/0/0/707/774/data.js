@@ -1,1 +1,0 @@
-{"774":{"Path":["0","0","707","774"],"Coordinates":[0.31750059038043704,0.50580159143811987,0.52217188989017282],"Categories":["Peterozyma toletana","Peterozyma toletana","Peterozyma","","Saccharomycetales"],"Properties":[3,4,4]}}

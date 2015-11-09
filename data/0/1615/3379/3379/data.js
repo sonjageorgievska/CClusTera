@@ -1,1 +1,0 @@
-{"3379":{"Path":["0","1615","3379","3379"],"Coordinates":[0.079562411719378293,0.35348233166159004,0.1762195797377952],"Categories":["Farysizyma taiwaniana","Farysizyma taiwaniana","Farysizyma","","Ustilaginales"],"Properties":[0,2,1]}}

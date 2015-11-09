@@ -1,1 +1,0 @@
-{"2839":{"Path":["0","0","2839","2839"],"Coordinates":[0.46925616961305788,0.11832794997905725,0.44796286500500715],"Categories":["Candida orba","Candida orba","Candida","","Saccharomycetales"],"Properties":[4,0,4]}}

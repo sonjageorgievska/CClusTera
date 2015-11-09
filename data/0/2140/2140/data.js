@@ -1,1 +1,0 @@
-{"2140":{"Path":["0","2140","2140","2140"],"Coordinates":[0.3195108146647847,0.48081229052113206,0.38969791872103182],"Categories":["Chionosphaera apobasidialis","Chionosphaera apobasidialis","Chionosphaera","Chionosphaeraceae","Agaricostilbales"],"Properties":[3,3,3]}}

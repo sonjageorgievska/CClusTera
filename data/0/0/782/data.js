@@ -1,1 +1,0 @@
-{"782":{"Path":["0","0","782","782"],"Coordinates":[0.77216171980416348,0.866357631250386,0.32327189951346197],"Categories":["Kazachstania africana","Kazachstania africana","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,2]}}

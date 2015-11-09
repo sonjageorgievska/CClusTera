@@ -1,1 +1,0 @@
-{"2051":{"Path":["0","0","2051","2051"],"Coordinates":[0.47393190175351013,0.52965997937823706,0.54742404011318979],"Categories":["Candida floricola","Candida floricola","Candida","","Saccharomycetales"],"Properties":[4,4,4]}}

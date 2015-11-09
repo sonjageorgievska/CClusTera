@@ -1,1 +1,0 @@
-{"3232":{"Path":["0","0","3232","3232"],"Coordinates":[0.55479814712656617,0.74908261433632994,0.50087325333650268],"Categories":["Pichia myanmarensis","Pichia myanmarensis","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,5,4]}}

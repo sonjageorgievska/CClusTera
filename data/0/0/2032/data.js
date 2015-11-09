@@ -1,1 +1,0 @@
-{"2032":{"Path":["0","0","2032","2032"],"Coordinates":[0.48916346212306583,0.51937689764394679,0.45247189177968672],"Categories":["Sporobolomyces griseoflavus","Sporobolomyces griseoflavus","Sporobolomyces","","Sporidiobolales"],"Properties":[4,4,4]}}

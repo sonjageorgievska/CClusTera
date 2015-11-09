@@ -1,1 +1,0 @@
-{"3603":{"Path":["0","0","3603","3603"],"Coordinates":[0.36763886187910855,0.69649005399045927,0.21834959306406263],"Categories":["Blastobotrys americana","Blastobotrys americana","Blastobotrys","Trichomonascaceae","Saccharomycetales"],"Properties":[3,5,1]}}

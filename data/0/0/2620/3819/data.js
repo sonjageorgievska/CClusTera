@@ -1,1 +1,0 @@
-{"3819":{"Path":["0","0","2620","3819"],"Coordinates":[0.48881133837387408,0.46234772312420319,0.44534322030817175],"Categories":["Metschnikowia cubensis","Metschnikowia cubensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,3,4]}}

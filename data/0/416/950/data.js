@@ -1,1 +1,0 @@
-{"950":{"Path":["0","416","950","950"],"Coordinates":[0.6265780397050249,0.41808733773013251,0.4182183885112713],"Categories":["Zygotorulaspora mrakii","Zygotorulaspora mrakii","Zygotorulaspora","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,3,3]}}

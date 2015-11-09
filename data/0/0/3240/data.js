@@ -1,1 +1,0 @@
-{"3240":{"Path":["0","0","3240","3240"],"Coordinates":[0.43714864798115782,0.36281013802944684,0.33731759839146258],"Categories":["Candida pimensis","Candida pimensis","Candida","","Saccharomycetales"],"Properties":[4,2,3]}}

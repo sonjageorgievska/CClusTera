@@ -1,1 +1,0 @@
-{"2855":{"Path":["0","0","2855","2855"],"Coordinates":[0.16083961468282407,0.22881124729180555,0.43963467716204163],"Categories":["Candida ghanaensis","Candida ghanaensis","Candida","","Saccharomycetales"],"Properties":[1,1,3]}}

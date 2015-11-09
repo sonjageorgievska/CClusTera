@@ -1,1 +1,0 @@
-{"3009":{"Path":["0","0","3160","3009"],"Coordinates":[0.52720011518475829,0.50405149376400349,0.69047022072775088],"Categories":["Metschnikowia kunwiensis","Metschnikowia kunwiensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,4,6]}}

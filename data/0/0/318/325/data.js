@@ -1,1 +1,0 @@
-{"325":{"Path":["0","0","318","325"],"Coordinates":[0.4888068698073344,0.48027108009943742,0.43451344055731284],"Categories":["Cryptococcus humicola","Cryptococcus humicola","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,3,3]}}

@@ -1,1 +1,0 @@
-{"514":{"Path":["0","0","514","514"],"Coordinates":[0.39960210752851949,0.54554759660033136,0.51692801602901062],"Categories":["Filobasidium uniguttulatum","Filobasidium uniguttulatum","Filobasidium","Filobasidiaceae","Filobasidiales"],"Properties":[3,4,4]}}

@@ -1,1 +1,0 @@
-{"1967":{"Path":["0","0","1967","1967"],"Coordinates":[0.534087013437027,0.535439963905578,0.3763939943634923],"Categories":["Cyberlindnera japonica","Cyberlindnera japonica","Cyberlindnera","","Saccharomycetales"],"Properties":[5,4,3]}}

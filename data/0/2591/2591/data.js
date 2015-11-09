@@ -1,1 +1,0 @@
-{"2591":{"Path":["0","2591","2591","2591"],"Coordinates":[0.98774358995002509,0.59431951289766449,0.61758485268036578],"Categories":["Saccharomycopsis fodiens","Saccharomycopsis fodiens","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[9,4,5]}}

@@ -1,1 +1,0 @@
-{"3913":{"Path":["0","0","3913","3913"],"Coordinates":[0.71819505768705583,0.62668228147360994,0.535791444639368],"Categories":["Kuraishia ogatae","Kuraishia ogatae","Kuraishia","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,5,4]}}

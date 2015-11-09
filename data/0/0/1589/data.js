@@ -1,1 +1,0 @@
-{"1589":{"Path":["0","0","1589","1589"],"Coordinates":[0.50973322966647971,0.44905117163461356,0.64863365231710934],"Categories":["Cystofilobasidium capitatum","Cystofilobasidium capitatum","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[5,3,5]}}

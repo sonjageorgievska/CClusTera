@@ -1,1 +1,0 @@
-{"1420":{"Path":["0","0","1420","1420"],"Coordinates":[0.60402440342708907,0.7584855573939282,0.38405075477460704],"Categories":["Candida odintsovae","Candida odintsovae","Candida","","Saccharomycetales"],"Properties":[6,6,3]}}

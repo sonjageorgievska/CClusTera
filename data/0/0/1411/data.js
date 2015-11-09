@@ -1,1 +1,0 @@
-{"1411":{"Path":["0","0","1411","1411"],"Coordinates":[0.33608129806831777,0.153873789798144,0.65569750159853546],"Categories":["Starmerella bombicola","Starmerella bombicola","Starmerella","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,1,5]}}

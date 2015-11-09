@@ -1,1 +1,0 @@
-{"2902":{"Path":["0","0","2902","2902"],"Coordinates":[0.37806489269130972,0.53810233813108765,0.45426546312783656],"Categories":["Saccharomyces mikatae","Saccharomyces mikatae","Saccharomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,4,4]}}

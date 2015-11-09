@@ -1,1 +1,0 @@
-{"1803":{"Path":["0","0","1803","1803"],"Coordinates":[0.44667447790894871,0.40790561491024491,0.69217319940090127],"Categories":["Malassezia furfur","Malassezia furfur","Malassezia","","Malasseziales"],"Properties":[4,3,6]}}

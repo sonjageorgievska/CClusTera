@@ -1,1 +1,0 @@
-{"1324":{"Path":["0","1324","1324","1324"],"Coordinates":[0.540218059611748,0.5389457852917704,0.25330928920098622],"Categories":["Sporopachydermia lactativora","Sporopachydermia lactativora","Sporopachydermia","","Saccharomycetales"],"Properties":[5,4,2]}}

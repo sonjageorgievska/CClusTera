@@ -1,1 +1,0 @@
-{"1225":{"Path":["0","0","437","1225"],"Coordinates":[0.51514806952434167,0.41952680291491345,0.49790021516704508],"Categories":["Debaryomyces macquariensis","Debaryomyces macquariensis","Debaryomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,3,4]}}

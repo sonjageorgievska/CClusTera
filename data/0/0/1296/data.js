@@ -1,1 +1,0 @@
-{"1296":{"Path":["0","0","1296","1296"],"Coordinates":[0.070831643738487354,0.39204416371656287,0.51009111197014467],"Categories":["Candida suecica","Candida suecica","Candida","","Saccharomycetales"],"Properties":[0,3,4]}}

@@ -1,1 +1,0 @@
-{"1065":{"Path":["0","0","1067","1065"],"Coordinates":[0.74942010768897327,0.86426710576872445,0.50808744332900058],"Categories":["Yamadazyma scolyti","Yamadazyma scolyti","Yamadazyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,6,4]}}

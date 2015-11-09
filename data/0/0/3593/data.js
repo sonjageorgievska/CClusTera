@@ -1,1 +1,0 @@
-{"3593":{"Path":["0","0","3593","3593"],"Coordinates":[0.34861422608335146,0.30958961010994129,0.16476460189149547],"Categories":["Kazachstania zonata","Kazachstania zonata","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,2,1]}}

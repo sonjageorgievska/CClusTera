@@ -1,1 +1,0 @@
-{"3004":{"Path":["0","0","3003","3004"],"Coordinates":[0.47703420597957163,0.17788796478887683,0.23911971035890731],"Categories":["Metschnikowia dekortorum","Metschnikowia dekortorum","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,1,2]}}

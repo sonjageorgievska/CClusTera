@@ -1,1 +1,0 @@
-{"4137":{"Path":["0","0","4137","4137"],"Coordinates":[0.22920990779955788,0.67458833658704709,0.42823064978296521],"Categories":["Candida morakotiae","Candida morakotiae","Candida","","Saccharomycetales"],"Properties":[2,5,3]}}

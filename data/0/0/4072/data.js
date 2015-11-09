@@ -1,1 +1,0 @@
-{"4072":{"Path":["0","0","4072","4072"],"Coordinates":[-0.072222200185942859,0.3854021298471888,0.5115352496882053],"Categories":["Metschnikowia kamienskii","Metschnikowia kamienskii","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[0,3,4]}}

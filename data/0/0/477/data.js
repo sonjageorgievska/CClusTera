@@ -1,1 +1,0 @@
-{"477":{"Path":["0","0","477","477"],"Coordinates":[0.57728407064965037,0.43326697165126332,0.54918795186980573],"Categories":["Candida californica","Candida californica","Candida","","Saccharomycetales"],"Properties":[5,3,4]}}

@@ -1,1 +1,0 @@
-{"3689":{"Path":["0","0","3689","3689"],"Coordinates":[0.31635745936979887,0.33665106779530679,0.37961754902553457],"Categories":["Candida tetrigidarum","Candida tetrigidarum","Candida","","Saccharomycetales"],"Properties":[3,2,3]}}

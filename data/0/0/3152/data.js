@@ -1,1 +1,0 @@
-{"3152":{"Path":["0","0","3152","3152"],"Coordinates":[0.60545139310939322,0.0853024019084621,0.57416314072309815],"Categories":["Auriculibuller fuscus","Auriculibuller fuscus","Auriculibuller","Tremellaceae","Tremellales"],"Properties":[6,0,5]}}

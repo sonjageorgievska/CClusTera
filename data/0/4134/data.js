@@ -1,1 +1,0 @@
-{"4134":{"Path":["0","4134","4134","4134"],"Coordinates":[0.691784562686323,0.85658788825832077,0.40143200218780334],"Categories":["Candida hasegawae","Candida hasegawae","Candida","","Saccharomycetales"],"Properties":[6,6,3]}}

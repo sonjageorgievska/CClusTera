@@ -1,1 +1,0 @@
-{"3171":{"Path":["0","3171","3171","3171"],"Coordinates":[0.34027792199074508,0.402299116001615,0.0840239544784714],"Categories":["Malassezia yamatoensis","Malassezia yamatoensis","Malassezia","","Malasseziales"],"Properties":[3,3,0]}}

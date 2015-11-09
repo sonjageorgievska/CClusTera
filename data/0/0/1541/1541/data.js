@@ -1,1 +1,0 @@
-{"1541":{"Path":["0","0","1541","1541"],"Coordinates":[0.8031698234281025,0.964821737077175,0.47887577878706106],"Categories":["Candida nemodendra","Candida nemodendra","Candida","","Saccharomycetales"],"Properties":[8,7,4]}}

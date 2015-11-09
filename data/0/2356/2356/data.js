@@ -1,1 +1,0 @@
-{"2356":{"Path":["0","2356","2356","2356"],"Coordinates":[0.31035601744789221,0.037606559205813225,0.45440014073383511],"Categories":["Candida tartarivorans","Candida tartarivorans","Candida","","Saccharomycetales"],"Properties":[3,0,4]}}

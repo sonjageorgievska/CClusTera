@@ -1,1 +1,0 @@
-{"2635":{"Path":["0","0","2635","2635"],"Coordinates":[0.43121387030425862,0.49242788559721362,0.29602054394664434],"Categories":["Rhodotorula retinophila","Rhodotorula retinophila","Rhodotorula","","Sporidiobolales"],"Properties":[4,3,2]}}

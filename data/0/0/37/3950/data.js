@@ -1,1 +1,0 @@
-{"3950":{"Path":["0","0","37","3950"],"Coordinates":[0.4614615142478,0.60530909440752334,0.31426447088606596],"Categories":["Trichosporon chiarellii","Trichosporon chiarellii","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[4,4,2]}}

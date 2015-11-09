@@ -1,1 +1,0 @@
-{"577":{"Path":["0","0","577","577"],"Coordinates":[0.78893158161329235,0.55317870353390763,0.51676270367695665],"Categories":["Pichia norvegensis","Pichia norvegensis","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,4,4]}}

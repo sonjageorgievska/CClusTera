@@ -1,1 +1,0 @@
-{"4018":{"Path":["0","0","4017","4018"],"Coordinates":[0.34133451407269821,0.46984443778123725,0.84485615304468886],"Categories":["Candida kaohsiungensis","Candida kaohsiungensis","Candida","","Saccharomycetales"],"Properties":[3,3,7]}}

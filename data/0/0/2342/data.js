@@ -1,1 +1,0 @@
-{"2342":{"Path":["0","0","2342","2342"],"Coordinates":[0.77100010085603532,0.47354156391819613,0.37157032889259617],"Categories":["Sporobolomyces dracophylli","Sporobolomyces dracophylli","Sporobolomyces","","Sporidiobolales"],"Properties":[7,3,3]}}

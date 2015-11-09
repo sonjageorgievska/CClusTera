@@ -1,1 +1,0 @@
-{"4073":{"Path":["4073","4073","4073","4073"],"Coordinates":[0.4075371841851223,0.40071938432093079,0.332270714077956],"Categories":["Malassezia cuniculi","Malassezia cuniculi","Malassezia","","Malasseziales"],"Properties":[4,3,2]}}

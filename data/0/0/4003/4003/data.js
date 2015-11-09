@@ -1,1 +1,0 @@
-{"4003":{"Path":["0","0","4003","4003"],"Coordinates":[0.063117187480599954,0.484000619862002,0.45863388704593749],"Categories":["Candida laemsonensis","Candida laemsonensis","Candida","","Saccharomycetales"],"Properties":[0,3,4]}}

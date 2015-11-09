@@ -1,1 +1,0 @@
-{"2709":{"Path":["0","0","2709","2709"],"Coordinates":[0.51099704332755813,0.7835515481116494,0.4642442492290873],"Categories":["Candida tallmaniae","Candida tallmaniae","Candida","","Saccharomycetales"],"Properties":[5,6,4]}}

@@ -1,1 +1,0 @@
-{"1083":{"Path":["0","0","1083","1083"],"Coordinates":[0.54602260704734074,0.4424359700304023,0.44653662051469284],"Categories":["Candida hollandica","Candida hollandica","Candida","","Saccharomycetales"],"Properties":[5,3,4]}}

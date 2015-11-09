@@ -1,1 +1,0 @@
-{"2165":{"Path":["0","2165","2165","2165"],"Coordinates":[0.53821575436318092,0.43273054997783822,0.46918213728766284],"Categories":["Bensingtonia ciliata","Bensingtonia ciliata","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[5,3,4]}}

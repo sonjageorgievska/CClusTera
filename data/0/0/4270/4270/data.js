@@ -1,1 +1,0 @@
-{"4270":{"Path":["0","0","4270","4270"],"Coordinates":[0.3704353788121249,0.4821288675231058,0.81466086419143591],"Categories":["Metschnikowia caudata","Metschnikowia caudata","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[3,3,7]}}

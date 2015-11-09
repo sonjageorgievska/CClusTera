@@ -1,1 +1,0 @@
-{"2660":{"Path":["0","0","2620","2660"],"Coordinates":[0.46201279757885572,0.416266295123566,0.35591162832593437],"Categories":["Candida ipomoeae","Candida ipomoeae","Candida","","Saccharomycetales"],"Properties":[4,3,3]}}

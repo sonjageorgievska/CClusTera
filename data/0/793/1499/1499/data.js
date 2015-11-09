@@ -1,1 +1,0 @@
-{"1499":{"Path":["0","793","1499","1499"],"Coordinates":[0.33856629097538077,0.30419228507963997,0.7538050032195095],"Categories":["Ambrosiozyma cicatricosa","Ambrosiozyma cicatricosa","Ambrosiozyma","","Saccharomycetales"],"Properties":[3,2,6]}}

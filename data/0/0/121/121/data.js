@@ -1,1 +1,0 @@
-{"121":{"Path":["0","0","121","121"],"Coordinates":[0.41625451791138657,0.65800339543769748,0.562924732732421],"Categories":["Pichia punctispora","Pichia punctispora","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,5]}}

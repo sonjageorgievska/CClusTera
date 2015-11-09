@@ -1,1 +1,0 @@
-{"3134":{"Path":["0","0","3134","3134"],"Coordinates":[0.85927798132550692,0.30257348793552469,0.76899813848933873],"Categories":["Cryptococcus allantoinivorans","Cryptococcus allantoinivorans","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[8,2,6]}}

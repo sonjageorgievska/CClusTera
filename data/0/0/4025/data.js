@@ -1,1 +1,0 @@
-{"4025":{"Path":["0","0","4025","4025"],"Coordinates":[0.32584568639208272,0.78079499607078207,0.736581140049509],"Categories":["Barnettozyma sucrosica","Barnettozyma sucrosica","Barnettozyma","","Saccharomycetales"],"Properties":[3,6,6]}}

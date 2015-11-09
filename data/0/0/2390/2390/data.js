@@ -1,1 +1,0 @@
-{"2390":{"Path":["0","0","2390","2390"],"Coordinates":[0.647565757610679,0.742472954555765,0.065752656171150323],"Categories":["Kazachstania bromeliacearum","Kazachstania bromeliacearum","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,5,0]}}

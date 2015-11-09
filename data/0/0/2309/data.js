@@ -1,1 +1,0 @@
-{"2309":{"Path":["0","0","2309","2309"],"Coordinates":[0.55459038577353781,0.49554685596564291,0.40295266144899],"Categories":["Sporobolomyces linderae","Sporobolomyces linderae","Sporobolomyces","","Sporidiobolales"],"Properties":[5,3,3]}}

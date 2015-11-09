@@ -1,1 +1,0 @@
-{"2692":{"Path":["0","0","2692","2692"],"Coordinates":[0.37778745423657917,0.53200616396782918,0.4048105730751953],"Categories":["Saccharomycopsis lassenensis","Saccharomycopsis lassenensis","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[3,4,3]}}

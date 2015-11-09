@@ -1,1 +1,0 @@
-{"1458":{"Path":["0","0","1458","1458"],"Coordinates":[0.81002905619400978,0.84929054843591445,0.66254054847461286],"Categories":["Ogataea pignaliae","Ogataea pignaliae","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[8,6,5]}}

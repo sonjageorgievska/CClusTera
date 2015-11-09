@@ -1,1 +1,0 @@
-{"2700":{"Path":["0","0","2700","2700"],"Coordinates":[0.70921924077076415,0.56930351649688937,0.40503216127854913],"Categories":["Cyberlindnera lachancei","Cyberlindnera lachancei","Cyberlindnera","","Saccharomycetales"],"Properties":[7,4,3]}}

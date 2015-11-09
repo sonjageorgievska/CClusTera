@@ -1,1 +1,0 @@
-{"4262":{"Path":["0","0","4262","4262"],"Coordinates":[0.93453310050477223,0.83217034154476477,0.511074731928964],"Categories":["Kloeckera jakobseniae","Kloeckera jakobseniae","Kloeckera","Saccharomycodaceae","Saccharomycetales"],"Properties":[9,6,4]}}

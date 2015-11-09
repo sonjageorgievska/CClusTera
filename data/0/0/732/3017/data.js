@@ -1,1 +1,0 @@
-{"3017":{"Path":["0","0","732","3017"],"Coordinates":[0.40674119853647428,0.53399617321427317,0.53961133422661811],"Categories":["Sporobolomyces vermiculatus","Sporobolomyces vermiculatus","Sporobolomyces","","Sporidiobolales"],"Properties":[4,4,4]}}

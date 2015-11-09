@@ -1,1 +1,0 @@
-{"545":{"Path":["0","545","545","545"],"Coordinates":[0.92029140478448479,0.19073271758401686,0.53373517271427384],"Categories":["Wickerhamomyces bisporus","Wickerhamomyces bisporus","Wickerhamomyces","","Saccharomycetales"],"Properties":[9,1,4]}}

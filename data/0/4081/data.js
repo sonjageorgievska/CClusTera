@@ -1,1 +1,0 @@
-{"4081":{"Path":["0","4081","4081","4081"],"Coordinates":[0.26743191856148213,0.82265025080827392,0.25358613231840627],"Categories":["Candida succicola","Candida succicola","Candida","","Saccharomycetales"],"Properties":[2,6,2]}}

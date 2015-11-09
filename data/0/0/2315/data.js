@@ -1,1 +1,0 @@
-{"2315":{"Path":["0","0","2315","2315"],"Coordinates":[0.44816661288608683,0.407021785472168,0.36635394647576386],"Categories":["Sporobolomyces novazealandicus","Sporobolomyces novazealandicus","Sporobolomyces","","Sporidiobolales"],"Properties":[4,3,3]}}

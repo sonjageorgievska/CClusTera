@@ -1,1 +1,0 @@
-{"1517":{"Path":["0","0","1517","1517"],"Coordinates":[0.53893038657130965,0.30111647662999,0.61012292446128114],"Categories":["Leucosporidiella fragaria","Leucosporidiella fragaria","Leucosporidiella","Leucosporidiaceae","Leucosporidiales"],"Properties":[5,2,5]}}

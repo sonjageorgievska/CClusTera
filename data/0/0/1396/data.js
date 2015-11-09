@@ -1,1 +1,0 @@
-{"1396":{"Path":["0","0","1396","1396"],"Coordinates":[0.28926349503405963,0.07611366457363776,0.01055493666562661],"Categories":["Metschnikowia lunata","Metschnikowia lunata","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[2,0,0]}}

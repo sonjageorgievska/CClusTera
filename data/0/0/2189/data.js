@@ -1,1 +1,0 @@
-{"2189":{"Path":["0","0","2189","2189"],"Coordinates":[0.57624415318348421,0.43527943333450742,0.4395086908839333],"Categories":["Sporobolomyces lactophilus","Sporobolomyces lactophilus","Sporobolomyces","","Sporidiobolales"],"Properties":[5,3,3]}}

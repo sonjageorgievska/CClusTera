@@ -1,1 +1,0 @@
-{"3860":{"Path":["0","0","3859","3860"],"Coordinates":[0.509517671375859,0.10689985351577996,0.19939364295169459],"Categories":["Cryptococcus metallitolerans","Cryptococcus metallitolerans","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[5,0,1]}}

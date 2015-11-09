@@ -1,1 +1,0 @@
-{"793":{"Path":["0","793","793","793"],"Coordinates":[0.38824814169536165,0.26284661261230308,0.74770877120466506],"Categories":["Ambrosiozyma monospora","Ambrosiozyma monospora","Ambrosiozyma","","Saccharomycetales"],"Properties":[3,2,6]}}

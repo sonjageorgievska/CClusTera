@@ -1,1 +1,0 @@
-{"3737":{"Path":["0","0","3737","3737"],"Coordinates":[0.56146662382494761,0.36622689139111025,0.31354257601584179],"Categories":["Glaciozyma martinii","Glaciozyma martinii","Glaciozyma","",""],"Properties":[5,2,2]}}

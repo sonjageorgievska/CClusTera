@@ -1,1 +1,0 @@
-{"3463":{"Path":["0","0","3462","3463"],"Coordinates":[0.46840836239712186,0.54048071416645971,0.71741102002839663],"Categories":["Cryptococcus amylolyticus","Cryptococcus amylolyticus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,4,6]}}

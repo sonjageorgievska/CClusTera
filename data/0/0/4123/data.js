@@ -1,1 +1,0 @@
-{"4123":{"Path":["0","0","4123","4123"],"Coordinates":[0.38794142010169358,0.14460271991879869,0.60818483131391921],"Categories":["Starmerella jinningensis","Starmerella jinningensis","Starmerella","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,1,5]}}

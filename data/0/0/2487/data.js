@@ -1,1 +1,0 @@
-{"2487":{"Path":["0","0","2487","2487"],"Coordinates":[0.40731429958289012,0.60843355521392761,0.44245730338132133],"Categories":["Candida castrensis","Candida castrensis","Candida","","Saccharomycetales"],"Properties":[4,4,3]}}

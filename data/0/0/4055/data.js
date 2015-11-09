@@ -1,1 +1,0 @@
-{"4055":{"Path":["0","0","4055","4055"],"Coordinates":[0.42033369973847845,0.28295778530137095,0.5367800890525094],"Categories":["Candida cabralensis","Candida cabralensis","Candida","","Saccharomycetales"],"Properties":[4,2,4]}}

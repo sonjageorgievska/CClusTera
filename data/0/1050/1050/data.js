@@ -1,1 +1,0 @@
-{"1050":{"Path":["0","1050","1050","1050"],"Coordinates":[0.48184233038783042,0.74601125235369536,0.94669968422483386],"Categories":["Saprochaete ingens","Saprochaete ingens","Saprochaete","Dipodascaceae","Saccharomycetales"],"Properties":[4,5,8]}}

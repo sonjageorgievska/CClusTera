@@ -1,1 +1,0 @@
-{"1156":{"Path":["0","0","1156","1156"],"Coordinates":[0.37370152116216759,0.37952636575732762,0.55233639560103986],"Categories":["Rhodotorula foliorum","Rhodotorula foliorum","Rhodotorula","","Sporidiobolales"],"Properties":[3,3,4]}}

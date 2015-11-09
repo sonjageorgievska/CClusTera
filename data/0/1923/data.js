@@ -1,1 +1,0 @@
-{"1923":{"Path":["0","1923","1923","1923"],"Coordinates":[0.51433741738460259,0.43187461737531135,0.57075909130494673],"Categories":["Bensingtonia phyllada","Bensingtonia phyllada","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[5,3,5]}}

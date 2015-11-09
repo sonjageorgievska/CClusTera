@@ -1,1 +1,0 @@
-{"4166":{"Path":["0","0","4166","4166"],"Coordinates":[0.090494362853645163,0.3807172221271572,0.31832588813432267],"Categories":["Candida taoyuanica","Candida taoyuanica","Candida","","Saccharomycetales"],"Properties":[0,3,2]}}

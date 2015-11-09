@@ -1,1 +1,0 @@
-{"3775":{"Path":["0","0","3775","3775"],"Coordinates":[0.65253728563831181,0.29723778958564911,0.77552675594861642],"Categories":["Mingxiaea begoniae","Mingxiaea begoniae","Mingxiaea","","Tremellales"],"Properties":[6,2,6]}}

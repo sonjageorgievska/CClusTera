@@ -1,1 +1,0 @@
-{"2773":{"Path":["0","0","1265","2773"],"Coordinates":[0.391040532353009,0.53122443922789786,0.38142932677381491],"Categories":["Candida mycetangii","Candida mycetangii","Candida","","Saccharomycetales"],"Properties":[3,4,3]}}

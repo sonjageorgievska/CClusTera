@@ -1,1 +1,0 @@
-{"1436":{"Path":["0","1436","1436","1436"],"Coordinates":[0.34758523335374447,0.91986302500019379,0.82367130932959209],"Categories":["Candida insectalens","Candida insectalens","Candida","","Saccharomycetales"],"Properties":[3,7,7]}}

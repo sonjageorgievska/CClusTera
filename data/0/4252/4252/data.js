@@ -1,1 +1,0 @@
-{"4252":{"Path":["0","4252","4252","4252"],"Coordinates":[0.8912629256622373,0.54976901932641054,0.60441632390524913],"Categories":["Saccharomycopsis olivae","Saccharomycopsis olivae","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[8,4,5]}}

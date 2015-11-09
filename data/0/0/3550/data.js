@@ -1,1 +1,0 @@
-{"3550":{"Path":["0","0","3550","3550"],"Coordinates":[0.69551651195088,0.51602378431113771,0.29101447689805704],"Categories":["Candida chauliodes","Candida chauliodes","Candida","","Saccharomycetales"],"Properties":[6,4,2]}}

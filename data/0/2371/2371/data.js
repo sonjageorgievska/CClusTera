@@ -1,1 +1,0 @@
-{"2371":{"Path":["0","2371","2371","2371"],"Coordinates":[0.51736554803297741,0.31538025969777872,0.32788713247777984],"Categories":["Malassezia globosa","Malassezia globosa","Malassezia","","Malasseziales"],"Properties":[5,2,2]}}

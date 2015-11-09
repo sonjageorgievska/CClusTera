@@ -1,1 +1,0 @@
-{"3605":{"Path":["0","0","3523","3605"],"Coordinates":[0.59671987801415693,0.38385890820050617,0.40033376353038108],"Categories":["Blastobotrys muscicola","Blastobotrys muscicola","Blastobotrys","Trichomonascaceae","Saccharomycetales"],"Properties":[5,3,3]}}

@@ -1,1 +1,0 @@
-{"4091":{"Path":["0","0","4091","4091"],"Coordinates":[0.31223742001957372,0.63263318888322273,0.73982339531676766],"Categories":["Candida ezoensis","Candida ezoensis","Candida","","Saccharomycetales"],"Properties":[3,5,6]}}

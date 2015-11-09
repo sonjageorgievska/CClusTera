@@ -1,1 +1,0 @@
-{"3708":{"Path":["0","0","3708","3708"],"Coordinates":[0.52957732774656219,0.85245818246978178,0.42609483511893431],"Categories":["Ogataea allantospora","Ogataea allantospora","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,6,3]}}

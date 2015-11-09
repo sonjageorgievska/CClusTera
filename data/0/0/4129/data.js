@@ -1,1 +1,0 @@
-{"4129":{"Path":["0","0","4129","4129"],"Coordinates":[0.32338175449200335,0.65886998223871962,0.83780947932007255],"Categories":["Candida loeiensis","Candida loeiensis","Candida","","Saccharomycetales"],"Properties":[3,5,7]}}

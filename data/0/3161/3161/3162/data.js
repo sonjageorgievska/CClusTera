@@ -1,1 +1,0 @@
-{"3162":{"Path":["0","3161","3161","3162"],"Coordinates":[0.47967863814882139,0.58972925954188826,0.66406693290001184],"Categories":["Candida bombiphila","Candida bombiphila","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

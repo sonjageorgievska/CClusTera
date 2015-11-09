@@ -1,1 +1,0 @@
-{"2150":{"Path":["0","0","2151","2150"],"Coordinates":[0.31003321000098988,0.556529732952561,0.23189057730043239],"Categories":["Myxozyma udenii","Myxozyma udenii","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[3,4,2]}}

@@ -1,1 +1,0 @@
-{"3060":{"Path":["0","0","2094","3060"],"Coordinates":[0.53744394121127514,0.50463676685450232,0.57547560388433128],"Categories":["Derxomyces schimicola","Derxomyces schimicola","Derxomyces","","Tremellales"],"Properties":[5,4,5]}}

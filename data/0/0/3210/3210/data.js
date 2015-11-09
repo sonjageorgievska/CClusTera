@@ -1,1 +1,0 @@
-{"3210":{"Path":["0","0","3210","3210"],"Coordinates":[1.1031571341810276,0.43350873805535484,0.47320031427826176],"Categories":["Derxomyces cylindrica","Derxomyces cylindrica","Derxomyces","","Tremellales"],"Properties":[1,3,4]}}

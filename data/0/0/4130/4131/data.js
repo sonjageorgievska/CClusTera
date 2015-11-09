@@ -1,1 +1,0 @@
-{"4131":{"Path":["0","0","4130","4131"],"Coordinates":[0.7390090336199755,0.65277853477732384,0.5940742453615856],"Categories":["Ambrosiozyma maleeae","Ambrosiozyma maleeae","Ambrosiozyma","","Saccharomycetales"],"Properties":[7,5,5]}}

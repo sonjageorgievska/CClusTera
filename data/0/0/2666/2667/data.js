@@ -1,1 +1,0 @@
-{"2667":{"Path":["0","0","2666","2667"],"Coordinates":[0.57155638378377482,0.309734712557908,0.787356300343665],"Categories":["Kodamaea nitidulidarum","Kodamaea nitidulidarum","Kodamaea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,2,7]}}

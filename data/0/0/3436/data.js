@@ -1,1 +1,0 @@
-{"3436":{"Path":["0","0","3436","3436"],"Coordinates":[0.30209442137121828,0.46573878125839913,0.43034843585558957],"Categories":["Candida hispaniensis","Candida hispaniensis","Candida","","Saccharomycetales"],"Properties":[3,3,3]}}

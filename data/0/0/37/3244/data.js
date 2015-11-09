@@ -1,1 +1,0 @@
-{"3244":{"Path":["0","0","37","3244"],"Coordinates":[0.73846214480854977,0.66766299873682844,0.4321013697520612],"Categories":["Kockovaella barringtoniae","Kockovaella barringtoniae","Kockovaella","Cuniculitremaceae","Tremellales"],"Properties":[7,5,3]}}

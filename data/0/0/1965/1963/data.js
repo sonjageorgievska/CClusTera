@@ -1,1 +1,0 @@
-{"1963":{"Path":["0","0","1965","1963"],"Coordinates":[0.47816645053716716,0.6337488157028297,0.51952576396625572],"Categories":["Wickerhamomyces hampshirensis","Wickerhamomyces hampshirensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[4,5,4]}}

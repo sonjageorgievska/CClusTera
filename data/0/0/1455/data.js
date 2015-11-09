@@ -1,1 +1,0 @@
-{"1455":{"Path":["0","0","1455","1455"],"Coordinates":[0.611172047943321,0.695022694372573,0.74809383005607422],"Categories":["Blastobotrys chiropterorum","Blastobotrys chiropterorum","Blastobotrys","Trichomonascaceae","Saccharomycetales"],"Properties":[6,5,6]}}

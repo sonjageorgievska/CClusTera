@@ -1,1 +1,0 @@
-{"1121":{"Path":["0","0","1121","1121"],"Coordinates":[0.50187915001666217,0.51576779551698626,0.59709259316622831],"Categories":["Middelhovenomyces tepae","Middelhovenomyces tepae","Middelhovenomyces","",""],"Properties":[5,4,5]}}

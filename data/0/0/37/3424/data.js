@@ -1,1 +1,0 @@
-{"3424":{"Path":["0","0","37","3424"],"Coordinates":[0.360240416336828,0.57119493200711413,0.471673141775272],"Categories":["Trichosporon otae","Trichosporon otae","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[3,4,4]}}

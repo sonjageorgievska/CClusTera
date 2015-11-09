@@ -1,1 +1,0 @@
-{"1644":{"Path":["0","0","411","1644"],"Coordinates":[0.5396781015118427,0.44448244865552572,0.47874598603092172],"Categories":["Candida methanolovescens","Candida methanolovescens","Candida","","Saccharomycetales"],"Properties":[5,3,4]}}

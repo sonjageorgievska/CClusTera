@@ -1,1 +1,0 @@
-{"3625":{"Path":["0","0","3625","3625"],"Coordinates":[0.49151626119308373,0.64711285309974642,0.41189658685676878],"Categories":["Candida neomexicana","Candida neomexicana","Candida","","Saccharomycetales"],"Properties":[4,5,3]}}

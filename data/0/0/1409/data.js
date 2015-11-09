@@ -1,1 +1,0 @@
-{"1409":{"Path":["0","0","1409","1409"],"Coordinates":[0.54434009824250074,0.51686981881179483,0.56507430202341513],"Categories":["Wickerhamomyces sydowiorum","Wickerhamomyces sydowiorum","Wickerhamomyces","","Saccharomycetales"],"Properties":[5,4,5]}}

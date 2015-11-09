@@ -1,1 +1,0 @@
-{"3258":{"Path":["0","0","3258","3258"],"Coordinates":[0.23686698704473649,0.30311425140409631,0.83712968795734366],"Categories":["Candida emberorum","Candida emberorum","Candida","","Saccharomycetales"],"Properties":[2,2,7]}}

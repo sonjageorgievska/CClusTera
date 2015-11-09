@@ -1,1 +1,0 @@
-{"909":{"Path":["0","0","909","909"],"Coordinates":[0.58284279510171655,0.94246988281790345,0.4650806652223321],"Categories":["Pachysolen tannophilus","Pachysolen tannophilus","Pachysolen","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,7,4]}}

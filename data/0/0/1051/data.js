@@ -1,1 +1,0 @@
-{"1051":{"Path":["0","0","1051","1051"],"Coordinates":[0.63031230572231067,0.37499351674763659,0.50181418570320713],"Categories":["Sterigmatomyces halophilus","Sterigmatomyces halophilus","Sterigmatomyces","Agaricostilbaceae","Agaricostilbales"],"Properties":[6,2,4]}}

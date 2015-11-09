@@ -1,1 +1,0 @@
-{"3638":{"Path":["0","0","3638","3638"],"Coordinates":[0.54595468131163272,0.75126894400328359,-0.003448354478800846],"Categories":["Kazachstania siamensis","Kazachstania siamensis","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,6,0]}}

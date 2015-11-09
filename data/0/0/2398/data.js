@@ -1,1 +1,0 @@
-{"2398":{"Path":["0","0","2398","2398"],"Coordinates":[0.57268115919970253,0.63316004128666337,0.41270175860259273],"Categories":["Candida paludigena","Candida paludigena","Candida","","Saccharomycetales"],"Properties":[5,5,3]}}

@@ -1,1 +1,0 @@
-{"3960":{"Path":["0","0","3960","3960"],"Coordinates":[0.606366121880071,0.64860602574566684,0.630367074087131],"Categories":["Sporobolomyces lophatheri","Sporobolomyces lophatheri","Sporobolomyces","","Sporidiobolales"],"Properties":[6,5,5]}}

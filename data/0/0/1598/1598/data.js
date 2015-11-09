@@ -1,1 +1,0 @@
-{"1598":{"Path":["0","0","1598","1598"],"Coordinates":[0.66567737773214064,0.38667728425288872,0.71660732087990375],"Categories":["Candida rugopelliculosa","Candida rugopelliculosa","Candida","","Saccharomycetales"],"Properties":[6,3,6]}}

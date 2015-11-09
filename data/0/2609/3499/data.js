@@ -1,1 +1,0 @@
-{"3499":{"Path":["0","2609","3499","3499"],"Coordinates":[0.64624031516568647,0.39951074679568827,0.59366127224316723],"Categories":["Pseudozyma graminicola","Pseudozyma graminicola","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[6,3,5]}}

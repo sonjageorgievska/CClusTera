@@ -1,1 +1,0 @@
-{"3937":{"Path":["0","0","3937","3937"],"Coordinates":[0.32272951758372792,0.22088486017012909,0.36976020877578963],"Categories":["Geotrichum ghanense","Geotrichum ghanense","Geotrichum","Dipodascaceae","Saccharomycetales"],"Properties":[3,1,3]}}

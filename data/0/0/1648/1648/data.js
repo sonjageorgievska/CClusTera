@@ -1,1 +1,0 @@
-{"1648":{"Path":["0","0","1648","1648"],"Coordinates":[0.61102828711153223,0.81771768288146518,0.33534307527426865],"Categories":["Candida multigemmis","Candida multigemmis","Candida","","Saccharomycetales"],"Properties":[6,6,3]}}

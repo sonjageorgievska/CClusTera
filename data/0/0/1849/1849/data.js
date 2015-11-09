@@ -1,1 +1,0 @@
-{"1849":{"Path":["0","0","1849","1849"],"Coordinates":[0.074985544705433643,0.41871103091805706,0.40304939277301616],"Categories":["Myxozyma mucilagina","Myxozyma mucilagina","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[0,3,3]}}

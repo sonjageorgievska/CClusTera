@@ -1,1 +1,0 @@
-{"68":{"Path":["0","0","68","68"],"Coordinates":[0.62829731507259934,0.48254447685249219,0.50534630969314032],"Categories":["Cryptococcus magnus","Cryptococcus magnus","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[6,3,4]}}

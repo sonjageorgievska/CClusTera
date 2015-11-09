@@ -1,1 +1,0 @@
-{"101":{"Path":["0","0","101","101"],"Coordinates":[0.08603716141915306,0.22390981034142568,0.62097838043106846],"Categories":["Candida magnoliae","Candida magnoliae","Candida","","Saccharomycetales"],"Properties":[0,1,5]}}

@@ -1,1 +1,0 @@
-{"3660":{"Path":["0","0","3660","3660"],"Coordinates":[0.457872150342255,0.43790330420682982,0.60152183884532284],"Categories":["Metschnikowia cerradonensis","Metschnikowia cerradonensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,3,5]}}

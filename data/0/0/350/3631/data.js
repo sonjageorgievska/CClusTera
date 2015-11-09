@@ -1,1 +1,0 @@
-{"3631":{"Path":["0","0","350","3631"],"Coordinates":[0.560778113472009,0.57273315898210087,0.36319886542262059],"Categories":["Metschnikowia sinensis","Metschnikowia sinensis","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,4,3]}}

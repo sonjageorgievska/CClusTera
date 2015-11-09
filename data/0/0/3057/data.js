@@ -1,1 +1,0 @@
-{"3057":{"Path":["0","0","3057","3057"],"Coordinates":[0.58672966168186413,0.24718945197218575,0.49247054063997142],"Categories":["Derxomyces waltii","Derxomyces waltii","Derxomyces","","Tremellales"],"Properties":[5,1,4]}}

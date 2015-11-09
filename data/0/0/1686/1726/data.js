@@ -1,1 +1,0 @@
-{"1726":{"Path":["0","0","1686","1726"],"Coordinates":[0.64545640334441479,0.66462660280044916,0.59275878329946186],"Categories":["Candida buinensis","Candida buinensis","Candida","","Saccharomycetales"],"Properties":[6,5,5]}}

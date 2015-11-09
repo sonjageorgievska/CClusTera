@@ -1,1 +1,0 @@
-{"3380":{"Path":["0","3380","3380","3380"],"Coordinates":[0.2754190756479673,0.68376387435795283,0.44440739932128631],"Categories":["Bullera arundinariae","Bullera arundinariae","Bullera","Tremellaceae","Tremellales"],"Properties":[2,5,3]}}

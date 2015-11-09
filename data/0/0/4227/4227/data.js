@@ -1,1 +1,0 @@
-{"4227":{"Path":["0","0","4227","4227"],"Coordinates":[0.82858010179956931,0.31428450195010338,0.11877245304848694],"Categories":["Meredithblackwellia eburnea","Meredithblackwellia eburnea","Meredithblackwellia","Kriegeriaceae","Kriegeriales"],"Properties":[8,2,1]}}

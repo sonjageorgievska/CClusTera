@@ -1,1 +1,0 @@
-{"465":{"Path":["0","0","466","465"],"Coordinates":[0.52863438734950241,0.60553349358271968,0.685239940948613],"Categories":["Lipomyces lipofer","Lipomyces lipofer","Lipomyces","Lipomycetaceae","Saccharomycetales"],"Properties":[5,4,6]}}

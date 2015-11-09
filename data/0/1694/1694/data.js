@@ -1,1 +1,0 @@
-{"1694":{"Path":["0","1694","1694","1694"],"Coordinates":[0.43990435324180038,0.40563342900542121,0.74813491748384486],"Categories":["Rhodotorula sonckii","Rhodotorula sonckii","Rhodotorula","","Sporidiobolales"],"Properties":[4,3,6]}}

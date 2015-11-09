@@ -1,1 +1,0 @@
-{"785":{"Path":["0","0","785","785"],"Coordinates":[0.38994208828384991,0.52301114286354733,0.50870663309034125],"Categories":["Saccharomycopsis capsularis","Saccharomycopsis capsularis","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[3,4,4]}}

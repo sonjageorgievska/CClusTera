@@ -1,1 +1,0 @@
-{"3088":{"Path":["0","0","3088","3088"],"Coordinates":[0.70378237758639028,0.58426467889433908,0.6561746634497797],"Categories":["Sporobolomyces bannaensis","Sporobolomyces bannaensis","Sporobolomyces","","Sporidiobolales"],"Properties":[7,4,5]}}

@@ -1,1 +1,0 @@
-{"3069":{"Path":["0","0","3068","3069"],"Coordinates":[0.46969853426682373,0.1909283810346219,0.24539549796743876],"Categories":["Candida kipukae","Candida kipukae","Candida","","Saccharomycetales"],"Properties":[4,1,2]}}

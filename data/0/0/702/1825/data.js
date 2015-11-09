@@ -1,1 +1,0 @@
-{"1825":{"Path":["0","0","702","1825"],"Coordinates":[0.5176024243450037,0.47588075596017937,0.38178532751288508],"Categories":["Candida fermenticarens","Candida fermenticarens","Candida","","Saccharomycetales"],"Properties":[5,3,3]}}

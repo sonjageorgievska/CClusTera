@@ -1,1 +1,0 @@
-{"4151":{"Path":["0","0","4149","4151"],"Coordinates":[0.24537524024030519,0.48540311205593989,0.49781207523268739],"Categories":["Wickerhamomyces tratensis","Wickerhamomyces tratensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[2,3,4]}}

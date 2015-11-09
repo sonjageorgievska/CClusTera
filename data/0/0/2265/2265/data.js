@@ -1,1 +1,0 @@
-{"2265":{"Path":["0","0","2265","2265"],"Coordinates":[0.57495666973357418,0.57810623803400374,0.0089682092233798385],"Categories":["Kazachstania piceae","Kazachstania piceae","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,0]}}

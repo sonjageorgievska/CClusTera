@@ -1,1 +1,0 @@
-{"915":{"Path":["0","915","915","915"],"Coordinates":[0.4760616818071951,0.443744188731654,0.52779872334518485],"Categories":["Zygoascus meyerae","Zygoascus meyerae","Zygoascus","","Saccharomycetales"],"Properties":[4,3,4]}}

@@ -1,1 +1,0 @@
-{"3092":{"Path":["0","0","3092","3092"],"Coordinates":[0.6345216969444718,0.76566605914374453,0.44013454361553084],"Categories":["Candida suzukii","Candida suzukii","Candida","","Saccharomycetales"],"Properties":[6,6,3]}}

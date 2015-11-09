@@ -1,1 +1,0 @@
-{"4175":{"Path":["0","0","4175","4175"],"Coordinates":[0.64073876479747027,0.39221967420132769,0.83947011403577532],"Categories":["Candida middelhoveniana","Candida middelhoveniana","Candida","","Saccharomycetales"],"Properties":[6,3,7]}}

@@ -1,1 +1,0 @@
-{"2014":{"Path":["0","0","2014","2014"],"Coordinates":[0.58992103745250613,0.285941236311421,0.76901872224473145],"Categories":["Pichia barkeri","Pichia barkeri","Pichia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,2,6]}}

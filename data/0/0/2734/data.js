@@ -1,1 +1,0 @@
-{"2734":{"Path":["0","0","2734","2734"],"Coordinates":[0.52784278310374644,0.28245318476715447,0.49643176043137266],"Categories":["Kockovaella phaffii","Kockovaella phaffii","Kockovaella","Cuniculitremaceae","Tremellales"],"Properties":[5,2,4]}}

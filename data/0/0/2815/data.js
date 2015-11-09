@@ -1,1 +1,0 @@
-{"2815":{"Path":["0","0","2815","2815"],"Coordinates":[0.644352355765523,0.56911435805379629,0.60649323389932863],"Categories":["Occultifur externus","Occultifur externus","Occultifur","Cystobasidiaceae",""],"Properties":[6,4,5]}}

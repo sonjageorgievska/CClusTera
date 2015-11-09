@@ -1,1 +1,0 @@
-{"3186":{"Path":["0","0","3186","3186"],"Coordinates":[0.535553009573685,0.61076712488816765,0.56103630940677629],"Categories":["Kazachstania slooffiae","Kazachstania slooffiae","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,5]}}

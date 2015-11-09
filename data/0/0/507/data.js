@@ -1,1 +1,0 @@
-{"507":{"Path":["0","0","507","507"],"Coordinates":[0.47011143687963725,0.7362043523771552,0.308319913308988],"Categories":["Wickerhamomyces silvicola","Wickerhamomyces silvicola","Wickerhamomyces","","Saccharomycetales"],"Properties":[4,5,2]}}

@@ -1,1 +1,0 @@
-{"3194":{"Path":["0","0","3194","3194"],"Coordinates":[0.52208977004420087,0.44998058141766906,0.56345775882987126],"Categories":["Metschnikowia colocasiae","Metschnikowia colocasiae","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[5,3,5]}}

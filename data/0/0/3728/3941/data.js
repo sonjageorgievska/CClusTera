@@ -1,1 +1,0 @@
-{"3941":{"Path":["0","0","3728","3941"],"Coordinates":[0.28888668239652987,0.4057415444478667,0.30653120675325168],"Categories":["Hannaella pagnoccae","Hannaella pagnoccae","Hannaella","","Tremellales"],"Properties":[2,3,2]}}

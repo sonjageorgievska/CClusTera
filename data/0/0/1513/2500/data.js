@@ -1,1 +1,0 @@
-{"2500":{"Path":["0","0","1513","2500"],"Coordinates":[0.6283012014343804,0.68226438717481874,0.44724972042011274],"Categories":["Scheffersomyces coipomoensis","Scheffersomyces coipomoensis","Scheffersomyces","Debaryomycetaceae","Saccharomycetales"],"Properties":[6,5,4]}}

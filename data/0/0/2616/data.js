@@ -1,1 +1,0 @@
-{"2616":{"Path":["0","0","2616","2616"],"Coordinates":[0.47945524517204463,0.41155370468809427,0.52285344503957776],"Categories":["Kazachstania yakushimaensis","Kazachstania yakushimaensis","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,4]}}

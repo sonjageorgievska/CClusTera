@@ -1,1 +1,0 @@
-{"3742":{"Path":["0","0","3742","3742"],"Coordinates":[0.61151120786013846,0.046418273411890233,0.707264504251727],"Categories":["Cystofilobasidium lacus-mascardii","Cystofilobasidium lacus-mascardii","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[6,0,6]}}

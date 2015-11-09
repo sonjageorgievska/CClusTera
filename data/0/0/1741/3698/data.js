@@ -1,1 +1,0 @@
-{"3698":{"Path":["0","0","1741","3698"],"Coordinates":[0.33766787607144105,0.20339944095013085,0.405542356296712],"Categories":["Candida azymoides","Candida azymoides","Candida","","Saccharomycetales"],"Properties":[3,1,3]}}

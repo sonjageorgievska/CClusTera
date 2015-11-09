@@ -1,1 +1,0 @@
-{"3527":{"Path":["0","0","3527","3527"],"Coordinates":[0.74635119407546446,0.49575503365159296,0.39319111991966821],"Categories":["Cryptococcus bestiolae","Cryptococcus bestiolae","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[7,3,3]}}

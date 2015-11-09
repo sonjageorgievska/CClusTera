@@ -1,1 +1,0 @@
-{"3930":{"Path":["0","0","3931","3930"],"Coordinates":[0.76063292295833729,0.60917436037766282,0.585996728458948],"Categories":["Rhodotorula rosulata","Rhodotorula rosulata","Rhodotorula","","Sporidiobolales"],"Properties":[7,4,5]}}

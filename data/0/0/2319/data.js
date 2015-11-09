@@ -1,1 +1,0 @@
-{"2319":{"Path":["0","0","2319","2319"],"Coordinates":[0.778358287237511,0.5221820043936396,0.56847495833506223],"Categories":["Sporobolomyces dimennae","Sporobolomyces dimennae","Sporobolomyces","","Sporidiobolales"],"Properties":[7,4,5]}}

@@ -1,1 +1,0 @@
-{"3765":{"Path":["0","0","3764","3765"],"Coordinates":[0.76646582957867437,0.65814053742748457,0.18792316616972288],"Categories":["Kazachstania hellenica","Kazachstania hellenica","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,5,1]}}

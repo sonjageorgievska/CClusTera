@@ -1,1 +1,0 @@
-{"1144":{"Path":["0","0","1144","1144"],"Coordinates":[0.26373202371864063,0.79498842199705888,0.66385984785073093],"Categories":["Candida allociferrii","Candida allociferrii","Candida","","Saccharomycetales"],"Properties":[2,6,5]}}

@@ -1,1 +1,0 @@
-{"3731":{"Path":["0","0","3731","3731"],"Coordinates":[0.51597081802524936,0.52606468573024578,0.47295274351646294],"Categories":["Candida ratchasimensis","Candida ratchasimensis","Candida","","Saccharomycetales"],"Properties":[5,4,4]}}

@@ -1,1 +1,0 @@
-{"1817":{"Path":["0","1817","1817","1817"],"Coordinates":[0.599357435182862,0.766308744929372,0.54224293268996326],"Categories":["Myxozyma lipomycoides","Myxozyma lipomycoides","Myxozyma","Lipomycetaceae","Saccharomycetales"],"Properties":[5,6,4]}}

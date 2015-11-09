@@ -1,1 +1,0 @@
-{"3338":{"Path":["0","0","3338","3338"],"Coordinates":[0.44574555931645449,0.44951513602677373,0.50660033880310751],"Categories":["Candida endomychidarum","Candida endomychidarum","Candida","","Saccharomycetales"],"Properties":[4,3,4]}}

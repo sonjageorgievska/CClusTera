@@ -1,1 +1,0 @@
-{"1576":{"Path":["0","0","1265","1576"],"Coordinates":[0.317522534109097,0.51746681391149885,0.53189757375438951],"Categories":["Cyberlindnera sargentensis","Cyberlindnera sargentensis","Cyberlindnera","","Saccharomycetales"],"Properties":[3,4,4]}}

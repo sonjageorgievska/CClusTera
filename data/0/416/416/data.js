@@ -1,1 +1,0 @@
-{"416":{"Path":["0","416","416","416"],"Coordinates":[0.90216398478221471,0.41747459209474658,0.36808151748305312],"Categories":["Zygotorulaspora florentina","Zygotorulaspora florentina","Zygotorulaspora","Saccharomycetaceae","Saccharomycetales"],"Properties":[9,3,3]}}

@@ -1,1 +1,0 @@
-{"3869":{"Path":["0","0","1566","3869"],"Coordinates":[0.53637721095254309,0.55851964595948911,0.45711312847765562],"Categories":["Lachancea dasiensis","Lachancea dasiensis","Lachancea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,4]}}

@@ -1,1 +1,0 @@
-{"3226":{"Path":["0","0","3226","3226"],"Coordinates":[0.20160979742827334,0.37765680353965025,0.46824757945195888],"Categories":["Candida asparagi","Candida asparagi","Candida","","Saccharomycetales"],"Properties":[2,3,4]}}

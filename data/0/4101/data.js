@@ -1,1 +1,0 @@
-{"4101":{"Path":["0","4101","4101","4101"],"Coordinates":[0.32850847493457586,0.67057835485576878,0.25839785097001505],"Categories":["Cryptococcus yokohamensis","Cryptococcus yokohamensis","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[3,5,2]}}

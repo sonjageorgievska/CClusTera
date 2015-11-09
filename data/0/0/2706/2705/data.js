@@ -1,1 +1,0 @@
-{"2705":{"Path":["0","0","2706","2705"],"Coordinates":[0.52072694448334345,0.94047993247717632,0.55783256139956738],"Categories":["Zygosaccharomyces lentus","Zygosaccharomyces lentus","Zygosaccharomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,7,5]}}

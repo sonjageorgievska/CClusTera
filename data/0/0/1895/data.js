@@ -1,1 +1,0 @@
-{"1895":{"Path":["0","0","1895","1895"],"Coordinates":[0.41999223674251163,0.34451055281990134,0.44807897131933494],"Categories":["Rhodotorula buffonii","Rhodotorula buffonii","Rhodotorula","","Sporidiobolales"],"Properties":[4,2,4]}}

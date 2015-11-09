@@ -1,1 +1,0 @@
-{"2434":{"Path":["0","0","2434","2434"],"Coordinates":[0.4510137680030703,0.49563293307687795,0.40269952305702639],"Categories":["Sporobolomyces elongatus","Sporobolomyces elongatus","Sporobolomyces","","Sporidiobolales"],"Properties":[4,3,3]}}

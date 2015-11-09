@@ -1,1 +1,0 @@
-{"1224":{"Path":["0","0","1224","1224"],"Coordinates":[0.73495287414329846,0.94364606174726973,0.52527200270390562],"Categories":["Ambrosiozyma oregonensis","Ambrosiozyma oregonensis","Ambrosiozyma","","Saccharomycetales"],"Properties":[7,7,4]}}

@@ -1,1 +1,0 @@
-{"2982":{"Path":["0","0","2983","2982"],"Coordinates":[0.36102677171288483,0.2955036846425127,0.41501749956857586],"Categories":["Sporobolomyces ogasawarensis","Sporobolomyces ogasawarensis","Sporobolomyces","","Sporidiobolales"],"Properties":[3,2,3]}}

@@ -1,1 +1,0 @@
-{"3986":{"Path":["0","0","3986","3986"],"Coordinates":[0.082024671394353849,0.45110766386053713,0.61898299002249568],"Categories":["Candida rhizophoriensis","Candida rhizophoriensis","Candida","","Saccharomycetales"],"Properties":[0,3,5]}}

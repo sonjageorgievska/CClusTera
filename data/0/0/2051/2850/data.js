@@ -1,1 +1,0 @@
-{"2850":{"Path":["0","0","2051","2850"],"Coordinates":[0.49735809766432337,0.52248748657947808,0.53036924480794456],"Categories":["Candida powellii","Candida powellii","Candida","","Saccharomycetales"],"Properties":[4,4,4]}}

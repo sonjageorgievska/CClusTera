@@ -1,1 +1,0 @@
-{"4050":{"Path":["0","0","1566","4050"],"Coordinates":[0.51213639951099887,0.52897212758801759,0.45352187075840533],"Categories":["Lachancea nothofagi","Lachancea nothofagi","Lachancea","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,4]}}

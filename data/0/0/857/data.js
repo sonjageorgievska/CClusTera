@@ -1,1 +1,0 @@
-{"857":{"Path":["0","0","857","857"],"Coordinates":[0.16659235968866598,0.7467771771795525,0.75203047470342177],"Categories":["Wickerhamomyces pijperi","Wickerhamomyces pijperi","Wickerhamomyces","","Saccharomycetales"],"Properties":[1,5,6]}}

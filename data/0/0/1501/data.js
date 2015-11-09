@@ -1,1 +1,0 @@
-{"1501":{"Path":["0","0","1501","1501"],"Coordinates":[0.50946014973539666,0.50589960405532475,0.75639260054362245],"Categories":["Saccharomycopsis synnaedendra","Saccharomycopsis synnaedendra","Saccharomycopsis","Saccharomycopsidaceae","Saccharomycetales"],"Properties":[5,4,6]}}

@@ -1,1 +1,0 @@
-{"3972":{"Path":["0","0","3972","3972"],"Coordinates":[0.60578945868792,0.89975510588990371,0.38505899704459884],"Categories":["Candida northwykensis","Candida northwykensis","Candida","","Saccharomycetales"],"Properties":[6,7,3]}}

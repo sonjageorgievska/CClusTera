@@ -1,1 +1,0 @@
-{"3968":{"Path":["0","1761","3968","3968"],"Coordinates":[0.47317730976053124,0.50696621522773178,0.59882368078339177],"Categories":["Candida carvajalis","Candida carvajalis","Candida","","Saccharomycetales"],"Properties":[4,4,5]}}

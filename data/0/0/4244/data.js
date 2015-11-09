@@ -1,1 +1,0 @@
-{"4244":{"Path":["0","0","4244","4244"],"Coordinates":[0.334442778654382,0.51509796362506011,0.9598615165971579],"Categories":["Candida ecuadorensis","Candida ecuadorensis","Candida","","Saccharomycetales"],"Properties":[3,4,8]}}

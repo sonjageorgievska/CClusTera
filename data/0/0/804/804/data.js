@@ -1,1 +1,0 @@
-{"804":{"Path":["0","0","804","804"],"Coordinates":[0.72030297316472269,0.52142786106157235,0.68399254994954928],"Categories":["Lodderomyces elongisporus","Lodderomyces elongisporus","Lodderomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[7,4,6]}}

@@ -1,1 +1,0 @@
-{"3849":{"Path":["0","0","3849","3849"],"Coordinates":[0.26878324296390527,0.5091929146269083,0.40971404955520219],"Categories":["Candida ranongensis","Candida ranongensis","Candida","","Saccharomycetales"],"Properties":[2,4,3]}}

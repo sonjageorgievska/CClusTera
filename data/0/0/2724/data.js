@@ -1,1 +1,0 @@
-{"2724":{"Path":["0","0","2724","2724"],"Coordinates":[0.67327396613398127,0.46718314345722284,0.578904768556225],"Categories":["Rhodotorula bloemfonteinensis","Rhodotorula bloemfonteinensis","Rhodotorula","","Sporidiobolales"],"Properties":[6,3,5]}}

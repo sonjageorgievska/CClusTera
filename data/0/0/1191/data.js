@@ -1,1 +1,0 @@
-{"1191":{"Path":["0","0","1191","1191"],"Coordinates":[0.57077538756926094,0.35823290903500726,0.4212520815330596],"Categories":["Mrakiella aquatica","Mrakiella aquatica","Mrakiella","","Cystofilobasidiales"],"Properties":[5,2,3]}}

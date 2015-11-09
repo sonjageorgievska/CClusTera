@@ -1,1 +1,0 @@
-{"1800":{"Path":["0","0","1800","1800"],"Coordinates":[0.49002317038620113,0.72788508721524725,0.40618588249920373],"Categories":["Wickerhamomyces alni","Wickerhamomyces alni","Wickerhamomyces","","Saccharomycetales"],"Properties":[4,5,3]}}

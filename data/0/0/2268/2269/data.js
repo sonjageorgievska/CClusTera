@@ -1,1 +1,0 @@
-{"2269":{"Path":["0","0","2268","2269"],"Coordinates":[0.24026819682286019,0.26692153071889163,0.48044977387275906],"Categories":["Metschnikowia agaves","Metschnikowia agaves","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[2,2,4]}}

@@ -1,1 +1,0 @@
-{"4229":{"Path":["0","0","4229","4229"],"Coordinates":[0.66099648143319256,0.733080632029447,0.85524557447321758],"Categories":["Diddensiella caesifluorescens","Diddensiella caesifluorescens","Diddensiella","Trichomonascaceae","Saccharomycetales"],"Properties":[6,5,7]}}

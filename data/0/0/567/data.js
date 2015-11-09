@@ -1,1 +1,0 @@
-{"567":{"Path":["0","0","567","567"],"Coordinates":[0.74331102773599633,0.75199643138301575,0.52005836226780822],"Categories":["Candida aaseri","Candida aaseri","Candida","","Saccharomycetales"],"Properties":[7,6,4]}}

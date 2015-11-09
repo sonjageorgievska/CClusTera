@@ -1,1 +1,0 @@
-{"1607":{"Path":["0","0","1607","1607"],"Coordinates":[0.70097479980424959,0.6352409344670843,0.47300847837654508],"Categories":["Candida fructus","Candida fructus","Candida","","Saccharomycetales"],"Properties":[7,5,4]}}

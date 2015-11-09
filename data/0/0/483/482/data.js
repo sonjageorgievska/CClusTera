@@ -1,1 +1,0 @@
-{"482":{"Path":["0","0","483","482"],"Coordinates":[0.16881275600277923,0.619634054112897,0.22422813407083134],"Categories":["Trigonopsis variabilis","Trigonopsis variabilis","Trigonopsis","","Saccharomycetales"],"Properties":[1,4,2]}}

@@ -1,1 +1,0 @@
-{"1361":{"Path":["0","1358","1358","1361"],"Coordinates":[0.58947339681901,0.29577118363735011,0.59489129204979285],"Categories":["Phaffia rhodozyma","Phaffia rhodozyma","Phaffia","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[5,2,5]}}

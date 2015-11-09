@@ -1,1 +1,0 @@
-{"1717":{"Path":["0","1717","1717","1717"],"Coordinates":[0.83640030021801437,0.84324172679782639,0.25947436209190139],"Categories":["Dipodascopsis anomala","Dipodascopsis anomala","Dipodascopsis","Lipomycetaceae","Saccharomycetales"],"Properties":[8,6,2]}}

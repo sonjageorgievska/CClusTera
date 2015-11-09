@@ -1,1 +1,0 @@
-{"1506":{"Path":["0","0","1506","1506"],"Coordinates":[0.6786647332295338,0.37411371563368306,0.68338073054287207],"Categories":["Rhodotorula hylophila","Rhodotorula hylophila","Rhodotorula","","Sporidiobolales"],"Properties":[6,2,6]}}

@@ -1,1 +1,0 @@
-{"3928":{"Path":["0","0","3928","3928"],"Coordinates":[0.72554503666195536,0.24850599022568809,0.18937027335933221],"Categories":["Rhodotorula straminea","Rhodotorula straminea","Rhodotorula","","Sporidiobolales"],"Properties":[7,1,1]}}

@@ -1,1 +1,0 @@
-{"3433":{"Path":["0","0","3434","3433"],"Coordinates":[0.53771159713705519,0.45842342564661231,0.54354406831420909],"Categories":["Kuraishia molischiana","Kuraishia molischiana","Kuraishia","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,3,4]}}

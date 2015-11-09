@@ -1,1 +1,0 @@
-{"2113":{"Path":["0","0","2113","2113"],"Coordinates":[0.27991466420063266,0.36909867049022443,0.38341157250703389],"Categories":["Rhodotorula ferulica","Rhodotorula ferulica","Rhodotorula","","Sporidiobolales"],"Properties":[2,2,3]}}

@@ -1,1 +1,0 @@
-{"3493":{"Path":["0","2609","3493","3493"],"Coordinates":[0.45555515509884642,0.33615960500327341,0.337298250867113],"Categories":["Pseudozyma hubeiensis","Pseudozyma hubeiensis","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[4,2,3]}}

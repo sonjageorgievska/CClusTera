@@ -1,1 +1,0 @@
-{"2696":{"Path":["0","0","2696","2696"],"Coordinates":[0.63574931903092924,0.41235381392439296,0.59502432484996781],"Categories":["Candida danieliae","Candida danieliae","Candida","","Saccharomycetales"],"Properties":[6,3,5]}}

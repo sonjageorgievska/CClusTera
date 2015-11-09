@@ -1,1 +1,0 @@
-{"1585":{"Path":["0","0","1585","1585"],"Coordinates":[0.51276474238078174,0.14925162111440318,0.17694083973546523],"Categories":["Cystofilobasidium bisporidii","Cystofilobasidium bisporidii","Cystofilobasidium","Cystofilobasidiaceae","Cystofilobasidiales"],"Properties":[5,1,1]}}

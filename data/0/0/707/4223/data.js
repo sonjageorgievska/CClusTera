@@ -1,1 +1,0 @@
-{"4223":{"Path":["0","0","707","4223"],"Coordinates":[0.31246489438236968,0.40051276858798751,0.39257497022191024],"Categories":["Tortispora ganteri","Tortispora ganteri","Tortispora","Trigonopsidaceae","Saccharomycetales"],"Properties":[3,3,3]}}

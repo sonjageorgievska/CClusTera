@@ -1,1 +1,0 @@
-{"4148":{"Path":["0","0","4148","4148"],"Coordinates":[0.8174700252260404,0.19120191083334606,0.45443448754652893],"Categories":["Trichosporon vanderwaltii","Trichosporon vanderwaltii","Trichosporon","Trichosporonaceae","Tremellales"],"Properties":[8,1,4]}}

@@ -1,1 +1,0 @@
-{"1858":{"Path":["0","0","1858","1858"],"Coordinates":[0.6327780911725559,0.89527548395765266,0.56991103005592336],"Categories":["Cyberlindnera meyerae","Cyberlindnera meyerae","Cyberlindnera","","Saccharomycetales"],"Properties":[6,7,5]}}

@@ -1,1 +1,0 @@
-{"2796":{"Path":["0","0","2796","2796"],"Coordinates":[0.40990597800655032,0.607605007570835,0.592743354586603],"Categories":["Cryptococcus victoriae","Cryptococcus victoriae","Cryptococcus","Tremellaceae","Tremellales"],"Properties":[4,4,5]}}

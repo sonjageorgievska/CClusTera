@@ -1,1 +1,0 @@
-{"3278":{"Path":["0","0","3277","3278"],"Coordinates":[0.55052735982450063,0.36539370629253548,0.34350046223451369],"Categories":["Candida taliae","Candida taliae","Candida","","Saccharomycetales"],"Properties":[5,2,3]}}

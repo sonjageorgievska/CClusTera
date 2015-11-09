@@ -1,1 +1,0 @@
-{"4217":{"Path":["0","0","4217","4217"],"Coordinates":[0.45852047499543441,0.787036964426968,0.35687935794165754],"Categories":["Wickerhamomyces siamensis","Wickerhamomyces siamensis","Wickerhamomyces","","Saccharomycetales"],"Properties":[4,6,3]}}

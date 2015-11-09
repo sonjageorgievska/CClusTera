@@ -1,1 +1,0 @@
-{"3096":{"Path":["0","0","2902","3096"],"Coordinates":[0.37976215268065983,0.49093844299325529,0.44191961964892595],"Categories":["Ogataea zsoltii","Ogataea zsoltii","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[3,3,3]}}

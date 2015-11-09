@@ -1,1 +1,0 @@
-{"1381":{"Path":["0","0","1381","1381"],"Coordinates":[0.45637070950052872,0.4824985948764603,0.56366020030246677],"Categories":["Candida fennica","Candida fennica","Candida","","Saccharomycetales"],"Properties":[4,3,5]}}

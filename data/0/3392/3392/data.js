@@ -1,1 +1,0 @@
-{"3392":{"Path":["0","3392","3392","3392"],"Coordinates":[-0.3108971146773124,0.700428105729861,0.22426199547534167],"Categories":["Candida ficicola","Candida ficicola","Candida","","Saccharomycetales"],"Properties":[-3,5,2]}}

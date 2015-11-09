@@ -1,1 +1,0 @@
-{"1140":{"Path":["0","0","1140","1140"],"Coordinates":[0.67967214561258094,0.9990145149989913,0.43548606608461549],"Categories":["Candida maris","Candida maris","Candida","","Saccharomycetales"],"Properties":[6,7,3]}}

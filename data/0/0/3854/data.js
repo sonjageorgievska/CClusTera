@@ -1,1 +1,0 @@
-{"3854":{"Path":["0","0","3854","3854"],"Coordinates":[0.29160057414052837,0.41463753854757041,0.744128256563993],"Categories":["Candida sanitii","Candida sanitii","Candida","","Saccharomycetales"],"Properties":[2,3,6]}}

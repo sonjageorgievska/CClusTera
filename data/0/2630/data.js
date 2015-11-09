@@ -1,1 +1,0 @@
-{"2630":{"Path":["0","2630","2630","2630"],"Coordinates":[0.45752091458951788,0.53386231012354957,0.493016011695562],"Categories":["Metschnikowia hibisci","Metschnikowia hibisci","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,4,4]}}

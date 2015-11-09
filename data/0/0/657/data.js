@@ -1,1 +1,0 @@
-{"657":{"Path":["0","0","657","657"],"Coordinates":[0.51208885792327052,0.56119792796754564,0.68334386457618423],"Categories":["Nakaseomyces delphensis","Nakaseomyces delphensis","Nakaseomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[5,4,6]}}

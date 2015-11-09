@@ -1,1 +1,0 @@
-{"2503":{"Path":["0","0","2503","2503"],"Coordinates":[0.97527951437841842,0.71753292301598837,0.66275389145455255],"Categories":["Candida santjacobensis","Candida santjacobensis","Candida","","Saccharomycetales"],"Properties":[9,5,5]}}

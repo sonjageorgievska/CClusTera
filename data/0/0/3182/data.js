@@ -1,1 +1,0 @@
-{"3182":{"Path":["0","0","3182","3182"],"Coordinates":[0.48464964650097941,0.24922495169485934,0.30039245987845042],"Categories":["Sporobolomyces clavatus","Sporobolomyces clavatus","Sporobolomyces","","Sporidiobolales"],"Properties":[4,1,2]}}

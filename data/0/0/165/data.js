@@ -1,1 +1,0 @@
-{"165":{"Path":["0","0","165","165"],"Coordinates":[0.58069067183568435,0.25828193005308459,0.5839092677705312],"Categories":["Cystobasidium pallidum","Cystobasidium pallidum","Cystobasidium","Platygloeaceae","Platygloeales"],"Properties":[5,2,5]}}

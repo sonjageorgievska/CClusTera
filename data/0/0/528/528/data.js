@@ -1,1 +1,0 @@
-{"528":{"Path":["0","0","528","528"],"Coordinates":[0.46404037711445406,0.591810349720206,0.756267271831423],"Categories":["Candida versatilis","Candida versatilis","Candida","","Saccharomycetales"],"Properties":[4,4,6]}}

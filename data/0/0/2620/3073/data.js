@@ -1,1 +1,0 @@
-{"3073":{"Path":["0","0","2620","3073"],"Coordinates":[0.48936612900703685,0.34447537716599341,0.4013599735187473],"Categories":["Metschnikowia santaceciliae","Metschnikowia santaceciliae","Metschnikowia","Metschnikowiaceae","Saccharomycetales"],"Properties":[4,2,3]}}

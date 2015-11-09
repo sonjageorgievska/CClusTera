@@ -1,1 +1,0 @@
-{"3820":{"Path":["0","0","3820","3820"],"Coordinates":[0.88776045311031815,0.25075537277731164,0.71243032373442849],"Categories":["Mrakiella cryoconiti","Mrakiella cryoconiti","Mrakiella","","Cystofilobasidiales"],"Properties":[8,2,6]}}

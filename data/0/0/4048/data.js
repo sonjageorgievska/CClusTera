@@ -1,1 +1,0 @@
-{"4048":{"Path":["0","0","4048","4048"],"Coordinates":[0.43080832722890561,0.65608235675291049,0.51189960967167092],"Categories":["Vanderwaltozyma tropicalis","Vanderwaltozyma tropicalis","Vanderwaltozyma","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,5,4]}}

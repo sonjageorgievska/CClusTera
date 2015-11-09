@@ -1,1 +1,0 @@
-{"1617":{"Path":["0","0","1617","1617"],"Coordinates":[0.86391433930599282,0.65754534119565222,0.57472348212769264],"Categories":["Kurtzmanomyces nectairei","Kurtzmanomyces nectairei","Kurtzmanomyces","Chionosphaeraceae","Agaricostilbales"],"Properties":[8,5,5]}}

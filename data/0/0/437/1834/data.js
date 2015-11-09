@@ -1,1 +1,0 @@
-{"1834":{"Path":["0","0","437","1834"],"Coordinates":[0.45641727356958534,0.47795765728258138,0.5558843648493309],"Categories":["Debaryomyces udenii","Debaryomyces udenii","Debaryomyces","Saccharomycetaceae","Saccharomycetales"],"Properties":[4,3,5]}}

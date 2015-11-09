@@ -1,1 +1,0 @@
-{"822":{"Path":["0","0","822","822"],"Coordinates":[0.64343281324803125,0.54398452074946724,0.54743541674353124],"Categories":["Kazachstania telluris","Kazachstania telluris","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[6,4,4]}}

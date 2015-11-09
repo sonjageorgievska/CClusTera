@@ -1,1 +1,0 @@
-{"1101":{"Path":["0","0","1101","1101"],"Coordinates":[0.37302899509292831,0.31360297282768912,0.77932771774844745],"Categories":["Candida pyralidae","Candida pyralidae","Candida","","Saccharomycetales"],"Properties":[3,2,7]}}

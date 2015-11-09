@@ -1,1 +1,0 @@
-{"854":{"Path":["0","0","854","854"],"Coordinates":[0.50204501636695786,0.51040451512892837,0.53946145672752921],"Categories":["Candida apicola","Candida apicola","Candida","","Saccharomycetales"],"Properties":[5,4,4]}}

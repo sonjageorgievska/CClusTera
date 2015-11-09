@@ -1,1 +1,0 @@
-{"4254":{"Path":["0","0","4254","4254"],"Coordinates":[0.81391236626605568,0.90875201631527192,0.40264599201593587],"Categories":["Ogataea kolombanensis","Ogataea kolombanensis","Ogataea","Saccharomycetaceae","Saccharomycetales"],"Properties":[8,7,3]}}

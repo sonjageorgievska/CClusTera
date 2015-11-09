@@ -1,1 +1,0 @@
-{"2134":{"Path":["0","2134","2134","2134"],"Coordinates":[0.5716044055421009,0.41997511052856518,0.57808053826108008],"Categories":["Botryozyma nematodophila","Botryozyma nematodophila","Botryozyma","","Saccharomycetales"],"Properties":[5,3,5]}}

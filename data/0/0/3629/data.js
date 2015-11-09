@@ -1,1 +1,0 @@
-{"3629":{"Path":["0","0","3629","3629"],"Coordinates":[0.50821870482643172,0.34268139095985256,0.44011496035576048],"Categories":["Trigonopsis californica","Trigonopsis californica","Trigonopsis","","Saccharomycetales"],"Properties":[5,2,3]}}

@@ -1,1 +1,0 @@
-{"190":{"Path":["0","0","190","190"],"Coordinates":[0.80339754130941676,0.6083509461995581,0.40693376011340315],"Categories":["Kazachstania exigua","Kazachstania exigua","Kazachstania","Saccharomycetaceae","Saccharomycetales"],"Properties":[8,4,3]}}

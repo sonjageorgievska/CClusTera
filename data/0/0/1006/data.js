@@ -1,1 +1,0 @@
-{"1006":{"Path":["0","0","1006","1006"],"Coordinates":[0.2850145365148265,0.59786774974346057,0.5001906690388046],"Categories":["Candida castellii","Candida castellii","Candida","","Saccharomycetales"],"Properties":[2,4,4]}}

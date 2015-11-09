@@ -1,1 +1,0 @@
-{"1103":{"Path":["0","0","1103","1103"],"Coordinates":[0.59758829755497012,0.31798786827908881,0.55839000341509459],"Categories":["Candida oregonensis","Candida oregonensis","Candida","","Saccharomycetales"],"Properties":[5,2,5]}}

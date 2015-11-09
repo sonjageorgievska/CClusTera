@@ -1,1 +1,0 @@
-{"2024":{"Path":["0","0","2024","2024"],"Coordinates":[0.67815123390686638,0.58161843376468192,0.46179091860076876],"Categories":["Bensingtonia subrosea","Bensingtonia subrosea","Bensingtonia","Agaricostilbaceae","Agaricostilbales"],"Properties":[6,4,4]}}

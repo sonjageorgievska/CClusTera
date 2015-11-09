@@ -1,1 +1,0 @@
-{"4180":{"Path":["0","0","4180","4180"],"Coordinates":[0.39048727228942071,0.590119838249739,0.12388128684885898],"Categories":["Wickerhamomyces xylosica","Wickerhamomyces xylosica","Wickerhamomyces","","Saccharomycetales"],"Properties":[3,4,1]}}

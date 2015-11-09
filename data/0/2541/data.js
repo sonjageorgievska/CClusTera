@@ -1,1 +1,0 @@
-{"2541":{"Path":["0","2541","2541","2541"],"Coordinates":[0.35074340007519839,0.61467618874389884,0.56012284514762767],"Categories":["Reniforma strues","Reniforma strues","Reniforma","","Microbotryales"],"Properties":[3,4,5]}}

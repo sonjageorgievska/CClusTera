@@ -1,1 +1,0 @@
-{"2694":{"Path":["0","0","2694","2694"],"Coordinates":[0.39310953114909686,0.71652970829028251,0.80232857563396609],"Categories":["Candida gotoi","Candida gotoi","Candida","","Saccharomycetales"],"Properties":[3,5,7]}}

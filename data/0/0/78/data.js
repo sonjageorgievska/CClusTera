@@ -1,1 +1,0 @@
-{"78":{"Path":["0","0","78","78"],"Coordinates":[0.62043900116518058,0.61901055746786415,0.7611542313924865],"Categories":["Candida gropengiesseri","Candida gropengiesseri","Candida","","Saccharomycetales"],"Properties":[6,4,6]}}

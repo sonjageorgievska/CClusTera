@@ -1,1 +1,0 @@
-{"559":{"Path":["0","0","560","559"],"Coordinates":[0.32769067737608903,0.83229215097446252,0.59097001320960385],"Categories":["Wickerhamomyces chambardii","Wickerhamomyces chambardii","Wickerhamomyces","","Saccharomycetales"],"Properties":[3,6,5]}}

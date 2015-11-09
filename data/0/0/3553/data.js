@@ -1,1 +1,0 @@
-{"3553":{"Path":["0","0","3553","3553"],"Coordinates":[0.43175460815377104,0.54513474066671952,0.40186083436653763],"Categories":["Candida corydali","Candida corydali","Candida","","Saccharomycetales"],"Properties":[4,4,3]}}

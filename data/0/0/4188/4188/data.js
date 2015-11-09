@@ -1,1 +1,0 @@
-{"4188":{"Path":["0","0","4188","4188"],"Coordinates":[0.054750323706223361,0.57185371855793965,0.94366157711297827],"Categories":["Komagataella ulmi","Komagataella ulmi","Komagataella","Saccharomycetaceae","Saccharomycetales"],"Properties":[0,4,8]}}

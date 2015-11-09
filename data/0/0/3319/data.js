@@ -1,1 +1,0 @@
-{"3319":{"Path":["0","0","3319","3319"],"Coordinates":[0.53425906868734574,0.38206833527799866,0.72744305987004509],"Categories":["Candida atbi","Candida atbi","Candida","","Saccharomycetales"],"Properties":[5,3,6]}}

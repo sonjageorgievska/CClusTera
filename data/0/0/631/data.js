@@ -1,1 +1,0 @@
-{"631":{"Path":["0","0","631","631"],"Coordinates":[0.44361332984981688,0.71026142478818,0.48460213307775929],"Categories":["Candida pseudolambica","Candida pseudolambica","Candida","","Saccharomycetales"],"Properties":[4,5,4]}}

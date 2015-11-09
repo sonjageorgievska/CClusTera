@@ -1,1 +1,0 @@
-{"4256":{"Path":["0","2609","4256","4256"],"Coordinates":[0.48614508671556533,0.42845055857700182,0.43415176383478404],"Categories":["Pseudozyma vetiver","Pseudozyma vetiver","Pseudozyma","Ustilaginaceae","Ustilaginales"],"Properties":[4,3,3]}}

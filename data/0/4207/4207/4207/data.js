@@ -1,1 +1,0 @@
-{"4207":{"Path":["0","4207","4207","4207"],"Coordinates":[0.52082329355215906,0.38196235539812368,0.93211004206181391],"Categories":["Candida tunisiensis","Candida tunisiensis","Candida","","Saccharomycetales"],"Properties":[5,3,8]}}

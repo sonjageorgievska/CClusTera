@@ -1,1 +1,0 @@
-{"4201":{"Path":["0","0","2401","4201"],"Coordinates":[0.34231911415195576,0.26726589689595992,0.45997374251102896],"Categories":["Bandoniozyma visegradensis","Bandoniozyma visegradensis","Bandoniozyma","","Tremellales"],"Properties":[3,2,4]}}
