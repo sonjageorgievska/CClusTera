@@ -112,6 +112,8 @@
         //################# global variables definitions start here
 
         var dataFolder = "data";
+        var smallDataFile = "smalldata.json";
+        var dataFile = "data.json";
         var frameStartsAt = 285;
         var edgesShow = document.getElementById("showedges");
         var myColorpicker;//UI
@@ -162,7 +164,7 @@
         }
 
         if (bigData == false) {
-            var filename = dataFolder + "/smalldata.json";
+            var filename = dataFolder + "/" + smallDataFile;
             fetchJSONFile(filename, function (datasmall) {
                 smallData = datasmall;
                 totalNumberOfLevels = FindTotalNumberOfLevels(datasmall);
@@ -186,7 +188,7 @@
         function InitDrawing() {
             //this requests the file and executes a callback with the parsed result once
             // it is available. Calling the level zero
-            var filename = dataFolder + "/data.json";
+            var filename = dataFolder + "/" + dataFile; 
             fetchJSONFile(filename, function (data) {
                 // do something with your data
                 totalNumberOfLevels = FindTotalNumberOfLevels(data);
@@ -306,7 +308,7 @@
         function AddNextLevelForNode(nodeId) {
             //this requests the file and executes a callback with the parsed result once
             // it is available
-            var path = CurrentDir[nodeId] + "/" + nodeId + "/data.json";
+            var path = CurrentDir[nodeId] + "/" + nodeId + "/" + dataFile; 
 
             fetchJSONFile(path, function (data) {
                 var dir = CurrentDir[nodeId];
@@ -326,7 +328,7 @@
                 if (node != undefined) {
                     node._expandable = false;
                     if (level < totalNumberOfLevels - 1) {
-                        var file = startdir + "/" + nodeId + "/data.json";
+                        var file = startdir + "/" + nodeId + "/" + dataFile;
                         fetchJSONFile(file, function (data) {
                             if (Object.keys(data).length > 1) {
                                 node._expandable = true;
@@ -392,7 +394,7 @@
 
         function fastLoadUpToLevel(level) {
             if (smallData == undefined) {
-                var fileName = dataFolder + "/smalldata.json";
+                var fileName = dataFolder + "/" + smallDataFile;
                 fetchJSONFile(fileName, function (data) {
                     smallData = data;
                     FastImportData(smallData, level);
