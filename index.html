@@ -88,7 +88,7 @@
     <p> </p>
     <div id="frame"></div>
     <div id="sliderObj" min="0" step="1" value="0" vertical="false" size="245"></div>
-    <div id="labelproperty2" style=" font: 15px Arial">Hover over a point to see its information. Press Ctrl+z to close the last open clusters.</div>
+    <div id="labelproperty2" style=" font: 15px Arial">Hover over a point to see its information. Press Ctrl+z to close the last open clusters. Right-click to rotate, right-click again to stop a rotation.</div>
 
     <div>
         <fieldset class="fieldset-auto-width" style="font: 15px Arial">
@@ -166,10 +166,10 @@
                 totalNumberOfLevels = FindTotalNumberOfLevels(datasmall);
                 ComputeExpandables(datasmall);
                 InitDrawing();
-                var sliderValue = totalNumberOfLevels - 2;
+                var sliderValue = totalNumberOfLevels - 1;
                 if (sliderValue < 0) { sliderValue = 0;}
                 mySlider.setValue(sliderValue);
-                showedges.checked = true;
+                showedges.checked = false;
                 fastLoadUpToLevel(sliderValue);
             });
         }
@@ -195,7 +195,7 @@
                 renderFrame.reDrawMe();
             });
             document.onkeydown = KeyPress;//see src/uifunctions.js. This function is for handling ctrl+z events
-            edgesShow.checked = false; //hide edges by default
+            //edgesShow.checked = false; //hide edges by default
             edgesShow.onchange = function () {
                 redrawSameScene();
             }
@@ -237,7 +237,6 @@
 
         function ComputeExpandables(data)//is called in case of small data. Parameter data contains all (small) data. Computes the global double array expandable
         {
-
             for (var key in data) {
                 expandable[key] = [];
                 for (var i = 0; i < totalNumberOfLevels; i++) {
