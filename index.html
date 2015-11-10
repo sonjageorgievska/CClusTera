@@ -111,6 +111,7 @@
 
         //################# global variables definitions start here
 
+        var dataFolder = "data";
         var frameStartsAt = 285;
         var edgesShow = document.getElementById("showedges");
         var myColorpicker;//UI
@@ -161,7 +162,8 @@
         }
 
         if (bigData == false) {
-            fetchJSONFile("data/smalldata.json", function (datasmall) {
+            var filename = dataFolder + "/smalldata.json";
+            fetchJSONFile(filename, function (datasmall) {
                 smallData = datasmall;
                 totalNumberOfLevels = FindTotalNumberOfLevels(datasmall);
                 ComputeExpandables(datasmall);
@@ -184,7 +186,8 @@
         function InitDrawing() {
             //this requests the file and executes a callback with the parsed result once
             // it is available. Calling the level zero
-            fetchJSONFile("data/data.json", function (data) {
+            var filename = dataFolder + "/data.json";
+            fetchJSONFile(filename, function (data) {
                 // do something with your data
                 totalNumberOfLevels = FindTotalNumberOfLevels(data);
                 if (bigData == false) {
@@ -289,7 +292,7 @@
         {
             for (var key in data) {
                 AddNodeAtLevelZero(data, key);
-                CheckIfNodeIsExpandable(key, "data");
+                CheckIfNodeIsExpandable(key, dataFolder);
             }
         }
 
@@ -389,7 +392,8 @@
 
         function fastLoadUpToLevel(level) {
             if (smallData == undefined) {
-                fetchJSONFile("data/smalldata.json", function (data) {
+                var fileName = dataFolder + "/smalldata.json";
+                fetchJSONFile(fileName, function (data) {
                     smallData = data;
                     FastImportData(smallData, level);
                 });
@@ -452,7 +456,7 @@
             }
             var node = graph.getNode(systemId);
 
-            var currentDir = "data";
+            var currentDir = dataFolder;
             for (var i = 0; i < level; i++) {
                 currentDir = currentDir + "/" + parseInt(path[i]);
             }
@@ -472,7 +476,7 @@
                         AddNodeAtLevelZero(data, key);
                         graph.getNode(key)._expandable = false;
                         if (sliderlevel == 0) {
-                            CheckIfNodeIsExpandable(key, "data");
+                            CheckIfNodeIsExpandable(key, dataFolder);
                         }
                     }
                 }
@@ -487,7 +491,7 @@
             PrepareNodeAndAddIt(data, key, colorNode);
             var node = graph.getNode(key);
 
-            CurrentDir[key] = "data";
+            CurrentDir[key] = dataFolder;
             CurrentLevel[key] = 0;
         }
 
