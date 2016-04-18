@@ -82,8 +82,10 @@
         <label style=" font: 15px Arial"> Show links to representatives</label>
 
         <p> </p>
-        <button style=" font: 14px Arial" onclick="ShowExpandableNodes()" name="button">Show expandable</button>
+        <button style=" font: 14px Arial" onclick="ShowExpandableNodes()" name="button">Show expandables</button>
         <button style=" font: 14px Arial" onclick="ReturnAllColors()" name="button">Resume colors</button>
+        <p> </p>
+        <button style=" font: 14px Arial" onclick="redrawInitialScene()" name="button">Centralize</button>
     </fieldset>
     <p> </p>
     <div id="frame"></div>
@@ -92,7 +94,7 @@
 
     <div>
         <fieldset class="fieldset-auto-width" style="font: 15px Arial">
-            <legend style=" font: 15px Arial">Coloring</legend>
+            <legend style=" font: 15px Arial">Coloring by intensity of property</legend>
             <p> Select a property: </p>
             <select name="combo" id="combo"></select>
             <p> Click inside the field to select a color: </p>
@@ -170,10 +172,10 @@
                 totalNumberOfLevels = FindTotalNumberOfLevels(datasmall);
                 ComputeExpandables(datasmall);
                 InitDrawing();
-                var sliderValue = totalNumberOfLevels - 1;
+                var sliderValue = totalNumberOfLevels - 2;
                 if (sliderValue < 0) { sliderValue = 0;}
                 mySlider.setValue(sliderValue);
-                showedges.checked = false;
+                showedges.checked = true;
                 fastLoadUpToLevel(sliderValue);
             });
         }
@@ -193,7 +195,7 @@
                 // do something with your data
                 totalNumberOfLevels = FindTotalNumberOfLevels(data);
                 if (bigData == false) {
-                    mySlider.setMax(totalNumberOfLevels - 1);
+                    mySlider.setMax(totalNumberOfLevels - 2);
                 }
                 AddLevelZero(data);
                 renderFrame = graph.renderIn("frame");
@@ -623,6 +625,16 @@
                 HideAllEdges();
             }
             renderFrame.reDrawMeInSameScene();
+        }
+
+        function redrawInitialScene() {
+            if (edgesShow.checked) {
+                ShowAllEdges();
+            }
+            else {
+                HideAllEdges();
+            }
+            renderFrame.reDrawMe();
         }
 
         function ChangeColor(node, color) {
