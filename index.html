@@ -595,15 +595,16 @@
             for (var i = 0; i < nodes.length; i++) {
                 var node = nodes[i];
                 var found = false;
-
-                if (node.getId() == name) {
+                var nodeId = node.getId();
+                nodeId = nodeId.toLowerCase();
+                name = name.toLowerCase();
+                if (nodeId.search(name) > -1) {
                     found = true;
                 }
                 else {
                     var categories = node._categoriesValues;
                     for (var j = 0; j < categories.length; j++) {
                         var prop = categories[j].toLowerCase();
-                        name = name.toLowerCase();
                         if (prop.search(name) > -1) { found = true; }
                     }
                 }
@@ -614,7 +615,7 @@
                 }
                 else { ChangeColor(node, "grey"); }
             }
-            redrawSameScene();          
+            redrawSameScene();
         }
 
         function redrawSameScene() {
