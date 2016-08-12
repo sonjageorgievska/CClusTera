@@ -82,8 +82,10 @@
         <label style=" font: 15px Arial"> Show links to representatives</label>
 
         <p> </p>
-        <button style=" font: 14px Arial" onclick="ShowExpandableNodes()" name="button">Show expandable</button>
+        <button style=" font: 14px Arial" onclick="ShowExpandableNodes()" name="button">Show expandables</button>
         <button style=" font: 14px Arial" onclick="ReturnAllColors()" name="button">Resume colors</button>
+        <p> </p>
+        <button style=" font: 14px Arial" onclick="redrawInitialScene()" name="button">Centralize</button>
     </fieldset>
     <p> </p>
     <div id="frame"></div>
@@ -92,7 +94,7 @@
 
     <div>
         <fieldset class="fieldset-auto-width" style="font: 15px Arial">
-            <legend style=" font: 15px Arial">Coloring</legend>
+            <legend style=" font: 15px Arial">Coloring by intensity of property</legend>
             <p> Select a property: </p>
             <select name="combo" id="combo"></select>
             <p> Click inside the field to select a color: </p>
@@ -102,8 +104,13 @@
             </p>
         </fieldset>
     </div>
-    <link rel="stylesheet" type="text/css" href="src/dhtmlx.css">
-    <script src="src/dhtmlx.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="src/dhtmlxcolorpicker.css">
+    <script src="src/dhtmlxcolorpicker.js"></script>
+    <link rel="stylesheet" type="text/css" href="src/dhtmlxpopup.css">
+    <script src="src/dhtmlxpopup.js"></script>
+    <link rel="stylesheet" type="text/css" href="src/dhtmlxslider.css">
+    <script src="src/dhtmlxslider.js"></script>
     <script src="dist/graphosaurus.js"></script>
     <script src="src/uifunctions.js"></script>
     <script src="data/MetaData.js"></script>
@@ -170,10 +177,10 @@
                 totalNumberOfLevels = FindTotalNumberOfLevels(datasmall);
                 ComputeExpandables(datasmall);
                 InitDrawing();
-                var sliderValue = totalNumberOfLevels - 1;
+                var sliderValue = totalNumberOfLevels - 2;
                 if (sliderValue < 0) { sliderValue = 0;}
                 mySlider.setValue(sliderValue);
-                showedges.checked = false;
+                showedges.checked = true;
                 fastLoadUpToLevel(sliderValue);
             });
         }
@@ -593,15 +600,16 @@
             for (var i = 0; i < nodes.length; i++) {
                 var node = nodes[i];
                 var found = false;
-
-                if (node.getId() == name) {
+                var nodeId = node.getId();
+                nodeId = nodeId.toLowerCase();
+                name = name.toLowerCase();
+                if (nodeId.search(name) > -1) {
                     found = true;
                 }
                 else {
                     var categories = node._categoriesValues;
                     for (var j = 0; j < categories.length; j++) {
                         var prop = categories[j].toLowerCase();
-                        name = name.toLowerCase();
                         if (prop.search(name) > -1) { found = true; }
                     }
                 }
@@ -612,7 +620,8 @@
                 }
                 else { ChangeColor(node, "grey"); }
             }
-            redrawSameScene();          
+            redrawSameScene();
+            alert("Number of data points matching search criteria: " + count); //AK 02/06/2016
         }
 
         function redrawSameScene() {
@@ -623,6 +632,16 @@
                 HideAllEdges();
             }
             renderFrame.reDrawMeInSameScene();
+        }
+
+        function redrawInitialScene() {
+            if (edgesShow.checked) {
+                ShowAllEdges();
+            }
+            else {
+                HideAllEdges();
+            }
+            renderFrame.reDrawMe();
         }
 
         function ChangeColor(node, color) {
