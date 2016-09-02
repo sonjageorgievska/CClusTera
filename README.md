@@ -1,13 +1,14 @@
 [![DOI](https://zenodo.org/badge/24090/sonjageorgievska/CClusTera.svg)](https://zenodo.org/badge/latestdoi/24090/sonjageorgievska/CClusTera)
 
 
-For an online demo go to  [http://sonjageorgievska.github.io/CClusTera/](http://sonjageorgievska.github.io/CClusTera/ "online demo"). Or open index.html in Mozzila Firefox to run a demo on your local computer.   
-
 
 # CClusTera – Hierarchical and interactive 3D data visualization 
 
  
 The purpose of the web application CClusTera is to enable 3D visualization of data in a hierarchical manner. 
+
+For an online demo go to  [http://sonjageorgievska.github.io/CClusTera/](http://sonjageorgievska.github.io/CClusTera/ "online demo"). Or open index.html in Mozzila Firefox to run a demo on your local computer.   
+
 
 ##Overview ##
 
