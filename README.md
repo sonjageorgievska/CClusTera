@@ -2,10 +2,10 @@
 
 
 
-# CClusTera – Hierarchical and interactive 3D data visualization 
+# CClusTera – Hierarchical and interactive visualization of big data in 3D 
 
  
-The purpose of the web application CClusTera is to enable 3D visualization of data in a hierarchical manner. 
+The purpose of the web application CClusTera is to enable 3D visualization of big data in a hierarchical manner. 
 
 For an online demo go to  [http://sonjageorgievska.github.io/CClusTera/](http://sonjageorgievska.github.io/CClusTera/ "online demo"). Or open index.html in Mozzila Firefox to run a demo on your local computer.   
 
