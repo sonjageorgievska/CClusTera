@@ -1,17 +1,14 @@
 {
-  "name": "graphosaurus",
-  "version": "0.4.0",
-  "description": "A three-dimensional static graph viewer.",
+  "name": "CClusTera",
+  "version": "0.0.1",
+  "description": "A three-dimensional interactive viewer for hierarchically clustered data .",
   "repository": {
     "type": "git",
-    "url": "git://github.com/frewsxcv/graphosaurus.git"
+    "url": "https://github.com/sonjageorgievska/CClusTera"
   },
-  "author": "Corey Farwell <coreyf@rwell.org>",
-  "license": "MPL-2.0",
-  "bugs": {
-    "url": "https://github.com/frewsxcv/graphosaurus/issues"
-  },
-  "homepage": "https://github.com/frewsxcv/graphosaurus",
+  "author": "Sonja Georgievska <s.georgievska@esciencecenter.nl>",
+  "license": "Attribution-NoDerivatives 4.0 International",
+  "homepage": "https://github.com/sonjageorgievska/CClusTera",
   "dependencies": {
     "nonew": "1.0.0",
     "three": "~0.71.0",
